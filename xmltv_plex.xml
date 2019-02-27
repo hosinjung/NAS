@@ -90,16 +90,6 @@
   <display-name>2</display-name>
   <icon src="http://img.pooq.co.kr/BMS/ChannelImg/K02.jpg" />
 </channel>
-<programme channel="fb0ab28305ff697d48b508db7ee4f64f" start="20190227152000 +0900" stop="20190227165000 +0900">
-  <title lang="kau">M COUNTDOWN,</title>
-  <desc lang="kau">등급 : 전체 관람가
-장르 : 예능/뮤직</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5359b6c406fc09a8650082b2e4983c2814eb339e8fe4bd4bd259e297f9ba96c2" /></programme>
-<programme channel="fb0ab28305ff697d48b508db7ee4f64f" start="20190227165000 +0900" stop="20190227174000 +0900">
-  <title lang="kau">Daily Music Talk,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
 <programme channel="fb0ab28305ff697d48b508db7ee4f64f" start="20190227174000 +0900" stop="20190227192000 +0900">
   <title lang="kau">고등래퍼 3,</title>
   <desc lang="kau">등급 : 15세 이상 관람가
@@ -263,31 +253,6 @@
 연출 : -
 슈퍼인턴 6화</desc>
 <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2c03562c170f0b13d6d403485f6335e507c774a434c7aaf650a2b76456df74cc" /></programme>
-<programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227160000 +0900" stop="20190227162000 +0900">
-  <title lang="kau">소프 쓸고라면,</title>
-  <desc lang="kau">등급 : 12세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
-<programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227162000 +0900" stop="20190227165000 +0900">
-  <title lang="kau">소프 쓸고라면,</title>
-  <desc lang="kau">등급 : 12세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
-<programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227165000 +0900" stop="20190227174500 +0900">
-  <title lang="kau">입짧은 햇님,</title>
-  <desc lang="kau">등급 : 12세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
-<programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227174500 +0900" stop="20190227183500 +0900">
-  <title lang="kau">밴쯔 모두먹방,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
-<programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227183500 +0900" stop="20190227190000 +0900">
-  <title lang="kau">밴쯔 고작시리즈,</title>
-  <desc lang="kau">등급 : 12세 이상 관람가
-장르 : 예능/뮤직</desc>
-</programme>
 <programme channel="61d3ec8ab67e9e2cd5825cbbc1e1e18b" start="20190227190000 +0900" stop="20190227193000 +0900">
   <title lang="kau">삼대장,</title>
   <desc lang="kau">등급 : 15세 이상 관람가
@@ -689,14 +654,6 @@
   <desc lang="kau">등급 : 12세 이상 관람가
 장르 : 예능/뮤직</desc>
 </programme>
-<programme channel="b7e8a3922500ec3657b6268cfd23ea59" start="20190227150000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">뉴스특보 제2차 미북 정상회담</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="b7e8a3922500ec3657b6268cfd23ea59" start="20190227170000 +0900" stop="20190227190000 +0900">
-  <title lang="kau">시사쇼 이것이 정치다</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-<icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9c68978e7d2a68ac0e94cb806108257fac8857e384b95fb1353957a5b65fa63f" /></programme>
 <programme channel="b7e8a3922500ec3657b6268cfd23ea59" start="20190227190000 +0900" stop="20190227200000 +0900">
   <title lang="kau">아내의 맛 베스트</title>
   <desc lang="kau">등급 : 15세 이상 관람가</desc>
@@ -773,22 +730,6 @@
   <title lang="kau">TV CHOSUN 뉴스9</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
 </programme>
-<programme channel="f41e7f163a6b02d7225c63a990016779" start="20190227150900 +0900" stop="20190227163700 +0900">
-  <title lang="kau">왕이 된 남자,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 여진구,이세영,김상경
-연출 : 장정도,이정묵
-왕이된남자 15화</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F28b10e637939c54e7b522257d34c813e44a4b4672912d1ae2ba0d6bb17e7703d" /></programme>
-<programme channel="f41e7f163a6b02d7225c63a990016779" start="20190227163700 +0900" stop="20190227180000 +0900">
-  <title lang="kau">짠내투어,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 예능/뮤직
-출연 : 박명수,박나래,정준영,문세윤,허경환
-연출 : 손창우
-세윤·경환투어 in 상하이/쑤저우중국 '효도 관광' 특집 세 번째 이야기! 도시 전체가 운하로 에워싸인 물의 도시 ★쑤저우★ 고속 열차 타고~ 인력거 타고~ 전동차 타고~ 이번엔 유람선이다..! 탈 것 福 터진 세윤 투어! 이대로 좋은 가...!!! 먹 선생 세윤’s PICK! 맛 집 1탄 ？ 쑤저우 사람들의 맛 집 자부심으로 불리는, 80년 전통 국수! 국수와 함께 나오는 다양한 토핑도 취향대로 주문하고~ 잔뜩 기대하고 있~는데~~ 이게 무슨 일?!! 토핑 없는 국수가 나왔다?! 먹 선생 자존심에 난 스크래치？ 관광으로 채운다! 쑤저우에 남아있는 유일한 성문 판먼(？？)으로 GO! GO! 이곳에 세윤 투어 히든카드가 있다?! 현장 반응 폭발! 꽃마마들 설렘 대폭발!! 나래투어 치파오에 버금가는(?) 히든카드는 무엇?! 먹 선생 세윤’s PIC! 맛 집 2탄 ？ 쑤저우 450년의 역사를 자랑하는 쏭쑤구이위(a.k.a 쏘가리 튀김) 전문점! 민물 생선 소리에 자동 반사？？ 떠오르는 베트남 님빈의 악몽?!! 걱정하는 멤버들 VS 자신만만한 세윤 쏭수구이위 요리는 과연 성공적일지?! 우여곡절 끝에 도착한 세윤 투어의 마지막 숙소~ 동방명주가 눈앞에 딱! ？？야경 명당？？ 아파트먼트 大공개! 그.러.나. 사라진 2개의 침실?! 아닌 밤중에 시작된 숨은 침실 찾기!! ？？_？... 쑤저우에서 다시 상하이로 컴백!! ？경환 투어 START？ (부제: 꽃마마 in 상하이) 일찍 일어난 중국인들은 공원을 간다?! 중국의 아침 문화를 느낄 수 있는 루쉰공원에서 경환 투어 출바알↗ 각 잡힌 태극권! 바닥에 쓰는 붓글씨! 대규모 음악회! 눈과 귀를 사로잡은 So Hot한!!! 현장~ 난데없이 공원 전체를 흔드는 총소리?!?! 공원을 순식간에 공포로 몰아넣은 소리의 정체는?</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe2193df1f7d3004a8939f3d32f0b0197b7fa24b6f8b7a3bfc9d4d415246e55c2" /></programme>
 <programme channel="f41e7f163a6b02d7225c63a990016779" start="20190227180000 +0900" stop="20190227191000 +0900">
   <title lang="kau">인투 더 와일드</title>
   <desc lang="kau">등급 : 15세 이상 관람가
@@ -961,11 +902,6 @@
 연출 : 이태경
 인생술집 112화</desc>
 <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5fb291fbc791aacf56b2c00d4dc0c5f9a21ea20b6e2c110a72bb0bcb6f1dc110" /></programme>
-<programme channel="463d0b265f4f0cefd1c79c8a2caec159" start="20190227160000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가
-장르 : 다큐/종교</desc>
-<icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /></programme>
 <programme channel="463d0b265f4f0cefd1c79c8a2caec159" start="20190227180000 +0900" stop="20190227200000 +0900">
   <title lang="kau">뉴스특보</title>
   <desc lang="kau">등급 : 전체 관람가
@@ -1127,14 +1063,6 @@
 장르 : 다큐/종교
 뉴스나이트는 밤 10시부터 자정까지 두시간 동안 방영되는 뉴스 프로그램으로 하루에 발생한 뉴스를 총정리하는 성격을 지니고 있습니다. 뉴스나이트는 1부와 2부로 나뉘며, 그날의 주요한 이슈별로 시청자들이 이해하기 쉽게 다양한 구성을 통해 전달합니다. 현장 취재 기자들의 리포트와 단신, 영상리포트, 구성물, 앵커리포트등 다양하게 분화된 콘텐츠를 효율적으로 재가공하여서 심도깊고 내용이 있는 뉴스로 시청자들께 다가갑니다. 뉴스 6팀이 담당하는 뉴스나이트는 하루를 마감하는 시간대에 방영되는 뉴스인만큼 뉴스나이트만 시청해도 세상돌아가는 모든 필요한 정보를 쉽게 알 수 있도록 노력을 하겠습니다.</desc>
 <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc8140ea1e9171fb87518551dfd959388862d118bb2fd73152715231c9ea2e959" /></programme>
-<programme channel="4e47742c3672e0f34f63cd5b0fe259e8" start="20190227150000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">2차 북·미 정상회담 JTBC 뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="4e47742c3672e0f34f63cd5b0fe259e8" start="20190227170000 +0900" stop="20190227190000 +0900">
-  <title lang="kau">2차 북·미 정상회담 특집 정치부 회의</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
 <programme channel="4e47742c3672e0f34f63cd5b0fe259e8" start="20190227190000 +0900" stop="20190227220000 +0900">
   <title lang="kau">2차 북·미 정상회담 JTBC 뉴스룸 | 하노이 생방송</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
@@ -1207,11 +1135,6 @@
   <desc lang="kau">등급 : 15세 이상 관람가
 '이규연의 스포트라이트'는 대안과 검증이 있는 정통 탐사 프로그램입니다. 시청자 여러분의 호기심이 풀릴 때까지 집요하게 현장을 추적하고 검증하며, 더 나은 세상을 위한 대안을 고민하겠습니다.</desc>
 </programme>
-<programme channel="3d30a1c1692140e08837965bbb49d57b" start="20190227160000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가
-장르 : 다큐/종교</desc>
-<icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /></programme>
 <programme channel="3d30a1c1692140e08837965bbb49d57b" start="20190227180000 +0900" stop="20190227200000 +0900">
   <title lang="kau">뉴스특보</title>
   <desc lang="kau">등급 : 전체 관람가
@@ -1312,14 +1235,6 @@
   <desc lang="kau">등급 : 전체 관람가
 장르 : 다큐/종교</desc>
 <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /></programme>
-<programme channel="1ff200c8a85c9a867e9e992604098eda" start="20190227160000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">18-19 V리그 남자부 삼성화재:현대캐피탈</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="1ff200c8a85c9a867e9e992604098eda" start="20190227180000 +0900" stop="20190227185000 +0900">
-  <title lang="kau">18-19 쇼트트랙 월드컵 3차 하이라이트</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
 <programme channel="1ff200c8a85c9a867e9e992604098eda" start="20190227185000 +0900" stop="20190227210000 +0900">
   <title lang="kau">18-19 V리그 여자부 한국도로공사:KGC인삼공사</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
@@ -1382,10 +1297,6 @@
 </programme>
 <programme channel="1ff200c8a85c9a867e9e992604098eda" start="20190228185000 +0900" stop="20190228210000 +0900">
   <title lang="kau">18-19 V리그 남자부 KB손해보험:한국전력</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="5c375f5287867ff995ae87565cf5c048" start="20190227155500 +0900" stop="20190227185500 +0900">
-  <title lang="kau">MBC 특별생방송 세기의 담판 2차 북미정상회담</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
 </programme>
 <programme channel="5c375f5287867ff995ae87565cf5c048" start="20190227185500 +0900" stop="20190227205500 +0900">
@@ -1486,22 +1397,6 @@
 </programme>
 <programme channel="5c375f5287867ff995ae87565cf5c048" start="20190228205500 +0900" stop="20190228231000 +0900">
   <title lang="kau">MBC 특별생방송 세기의 담판 2차 북미정상회담</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="a05e13d57df4e1e4739e8285abd4718f" start="20190227160000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">특집
-사사건건</title>
-  <desc lang="kau">등급 : 전체 관람가
-대한민국의 오늘을 읽는다! 그날 그날 발생한 뉴스를 신속정확하게 전달하고 깊이있고 균형잡힌 접근으로 주요 시사 이슈를 발빠르게 진단한다.</desc>
-</programme>
-<programme channel="a05e13d57df4e1e4739e8285abd4718f" start="20190227170000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">KBS 
-뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가
-.</desc>
-</programme>
-<programme channel="a05e13d57df4e1e4739e8285abd4718f" start="20190227180000 +0900" stop="20190227190000 +0900">
-  <title lang="kau">KBS 뉴스특보</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
 </programme>
 <programme channel="a05e13d57df4e1e4739e8285abd4718f" start="20190227190000 +0900" stop="20190227210000 +0900">
@@ -1653,22 +1548,6 @@ KBS 대표 종합뉴스로 발생 의제를 신속, 공정하게 전달하고 �
 출연 : 김제동
 시민들의 눈높이에서 오늘의 이슈를 쉽고 재밌게 풀어나가는 색다른 포맷의 시사 토크쇼</desc>
 <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F64cca96bcb37176436af7534bfa4ec74118e8170deecc36f7e28e0728ad7fc8a" /></programme>
-<programme channel="054f1a5bf29fb0e2db261ab62d3f373f" start="20190227152000 +0900" stop="20190227163000 +0900">
-  <title lang="kau">로맨스는 별책부록,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 이종석,이나영
-연출 : 이정효
-단이와 서준의 데이트 내내 문자를 보내 방해하는 은호. 단이는 과거와 나이를 밝히자 놀라는 서준의 반응이 속상하다. 한편, 은호가 담당하는 책 '타인들에게' 저자 유명숙은 북디자이너로 서준을 지명한다. 해린은 은호를 만날 핑계로 유명숙을 찾아갔다가, 서준과 마주치게 되는데</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F363a4d85b268d00891013cafc82c91e06f1679f993607ea4cde90341dc2f0486" /></programme>
-<programme channel="054f1a5bf29fb0e2db261ab62d3f373f" start="20190227163000 +0900" stop="20190227181000 +0900">
-  <title lang="kau">슬기로운 감빵생활,</title>
-  <desc lang="kau">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 박해수,정경호,크리스탈,임화영,최무성,정웅인,박호산,정민성,안상우,박형
-연출 : 신원호
-교도소에도 전국 노래자랑이 있다? 수용자를 대상으로 하는 노래자랑 개최로 들썩이는 서부교도소. 1등 상품을 차지하기 위한 수용자들의 피나는 노력! 과연 1등의 주인공은 누가 될까? 한편, 제혁의 왼팔에는 심상치 않은 문제가 생겼는데...</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F241eca0ff21b0e808322cf9b17421cd1d02b34aa1dc96da296da4f940496f8ec" /></programme>
 <programme channel="054f1a5bf29fb0e2db261ab62d3f373f" start="20190227181000 +0900" stop="20190227200000 +0900">
   <title lang="kau">슬기로운 감빵생활,</title>
   <desc lang="kau">등급 : 15세 이상 관람가
@@ -1845,16 +1724,6 @@ KBS 대표 종합뉴스로 발생 의제를 신속, 공정하게 전달하고 �
 연출 : 이정효
 단이는 은호의 행동 때문에 묘한 감정을 느끼며 긴장한다. 한밤중에 은호 집을 또 찾아온 해린이 신경 쓰이는 단이. 서준은 해린을 비즈니스 파트너로 신뢰하고 겨루와 계약한다. 한편, 은호는 가평에서 연락을 받고 다급히 나가는데</desc>
 <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F363a4d85b268d00891013cafc82c91e06f1679f993607ea4cde90341dc2f0486" /></programme>
-<programme channel="bc797569fb2cc6f3639f34511179007d" start="20190227160000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">SBS 뉴스특보 제 2차 북미정상회담-평화를 그리다</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="bc797569fb2cc6f3639f34511179007d" start="20190227170000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">특집 SBS 오뉴스</title>
-  <desc lang="kau">등급 : 전체 관람가
-'오뉴스'는 정통 스트레이트 뉴스와 토크 형태의 진행 방식이 섞인 뉴스 프로그램이다. 
-특히, ‘오늘의 8뉴스’ 코너를 통해 낮 뉴스와 8뉴스의 연결성을 강화하고자 했다.</desc>
-</programme>
 <programme channel="bc797569fb2cc6f3639f34511179007d" start="20190227180000 +0900" stop="20190227193000 +0900">
   <title lang="kau">SBS 뉴스특보 제 2차 북미정상회담-평화를 그리다</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
@@ -2029,18 +1898,6 @@ KBS 대표 종합뉴스로 발생 의제를 신속, 공정하게 전달하고 �
   <title lang="kau">SBS 뉴스특보 제 2차 북미정상회담-평화를 그리다</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
 </programme>
-<programme channel="ca9c41ea55b28483446321d0029e9478" start="20190227151500 +0900" stop="20190227170000 +0900">
-  <title lang="kau">MBN 뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가
-출연 : 출연진
-빠른 속보와 다양한 소식을 신속하고 정확하게 제공하는 MBN 뉴스 특보</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F586CAB020378EF0001" /></programme>
-<programme channel="ca9c41ea55b28483446321d0029e9478" start="20190227170000 +0900" stop="20190227185000 +0900">
-  <title lang="kau">MBN 뉴스특보</title>
-  <desc lang="kau">등급 : 전체 관람가
-출연 : 출연진
-빠른 속보와 다양한 소식을 신속하고 정확하게 제공하는 MBN 뉴스 특보</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F586CAB020378EF0001" /></programme>
 <programme channel="ca9c41ea55b28483446321d0029e9478" start="20190227185000 +0900" stop="20190227203000 +0900">
   <title lang="kau">MBN 뉴스8</title>
   <desc lang="kau">등급 : 전체 관람가
@@ -2180,14 +2037,6 @@ KBS 대표 종합뉴스로 발생 의제를 신속, 공정하게 전달하고 �
 명품 배우의 트렌드 체험기
 오배우들의 요즘 문화 정복기</desc>
 <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc7841a364d3a38ee968e5566afbd4a53f9ddec5f8e390b5f6edcb3b9834fca0c" /></programme>
-<programme channel="547a386ba513075ec49779cc763bfbb3" start="20190227150000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">북미정상회담 특집 뉴스 특보</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
-<programme channel="547a386ba513075ec49779cc763bfbb3" start="20190227170000 +0900" stop="20190227190000 +0900">
-  <title lang="kau">북미정상회담 특집 뉴스 특보</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-</programme>
 <programme channel="547a386ba513075ec49779cc763bfbb3" start="20190227190000 +0900" stop="20190227210000 +0900">
   <title lang="kau">북미정상회담 특집 뉴스A</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
@@ -2271,26 +2120,6 @@ KBS 대표 종합뉴스로 발생 의제를 신속, 공정하게 전달하고 �
   <title lang="kau">북미정상회담 특집 뉴스A</title>
   <desc lang="kau">등급 : 전체 관람가</desc>
 </programme>
-<programme channel="3bedb779e8e4a429c36e15847327e9f6" start="20190227160000 +0900" stop="20190227170000 +0900">
-  <title lang="kau">그녀들의 여유만만</title>
-  <desc lang="kau">등급 : 12세 이상 관람가
-출연 : 김보민, 김민정, 이슬기, 이선영, 조수빈, 이재성
-희노애락을 통한 시청자의 마음도 여유만만
-매일 아침을 여는 스타들의 버라이어티 프로그램!</desc>
-<icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /></programme>
-<programme channel="3bedb779e8e4a429c36e15847327e9f6" start="20190227170000 +0900" stop="20190227173000 +0900">
-  <title lang="kau">스페이스벅스</title>
-  <desc lang="kau">등급 : 7세 이상 관람가</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F28266c597a08b77951859ccd49b853a7750fdc325c12d8e98d7d5dc9bf1bb296" /></programme>
-<programme channel="3bedb779e8e4a429c36e15847327e9f6" start="20190227173000 +0900" stop="20190227180000 +0900">
-  <title lang="kau">강력추천 배틀트립</title>
-  <desc lang="kau">등급 : 전체 관람가</desc>
-<icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F570B3318010BFE0001" /></programme>
-<programme channel="3bedb779e8e4a429c36e15847327e9f6" start="20190227180000 +0900" stop="20190227183000 +0900">
-  <title lang="kau">KBS 경제타임</title>
-  <desc lang="kau">등급 : 전체 관람가
-경제 흐름을 한눈에 볼 수 있는 고품격 경제 전문뉴스!가계부채 급증과 소비심리 위축, 실업률 증가 등 경기침체와 불확실성이 커지고 있는 상황에서  KBS 경제타임 을 통해 세계경제의 큰 흐름과 함께 금융, 통화, 경제정책은 물론 실제적인 호주머니 경제까지 알기 쉽게 전달한다.</desc>
-<icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa16596cd4cd8bf9c2a66d97fba4f220e83dae1e3c7338fa0141889607d48423a" /></programme>
 <programme channel="3bedb779e8e4a429c36e15847327e9f6" start="20190227183000 +0900" stop="20190227195000 +0900">
   <title lang="kau">2TV 생생정보</title>
   <desc lang="kau">등급 : 전체 관람가
