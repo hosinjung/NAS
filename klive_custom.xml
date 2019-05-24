@@ -205,14 +205,14 @@
 		<desc lang="kr">당일 발생한 국내외 주요뉴스를 종합 편성해 신속 보도함.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190524172900 +0900" stop="20190524175300 +0900" channel="POOQ|K01">
+	<programme start="20190524172900 +0900" stop="20190524175200 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190524175300 +0900" stop="20190524180000 +0900" channel="POOQ|K01">
+	<programme start="20190524175200 +0900" stop="20190524180000 +0900" channel="POOQ|K01">
 		<title lang="kr">나의 독립 영웅</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0670_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -311,20 +311,20 @@
 		<desc lang="kr">사회를 향한 열린 마음으로, 이웃을 보는 따뜻한 시선으로 여러분과 소통합니다.치열한 문제의식으로 다양한 주제와 교감하며 굳이 외치지 않아도 마음에 와 닿는 우리들의 이야기를 펼치는 시간을 갖고자 합니다.장을 엽니다. 마음을 엽니다. 하나가 됩니다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190525003500 +0900" stop="20190525004400 +0900" channel="POOQ|K01">
+	<programme start="20190525003500 +0900" stop="20190525004500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0595_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190525004400 +0900" stop="20190525015600 +0900" channel="POOQ|K01">
+	<programme start="20190525004500 +0900" stop="20190525015700 +0900" channel="POOQ|K01">
 		<title lang="kr">독립영화관</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2001-0933_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">공중파중 유일하게 독립영화를 상영하는 시청자 참여 프로그램.독립 극영화뿐만 아니라 애니메이션, 다큐 등 중장편 독립영화를함께 소개함으로써 영화를 통한 다양한 문화에 대한 시청자의욕구를 충족시키고, 한국영화의 저변확대에 기여한다.또한 상시 상영공간이 절대적으로 부족한 환경아래 정규 프로를통해 우수한 독립영화를 발굴 상영함으로써 공영성 제고와한국 독립영화계의 발전에 기여하고자 한다
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190525015600 +0900" stop="20190525030000 +0900" channel="POOQ|K01">
+	<programme start="20190525015700 +0900" stop="20190525030000 +0900" channel="POOQ|K01">
 		<title lang="kr">무엇이든 물어보세요</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0038_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -792,7 +792,7 @@
 		<title lang="kr">일일연속극
 여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0043_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>임채원</actor>
 			<actor>이한위</actor>
@@ -815,13 +815,13 @@
 			<actor>김가란</actor>
 		</credits>
 		<desc lang="kr">미워도 미워할 수만은 없는 가족에 대한 이야기를 유쾌하고 따뜻하게 그린 가족 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 임채원, 이한위, 김예령, 강석우, 나혜미, 김혜옥, 이영은, 문희경, 손종범, 김산호, 변주은, 김기리, 김사권, 이채영, 윤선우, 김범진, 서벽준, 배우희, 김가란</desc>
 	</programme>
 	<programme start="20190524094000 +0900" stop="20190524104000 +0900" channel="POOQ|K02">
 		<title lang="kr">그녀들의 여유만만</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0446_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<credits>
 			<actor>김보민</actor>
 			<actor>김민정</actor>
@@ -832,7 +832,7 @@
 		</credits>
 		<desc lang="kr">희노애락을 통한 시청자의 마음도 여유만만
 매일 아침을 여는 스타들의 버라이어티 프로그램!
-등급 : 전체 관람가
+등급 : 12세 이상 관람가
 출연 : 김보민, 김민정, 이슬기, 이선영, 조수빈, 이재성</desc>
 	</programme>
 	<programme start="20190524104000 +0900" stop="20190524110000 +0900" channel="POOQ|K02">
@@ -901,7 +901,7 @@
 	<programme start="20190524160000 +0900" stop="20190524170000 +0900" channel="POOQ|K02">
 		<title lang="kr">그녀들의 여유만만</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0446_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<credits>
 			<actor>김보민</actor>
 			<actor>김민정</actor>
@@ -912,7 +912,7 @@
 		</credits>
 		<desc lang="kr">희노애락을 통한 시청자의 마음도 여유만만
 매일 아침을 여는 스타들의 버라이어티 프로그램!
-등급 : 전체 관람가
+등급 : 12세 이상 관람가
 출연 : 김보민, 김민정, 이슬기, 이선영, 조수빈, 이재성</desc>
 	</programme>
 	<programme start="20190524170000 +0900" stop="20190524183000 +0900" channel="POOQ|K02">
@@ -995,12 +995,12 @@
 		<title lang="kr">유희열의
 스케치북</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2009-0165_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>유희열</actor>
 		</credits>
 		<desc lang="kr">지상파 방송에서 유일하게 남아 있는 정통 음악 프로그램으로 뮤지션을 초대해 편안하게 즐길 수 있는 라이브 뮤직 토크쇼. 유희열의 재치 있는 입담과 수준 높은 음악으로 12시가 넘는 심야시간에도 높은 시청률을 유지하고 있다.  좋은 음악이란 단지‘가창력이 좋은 가수가 부르는 노래’나‘인디 신에 등장한 밴드 음악’에 국한되지 않는다. 오히려 좀 더 너른 시각으로 대중 음악을 바라보며 다른 방식으로 접근하려는 노력을 숨기지 않는다.음악을 진지하게 다루면서도 신격화하지 않는 유연함이야말로 &amp;lt;스케치북 과 진행자 유희열의 미덕인 셈이다.트렌드에 민감하면서도 음악적 전문성을 놓치지 않는 긴장감이야말로 &amp;lt;스케치북 의 경쟁력이다.
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 유희열</desc>
 	</programme>
 	<programme start="20190525002000 +0900" stop="20190525011000 +0900" channel="POOQ|K02">
@@ -1013,9 +1013,9 @@
 	<programme start="20190525011000 +0900" stop="20190525021500 +0900" channel="POOQ|K02">
 		<title lang="kr">제보자들</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2016-0629_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<desc lang="kr">당신이 스쳤던 일상 안에서놀라운 미스터리를 발견하다!대한민국 최고의 스토리 헌터 군단이의문의 제보를 단서로, 미스터리에 숨겨진 놀라운 진실을 찾아간다.일상에서 마주친 감동적인 장면부터이상야릇하게만 넘긴 기이한 사건의 이면까지!당신을 스쳐갔던 이야기 속, 진실의 귀환이 시작된다.
-등급 : 전체 관람가</desc>
+등급 : 15세 이상 관람가</desc>
 	</programme>
 	<programme start="20190525021500 +0900" stop="20190525050000 +0900" channel="POOQ|K02">
 		<title lang="kr">방송 없음</title>
@@ -1061,7 +1061,7 @@
 	<programme start="20190525074000 +0900" stop="20190525084500 +0900" channel="POOQ|K02">
 		<title lang="kr">살림하는 남자들</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2016-0651_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>최양락</actor>
 			<actor>팽현숙</actor>
@@ -1070,7 +1070,7 @@
 			<actor>김성수</actor>
 		</credits>
 		<desc lang="kr">남자들의 살림이란? 특별한 것이 아닌, 일상을 함께 하는 것이다.하루 평균 3백 70쌍 이상이 이혼하는 요즘!개인의 의식주 해결이 바빠 결혼을 포기하는 젊은이들이 많은 요즘!이젠 자의든, 타의든 남자도 살림살이에 참여해야만 안정적인 가정을 지켜갈 수 있는 시대가 왔다!그래서 세대별 스타살림남이 떴다!신세대 남편부터 중년 그리고 노년의 남편까지! 스타 살림남들의 리얼 살림기 &amp;lt;살림하는 남자들 
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 최양락, 팽현숙, 김승현, 최민환, 김성수</desc>
 	</programme>
 	<programme start="20190525084500 +0900" stop="20190525092500 +0900" channel="POOQ|K02">
@@ -1153,7 +1153,7 @@
 		<title lang="kr">월화 드라마
 국민 여러분</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0692_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>최시원</actor>
 			<actor>이유영</actor>
@@ -1178,14 +1178,14 @@
 		</credits>
 		<desc lang="kr">우리와 같은 시대를 사는 ‘을’ 의 모습을 보여주며 아픔을 공유하는 \'동변상련식\' 힐링이 아닌,
 우리를 아프게 하는 ‘갑’ 들에게 통쾌한 한방을 날리는 \'이이제이식\' 힐링 드라마!
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 최시원, 이유영, 김민정, 태인호, 김의성, 양동근, 전석호, 허재호, 이주명, 김종구, 길해연, 박경혜, 김기남, 정성호, 안은진, 차래형, 최대철, 지이수, 정수영, 임지현</desc>
 	</programme>
 	<programme start="20190525140500 +0900" stop="20190525151500 +0900" channel="POOQ|K02">
 		<title lang="kr">월화 드라마
 국민 여러분</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0692_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>최시원</actor>
 			<actor>이유영</actor>
@@ -1210,13 +1210,13 @@
 		</credits>
 		<desc lang="kr">우리와 같은 시대를 사는 ‘을’ 의 모습을 보여주며 아픔을 공유하는 \'동변상련식\' 힐링이 아닌,
 우리를 아프게 하는 ‘갑’ 들에게 통쾌한 한방을 날리는 \'이이제이식\' 힐링 드라마!
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 최시원, 이유영, 김민정, 태인호, 김의성, 양동근, 전석호, 허재호, 이주명, 김종구, 길해연, 박경혜, 김기남, 정성호, 안은진, 차래형, 최대철, 지이수, 정수영, 임지현</desc>
 	</programme>
 	<programme start="20190525151500 +0900" stop="20190525161500 +0900" channel="POOQ|K02">
 		<title lang="kr">해피투게더</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2001-0932_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>유재석</actor>
 			<actor>조세호</actor>
@@ -1224,13 +1224,13 @@
 			<actor></actor>
 		</credits>
 		<desc lang="kr">함께 하면 더욱 행복한 목요일 밤! 해피 투게더3! 인생을 정리해 드립니다! 스타의 물건을 탈탈 털어 버릴 건 과감하게 버리고! 챙길 건 챙기면서 내 인생에 가장 중요한 것이 무엇인지! 놓치고 사는 건 또 무엇인지! 물건을 통해 인생을 되돌아보는 토크쇼!
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 유재석, 조세호, 전현무,</desc>
 	</programme>
 	<programme start="20190525161500 +0900" stop="20190525164500 +0900" channel="POOQ|K02">
 		<title lang="kr">해피투게더</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2001-0932_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>유재석</actor>
 			<actor>조세호</actor>
@@ -1238,7 +1238,7 @@
 			<actor></actor>
 		</credits>
 		<desc lang="kr">함께 하면 더욱 행복한 목요일 밤! 해피 투게더3! 인생을 정리해 드립니다! 스타의 물건을 탈탈 털어 버릴 건 과감하게 버리고! 챙길 건 챙기면서 내 인생에 가장 중요한 것이 무엇인지! 놓치고 사는 건 또 무엇인지! 물건을 통해 인생을 되돌아보는 토크쇼!
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 유재석, 조세호, 전현무,</desc>
 	</programme>
 	<programme start="20190525164500 +0900" stop="20190525172500 +0900" channel="POOQ|K02">
@@ -1299,17 +1299,17 @@
 		<title lang="kr">불후의 명곡 
 전설을 노래하다</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2011-0781_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<desc lang="kr">▶ 불후의 명곡2 - 전설을 노래하다.2011년 불후의 명곡이 새롭게 태어난다! 추억과 향수로 남은 명곡을 불렀던 가요계의 전설을 직접 초대해 감동을 선사했던 &amp;lt;불후의 명곡 !! 2011년 &amp;lt;불후의 명곡 에서는 가요계 전설을 모시고 그 시절 감동은 물론, 대한민국 최고의 아이돌이 전설의 명곡을 함께 불러보며 10대들과 노래로 세대 공감을 이루며 다시 한번 추억의 감동을 선사한다. 2011년 대한민국 최고의 아이돌들의 치열한 노래대결 무대가 펼쳐진다!불후의 명곡으로 남아있는 레전드의 노래를 대한민국 최고의 아이돌들이자신만의 느낌으로 새롭게 재해석해서 무대 위에서 경합을 펼친다! 그동안 어느 무대에서도 볼 수 없었던 아이돌의 놀라운 노래 실력과 치열한 대결! 전설을 노래하는 아이돌, 이제 세대를 초월한 감동과 아름다운 승부가 시작된다!
-등급 : 전체 관람가</desc>
+등급 : 15세 이상 관람가</desc>
 	</programme>
 	<programme start="20190525185500 +0900" stop="20190525195500 +0900" channel="POOQ|K02">
 		<title lang="kr">불후의 명곡 
 전설을 노래하다</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2011-0781_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<desc lang="kr">▶ 불후의 명곡2 - 전설을 노래하다.2011년 불후의 명곡이 새롭게 태어난다! 추억과 향수로 남은 명곡을 불렀던 가요계의 전설을 직접 초대해 감동을 선사했던 &amp;lt;불후의 명곡 !! 2011년 &amp;lt;불후의 명곡 에서는 가요계 전설을 모시고 그 시절 감동은 물론, 대한민국 최고의 아이돌이 전설의 명곡을 함께 불러보며 10대들과 노래로 세대 공감을 이루며 다시 한번 추억의 감동을 선사한다. 2011년 대한민국 최고의 아이돌들의 치열한 노래대결 무대가 펼쳐진다!불후의 명곡으로 남아있는 레전드의 노래를 대한민국 최고의 아이돌들이자신만의 느낌으로 새롭게 재해석해서 무대 위에서 경합을 펼친다! 그동안 어느 무대에서도 볼 수 없었던 아이돌의 놀라운 노래 실력과 치열한 대결! 전설을 노래하는 아이돌, 이제 세대를 초월한 감동과 아름다운 승부가 시작된다!
-등급 : 전체 관람가</desc>
+등급 : 15세 이상 관람가</desc>
 	</programme>
 	<programme start="20190525195500 +0900" stop="20190525203500 +0900" channel="POOQ|K02">
 		<title lang="kr">주말 드라마
@@ -5618,7 +5618,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190524180400 +0900" stop="20190524194000 +0900" channel="OKSUSU|872">
+	<programme start="20190524180400 +0900" stop="20190524195000 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5636,7 +5636,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190524194000 +0900" stop="20190524211000 +0900" channel="OKSUSU|872">
+	<programme start="20190524195000 +0900" stop="20190524211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">300 엑스투(4회)&amp;lt;마마무&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5652,7 +5652,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 강호동,붐,신동
 연출 : 권성욱</desc>
 	</programme>
-	<programme start="20190524211000 +0900" stop="20190524225000 +0900" channel="OKSUSU|872">
+	<programme start="20190524211000 +0900" stop="20190524225500 +0900" channel="OKSUSU|872">
 		<title lang="kr">스페인 하숙(11회)&amp;lt;감독판&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5668,7 +5668,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190524225000 +0900" stop="20190525010000 +0900" channel="OKSUSU|872">
+	<programme start="20190524225500 +0900" stop="20190525010700 +0900" channel="OKSUSU|872">
 		<title lang="kr">TV최초 챔피언</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5685,7 +5685,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 마동석,권율,한예리,최승훈
 연출 : 김용완</desc>
 	</programme>
-	<programme start="20190525010000 +0900" stop="20190525025000 +0900" channel="OKSUSU|872">
+	<programme start="20190525010700 +0900" stop="20190525030200 +0900" channel="OKSUSU|872">
 		<title lang="kr">스페인 하숙(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5701,7 +5701,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190525025000 +0900" stop="20190525044000 +0900" channel="OKSUSU|872">
+	<programme start="20190525030200 +0900" stop="20190525044400 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(18회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5714,7 +5714,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190525044000 +0900" stop="20190525060000 +0900" channel="OKSUSU|872">
+	<programme start="20190525044400 +0900" stop="20190525060200 +0900" channel="OKSUSU|872">
 		<title lang="kr">나나랜드(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5730,7 +5730,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 하하,이용진,딘딘
 연출 : 성종규</desc>
 	</programme>
-	<programme start="20190525060000 +0900" stop="20190525065000 +0900" channel="OKSUSU|872">
+	<programme start="20190525060200 +0900" stop="20190525071600 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(157회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5746,7 +5746,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190525065000 +0900" stop="20190525082000 +0900" channel="OKSUSU|872">
+	<programme start="20190525071600 +0900" stop="20190525084800 +0900" channel="OKSUSU|872">
 		<title lang="kr">짠내투어(76회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5763,7 +5763,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 박명수,박나래,문세윤,허경환
 연출 : 손창우</desc>
 	</programme>
-	<programme start="20190525082000 +0900" stop="20190525095000 +0900" channel="OKSUSU|872">
+	<programme start="20190525084800 +0900" stop="20190525101200 +0900" channel="OKSUSU|872">
 		<title lang="kr">300 엑스투(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5779,7 +5779,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 강호동,붐,신동
 연출 : 권성욱</desc>
 	</programme>
-	<programme start="20190525095000 +0900" stop="20190525111000 +0900" channel="OKSUSU|872">
+	<programme start="20190525101200 +0900" stop="20190525113500 +0900" channel="OKSUSU|872">
 		<title lang="kr">수미네 반찬(51회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5795,7 +5795,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 김수미,노사연,장동민
 연출 : 문태주</desc>
 	</programme>
-	<programme start="20190525111000 +0900" stop="20190525131000 +0900" channel="OKSUSU|872">
+	<programme start="20190525113500 +0900" stop="20190525132100 +0900" channel="OKSUSU|872">
 		<title lang="kr">스페인 하숙(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5811,7 +5811,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190525131000 +0900" stop="20190525144000 +0900" channel="OKSUSU|872">
+	<programme start="20190525132100 +0900" stop="20190525144900 +0900" channel="OKSUSU|872">
 		<title lang="kr">그녀의 사생활(13회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5836,7 +5836,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 박민영,김재욱,안보현,김보라,박진주,김미경,맹상훈,홍서영,김선영,정원창,ONE
 연출 : 홍종찬,김혜영</desc>
 	</programme>
-	<programme start="20190525144000 +0900" stop="20190525161000 +0900" channel="OKSUSU|872">
+	<programme start="20190525144900 +0900" stop="20190525162200 +0900" channel="OKSUSU|872">
 		<title lang="kr">그녀의 사생활(14회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5861,7 +5861,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 박민영,김재욱,안보현,김보라,박진주,김미경,맹상훈,홍서영,김선영,정원창,ONE
 연출 : 홍종찬,김혜영</desc>
 	</programme>
-	<programme start="20190525161000 +0900" stop="20190525180000 +0900" channel="OKSUSU|872">
+	<programme start="20190525162200 +0900" stop="20190525180000 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6999,7 +6999,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 연출 : 황인영</desc>
 	</programme>
 	<programme start="20190524205000 +0900" stop="20190524220000 +0900" channel="OKSUSU|431">
-		<title lang="kr">겟잇뷰티 2019(14회)</title>
+		<title lang="kr">겟잇뷰티 2019(14회)&amp;lt;리얼 뷰캉스 MUST HAVE ITEM 공개!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7049,7 +7049,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
 	</programme>
-	<programme start="20190525003000 +0900" stop="20190525023000 +0900" channel="OKSUSU|431">
+	<programme start="20190525003000 +0900" stop="20190525015500 +0900" channel="OKSUSU|431">
 		<title lang="kr">삼시세끼 어촌편 오늘뭐먹지(1회)&amp;lt;차승원X유해진이 추천하는 오늘의 메뉴!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7066,8 +7066,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,손호준
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190525023000 +0900" stop="20190525035000 +0900" channel="OKSUSU|431">
-		<title lang="kr">노포래퍼(5회)</title>
+	<programme start="20190525015500 +0900" stop="20190525031000 +0900" channel="OKSUSU|431">
+		<title lang="kr">노포래퍼(5회)&amp;lt;리스펙트 오래가'면'&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7080,8 +7080,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 문세윤,매드 클라운,딘딘</desc>
 	</programme>
-	<programme start="20190525035000 +0900" stop="20190525052000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원나잇 푸드트립:언리미티드 (29회)</title>
+	<programme start="20190525031000 +0900" stop="20190525043000 +0900" channel="OKSUSU|431">
+		<title lang="kr">원나잇 푸드트립:언리미티드(27회)&amp;lt;일본 도쿄 최고의 맛집을 찾아라!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7095,8 +7095,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 김태우,테이,이원일,정다래</desc>
 	</programme>
-	<programme start="20190525052000 +0900" stop="20190525064000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원나잇 푸드트립:언리미티드 (30회)</title>
+	<programme start="20190525043000 +0900" stop="20190525054000 +0900" channel="OKSUSU|431">
+		<title lang="kr">원나잇 푸드트립:언리미티드(28회)&amp;lt;돈스파이크의 인생 고깃집 in 도쿄&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7110,23 +7110,39 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 김태우,테이,이원일,정다래</desc>
 	</programme>
-	<programme start="20190525064000 +0900" stop="20190525081000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원픽로드(8회)</title>
+	<programme start="20190525054000 +0900" stop="20190525065000 +0900" channel="OKSUSU|431">
+		<title lang="kr">원나잇 푸드트립:언리미티드(29회)&amp;lt;2대2 아침 미션의 승리 팀은? in 도쿄&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>이상민</actor>
-			<actor>소유</actor>
-			<actor>스윙스</actor>
-			<actor>솔빈</actor>
+			<actor>김태우</actor>
+			<actor>테이</actor>
+			<actor>이원일</actor>
+			<actor>정다래</actor>
 		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
-출연 : 이상민,소유,스윙스,솔빈</desc>
+출연 : 김태우,테이,이원일,정다래</desc>
 	</programme>
-	<programme start="20190525081000 +0900" stop="20190525092000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (46회)</title>
+	<programme start="20190525065000 +0900" stop="20190525073000 +0900" channel="OKSUSU|431">
+		<title lang="kr">다 해먹는 요리학교 : 오늘 뭐 먹지?(6회)&amp;lt;목포 큰손 박나래 엄마, 선생님으로 변신?&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>박나래</actor>
+			<actor>양세형</actor>
+			<actor>샘 오취리</actor>
+			<producer>최정하</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 박나래,양세형,샘 오취리
+연출 : 최정하</desc>
+	</programme>
+	<programme start="20190525073000 +0900" stop="20190525083000 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(46회)&amp;lt;1년을 기다렸던 바로 그 맛집&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7143,90 +7159,24 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 최화정,이영자,송은이,김숙,장도연
 연출 : 황인영</desc>
 	</programme>
-	<programme start="20190525092000 +0900" stop="20190525104000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수미네 반찬(51회)</title>
+	<programme start="20190525083000 +0900" stop="20190525095500 +0900" channel="OKSUSU|431">
+		<title lang="kr">삼시세끼 정선편 오늘 뭐 먹지?(1회)&amp;lt;이서진X옥택연이 추천하는 오늘의 메뉴!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>김수미</actor>
-			<actor>노사연</actor>
-			<actor>장동민</actor>
-			<producer>문태주</producer>
+			<actor>이서진</actor>
+			<actor>택연</actor>
+			<actor>김광규</actor>
+			<producer>나영석</producer>
 		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
-출연 : 김수미,노사연,장동민
-연출 : 문태주</desc>
+출연 : 이서진,택연,김광규
+연출 : 나영석</desc>
 	</programme>
-	<programme start="20190525104000 +0900" stop="20190525122000 +0900" channel="OKSUSU|431">
-		<title lang="kr">모두의 주방 (10회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>강호동</actor>
-			<actor>황광희</actor>
-			<actor>곽동연</actor>
-			<actor>이청아</actor>
-			<actor>미야와키 사쿠라</actor>
-			<producer>박상혁</producer>
-			<producer>김관태</producer>
-		</credits>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 연예/오락
-출연 : 강호동,황광희,곽동연,이청아,미야와키 사쿠라
-연출 : 박상혁,김관태</desc>
-	</programme>
-	<programme start="20190525122000 +0900" stop="20190525135000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원픽로드(8회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>이상민</actor>
-			<actor>소유</actor>
-			<actor>스윙스</actor>
-			<actor>솔빈</actor>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 이상민,소유,스윙스,솔빈</desc>
-	</programme>
-	<programme start="20190525135000 +0900" stop="20190525150000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (46회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>최화정</actor>
-			<actor>이영자</actor>
-			<actor>송은이</actor>
-			<actor>김숙</actor>
-			<actor>장도연</actor>
-			<producer>황인영</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 최화정,이영자,송은이,김숙,장도연
-연출 : 황인영</desc>
-	</programme>
-	<programme start="20190525150000 +0900" stop="20190525162000 +0900" channel="OKSUSU|431">
-		<title lang="kr">프리한마켓 10 (1회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>김경화</actor>
-			<actor>문지애</actor>
-			<actor>김소영</actor>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 김경화,문지애,김소영</desc>
-	</programme>
-	<programme start="20190525162000 +0900" stop="20190525180000 +0900" channel="OKSUSU|431">
-		<title lang="kr">미쓰코리아(9회)</title>
+	<programme start="20190525095500 +0900" stop="20190525113500 +0900" channel="OKSUSU|431">
+		<title lang="kr">미쓰코리아(9회)&amp;lt;스위스 국민 기업 CEO의 '된장' 사랑&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7246,8 +7196,88 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 한고은,신현준,조세호,박나래,황광희,돈 스파이크,신아영,장동윤
 연출 : 손창우</desc>
 	</programme>
-	<programme start="20190525180000 +0900" stop="20190525195000 +0900" channel="OKSUSU|431">
-		<title lang="kr">스페인 하숙(10회)</title>
+	<programme start="20190525113500 +0900" stop="20190525125000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수미네 반찬(51회)&amp;lt;김수미표 얼큰 달큰 '애호박 찌개'&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>김수미</actor>
+			<actor>노사연</actor>
+			<actor>장동민</actor>
+			<producer>문태주</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 김수미,노사연,장동민
+연출 : 문태주</desc>
+	</programme>
+	<programme start="20190525125000 +0900" stop="20190525135000 +0900" channel="OKSUSU|431">
+		<title lang="kr">프리한마켓 10(1회)&amp;lt;우리 집 품격 높이는 욕망 리빙용품 10&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>김경화</actor>
+			<actor>문지애</actor>
+			<actor>김소영</actor>
+		</credits>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 연예/오락
+출연 : 김경화,문지애,김소영</desc>
+	</programme>
+	<programme start="20190525135000 +0900" stop="20190525152000 +0900" channel="OKSUSU|431">
+		<title lang="kr">원픽로드(8회)&amp;lt;버거로드의 끝판왕! 튀긴 버거!&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>이상민</actor>
+			<actor>소유</actor>
+			<actor>스윙스</actor>
+			<actor>솔빈</actor>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 이상민,소유,스윙스,솔빈</desc>
+	</programme>
+	<programme start="20190525152000 +0900" stop="20190525162000 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(46회)&amp;lt;1년을 기다렸던 바로 그 맛집&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>최화정</actor>
+			<actor>이영자</actor>
+			<actor>송은이</actor>
+			<actor>김숙</actor>
+			<actor>장도연</actor>
+			<producer>황인영</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 최화정,이영자,송은이,김숙,장도연
+연출 : 황인영</desc>
+	</programme>
+	<programme start="20190525162000 +0900" stop="20190525172500 +0900" channel="OKSUSU|431">
+		<title lang="kr">짠내투어스페셜(2회)&amp;lt;터키&amp;이스탄불 BEST 맛집 모음&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>박명수</actor>
+			<actor>박나래</actor>
+			<actor>문세윤</actor>
+			<actor>허경환</actor>
+			<producer>손창우</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 박명수,박나래,문세윤,허경환
+연출 : 손창우</desc>
+	</programme>
+	<programme start="20190525172500 +0900" stop="20190525192000 +0900" channel="OKSUSU|431">
+		<title lang="kr">스페인 하숙(10회)&amp;lt;마지막 영업을 준비하는 차승원X유해진&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7262,8 +7292,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190525195000 +0900" stop="20190525212000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까? 미국편(6회)</title>
+	<programme start="20190525192000 +0900" stop="20190525210500 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까? 미국편(6회)&amp;lt;코리안 스타일 '핫도그'로 매출 급상승!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7280,8 +7310,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190525212000 +0900" stop="20190525224000 +0900" channel="OKSUSU|431">
-		<title lang="kr">장보고 (1회)</title>
+	<programme start="20190525210500 +0900" stop="20190525222000 +0900" channel="OKSUSU|431">
+		<title lang="kr">장보고(1회)&amp;lt;쇼핑고민 카페 오픈합니다!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7299,8 +7329,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 노홍철,하하,붐,한혜연,이미주,김영옥
 연출 : 신소영</desc>
 	</programme>
-	<programme start="20190525224000 +0900" stop="20190525235000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (46회)</title>
+	<programme start="20190525222000 +0900" stop="20190525232000 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(46회)&amp;lt;1년을 기다렸던 바로 그 맛집&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7317,8 +7347,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 최화정,이영자,송은이,김숙,장도연
 연출 : 황인영</desc>
 	</programme>
-	<programme start="20190525235000 +0900" stop="20190526010000 +0900" channel="OKSUSU|431">
-		<title lang="kr">주유천하2 (3회)</title>
+	<programme start="20190525232000 +0900" stop="20190526002500 +0900" channel="OKSUSU|431">
+		<title lang="kr">주유천하2(4회)&amp;lt;현지인이 사랑하는 '광동' 맛집 탐방&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7468,7 +7498,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190524181000 +0900" stop="20190524195000 +0900" channel="OKSUSU|873">
+	<programme start="20190524181000 +0900" stop="20190524200000 +0900" channel="OKSUSU|873">
 		<title lang="kr">유학소녀(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7480,7 +7510,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190524195000 +0900" stop="20190524202000 +0900" channel="OKSUSU|873">
+	<programme start="20190524200000 +0900" stop="20190524202000 +0900" channel="OKSUSU|873">
 		<title lang="kr">Live on M (SMS)(2246회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7505,7 +7535,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190524230000 +0900" stop="20190525013000 +0900" channel="OKSUSU|873">
+	<programme start="20190524230000 +0900" stop="20190525015000 +0900" channel="OKSUSU|873">
 		<title lang="kr">프로듀스 X 101(4회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7522,7 +7552,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190525013000 +0900" stop="20190525040000 +0900" channel="OKSUSU|873">
+	<programme start="20190525015000 +0900" stop="20190525044000 +0900" channel="OKSUSU|873">
 		<title lang="kr">프로듀스 X 101(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7539,7 +7569,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190525040000 +0900" stop="20190525050000 +0900" channel="OKSUSU|873">
+	<programme start="20190525044000 +0900" stop="20190525053000 +0900" channel="OKSUSU|873">
 		<title lang="kr">Music Express(334회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7547,7 +7577,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 음악</desc>
 	</programme>
-	<programme start="20190525050000 +0900" stop="20190525063000 +0900" channel="OKSUSU|873">
+	<programme start="20190525053000 +0900" stop="20190525070000 +0900" channel="OKSUSU|873">
 		<title lang="kr">러브캐처(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7564,16 +7594,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 신동엽,홍석천,레이디 제인,장도연
 연출 : 정민석</desc>
 	</programme>
-	<programme start="20190525063000 +0900" stop="20190525073000 +0900" channel="OKSUSU|873">
-		<title lang="kr">뉴이스트 로드(2회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
-	</programme>
-	<programme start="20190525073000 +0900" stop="20190525100000 +0900" channel="OKSUSU|873">
-		<title lang="kr">프로듀스 X 101 (3회)(재)</title>
+	<programme start="20190525070000 +0900" stop="20190525093000 +0900" channel="OKSUSU|873">
+		<title lang="kr">프로듀스 X 101(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7589,8 +7611,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190525100000 +0900" stop="20190525123000 +0900" channel="OKSUSU|873">
-		<title lang="kr">프로듀스 X 101 (4회)(재)</title>
+	<programme start="20190525093000 +0900" stop="20190525123000 +0900" channel="OKSUSU|873">
+		<title lang="kr">프로듀스 X 101(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7606,8 +7628,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190525123000 +0900" stop="20190525140000 +0900" channel="OKSUSU|873">
-		<title lang="kr">유학소녀 (1회)(재)</title>
+	<programme start="20190525123000 +0900" stop="20190525142000 +0900" channel="OKSUSU|873">
+		<title lang="kr">유학소녀(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7618,8 +7640,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190525140000 +0900" stop="20190525163000 +0900" channel="OKSUSU|873">
-		<title lang="kr">프로듀스 X 101 (4회)(재)</title>
+	<programme start="20190525142000 +0900" stop="20190525172000 +0900" channel="OKSUSU|873">
+		<title lang="kr">프로듀스 X 101(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7635,8 +7657,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190525163000 +0900" stop="20190525180000 +0900" channel="OKSUSU|873">
-		<title lang="kr">유학소녀 (1회)(재)</title>
+	<programme start="20190525172000 +0900" stop="20190525191000 +0900" channel="OKSUSU|873">
+		<title lang="kr">유학소녀(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7647,8 +7669,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190525180000 +0900" stop="20190525193000 +0900" channel="OKSUSU|873">
-		<title lang="kr">TMI NEWS (5회)&amp;lt;AB6IX 편&amp;gt;(재)</title>
+	<programme start="20190525191000 +0900" stop="20190525205000 +0900" channel="OKSUSU|873">
+		<title lang="kr">TMI NEWS(5회)&amp;lt;AB6IX 편&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7662,24 +7684,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 전현무,박준형,윤보미,딘딘</desc>
 	</programme>
-	<programme start="20190525193000 +0900" stop="20190525200000 +0900" channel="OKSUSU|873">
-		<title lang="kr">STUDIO M by MCOUNTDOWN(5회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
-	</programme>
-	<programme start="20190525200000 +0900" stop="20190525210000 +0900" channel="OKSUSU|873">
-		<title lang="kr">BRAND NEW BOYS(6회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
-	</programme>
-	<programme start="20190525210000 +0900" stop="20190525223000 +0900" channel="OKSUSU|873">
-		<title lang="kr">유학소녀 (1회)(재)</title>
+	<programme start="20190525205000 +0900" stop="20190525224000 +0900" channel="OKSUSU|873">
+		<title lang="kr">유학소녀(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7690,8 +7696,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190525223000 +0900" stop="20190526010000 +0900" channel="OKSUSU|873">
-		<title lang="kr">프로듀스 X 101 (4회)(재)</title>
+	<programme start="20190525224000 +0900" stop="20190526014000 +0900" channel="OKSUSU|873">
+		<title lang="kr">프로듀스 X 101(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -8073,7 +8079,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 크리스 프랫,조 샐다나,데이브 바우티스타,빈 디젤,브래들리 쿠퍼
 연출 : 제임스 건</desc>
 	</programme>
-	<programme start="20190525005000 +0900" stop="20190525020000 +0900" channel="OKSUSU|178">
+	<programme start="20190525005000 +0900" stop="20190525023000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(5회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8094,7 +8100,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190525020000 +0900" stop="20190525033000 +0900" channel="OKSUSU|178">
+	<programme start="20190525023000 +0900" stop="20190525035000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(6회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8115,7 +8121,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190525033000 +0900" stop="20190525052000 +0900" channel="OKSUSU|178">
+	<programme start="20190525035000 +0900" stop="20190525054000 +0900" channel="OKSUSU|178">
 		<title lang="kr">47미터</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8131,8 +8137,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 맨디 무어,클레어 홀트,매튜 모딘
 연출 : 조하네스 로버츠</desc>
 	</programme>
-	<programme start="20190525052000 +0900" stop="20190525061000 +0900" channel="OKSUSU|178">
-		<title lang="kr">끝까지 간다 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190525054000 +0900" stop="20190525064000 +0900" channel="OKSUSU|178">
+		<title lang="kr">끝까지 간다&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8152,8 +8158,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이선균,조진웅,신정근,정만식,신동미,김동영,주석태,허정은
 연출 : 김성훈</desc>
 	</programme>
-	<programme start="20190525061000 +0900" stop="20190525074000 +0900" channel="OKSUSU|178">
-		<title lang="kr">끝까지 간다 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190525064000 +0900" stop="20190525075000 +0900" channel="OKSUSU|178">
+		<title lang="kr">끝까지 간다&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8173,7 +8179,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이선균,조진웅,신정근,정만식,신동미,김동영,주석태,허정은
 연출 : 김성훈</desc>
 	</programme>
-	<programme start="20190525074000 +0900" stop="20190525084000 +0900" channel="OKSUSU|178">
+	<programme start="20190525075000 +0900" stop="20190525092000 +0900" channel="OKSUSU|178">
 		<title lang="kr">미녀와 야수(2017)&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -8190,7 +8196,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엠마 왓슨,댄 스티븐스,루크 에반스,조시 게드
 연출 : 빌 콘돈</desc>
 	</programme>
-	<programme start="20190525084000 +0900" stop="20190525101000 +0900" channel="OKSUSU|178">
+	<programme start="20190525092000 +0900" stop="20190525103000 +0900" channel="OKSUSU|178">
 		<title lang="kr">미녀와 야수(2017)&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -8207,7 +8213,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엠마 왓슨,댄 스티븐스,루크 에반스,조시 게드
 연출 : 빌 콘돈</desc>
 	</programme>
-	<programme start="20190525101000 +0900" stop="20190525113000 +0900" channel="OKSUSU|178">
+	<programme start="20190525103000 +0900" stop="20190525120000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(5회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8228,7 +8234,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190525113000 +0900" stop="20190525130000 +0900" channel="OKSUSU|178">
+	<programme start="20190525120000 +0900" stop="20190525132000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(6회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8249,7 +8255,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190525130000 +0900" stop="20190525140000 +0900" channel="OKSUSU|178">
+	<programme start="20190525132000 +0900" stop="20190525145000 +0900" channel="OKSUSU|178">
 		<title lang="kr">가디언즈 오브 갤럭시&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -8266,7 +8272,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 크리스 프랫,조 샐다나,데이브 바티스타,빈 디젤
 연출 : 제임스 건</desc>
 	</programme>
-	<programme start="20190525140000 +0900" stop="20190525153000 +0900" channel="OKSUSU|178">
+	<programme start="20190525145000 +0900" stop="20190525155000 +0900" channel="OKSUSU|178">
 		<title lang="kr">가디언즈 오브 갤럭시&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -8283,8 +8289,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 크리스 프랫,조 샐다나,데이브 바티스타,빈 디젤
 연출 : 제임스 건</desc>
 	</programme>
-	<programme start="20190525153000 +0900" stop="20190525163000 +0900" channel="OKSUSU|178">
-		<title lang="kr">가디언즈 오브 갤럭시 VOL.2 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190525155000 +0900" stop="20190525171000 +0900" channel="OKSUSU|178">
+		<title lang="kr">가디언즈 오브 갤럭시 VOL.2&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8301,8 +8307,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 크리스 프랫,조 샐다나,데이브 바우티스타,빈 디젤,브래들리 쿠퍼
 연출 : 제임스 건</desc>
 	</programme>
-	<programme start="20190525163000 +0900" stop="20190525183000 +0900" channel="OKSUSU|178">
-		<title lang="kr">가디언즈 오브 갤럭시 VOL.2 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190525171000 +0900" stop="20190525184000 +0900" channel="OKSUSU|178">
+		<title lang="kr">가디언즈 오브 갤럭시 VOL.2&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8319,8 +8325,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 크리스 프랫,조 샐다나,데이브 바우티스타,빈 디젤,브래들리 쿠퍼
 연출 : 제임스 건</desc>
 	</programme>
-	<programme start="20190525183000 +0900" stop="20190525193000 +0900" channel="OKSUSU|178">
-		<title lang="kr">쥬만지:새로운 세계 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190525184000 +0900" stop="20190525200000 +0900" channel="OKSUSU|178">
+		<title lang="kr">쥬만지:새로운 세계&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8336,8 +8342,8 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 드웨인 존슨,케빈 하트,잭 블랙,카렌 길런
 연출 : 제이크 캐스단</desc>
 	</programme>
-	<programme start="20190525193000 +0900" stop="20190525210000 +0900" channel="OKSUSU|178">
-		<title lang="kr">쥬만지:새로운 세계 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190525200000 +0900" stop="20190525210000 +0900" channel="OKSUSU|178">
+		<title lang="kr">쥬만지:새로운 세계&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8354,7 +8360,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 연출 : 제이크 캐스단</desc>
 	</programme>
 	<programme start="20190525210000 +0900" stop="20190525222000 +0900" channel="OKSUSU|178">
-		<title lang="kr">보이스3 (4회)(재)</title>
+		<title lang="kr">보이스3(4회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
@@ -8376,7 +8382,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 연출 : 남기훈,마진원</desc>
 	</programme>
 	<programme start="20190525222000 +0900" stop="20190525234000 +0900" channel="OKSUSU|178">
-		<title lang="kr">보이스3 (5회)</title>
+		<title lang="kr">보이스3(5회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
@@ -8397,7 +8403,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 이하나,이진욱,권율,손은서,김우석,김중기,김기남,한갑수
 연출 : 남기훈,마진원</desc>
 	</programme>
-	<programme start="20190525234000 +0900" stop="20190526003000 +0900" channel="OKSUSU|178">
+	<programme start="20190525234000 +0900" stop="20190526005000 +0900" channel="OKSUSU|178">
 		<title lang="kr">기문둔갑(2017)&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8507,7 +8513,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190524182500 +0900" stop="20190524220000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;키움:삼성&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8603,7 +8609,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190525165500 +0900" stop="20190525203000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;키움:삼성&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8760,7 +8766,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190524182500 +0900" stop="20190524220000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;LG:롯데, 사직&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8896,7 +8902,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190525165500 +0900" stop="20190525203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;LG:롯데, 사직&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
