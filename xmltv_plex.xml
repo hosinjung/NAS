@@ -3571,7 +3571,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74dc4d9cd81bc8706951d8d307987be2078f9c50ec7a0f276d20288e5dcb7638" /></programme>
-  <programme channel="121" start="20190528040000 +0900" stop="20190528055000 +0900">
+  <programme channel="121" start="20190528040000 +0900" stop="20190528053000 +0900">
     <title lang="kr">너의 목소리가 보여 시즌6</title>
     <sub-title lang="kr">박정현&amp;거미 편</sub-title>
     <desc lang="kr">너의 목소리가 보여 시즌6 (5회)
@@ -3596,9 +3596,10 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff0eb9f59d9ea6a1fb3af7874dc3a07c457f54d0cf15435e79cee87ca16698e8e" /></programme>
-  <programme channel="121" start="20190528055000 +0900" stop="20190528072000 +0900">
+  <programme channel="121" start="20190528053000 +0900" stop="20190528070000 +0900">
     <title lang="kr">러브캐처</title>
-    <desc lang="kr">러브캐처
+    <desc lang="kr">러브캐처 (4회)
+회차 : 4회
 장르 : 연예/오락
 출연 : 신동엽,홍석천,레이디 제인,장도연
 제작 : 정민석
@@ -3612,25 +3613,29 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fcee7a73d53297b7f04ab7f4742cbb356be3e0ae66efab1889b3f124d2c38c071" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528072000 +0900" stop="20190528083000 +0900">
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fcee7a73d53297b7f04ab7f4742cbb356be3e0ae66efab1889b3f124d2c38c071" /></programme>
+  <programme channel="121" start="20190528070000 +0900" stop="20190528072000 +0900">
     <title lang="kr">M morning</title>
-    <desc lang="kr">M morning
+    <desc lang="kr">M morning (2171회)
+회차 : 2171회
 장르 : 음악
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
+    <episode-num system="xmltv_ns">0.2170.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528083000 +0900" stop="20190528110000 +0900">
+  </programme>
+  <programme channel="121" start="20190528072000 +0900" stop="20190528100000 +0900">
     <title lang="kr">프로듀스 X 101</title>
-    <desc lang="kr">프로듀스 X 101
+    <desc lang="kr">프로듀스 X 101 (3회)
+회차 : 3회
 장르 : 연예/오락
 출연 : 이동욱,배윤정,치타,이석훈
 제작 : 안준영
@@ -3644,14 +3649,16 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528110000 +0900" stop="20190528135000 +0900">
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
+  <programme channel="121" start="20190528100000 +0900" stop="20190528125000 +0900">
     <title lang="kr">프로듀스 X 101</title>
-    <desc lang="kr">프로듀스 X 101
+    <desc lang="kr">프로듀스 X 101 (4회)
+회차 : 4회
 장르 : 연예/오락
 출연 : 이동욱,배윤정,치타,이석훈
 제작 : 안준영
@@ -3665,14 +3672,73 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528135000 +0900" stop="20190528152000 +0900">
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
+  <programme channel="121" start="20190528125000 +0900" stop="20190528135000 +0900">
+    <title lang="kr">BRAND NEW BOYS</title>
+    <desc lang="kr">BRAND NEW BOYS (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe339130d16c85a39fdb0730239c343ba8707b774c72e00e16e1fe5c24e16eb20" /></programme>
+  <programme channel="121" start="20190528135000 +0900" stop="20190528154000 +0900">
+    <title lang="kr">유학소녀</title>
+    <desc lang="kr">유학소녀 (1회)
+회차 : 1회
+장르 : 연예/오락
+제작 : 이연규
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <producer>이연규</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
+  <programme channel="121" start="20190528154000 +0900" stop="20190528183000 +0900">
+    <title lang="kr">프로듀스 X 101</title>
+    <desc lang="kr">프로듀스 X 101 (4회)
+회차 : 4회
+장르 : 연예/오락
+출연 : 이동욱,배윤정,치타,이석훈
+제작 : 안준영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이동욱</actor>
+      <actor>배윤정</actor>
+      <actor>치타</actor>
+      <actor>이석훈</actor>
+      <producer>안준영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
+  <programme channel="121" start="20190528183000 +0900" stop="20190528201000 +0900">
     <title lang="kr">TMI NEWS</title>
-    <desc lang="kr">TMI NEWS
+    <sub-title lang="kr">AB6IX 편</sub-title>
+    <desc lang="kr">TMI NEWS (5회)
+부제 : AB6IX 편
+회차 : 5회
 장르 : 연예/오락
 출연 : 전현무,박준형,윤보미,딘딘
 등급 : 15세 이상 관람가</desc>
@@ -3684,100 +3750,47 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa238b786819e0f409d29be8575a9a5b040dc29d98ad993e12afb0ce71036cde5" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528152000 +0900" stop="20190528162000 +0900">
-    <title lang="kr">뉴이스트 로드</title>
-    <desc lang="kr">뉴이스트 로드
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa238b786819e0f409d29be8575a9a5b040dc29d98ad993e12afb0ce71036cde5" /></programme>
+  <programme channel="121" start="20190528201000 +0900" stop="20190528220000 +0900">
+    <title lang="kr">유학소녀</title>
+    <desc lang="kr">유학소녀 (1회)
+회차 : 1회
 장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74dc4d9cd81bc8706951d8d307987be2078f9c50ec7a0f276d20288e5dcb7638" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528162000 +0900" stop="20190528191000 +0900">
-    <title lang="kr">프로듀스 X 101</title>
-    <desc lang="kr">프로듀스 X 101
-장르 : 연예/오락
-출연 : 이동욱,배윤정,치타,이석훈
-제작 : 안준영
+제작 : 이연규
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>이동욱</actor>
-      <actor>배윤정</actor>
-      <actor>치타</actor>
-      <actor>이석훈</actor>
-      <producer>안준영</producer>
+      <producer>이연규</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528191000 +0900" stop="20190528204000 +0900">
-    <title lang="kr">TMI NEWS</title>
-    <desc lang="kr">TMI NEWS
-장르 : 연예/오락
-출연 : 전현무,박준형,윤보미,딘딘
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>전현무</actor>
-      <actor>박준형</actor>
-      <actor>윤보미</actor>
-      <actor>딘딘</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa238b786819e0f409d29be8575a9a5b040dc29d98ad993e12afb0ce71036cde5" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528204000 +0900" stop="20190528213000 +0900">
-    <title lang="kr">Live on M</title>
-    <desc lang="kr">Live on M (SMS)
-장르 : 음악
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">음악</category>
-    <category lang="en">Music / Ballet / Dance</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528213000 +0900" stop="20190528223000 +0900">
-    <title lang="kr">뉴이스트 로드</title>
-    <desc lang="kr">뉴이스트 로드
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74dc4d9cd81bc8706951d8d307987be2078f9c50ec7a0f276d20288e5dcb7638" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528223000 +0900" stop="20190528230000 +0900">
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
+  <programme channel="121" start="20190528220000 +0900" stop="20190528223000 +0900">
     <title lang="kr">STUDIO M by MCOUNTDOWN</title>
-    <desc lang="kr">STUDIO M by MCOUNTDOWN
+    <desc lang="kr">STUDIO M by MCOUNTDOWN (6회)
+회차 : 6회
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.527.</episode-num></programme>
-  <programme channel="121" start="20190528230000 +0900" stop="20190529015000 +0900">
+  </programme>
+  <programme channel="121" start="20190528223000 +0900" stop="20190529012000 +0900">
     <title lang="kr">프로듀스 X 101</title>
-    <desc lang="kr">프로듀스 X 101
+    <desc lang="kr">프로듀스 X 101 (4회)
+회차 : 4회
 장르 : 연예/오락
 출연 : 이동욱,배윤정,치타,이석훈
 제작 : 안준영
@@ -3791,11 +3804,12 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
   <programme channel="122" start="20190526232000 +0900" stop="20190527000500 +0900">
     <title lang="kr">구해줘! 홈즈</title>
     <sub-title lang="kr">2부</sub-title>
@@ -4279,7 +4293,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.527.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe947cfa0f47b672171e68ebb9cedcb45b412493c2daa718afed32d5d2be3d002" /><episode-num system="xmltv_ns">18.527.</episode-num></programme>
   <programme channel="122" start="20190528002500 +0900" stop="20190528012500 +0900">
     <title lang="kr">스포츠특선 MLB 핫토크</title>
     <desc lang="kr">스포츠특선 MLB 핫토크
@@ -9801,6 +9815,7 @@
     <title lang="kr">던파 마계회합TV</title>
     <desc lang="kr">던파 마계회합TV
 등급 : 전체 관람가</desc>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -10012,6 +10027,7 @@
     <title lang="kr">던파 마계회합TV</title>
     <desc lang="kr">던파 마계회합TV
 등급 : 전체 관람가</desc>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -10955,7 +10971,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F616c895e8c0a46a0d5e83db7e14be9fdf91b64044b8ecaafad29d80f8820cd69" /></programme>
-  <programme channel="207" start="20190527172800 +0900" stop="20190527191000 +0900">
+  <programme channel="207" start="20190527172800 +0900" stop="20190527191500 +0900">
     <title lang="kr">스페인 하숙</title>
     <desc lang="kr">스페인 하숙 (11회)
 회차 : 11회
@@ -10977,7 +10993,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F08fa1b75445bf76084b92c3c809efa352303b1601ec6fa2c462e901856164e13" /></programme>
-  <programme channel="207" start="20190527191000 +0900" stop="20190527201000 +0900">
+  <programme channel="207" start="20190527191500 +0900" stop="20190527201500 +0900">
     <title lang="kr">리틀빅 히어로</title>
     <desc lang="kr">리틀빅 히어로 (160회)
 회차 : 160회
@@ -10994,7 +11010,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F714845231428f4ea959b8f70ff59a74891abf52b89f9c37a2f641f7c812517bf" /></programme>
-  <programme channel="207" start="20190527201000 +0900" stop="20190527213000 +0900">
+  <programme channel="207" start="20190527201500 +0900" stop="20190527213500 +0900">
     <title lang="kr">풀 뜯어먹는 소리3 - 대농원정대</title>
     <desc lang="kr">풀 뜯어먹는 소리3 - 대농원정대 (9회)
 회차 : 9회
@@ -11015,7 +11031,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc98c55094d8dc78bf40e3dc82da8b95b472cc71b4ad1d604daf8778dbed4f600" /></programme>
-  <programme channel="207" start="20190527213000 +0900" stop="20190527230000 +0900">
+  <programme channel="207" start="20190527213500 +0900" stop="20190527230000 +0900">
     <title lang="kr">어비스</title>
     <desc lang="kr">어비스 (7회)
 회차 : 7회
@@ -11041,7 +11057,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Faaaaedc7d207d474e74bb66614b00801bb3ac4cef85620e04434d204fae3c5d9" /></programme>
-  <programme channel="207" start="20190527230000 +0900" stop="20190528003000 +0900">
+  <programme channel="207" start="20190527230000 +0900" stop="20190528004000 +0900">
     <title lang="kr">문제적 남자</title>
     <sub-title lang="kr">김종민 편</sub-title>
     <desc lang="kr">문제적 남자 (209회)
@@ -11067,7 +11083,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56FCD65106294F0002" /></programme>
-  <programme channel="207" start="20190528003000 +0900" stop="20190528015000 +0900">
+  <programme channel="207" start="20190528004000 +0900" stop="20190528015900 +0900">
     <title lang="kr">코미디 빅리그</title>
     <desc lang="kr">코미디 빅리그 (313회)
 회차 : 313회
@@ -11089,7 +11105,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /></programme>
-  <programme channel="207" start="20190528015000 +0900" stop="20190528032000 +0900">
+  <programme channel="207" start="20190528015900 +0900" stop="20190528033300 +0900">
     <title lang="kr">문제적 남자</title>
     <desc lang="kr">문제적 남자 (209회)
 회차 : 209회
@@ -11114,7 +11130,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56FCD65106294F0002" /></programme>
-  <programme channel="207" start="20190528032000 +0900" stop="20190528045000 +0900">
+  <programme channel="207" start="20190528033300 +0900" stop="20190528044200 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (51회)
 회차 : 51회
@@ -11136,7 +11152,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190528045000 +0900" stop="20190528055000 +0900">
+  <programme channel="207" start="20190528044200 +0900" stop="20190528055000 +0900">
     <title lang="kr">프리한 19</title>
     <desc lang="kr">프리한 19 (157회)
 회차 : 157회
