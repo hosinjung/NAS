@@ -133,6 +133,772 @@
     <display-name>18 채널A</display-name>
     <icon src="http://i.imgur.com/xti35f5.png" />
   </channel>
+  <programme channel="97" start="20190531230000 +0900" stop="20190601002000 +0900">
+    <title lang="kr">바람이 분다</title>
+    <desc lang="kr">바람이 분다 (1회)
+회차 : 1회
+장르 : 드라마
+출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주,김영재
+제작 : 정정화,김보경,황주하
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>감우성</actor>
+      <actor>김하늘</actor>
+      <actor>김성철</actor>
+      <actor>김가은</actor>
+      <actor>이준혁</actor>
+      <actor>윤지혜</actor>
+      <actor>박효주</actor>
+      <actor>김영재</actor>
+      <producer>정정화</producer>
+      <producer>김보경</producer>
+      <producer>황주하</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F013EB63D510F14F420731A" /></programme>
+  <programme channel="97" start="20190601002000 +0900" stop="20190601025000 +0900">
+    <title lang="kr">JTBC 밤샘토론</title>
+    <desc lang="kr">JTBC 밤샘토론
+장르 : 시사/다큐
+출연 : 신예리,박진규
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>신예리</actor>
+      <actor>박진규</actor>
+    </credits>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa3ebf76eb9d2805b712130fcff3fc664d06f07acce54c37752dc5945db00bfa2" /><episode-num system="xmltv_ns">18.600.</episode-num></programme>
+  <programme channel="97" start="20190601025000 +0900" stop="20190601035000 +0900">
+    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
+    <sub-title lang="kr">살인 면허</sub-title>
+    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2128회)
+부제 : 살인 면허
+회차 : 2128회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2127.0/0</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601025000 +0900" stop="20190601035000 +0900">
+    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
+    <sub-title lang="kr">살인 면허</sub-title>
+    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2128회)
+부제 : 살인 면허
+회차 : 2128회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2127.0/0</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601035000 +0900" stop="20190601050000 +0900">
+    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
+    <sub-title lang="kr">레지 예이츠 그렌펠의 잃어버린 목숨을 찾아서</sub-title>
+    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2129회)
+부제 : 레지 예이츠 그렌펠의 잃어버린 목숨을 찾아서
+회차 : 2129회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2128.0/0</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601035000 +0900" stop="20190601050000 +0900">
+    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
+    <sub-title lang="kr">레지 예이츠 그렌펠의 잃어버린 목숨을 찾아서</sub-title>
+    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2129회)
+부제 : 레지 예이츠 그렌펠의 잃어버린 목숨을 찾아서
+회차 : 2129회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2128.0/0</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601050000 +0900" stop="20190601055000 +0900">
+    <title lang="kr">말하는 대로</title>
+    <desc lang="kr">말하는 대로 (23회)
+회차 : 23회
+장르 : 연예/오락
+출연 : 유희열,하하
+제작 : 정효민,박지예
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>유희열</actor>
+      <actor>하하</actor>
+      <producer>정효민</producer>
+      <producer>박지예</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.22.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57DFA7640203720001" /></programme>
+  <programme channel="97" start="20190601055000 +0900" stop="20190601070000 +0900">
+    <title lang="kr">차이나는 클라스</title>
+    <desc lang="kr">차이나는 클라스 (105회)
+회차 : 105회
+장르 : 교양/정보
+출연 : 홍진경,오상진,조승연,덕원,딘딘,김지숙,샘 오취리,강지영
+제작 : 장기하
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>홍진경</actor>
+      <actor>오상진</actor>
+      <actor>조승연</actor>
+      <actor>덕원</actor>
+      <actor>딘딘</actor>
+      <actor>김지숙</actor>
+      <actor>샘 오취리</actor>
+      <actor>강지영</actor>
+      <producer>장기하</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.104.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0b8148291586f1c107dbc93b8e78d35e332c768b20a7459ecbd376503e80d7e6" /></programme>
+  <programme channel="97" start="20190601070000 +0900" stop="20190601073000 +0900">
+    <title lang="kr">엄마 까투리 2</title>
+    <desc lang="kr">엄마 까투리 2 (1회)
+회차 : 1회
+장르 : 만화
+등급 : 7세 이상 관람가</desc>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0c871189eb7efbfb0bd9044d1c0f0a418c9270bc6da9aecb77413dcec436c964" /></programme>
+  <programme channel="97" start="20190601073000 +0900" stop="20190601080000 +0900">
+    <title lang="kr">세미와 매직큐브</title>
+    <desc lang="kr">세미와 매직큐브 (11회)
+회차 : 11회
+장르 : 만화
+등급 : 7세 이상 관람가</desc>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <episode-num system="xmltv_ns">0.10.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc2e72cfb077992b00c360339809151d6933c704a4843a4f46a34021ba4768c93" /></programme>
+  <programme channel="97" start="20190601080000 +0900" stop="20190601090000 +0900">
+    <title lang="kr">웃고 떠들고 맛있는 하우스</title>
+    <desc lang="kr">웃고 떠들고 맛있는 하우스 (13회)
+회차 : 13회
+장르 : 연예/오락
+출연 : 남희석,이지혜,김미려
+제작 : 김형선
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>남희석</actor>
+      <actor>이지혜</actor>
+      <actor>김미려</actor>
+      <producer>김형선</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.12.0/0</episode-num>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bd7fb896dddd6bb0c23bb605b6afe7eb13f9f1bfd6a840adf51e29265798b2b" /></programme>
+  <programme channel="97" start="20190601090000 +0900" stop="20190601100000 +0900">
+    <title lang="kr">맛있는 이야기 미라클 푸드</title>
+    <desc lang="kr">맛있는 이야기 미라클 푸드 (10회)
+회차 : 10회
+장르 : 교양/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62be6793353e59db2a969a4bc5010c913b06522aec515bd291bfc1841b5355c9" /></programme>
+  <programme channel="97" start="20190601100000 +0900" stop="20190601104000 +0900">
+    <title lang="kr">아이돌룸 스페셜</title>
+    <desc lang="kr">아이돌룸 스페셜 (52회)
+회차 : 52회
+장르 : 연예/오락
+출연 : 정형돈,데프콘
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>정형돈</actor>
+      <actor>데프콘</actor>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.51.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601104000 +0900" stop="20190601115500 +0900">
+    <title lang="kr">이규연의 스포트라이트 스페셜</title>
+    <desc lang="kr">이규연의 스포트라이트 스페셜 (199회)
+회차 : 199회
+장르 : 시사/다큐
+출연 : 이규연
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이규연</actor>
+    </credits>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.198.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601115500 +0900" stop="20190601120000 +0900">
+    <title lang="kr">JTBC 이 시각 뉴스룸</title>
+    <desc lang="kr">JTBC 이 시각 뉴스룸
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.600.</episode-num></programme>
+  <programme channel="97" start="20190601120000 +0900" stop="20190601140000 +0900">
+    <title lang="kr">슈퍼밴드</title>
+    <desc lang="kr">슈퍼밴드 (8회)
+회차 : 8회
+장르 : 연예/오락
+출연 : 전현무,윤종신,윤상,조한,김종완,이수현
+제작 : 김형중,김재원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>전현무</actor>
+      <actor>윤종신</actor>
+      <actor>윤상</actor>
+      <actor>조한</actor>
+      <actor>김종완</actor>
+      <actor>이수현</actor>
+      <producer>김형중</producer>
+      <producer>김재원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd69928132ce3cbb8f9192e56121b8dd11c8c0a84f774560f7bc8aa059af85939" /></programme>
+  <programme channel="97" start="20190601140000 +0900" stop="20190601160000 +0900">
+    <title lang="kr">취존생활</title>
+    <desc lang="kr">취존생활 (2회)
+회차 : 2회
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0cf34351cc21438742ace40b88c0608163bf2e3be77a20deccb46fe127cba4a7" /></programme>
+  <programme channel="97" start="20190601160000 +0900" stop="20190601180000 +0900">
+    <title lang="kr">아는 형님</title>
+    <desc lang="kr">아는 형님 (181회)
+회차 : 181회
+장르 : 연예/오락
+출연 : 강호동,이수근,김영철,서장훈,김희철,민경훈
+제작 : 여운혁,황선영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
+      <actor>김영철</actor>
+      <actor>서장훈</actor>
+      <actor>김희철</actor>
+      <actor>민경훈</actor>
+      <producer>여운혁</producer>
+      <producer>황선영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.180.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F578308F2045C0D0001" /></programme>
+  <programme channel="97" start="20190601180000 +0900" stop="20190601195500 +0900">
+    <title lang="kr">한끼줍쇼 스페셜</title>
+    <desc lang="kr">한끼줍쇼 스페셜 (128회)
+회차 : 128회
+장르 : 연예/오락
+출연 : 이경규,강호동
+제작 : 방현영,이상미
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이경규</actor>
+      <actor>강호동</actor>
+      <producer>방현영</producer>
+      <producer>이상미</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.127.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190601195500 +0900" stop="20190601210000 +0900">
+    <title lang="kr">JTBC 뉴스룸</title>
+    <desc lang="kr">JTBC 뉴스룸
+장르 : 뉴스
+출연 : 손석희,안나경,김필규,이지은
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>손석희</actor>
+      <actor>안나경</actor>
+      <actor>김필규</actor>
+      <actor>이지은</actor>
+    </credits>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2e54f7329e3dfc6dfab500675d5713f8ce05b3a920594544e91d3374cec01c2b" /><episode-num system="xmltv_ns">18.600.</episode-num></programme>
+  <programme channel="97" start="20190601210000 +0900" stop="20190601230000 +0900">
+    <title lang="kr">아는 형님</title>
+    <desc lang="kr">아는 형님 (182회)
+회차 : 182회
+장르 : 연예/오락
+출연 : 강호동,이수근,김영철,서장훈,김희철,민경훈
+제작 : 여운혁,황선영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
+      <actor>김영철</actor>
+      <actor>서장훈</actor>
+      <actor>김희철</actor>
+      <actor>민경훈</actor>
+      <producer>여운혁</producer>
+      <producer>황선영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.181.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F578308F2045C0D0001" /></programme>
+  <programme channel="97" start="20190601230000 +0900" stop="20190602002000 +0900">
+    <title lang="kr">바람이 분다</title>
+    <desc lang="kr">바람이 분다 (2회)
+회차 : 2회
+장르 : 드라마
+출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주,김영재
+제작 : 정정화,김보경,황주하
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>감우성</actor>
+      <actor>김하늘</actor>
+      <actor>김성철</actor>
+      <actor>김가은</actor>
+      <actor>이준혁</actor>
+      <actor>윤지혜</actor>
+      <actor>박효주</actor>
+      <actor>김영재</actor>
+      <producer>정정화</producer>
+      <producer>김보경</producer>
+      <producer>황주하</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F013EB63D510F14F420731A" /></programme>
+  <programme channel="97" start="20190602002000 +0900" stop="20190602022000 +0900">
+    <title lang="kr">슈퍼밴드</title>
+    <desc lang="kr">슈퍼밴드 (8회)
+회차 : 8회
+장르 : 연예/오락
+출연 : 전현무,윤종신,윤상,조한,김종완,이수현
+제작 : 김형중,김재원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>전현무</actor>
+      <actor>윤종신</actor>
+      <actor>윤상</actor>
+      <actor>조한</actor>
+      <actor>김종완</actor>
+      <actor>이수현</actor>
+      <producer>김형중</producer>
+      <producer>김재원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd69928132ce3cbb8f9192e56121b8dd11c8c0a84f774560f7bc8aa059af85939" /></programme>
+  <programme channel="97" start="20190602022000 +0900" stop="20190602031500 +0900">
+    <title lang="kr">차이나는 클라스</title>
+    <desc lang="kr">차이나는 클라스 (110회)
+회차 : 110회
+장르 : 교양/정보
+출연 : 홍진경,오상진,조승연,덕원,딘딘,김지숙,샘 오취리,강지영
+제작 : 장기하
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>홍진경</actor>
+      <actor>오상진</actor>
+      <actor>조승연</actor>
+      <actor>덕원</actor>
+      <actor>딘딘</actor>
+      <actor>김지숙</actor>
+      <actor>샘 오취리</actor>
+      <actor>강지영</actor>
+      <producer>장기하</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.109.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0b8148291586f1c107dbc93b8e78d35e332c768b20a7459ecbd376503e80d7e6" /></programme>
+  <programme channel="97" start="20190602031500 +0900" stop="20190602041500 +0900">
+    <title lang="kr">말하는 대로</title>
+    <desc lang="kr">말하는 대로 (24회)
+회차 : 24회
+장르 : 연예/오락
+출연 : 유희열,하하
+제작 : 정효민,박지예
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>유희열</actor>
+      <actor>하하</actor>
+      <producer>정효민</producer>
+      <producer>박지예</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.23.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57DFA7640203720001" /></programme>
+  <programme channel="97" start="20190602041500 +0900" stop="20190602062000 +0900">
+    <title lang="kr">2019 LPGA U.S. 여자 오픈</title>
+    <sub-title lang="kr">3R</sub-title>
+    <desc lang="kr">2019 LPGA U.S. 여자 오픈
+부제 : 3R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.601.</episode-num></programme>
+  <programme channel="97" start="20190602062000 +0900" stop="20190602083000 +0900">
+    <title lang="kr">2019 LPGA U.S. 여자 오픈</title>
+    <sub-title lang="kr">3R</sub-title>
+    <desc lang="kr">2019 LPGA U.S. 여자 오픈
+부제 : 3R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.601.</episode-num></programme>
+  <programme channel="97" start="20190602083000 +0900" stop="20190602093000 +0900">
+    <title lang="kr">다큐 플러스</title>
+    <sub-title lang="kr">지방의 두 얼굴, 착한 지방이 내 몸을 살린다</sub-title>
+    <desc lang="kr">다큐 플러스 (65회)
+부제 : 지방의 두 얼굴, 착한 지방이 내 몸을 살린다
+회차 : 65회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.64.0/0</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F125fa2d8ef8538c07405d4a32ab02480a40d8a9ecb4e702947a94c0d620bced5" /></programme>
+  <programme channel="97" start="20190602093000 +0900" stop="20190602104000 +0900">
+    <title lang="kr">쉘위치킨</title>
+    <desc lang="kr">쉘위치킨 (4회)
+회차 : 4회
+장르 : 연예/오락
+출연 : 김준현,이규한,써니
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김준현</actor>
+      <actor>이규한</actor>
+      <actor>써니</actor>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ffcb55470d3522a4f5a923eb1276438da1d15478c411a6a39f0b982f87df6ab03" /></programme>
+  <programme channel="97" start="20190602104000 +0900" stop="20190602115500 +0900">
+    <title lang="kr">방구석 1열</title>
+    <desc lang="kr">방구석 1열 (57회)
+회차 : 57회
+장르 : 연예/오락
+출연 : 윤종신,장성규,변영주
+제작 : 김미연
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>윤종신</actor>
+      <actor>장성규</actor>
+      <actor>변영주</actor>
+      <producer>김미연</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.56.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdb4cfc42dbc3e4845ee44331a32c012aab27b06bbf59608894413b308a6a7feb" /></programme>
+  <programme channel="97" start="20190602115500 +0900" stop="20190602120000 +0900">
+    <title lang="kr">JTBC 이 시각 뉴스룸</title>
+    <desc lang="kr">JTBC 이 시각 뉴스룸
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.601.</episode-num></programme>
+  <programme channel="97" start="20190602120000 +0900" stop="20190602140000 +0900">
+    <title lang="kr">아는 형님</title>
+    <desc lang="kr">아는 형님 (182회)
+회차 : 182회
+장르 : 연예/오락
+출연 : 강호동,이수근,김영철,서장훈,김희철,민경훈
+제작 : 여운혁,황선영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
+      <actor>김영철</actor>
+      <actor>서장훈</actor>
+      <actor>김희철</actor>
+      <actor>민경훈</actor>
+      <producer>여운혁</producer>
+      <producer>황선영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.181.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F578308F2045C0D0001" /></programme>
+  <programme channel="97" start="20190602140000 +0900" stop="20190602152000 +0900">
+    <title lang="kr">바람이 분다</title>
+    <desc lang="kr">바람이 분다 (1회)
+회차 : 1회
+장르 : 드라마
+출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주,김영재
+제작 : 정정화,김보경,황주하
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>감우성</actor>
+      <actor>김하늘</actor>
+      <actor>김성철</actor>
+      <actor>김가은</actor>
+      <actor>이준혁</actor>
+      <actor>윤지혜</actor>
+      <actor>박효주</actor>
+      <actor>김영재</actor>
+      <producer>정정화</producer>
+      <producer>김보경</producer>
+      <producer>황주하</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F013EB63D510F14F420731A" /></programme>
+  <programme channel="97" start="20190602152000 +0900" stop="20190602164000 +0900">
+    <title lang="kr">바람이 분다</title>
+    <desc lang="kr">바람이 분다 (2회)
+회차 : 2회
+장르 : 드라마
+출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주,김영재
+제작 : 정정화,김보경,황주하
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>감우성</actor>
+      <actor>김하늘</actor>
+      <actor>김성철</actor>
+      <actor>김가은</actor>
+      <actor>이준혁</actor>
+      <actor>윤지혜</actor>
+      <actor>박효주</actor>
+      <actor>김영재</actor>
+      <producer>정정화</producer>
+      <producer>김보경</producer>
+      <producer>황주하</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F013EB63D510F14F420731A" /></programme>
+  <programme channel="97" start="20190602164000 +0900" stop="20190602182000 +0900">
+    <title lang="kr">취존생활 스페셜</title>
+    <desc lang="kr">취존생활 스페셜 (2회)
+회차 : 2회
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190602182000 +0900" stop="20190602195500 +0900">
+    <title lang="kr">스테이지K 스페셜</title>
+    <desc lang="kr">스테이지K 스페셜 (7회)
+회차 : 7회
+장르 : 연예/오락
+출연 : 전현무,박준형,은지원,유빈,산다라 박
+제작 : 김노은,김학민
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>전현무</actor>
+      <actor>박준형</actor>
+      <actor>은지원</actor>
+      <actor>유빈</actor>
+      <actor>산다라 박</actor>
+      <producer>김노은</producer>
+      <producer>김학민</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="97" start="20190602195500 +0900" stop="20190602210000 +0900">
+    <title lang="kr">JTBC 뉴스룸</title>
+    <desc lang="kr">JTBC 뉴스룸
+장르 : 뉴스
+출연 : 손석희,안나경,김필규,이지은
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>손석희</actor>
+      <actor>안나경</actor>
+      <actor>김필규</actor>
+      <actor>이지은</actor>
+    </credits>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2e54f7329e3dfc6dfab500675d5713f8ce05b3a920594544e91d3374cec01c2b" /><episode-num system="xmltv_ns">18.601.</episode-num></programme>
+  <programme channel="97" start="20190602210000 +0900" stop="20190602225000 +0900">
+    <title lang="kr">스테이지K</title>
+    <desc lang="kr">스테이지K (8회)
+회차 : 8회
+장르 : 연예/오락
+출연 : 전현무,박준형,은지원,유빈,산다라 박
+제작 : 김노은,김학민
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>전현무</actor>
+      <actor>박준형</actor>
+      <actor>은지원</actor>
+      <actor>유빈</actor>
+      <actor>산다라 박</actor>
+      <producer>김노은</producer>
+      <producer>김학민</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F71230f736c7e418ad1ee308ee9e1aa61eba8ea460ea59c2cfc4626d319f2a66e" /></programme>
+  <programme channel="97" start="20190602225000 +0900" stop="20190603003000 +0900">
+    <title lang="kr">취존생활</title>
+    <desc lang="kr">취존생활 (2회)
+회차 : 2회
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0cf34351cc21438742ace40b88c0608163bf2e3be77a20deccb46fe127cba4a7" /></programme>
   <programme channel="110" start="20190531235500 +0900" stop="20190601004500 +0900">
     <title lang="kr">다큐세상</title>
     <sub-title lang="kr">이제는 돌봄사회 제1편 당신의 노후는 안녕하십니까</sub-title>
@@ -2987,7 +3753,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
-  <programme channel="121" start="20190601093000 +0900" stop="20190601122000 +0900">
+  <programme channel="121" start="20190601093000 +0900" stop="20190601121000 +0900">
     <title lang="kr">프로듀스 X 101</title>
     <desc lang="kr">프로듀스 X 101 (5회)
 회차 : 5회
@@ -3010,7 +3776,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
-  <programme channel="121" start="20190601122000 +0900" stop="20190601140000 +0900">
+  <programme channel="121" start="20190601121000 +0900" stop="20190601135000 +0900">
     <title lang="kr">유학소녀</title>
     <desc lang="kr">유학소녀 (2회)
 회차 : 2회
@@ -3028,11 +3794,68 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
-  <programme channel="121" start="20190601140000 +0900" stop="20190601153000 +0900">
+  <programme channel="121" start="20190601135000 +0900" stop="20190601145000 +0900">
+    <title lang="kr">네이처의 내추럴 리얼리티 기분 좋게 해드릴게요</title>
+    <desc lang="kr">네이처의 내추럴 리얼리티 기분 좋게 해드릴게요 (1회)
+회차 : 1회
+장르 : 연예/오락
+출연 : 네이처
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>네이처</actor>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb3ceeebedb3deb0275847630317146bac79f663b645b317b768ab070ff01bc94" /></programme>
+  <programme channel="121" start="20190601145000 +0900" stop="20190601173000 +0900">
+    <title lang="kr">프로듀스 X 101</title>
+    <desc lang="kr">프로듀스 X 101 (5회)
+회차 : 5회
+장르 : 연예/오락
+출연 : 이동욱,배윤정,치타,이석훈
+제작 : 안준영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이동욱</actor>
+      <actor>배윤정</actor>
+      <actor>치타</actor>
+      <actor>이석훈</actor>
+      <producer>안준영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
+  <programme channel="121" start="20190601173000 +0900" stop="20190601191000 +0900">
+    <title lang="kr">유학소녀</title>
+    <desc lang="kr">유학소녀 (2회)
+회차 : 2회
+장르 : 연예/오락
+제작 : 이연규
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <producer>이연규</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
+  <programme channel="121" start="20190601191000 +0900" stop="20190601204000 +0900">
     <title lang="kr">TMI NEWS</title>
-    <sub-title lang="kr">EXID 편</sub-title>
     <desc lang="kr">TMI NEWS (6회)
-부제 : EXID 편
 회차 : 6회
 장르 : 연예/오락
 출연 : 전현무,박준형,윤보미,딘딘
@@ -3051,7 +3874,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa238b786819e0f409d29be8575a9a5b040dc29d98ad993e12afb0ce71036cde5" /></programme>
-  <programme channel="121" start="20190601153000 +0900" stop="20190601161000 +0900">
+  <programme channel="121" start="20190601204000 +0900" stop="20190601212000 +0900">
     <title lang="kr">프로듀스 X 101 Special Clip</title>
     <desc lang="kr">프로듀스 X 101 Special Clip (1회)
 회차 : 1회
@@ -3064,66 +3887,11 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme channel="121" start="20190601161000 +0900" stop="20190601175000 +0900">
-    <title lang="kr">유학소녀</title>
-    <desc lang="kr">유학소녀 (2회)
-회차 : 2회
-장르 : 연예/오락
-제작 : 이연규
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <producer>이연규</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
-  <programme channel="121" start="20190601175000 +0900" stop="20190601192000 +0900">
-    <title lang="kr">TMI NEWS</title>
-    <sub-title lang="kr">KCON JAPAN</sub-title>
-    <desc lang="kr">TMI NEWS (6회)
-부제 : KCON JAPAN
-회차 : 6회
-장르 : 연예/오락
-출연 : 전현무,박준형,윤보미,딘딘
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>전현무</actor>
-      <actor>박준형</actor>
-      <actor>윤보미</actor>
-      <actor>딘딘</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa238b786819e0f409d29be8575a9a5b040dc29d98ad993e12afb0ce71036cde5" /></programme>
-  <programme channel="121" start="20190601192000 +0900" stop="20190601200000 +0900">
-    <title lang="kr">프로듀스 X 101 Special Clip</title>
-    <desc lang="kr">프로듀스 X 101 Special Clip (1회)
-회차 : 1회
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="121" start="20190601200000 +0900" stop="20190601230000 +0900">
+  <programme channel="121" start="20190601212000 +0900" stop="20190602002000 +0900">
     <title lang="kr">M COUNTDOWN</title>
-    <sub-title lang="kr">KCON JAPAN</sub-title>
+    <sub-title lang="kr">KCON 2019 JAPAN</sub-title>
     <desc lang="kr">M COUNTDOWN (621회)
-부제 : KCON JAPAN
+부제 : KCON 2019 JAPAN
 회차 : 621회
 장르 : 음악
 등급 : 15세 이상 관람가</desc>
@@ -7832,7 +8600,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.600.</episode-num></programme>
-  <programme channel="151" start="20190602011000 +0900" stop="20190602022000 +0900">
+  <programme channel="151" start="20190602011000 +0900" stop="20190602024000 +0900">
     <title lang="kr">가디언즈 오브 갤럭시 VOL.2</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">가디언즈 오브 갤럭시 VOL.2
@@ -7856,7 +8624,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602022000 +0900" stop="20190602035000 +0900">
+  <programme channel="151" start="20190602024000 +0900" stop="20190602035000 +0900">
     <title lang="kr">보이스3</title>
     <desc lang="kr">보이스3 (7회)
 회차 : 7회
@@ -7884,66 +8652,69 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F268f8b899caa002fdc6ec6564c661de686f2b8cbc116b213a38367995d8e9f36" /></programme>
-  <programme channel="151" start="20190602035000 +0900" stop="20190602045000 +0900">
-    <title lang="kr">2012</title>
+  <programme channel="151" start="20190602035000 +0900" stop="20190602053000 +0900">
+    <title lang="kr">아가씨:확장판</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">2012
+    <desc lang="kr">아가씨:확장판
 부제 : 1부
 장르 : 영화
-출연 : 아만다 피트,치웨텔 에지오프,존 쿠삭
-제작 : 롤랜드 에머리히
-등급 : 12세 이상 관람가
-고대 마야 문명에서부터 끊임없이 회자되어 온 인류 멸망. 2012년, 저명한 과학자들은 오랜 연구 끝에 ...</desc>
+출연 : 김민희,김태리,하정우,조진웅
+제작 : 박찬욱
+등급 : 19세 이상 관람가
+어릴 적 부모를 잃고 후견인 이모부의 엄격한 보호 아래 살아가는 귀족 아가씨, 히데코. 막대한 재산을 ...</desc>
     <credits>
-      <actor>아만다 피트</actor>
-      <actor>치웨텔 에지오프</actor>
-      <actor>존 쿠삭</actor>
-      <producer>롤랜드 에머리히</producer>
+      <actor>김민희</actor>
+      <actor>김태리</actor>
+      <actor>하정우</actor>
+      <actor>조진웅</actor>
+      <producer>박찬욱</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>19세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602045000 +0900" stop="20190602065000 +0900">
-    <title lang="kr">2012</title>
+  <programme channel="151" start="20190602053000 +0900" stop="20190602070000 +0900">
+    <title lang="kr">아가씨:확장판</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">2012
+    <desc lang="kr">아가씨:확장판
 부제 : 2부
 장르 : 영화
-출연 : 아만다 피트,치웨텔 에지오프,존 쿠삭
-제작 : 롤랜드 에머리히
-등급 : 12세 이상 관람가
-고대 마야 문명에서부터 끊임없이 회자되어 온 인류 멸망. 2012년, 저명한 과학자들은 오랜 연구 끝에 ...</desc>
+출연 : 김민희,김태리,하정우,조진웅
+제작 : 박찬욱
+등급 : 19세 이상 관람가
+어릴 적 부모를 잃고 후견인 이모부의 엄격한 보호 아래 살아가는 귀족 아가씨, 히데코. 막대한 재산을 ...</desc>
     <credits>
-      <actor>아만다 피트</actor>
-      <actor>치웨텔 에지오프</actor>
-      <actor>존 쿠삭</actor>
-      <producer>롤랜드 에머리히</producer>
+      <actor>김민희</actor>
+      <actor>김태리</actor>
+      <actor>하정우</actor>
+      <actor>조진웅</actor>
+      <producer>박찬욱</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>19세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602065000 +0900" stop="20190602074000 +0900">
-    <title lang="kr">샌 안드레아스</title>
+  <programme channel="151" start="20190602070000 +0900" stop="20190602081000 +0900">
+    <title lang="kr">콩:스컬 아일랜드</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">샌 안드레아스
+    <desc lang="kr">콩:스컬 아일랜드
 부제 : 1부
 장르 : 영화
-출연 : 드웨인 존슨,알렉산드라 다다리오,칼라 구기노,콜튼 헤인즈
-제작 : 브래드 페이튼
+출연 : 톰 히들스턴,브리 라슨,사무엘L. 잭슨,존 굿맨,토비 케벨
+제작 : 조던 보트-로버츠
 등급 : 12세 이상 관람가
-샌 안드레아스 단층이 마침내 끊어져 규모 9의 강진이 발생하자 구조헬기 조종사 드웨인 존슨은 사이가 ...</desc>
+전 세계 누구에게도 알려지지 않은 미지의 섬 스컬 아일랜드. 어느 날 세상에 존재하는 괴생명체를 쫓는...</desc>
     <credits>
-      <actor>드웨인 존슨</actor>
-      <actor>알렉산드라 다다리오</actor>
-      <actor>칼라 구기노</actor>
-      <actor>콜튼 헤인즈</actor>
-      <producer>브래드 페이튼</producer>
+      <actor>톰 히들스턴</actor>
+      <actor>브리 라슨</actor>
+      <actor>사무엘L. 잭슨</actor>
+      <actor>존 굿맨</actor>
+      <actor>토비 케벨</actor>
+      <producer>조던 보트-로버츠</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
@@ -7951,22 +8722,23 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602074000 +0900" stop="20190602090000 +0900">
-    <title lang="kr">샌 안드레아스</title>
+  <programme channel="151" start="20190602081000 +0900" stop="20190602092000 +0900">
+    <title lang="kr">콩:스컬 아일랜드</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">샌 안드레아스
+    <desc lang="kr">콩:스컬 아일랜드
 부제 : 2부
 장르 : 영화
-출연 : 드웨인 존슨,알렉산드라 다다리오,칼라 구기노,콜튼 헤인즈
-제작 : 브래드 페이튼
+출연 : 톰 히들스턴,브리 라슨,사무엘L. 잭슨,존 굿맨,토비 케벨
+제작 : 조던 보트-로버츠
 등급 : 12세 이상 관람가
-샌 안드레아스 단층이 마침내 끊어져 규모 9의 강진이 발생하자 구조헬기 조종사 드웨인 존슨은 사이가 ...</desc>
+전 세계 누구에게도 알려지지 않은 미지의 섬 스컬 아일랜드. 어느 날 세상에 존재하는 괴생명체를 쫓는...</desc>
     <credits>
-      <actor>드웨인 존슨</actor>
-      <actor>알렉산드라 다다리오</actor>
-      <actor>칼라 구기노</actor>
-      <actor>콜튼 헤인즈</actor>
-      <producer>브래드 페이튼</producer>
+      <actor>톰 히들스턴</actor>
+      <actor>브리 라슨</actor>
+      <actor>사무엘L. 잭슨</actor>
+      <actor>존 굿맨</actor>
+      <actor>토비 케벨</actor>
+      <producer>조던 보트-로버츠</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
@@ -7974,7 +8746,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602090000 +0900" stop="20190602103000 +0900">
+  <programme channel="151" start="20190602092000 +0900" stop="20190602104000 +0900">
     <title lang="kr">보이스3</title>
     <desc lang="kr">보이스3 (7회)
 회차 : 7회
@@ -8002,7 +8774,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F268f8b899caa002fdc6ec6564c661de686f2b8cbc116b213a38367995d8e9f36" /></programme>
-  <programme channel="151" start="20190602103000 +0900" stop="20190602122000 +0900">
+  <programme channel="151" start="20190602104000 +0900" stop="20190602123000 +0900">
     <title lang="kr">슈퍼배드 3</title>
     <desc lang="kr">슈퍼배드 3
 장르 : 영화
@@ -8019,7 +8791,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602122000 +0900" stop="20190602132000 +0900">
+  <programme channel="151" start="20190602123000 +0900" stop="20190602135000 +0900">
     <title lang="kr">가디언즈 오브 갤럭시 VOL.2</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">가디언즈 오브 갤럭시 VOL.2
@@ -8043,7 +8815,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602132000 +0900" stop="20190602150000 +0900">
+  <programme channel="151" start="20190602135000 +0900" stop="20190602151000 +0900">
     <title lang="kr">가디언즈 오브 갤럭시 VOL.2</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">가디언즈 오브 갤럭시 VOL.2
@@ -8067,7 +8839,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602150000 +0900" stop="20190602163000 +0900">
+  <programme channel="151" start="20190602151000 +0900" stop="20190602163000 +0900">
     <title lang="kr">보이스3</title>
     <desc lang="kr">보이스3 (7회)
 회차 : 7회
@@ -8095,7 +8867,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F268f8b899caa002fdc6ec6564c661de686f2b8cbc116b213a38367995d8e9f36" /></programme>
-  <programme channel="151" start="20190602163000 +0900" stop="20190602173000 +0900">
+  <programme channel="151" start="20190602163000 +0900" stop="20190602175000 +0900">
     <title lang="kr">그것만이 내 세상</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">그것만이 내 세상
@@ -8120,7 +8892,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602173000 +0900" stop="20190602185000 +0900">
+  <programme channel="151" start="20190602175000 +0900" stop="20190602190000 +0900">
     <title lang="kr">그것만이 내 세상</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">그것만이 내 세상
@@ -8145,23 +8917,22 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602185000 +0900" stop="20190602195000 +0900">
-    <title lang="kr">콩:스컬 아일랜드</title>
+  <programme channel="151" start="20190602190000 +0900" stop="20190602200000 +0900">
+    <title lang="kr">샌 안드레아스</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">콩:스컬 아일랜드
+    <desc lang="kr">샌 안드레아스
 부제 : 1부
 장르 : 영화
-출연 : 톰 히들스턴,브리 라슨,사무엘L. 잭슨,존 굿맨,토비 케벨
-제작 : 조던 보트-로버츠
+출연 : 드웨인 존슨,알렉산드라 다다리오,칼라 구기노,콜튼 헤인즈
+제작 : 브래드 페이튼
 등급 : 12세 이상 관람가
-전 세계 누구에게도 알려지지 않은 미지의 섬 스컬 아일랜드. 어느 날 세상에 존재하는 괴생명체를 쫓는...</desc>
+샌 안드레아스 단층이 마침내 끊어져 규모 9의 강진이 발생하자 구조헬기 조종사 드웨인 존슨은 사이가 ...</desc>
     <credits>
-      <actor>톰 히들스턴</actor>
-      <actor>브리 라슨</actor>
-      <actor>사무엘L. 잭슨</actor>
-      <actor>존 굿맨</actor>
-      <actor>토비 케벨</actor>
-      <producer>조던 보트-로버츠</producer>
+      <actor>드웨인 존슨</actor>
+      <actor>알렉산드라 다다리오</actor>
+      <actor>칼라 구기노</actor>
+      <actor>콜튼 헤인즈</actor>
+      <producer>브래드 페이튼</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
@@ -8169,23 +8940,22 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602195000 +0900" stop="20190602210000 +0900">
-    <title lang="kr">콩:스컬 아일랜드</title>
+  <programme channel="151" start="20190602200000 +0900" stop="20190602211000 +0900">
+    <title lang="kr">샌 안드레아스</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">콩:스컬 아일랜드
+    <desc lang="kr">샌 안드레아스
 부제 : 2부
 장르 : 영화
-출연 : 톰 히들스턴,브리 라슨,사무엘L. 잭슨,존 굿맨,토비 케벨
-제작 : 조던 보트-로버츠
+출연 : 드웨인 존슨,알렉산드라 다다리오,칼라 구기노,콜튼 헤인즈
+제작 : 브래드 페이튼
 등급 : 12세 이상 관람가
-전 세계 누구에게도 알려지지 않은 미지의 섬 스컬 아일랜드. 어느 날 세상에 존재하는 괴생명체를 쫓는...</desc>
+샌 안드레아스 단층이 마침내 끊어져 규모 9의 강진이 발생하자 구조헬기 조종사 드웨인 존슨은 사이가 ...</desc>
     <credits>
-      <actor>톰 히들스턴</actor>
-      <actor>브리 라슨</actor>
-      <actor>사무엘L. 잭슨</actor>
-      <actor>존 굿맨</actor>
-      <actor>토비 케벨</actor>
-      <producer>조던 보트-로버츠</producer>
+      <actor>드웨인 존슨</actor>
+      <actor>알렉산드라 다다리오</actor>
+      <actor>칼라 구기노</actor>
+      <actor>콜튼 헤인즈</actor>
+      <producer>브래드 페이튼</producer>
     </credits>
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
@@ -8193,7 +8963,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.601.</episode-num></programme>
-  <programme channel="151" start="20190602210000 +0900" stop="20190602222000 +0900">
+  <programme channel="151" start="20190602211000 +0900" stop="20190602223000 +0900">
     <title lang="kr">보이스3</title>
     <desc lang="kr">보이스3 (7회)
 회차 : 7회
@@ -8221,7 +8991,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F268f8b899caa002fdc6ec6564c661de686f2b8cbc116b213a38367995d8e9f36" /></programme>
-  <programme channel="151" start="20190602222000 +0900" stop="20190602235000 +0900">
+  <programme channel="151" start="20190602223000 +0900" stop="20190602235000 +0900">
     <title lang="kr">보이스3</title>
     <desc lang="kr">보이스3 (8회)
 회차 : 8회
@@ -8248,7 +9018,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F268f8b899caa002fdc6ec6564c661de686f2b8cbc116b213a38367995d8e9f36" /></programme>
-  <programme channel="151" start="20190602235000 +0900" stop="20190603004000 +0900">
+  <programme channel="151" start="20190602235000 +0900" stop="20190603005000 +0900">
     <title lang="kr">챔피언</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">챔피언 (2018회)
@@ -11869,7 +12639,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F95d7216568a5d8afd4cc63c22ec679faa162afa5b1975d3438102fca2942acb6" /></programme>
-  <programme channel="207" start="20190601161100 +0900" stop="20190601180000 +0900">
+  <programme channel="207" start="20190601161100 +0900" stop="20190601180500 +0900">
     <title lang="kr">현지에서 먹힐까? 미국편</title>
     <desc lang="kr">현지에서 먹힐까? 미국편 (7회)
 회차 : 7회
@@ -11893,7 +12663,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F084e5970e33c3dd39cfc77b0de29df9221617bca262c688dac460ed7ab98c95f" /></programme>
-  <programme channel="207" start="20190601180000 +0900" stop="20190601193000 +0900">
+  <programme channel="207" start="20190601180500 +0900" stop="20190601193500 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">놀라운 토요일 (12회)
@@ -11921,7 +12691,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190601193000 +0900" stop="20190601210000 +0900">
+  <programme channel="207" start="20190601193500 +0900" stop="20190601211000 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">2부 송경아, 송해나</sub-title>
     <desc lang="kr">놀라운 토요일 (61회)
@@ -11948,7 +12718,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190601210000 +0900" stop="20190601223000 +0900">
+  <programme channel="207" start="20190601211000 +0900" stop="20190601224500 +0900">
     <title lang="kr">아스달 연대기</title>
     <sub-title lang="kr">첫 방송</sub-title>
     <desc lang="kr">아스달 연대기 (1회)
@@ -11982,7 +12752,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190601223000 +0900" stop="20190602000000 +0900">
+  <programme channel="207" start="20190601224500 +0900" stop="20190602002500 +0900">
     <title lang="kr">짠내투어</title>
     <sub-title lang="kr">도쿄 4편</sub-title>
     <desc lang="kr">짠내투어 (78회)
@@ -12006,7 +12776,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe316219e23a994ee1e8efe7b057cd6f06127afe4194001fb50760810eb60e2fb" /></programme>
-  <programme channel="207" start="20190602000000 +0900" stop="20190602020000 +0900">
+  <programme channel="207" start="20190602002500 +0900" stop="20190602021800 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (1회)
 회차 : 1회
@@ -12031,7 +12801,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190602020000 +0900" stop="20190602035000 +0900">
+  <programme channel="207" start="20190602021800 +0900" stop="20190602035800 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (1회)
 회차 : 1회
@@ -12064,7 +12834,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190602035000 +0900" stop="20190602051000 +0900">
+  <programme channel="207" start="20190602035800 +0900" stop="20190602051700 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (52회)
 회차 : 52회
@@ -12086,7 +12856,19 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190602051000 +0900" stop="20190602063000 +0900">
+  <programme channel="207" start="20190602051700 +0900" stop="20190602060000 +0900">
+    <title lang="kr">코미디 빅리그 Hot clip</title>
+    <desc lang="kr">코미디 빅리그 Hot clip
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /><episode-num system="xmltv_ns">18.601.</episode-num></programme>
+  <programme channel="207" start="20190602060000 +0900" stop="20190602071000 +0900">
     <title lang="kr">손세이셔널-그를 만든 시간</title>
     <desc lang="kr">손세이셔널-그를 만든 시간 (1회)
 회차 : 1회
@@ -12104,7 +12886,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F21d748e27c90e21efa2191726c239e032c10187a8d3b804d52e2f3d24e6500a7" /></programme>
-  <programme channel="207" start="20190602063000 +0900" stop="20190602080000 +0900">
+  <programme channel="207" start="20190602071000 +0900" stop="20190602083000 +0900">
     <title lang="kr">어비스</title>
     <desc lang="kr">어비스 (7회)
 회차 : 7회
@@ -12131,7 +12913,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Faaaaedc7d207d474e74bb66614b00801bb3ac4cef85620e04434d204fae3c5d9" /></programme>
-  <programme channel="207" start="20190602080000 +0900" stop="20190602093000 +0900">
+  <programme channel="207" start="20190602083000 +0900" stop="20190602094000 +0900">
     <title lang="kr">어비스</title>
     <desc lang="kr">어비스 (8회)
 회차 : 8회
@@ -12158,7 +12940,7 @@ PM12:00 철통 같은 경비 속, 미국 대통령이 저격 당하다 스페인
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Faaaaedc7d207d474e74bb66614b00801bb3ac4cef85620e04434d204fae3c5d9" /></programme>
-  <programme channel="207" start="20190602093000 +0900" stop="20190602112000 +0900">
+  <programme channel="207" start="20190602094000 +0900" stop="20190602112000 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (1회)
 회차 : 1회
