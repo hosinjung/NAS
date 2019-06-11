@@ -376,7 +376,20 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58352AD80231AC0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611110000 +0900" stop="20190611115000 +0900">
+  <programme channel="110" start="20190611110000 +0900" stop="20190611111000 +0900">
+    <title lang="kr">KBS 뉴스특보</title>
+    <sub-title lang="kr">고 이희호 여사 유언공개</sub-title>
+    <desc lang="kr">KBS 뉴스특보
+부제 : 고 이희호 여사 유언공개
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="110" start="20190611111000 +0900" stop="20190611120000 +0900">
     <title lang="kr">걸어서 세계속으로</title>
     <desc lang="kr">걸어서 세계속으로
 장르 : 시사/다큐
@@ -388,7 +401,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F561DB76F0138240002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611110000 +0900" stop="20190611115000 +0900">
+  <programme channel="110" start="20190611111000 +0900" stop="20190611120000 +0900">
     <title lang="kr">걸어서 세계속으로</title>
     <desc lang="kr">걸어서 세계속으로
 장르 : 시사/다큐
@@ -400,18 +413,6 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F561DB76F0138240002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611115000 +0900" stop="20190611120000 +0900">
-    <title lang="kr">UHD 한식의 마음</title>
-    <desc lang="kr">UHD 한식의 마음
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb83fee2a5bdffe16c50bca635940383d00fc8b358d192571160bf693c6499578" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="110" start="20190611120000 +0900" stop="20190611130000 +0900">
     <title lang="kr">KBS 뉴스 12</title>
     <desc lang="kr">KBS 뉴스 12
@@ -423,111 +424,31 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbe29a2cac83367d67982fadcf9966957b104247f0324102d834dab9a5732ae3d" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611130000 +0900" stop="20190611135000 +0900">
-    <title lang="kr">KBS 네트워크 특선 거북이 늬우스</title>
-    <desc lang="kr">KBS 네트워크 특선 거북이 늬우스
-장르 : 교양/정보
+  <programme channel="110" start="20190611130000 +0900" stop="20190611133000 +0900">
+    <title lang="kr">영상앨범 산</title>
+    <desc lang="kr">영상앨범 산
+장르 : 시사/다큐
 등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611135000 +0900" stop="20190611144000 +0900">
-    <title lang="kr">우리말 겨루기</title>
-    <desc lang="kr">우리말 겨루기
-장르 : 연예/오락
-출연 : 김현우(PD/연출)
-제작 : 김현우
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김현우(PD/연출)</actor>
-      <producer>김현우</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56DFD5A10168BE0003" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611144000 +0900" stop="20190611145000 +0900">
-    <title lang="kr">팔도밥상 스페셜</title>
-    <desc lang="kr">팔도밥상 스페셜
-장르 : 교양/정보
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Feab251c55de68678031dfae7e85e88aa94e839f505f774e3b0cb75644ce1ea74" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="110" start="20190611133000 +0900" stop="20190611160000 +0900">
+    <title lang="kr">KBS 뉴스특보</title>
+    <sub-title lang="kr">헝가리 유람선 인양</sub-title>
+    <desc lang="kr">KBS 뉴스특보
+부제 : 헝가리 유람선 인양
+장르 : 시사/다큐
 등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611144000 +0900" stop="20190611145000 +0900">
-    <title lang="kr">팔도밥상 스페셜</title>
-    <desc lang="kr">팔도밥상 스페셜
-장르 : 교양/정보
-등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611145000 +0900" stop="20190611150000 +0900">
-    <title lang="kr">세계는 지금 스페셜</title>
-    <desc lang="kr">세계는 지금 스페셜
-장르 : 교양/정보
-등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile128.uf.daum.net%2Fimage%2F2330904F526A32253C5DAD" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611145000 +0900" stop="20190611150000 +0900">
-    <title lang="kr">세계는 지금 스페셜</title>
-    <desc lang="kr">세계는 지금 스페셜
-장르 : 교양/정보
-등급 : 전체 관람가</desc>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile128.uf.daum.net%2Fimage%2F2330904F526A32253C5DAD" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611150000 +0900" stop="20190611160000 +0900">
-    <title lang="kr">가요무대</title>
-    <desc lang="kr">가요무대
-장르 : 음악
-출연 : 김동건
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김동건</actor>
-    </credits>
-    <category lang="kr">음악</category>
-    <category lang="en">Music / Ballet / Dance</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F951d7b05c5115eb69ee53a12baf2ffdaf3e8e4c6" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611150000 +0900" stop="20190611160000 +0900">
-    <title lang="kr">가요무대</title>
-    <desc lang="kr">가요무대
-장르 : 음악
-출연 : 김동건
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김동건</actor>
-    </credits>
-    <category lang="kr">음악</category>
-    <category lang="en">Music / Ballet / Dance</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F951d7b05c5115eb69ee53a12baf2ffdaf3e8e4c6" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="110" start="20190611160000 +0900" stop="20190611170000 +0900">
     <title lang="kr">사사건건</title>
     <desc lang="kr">사사건건
@@ -539,20 +460,11 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F67bb42ebfa169b181dfe86400dc2aff2eb573691365de2645210a48c3d292594" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611170000 +0900" stop="20190611173000 +0900">
-    <title lang="kr">KBS 뉴스 5</title>
-    <desc lang="kr">KBS 뉴스 5
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7c406e801f2a0fbdb5082052d577aabb036b6edd47070dea20f729bf67d28132" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611173000 +0900" stop="20190611175500 +0900">
-    <title lang="kr">동물의 왕국</title>
-    <desc lang="kr">동물의 왕국
+  <programme channel="110" start="20190611170000 +0900" stop="20190611175500 +0900">
+    <title lang="kr">KBS 뉴스특보</title>
+    <sub-title lang="kr">헝가리 유람선 인양</sub-title>
+    <desc lang="kr">KBS 뉴스특보
+부제 : 헝가리 유람선 인양
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -560,18 +472,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5704B30204417C0002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="110" start="20190611173000 +0900" stop="20190611175500 +0900">
-    <title lang="kr">동물의 왕국</title>
-    <desc lang="kr">동물의 왕국
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5704B30204417C0002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="110" start="20190611175500 +0900" stop="20190611180000 +0900">
     <title lang="kr">나의 독립 영웅</title>
     <sub-title lang="kr">한징</sub-title>
@@ -1412,6 +1313,1191 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9d1092810a583305d7267c2badd9f3c87e6c15fb14aa26ed6454a6175a8ee83f" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190610235500 +0900" stop="20190611003500 +0900">
+    <title lang="kr">안녕하세요</title>
+    <sub-title lang="kr">2부</sub-title>
+    <desc lang="kr">안녕하세요
+부제 : 2부
+장르 : 연예/오락
+출연 : 이영자,신동엽,정찬우,김태균,최태준
+제작 : 오현숙,이예지,이세희,전온누
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이영자</actor>
+      <actor>신동엽</actor>
+      <actor>정찬우</actor>
+      <actor>김태균</actor>
+      <actor>최태준</actor>
+      <producer>오현숙</producer>
+      <producer>이예지</producer>
+      <producer>이세희</producer>
+      <producer>전온누</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd7f5b39041a067526fc370feecf9aa7a47af79dda4641df92fde194f26ec2bcb" /><episode-num system="xmltv_ns">18.609.</episode-num></programme>
+  <programme channel="111" start="20190610235500 +0900" stop="20190611003500 +0900">
+    <title lang="kr">안녕하세요</title>
+    <sub-title lang="kr">2부</sub-title>
+    <desc lang="kr">안녕하세요
+부제 : 2부
+장르 : 연예/오락
+출연 : 이영자,신동엽,정찬우,김태균,최태준
+제작 : 오현숙,이예지,이세희,전온누
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이영자</actor>
+      <actor>신동엽</actor>
+      <actor>정찬우</actor>
+      <actor>김태균</actor>
+      <actor>최태준</actor>
+      <producer>오현숙</producer>
+      <producer>이예지</producer>
+      <producer>이세희</producer>
+      <producer>전온누</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd7f5b39041a067526fc370feecf9aa7a47af79dda4641df92fde194f26ec2bcb" /><episode-num system="xmltv_ns">18.609.</episode-num></programme>
+  <programme channel="111" start="20190611003500 +0900" stop="20190611012500 +0900">
+    <title lang="kr">트레킹노트 세상을 걷다 스페셜</title>
+    <desc lang="kr">트레킹노트 세상을 걷다 스페셜
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611012500 +0900" stop="20190611022000 +0900">
+    <title lang="kr">거리의 만찬</title>
+    <desc lang="kr">거리의 만찬
+장르 : 시사/다큐
+출연 : 주호영,노회찬,임방글
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>주호영</actor>
+      <actor>노회찬</actor>
+      <actor>임방글</actor>
+    </credits>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5cb419ac6a0605f9779ee695fe871230f661de56690951d9944012107140566f" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611022000 +0900" stop="20190611023000 +0900">
+    <title lang="kr">KBS 재난방송센터</title>
+    <desc lang="kr">KBS 재난방송센터
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611022000 +0900" stop="20190611023000 +0900">
+    <title lang="kr">KBS 재난방송센터</title>
+    <desc lang="kr">KBS 재난방송센터
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611050000 +0900" stop="20190611050500 +0900">
+    <title lang="kr">숨터</title>
+    <desc lang="kr">숨터
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5704BBAB0377E30001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611050500 +0900" stop="20190611060000 +0900">
+    <title lang="kr">걸어서 세계속으로</title>
+    <desc lang="kr">걸어서 세계속으로
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F561DB76F0138240002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611060000 +0900" stop="20190611070000 +0900">
+    <title lang="kr">생방송 아침이 좋다</title>
+    <sub-title lang="kr">1부</sub-title>
+    <desc lang="kr">생방송 아침이 좋다
+부제 : 1부
+장르 : 교양/정보
+출연 : 이지연,한상헌
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>이지연</actor>
+      <actor>한상헌</actor>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F571D8539026A9C0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611070000 +0900" stop="20190611080000 +0900">
+    <title lang="kr">생방송 아침이 좋다</title>
+    <sub-title lang="kr">2부</sub-title>
+    <desc lang="kr">생방송 아침이 좋다
+부제 : 2부
+장르 : 교양/정보
+출연 : 이지연,한상헌
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>이지연</actor>
+      <actor>한상헌</actor>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F571D8539026A9C0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611080000 +0900" stop="20190611090000 +0900">
+    <title lang="kr">KBS 아침 뉴스타임</title>
+    <desc lang="kr">KBS 아침 뉴스타임
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F52c779275d900485f442284f9cd7249786582aa6b971c57677a68967c2067c4f" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611090000 +0900" stop="20190611094000 +0900">
+    <title lang="kr">여름아 부탁해</title>
+    <desc lang="kr">여름아 부탁해 (30회)
+회차 : 30회
+장르 : 드라마
+출연 : 강석우(주용진),김예령(변명자),김혜옥(나영심),손종범(박수철),이영은(왕금희),이한위(왕재
+제작 : 성준해,구지원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>강석우(주용진)</actor>
+      <actor>김예령(변명자)</actor>
+      <actor>김혜옥(나영심)</actor>
+      <actor>손종범(박수철)</actor>
+      <actor>이영은(왕금희)</actor>
+      <actor>이한위(왕재</actor>
+      <producer>성준해</producer>
+      <producer>구지원</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.29.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F596e6d0553a17e48945221f9dd417d7af923c21e4cb09eb3f800419dc42f5001" /></programme>
+  <programme channel="111" start="20190611094000 +0900" stop="20190611104000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611094000 +0900" stop="20190611104000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611104000 +0900" stop="20190611110000 +0900">
+    <title lang="kr">지구촌 뉴스</title>
+    <desc lang="kr">지구촌 뉴스
+장르 : 뉴스
+출연 : 오언종
+제작 : 이지연
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>오언종</actor>
+      <producer>이지연</producer>
+    </credits>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1f3aa5c2873a3e4ce55e29e37801945d059e9a4be3ff9f0510b584e97d33e57c" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611110000 +0900" stop="20190611121000 +0900">
+    <title lang="kr">퍼퓸</title>
+    <desc lang="kr">퍼퓸 (5,6회)
+회차 : 5,6회
+장르 : 드라마
+출연 : 이한위(조춘오),조한철(김태준),차예련(한지나),신성록(서이도),하재숙(민재희),김기두(박준
+제작 : 이대경
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이한위(조춘오)</actor>
+      <actor>조한철(김태준)</actor>
+      <actor>차예련(한지나)</actor>
+      <actor>신성록(서이도)</actor>
+      <actor>하재숙(민재희)</actor>
+      <actor>김기두(박준</actor>
+      <producer>이대경</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F77f54bfbcbf7fd00e6823aae5ae78ae89972ca0bbeb0f44bfe601f90def72b16" /></programme>
+  <programme channel="111" start="20190611121000 +0900" stop="20190611125500 +0900">
+    <title lang="kr">생생정보 스페셜</title>
+    <desc lang="kr">생생정보 스페셜
+장르 : 교양/정보
+출연 : 도경완,이슬기,조충현
+제작 : 박석규
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>도경완</actor>
+      <actor>이슬기</actor>
+      <actor>조충현</actor>
+      <producer>박석규</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611125500 +0900" stop="20190611140000 +0900">
+    <title lang="kr">살림하는 남자들</title>
+    <desc lang="kr">살림하는 남자들
+장르 : 연예/오락
+출연 : 백일섭,정원관,일라이
+제작 : 조현아,이민정
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>백일섭</actor>
+      <actor>정원관</actor>
+      <actor>일라이</actor>
+      <producer>조현아</producer>
+      <producer>이민정</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AB9432041D400001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611125500 +0900" stop="20190611140000 +0900">
+    <title lang="kr">살림하는 남자들</title>
+    <desc lang="kr">살림하는 남자들
+장르 : 연예/오락
+출연 : 백일섭,정원관,일라이
+제작 : 조현아,이민정
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>백일섭</actor>
+      <actor>정원관</actor>
+      <actor>일라이</actor>
+      <producer>조현아</producer>
+      <producer>이민정</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AB9432041D400001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611140000 +0900" stop="20190611141000 +0900">
+    <title lang="kr">UHD 한식의 마음</title>
+    <desc lang="kr">UHD 한식의 마음
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb83fee2a5bdffe16c50bca635940383d00fc8b358d192571160bf693c6499578" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611141000 +0900" stop="20190611150000 +0900">
+    <title lang="kr">생활의 발견</title>
+    <desc lang="kr">생활의 발견
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57B65E7C0603190001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611150000 +0900" stop="20190611153000 +0900">
+    <title lang="kr">자동공부책상 위키 2</title>
+    <desc lang="kr">자동공부책상 위키 2
+장르 : 만화
+제작 : 한경택,기훈석,정효영
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>한경택</producer>
+      <producer>기훈석</producer>
+      <producer>정효영</producer>
+    </credits>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe221ca22eae3279b568951627458f11d6e5e9f83ead8a94944e217775bd4c5f2" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611153000 +0900" stop="20190611160000 +0900">
+    <title lang="kr">TV 유치원</title>
+    <desc lang="kr">TV 유치원
+장르 : 교육
+제작 : 기훈석,염지선
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>기훈석</producer>
+      <producer>염지선</producer>
+    </credits>
+    <category lang="kr">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc2784ad97e484be4d9f8ccdb173cb0247c1fa6e7a3d52f4efd8f57dc93c6f90e" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611160000 +0900" stop="20190611170000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611160000 +0900" stop="20190611170000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611170000 +0900" stop="20190611180000 +0900">
+    <title lang="kr">다큐멘터리 3일</title>
+    <desc lang="kr">다큐멘터리 3일
+장르 : 시사/다큐
+제작 : 장영주
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>장영주</producer>
+    </credits>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56CD66AA02210A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611170000 +0900" stop="20190611180000 +0900">
+    <title lang="kr">다큐멘터리 3일</title>
+    <desc lang="kr">다큐멘터리 3일
+장르 : 시사/다큐
+제작 : 장영주
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>장영주</producer>
+    </credits>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56CD66AA02210A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611180000 +0900" stop="20190611183000 +0900">
+    <title lang="kr">KBS 경제타임</title>
+    <desc lang="kr">KBS 경제타임
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa16596cd4cd8bf9c2a66d97fba4f220e83dae1e3c7338fa0141889607d48423a" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611183000 +0900" stop="20190611195000 +0900">
+    <title lang="kr">2TV 생생정보</title>
+    <desc lang="kr">2TV 생생정보
+장르 : 교양/정보
+출연 : 도경완,이슬기,조충현
+제작 : 박석규
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>도경완</actor>
+      <actor>이슬기</actor>
+      <actor>조충현</actor>
+      <producer>박석규</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F569C3EE902399C0002" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611195000 +0900" stop="20190611220000 +0900">
+    <title lang="kr">축구 국가대표 평가전</title>
+    <sub-title lang="kr">대한민국:이란,서울</sub-title>
+    <desc lang="kr">축구 국가대표 평가전
+부제 : 대한민국:이란,서울
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611195000 +0900" stop="20190611220000 +0900">
+    <title lang="kr">축구 국가대표 평가전</title>
+    <sub-title lang="kr">대한민국:이란,서울</sub-title>
+    <desc lang="kr">축구 국가대표 평가전
+부제 : 대한민국:이란,서울
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="111" start="20190611220000 +0900" stop="20190611223500 +0900">
+    <title lang="kr">퍼퓸</title>
+    <desc lang="kr">퍼퓸 (7회)
+회차 : 7회
+장르 : 드라마
+출연 : 이한위(조춘오),조한철(김태준),차예련(한지나),신성록(서이도),하재숙(민재희),김기두(박준
+제작 : 이대경
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이한위(조춘오)</actor>
+      <actor>조한철(김태준)</actor>
+      <actor>차예련(한지나)</actor>
+      <actor>신성록(서이도)</actor>
+      <actor>하재숙(민재희)</actor>
+      <actor>김기두(박준</actor>
+      <producer>이대경</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F77f54bfbcbf7fd00e6823aae5ae78ae89972ca0bbeb0f44bfe601f90def72b16" /></programme>
+  <programme channel="111" start="20190611223500 +0900" stop="20190611231000 +0900">
+    <title lang="kr">퍼퓸</title>
+    <desc lang="kr">퍼퓸 (8회)
+회차 : 8회
+장르 : 드라마
+출연 : 이한위(조춘오),조한철(김태준),차예련(한지나),신성록(서이도),하재숙(민재희),김기두(박준
+제작 : 이대경
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이한위(조춘오)</actor>
+      <actor>조한철(김태준)</actor>
+      <actor>차예련(한지나)</actor>
+      <actor>신성록(서이도)</actor>
+      <actor>하재숙(민재희)</actor>
+      <actor>김기두(박준</actor>
+      <producer>이대경</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F77f54bfbcbf7fd00e6823aae5ae78ae89972ca0bbeb0f44bfe601f90def72b16" /></programme>
+  <programme channel="111" start="20190611231000 +0900" stop="20190612001500 +0900">
+    <title lang="kr">회사 가기 싫어 2019</title>
+    <desc lang="kr">회사 가기 싫어 2019 (9회)
+회차 : 9회
+장르 : 드라마
+출연 : 김동완(강백호),한수연(윤희수),소주연(이유진)
+제작 : 조나은
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>김동완(강백호)</actor>
+      <actor>한수연(윤희수)</actor>
+      <actor>소주연(이유진)</actor>
+      <producer>조나은</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb027b1e956ea1f190b72b1eea04d669e5a6c86684a7dab0fb73e152a77e912b9" /></programme>
+  <programme channel="111" start="20190612001500 +0900" stop="20190612011000 +0900">
+    <title lang="kr">김영철의 동네 한 바퀴</title>
+    <desc lang="kr">김영철의 동네 한 바퀴
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd806046b664dc9a9a9a85381fc2f9c960645f89dbb1c03d1f86efbe0d76dbcb0" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612011000 +0900" stop="20190612012000 +0900">
+    <title lang="kr">KBS 재난방송센터</title>
+    <desc lang="kr">KBS 재난방송센터
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612011000 +0900" stop="20190612012000 +0900">
+    <title lang="kr">KBS 재난방송센터</title>
+    <desc lang="kr">KBS 재난방송센터
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612012000 +0900" stop="20190612024000 +0900">
+    <title lang="kr">2019 FIFA U-20 월드컵 대한민국 경기 하이라이트</title>
+    <desc lang="kr">2019 FIFA U-20 월드컵 대한민국 경기 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612024000 +0900" stop="20190612060000 +0900">
+    <title lang="kr">2019 FIFA U-20 월드컵 준결승전</title>
+    <sub-title lang="kr">대한민국:에콰도르,폴란드</sub-title>
+    <desc lang="kr">2019 FIFA U-20 월드컵 준결승전
+부제 : 대한민국:에콰도르,폴란드
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612060000 +0900" stop="20190612063000 +0900">
+    <title lang="kr">코리언 지오그래픽 플러스</title>
+    <desc lang="kr">코리언 지오그래픽 플러스
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612063000 +0900" stop="20190612073000 +0900">
+    <title lang="kr">생방송 아침이 좋다</title>
+    <desc lang="kr">생방송 아침이 좋다
+장르 : 교양/정보
+출연 : 이지연,한상헌
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>이지연</actor>
+      <actor>한상헌</actor>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F571D8539026A9C0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612073000 +0900" stop="20190612080000 +0900">
+    <title lang="kr">강력추천 배틀 트립</title>
+    <desc lang="kr">강력추천 배틀 트립
+장르 : 연예/오락
+출연 : 이휘재,김숙,성시경
+제작 : 손지원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이휘재</actor>
+      <actor>김숙</actor>
+      <actor>성시경</actor>
+      <producer>손지원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F570B3318010BFE0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612080000 +0900" stop="20190612090000 +0900">
+    <title lang="kr">KBS 아침 뉴스타임</title>
+    <desc lang="kr">KBS 아침 뉴스타임
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F52c779275d900485f442284f9cd7249786582aa6b971c57677a68967c2067c4f" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612090000 +0900" stop="20190612094000 +0900">
+    <title lang="kr">여름아 부탁해</title>
+    <desc lang="kr">여름아 부탁해 (31회)
+회차 : 31회
+장르 : 드라마
+출연 : 강석우(주용진),김예령(변명자),김혜옥(나영심),손종범(박수철),이영은(왕금희),이한위(왕재
+제작 : 성준해,구지원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>강석우(주용진)</actor>
+      <actor>김예령(변명자)</actor>
+      <actor>김혜옥(나영심)</actor>
+      <actor>손종범(박수철)</actor>
+      <actor>이영은(왕금희)</actor>
+      <actor>이한위(왕재</actor>
+      <producer>성준해</producer>
+      <producer>구지원</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.30.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F596e6d0553a17e48945221f9dd417d7af923c21e4cb09eb3f800419dc42f5001" /></programme>
+  <programme channel="111" start="20190612094000 +0900" stop="20190612104000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612094000 +0900" stop="20190612104000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612104000 +0900" stop="20190612110000 +0900">
+    <title lang="kr">지구촌 뉴스</title>
+    <desc lang="kr">지구촌 뉴스
+장르 : 뉴스
+출연 : 오언종
+제작 : 이지연
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>오언종</actor>
+      <producer>이지연</producer>
+    </credits>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1f3aa5c2873a3e4ce55e29e37801945d059e9a4be3ff9f0510b584e97d33e57c" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612110000 +0900" stop="20190612130000 +0900">
+    <title lang="kr">단, 하나의 사랑</title>
+    <sub-title lang="kr">9~12회</sub-title>
+    <desc lang="kr">단, 하나의 사랑
+부제 : 9~12회
+장르 : 드라마
+출연 : 우희진(정유미),도지원(최영자),이동건(지강우),김인권(후),김승욱(금기천),,길은혜(금루나)
+제작 : 이정섭
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>우희진(정유미)</actor>
+      <actor>도지원(최영자)</actor>
+      <actor>이동건(지강우)</actor>
+      <actor>김인권(후)</actor>
+      <actor>김승욱(금기천)</actor>
+      <actor>길은혜(금루나)</actor>
+      <producer>이정섭</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F590f826f61850ece0b60ae18ebc8c64991edf92654af62988cc895d0fcc243b0" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612130000 +0900" stop="20190612140000 +0900">
+    <title lang="kr">트레킹노트 세상을 걷다 스페셜</title>
+    <desc lang="kr">트레킹노트 세상을 걷다 스페셜
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612140000 +0900" stop="20190612141000 +0900">
+    <title lang="kr">KBS 뉴스타임</title>
+    <desc lang="kr">KBS 뉴스타임
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9f1c1b55c9fb7c3ab8534f795ca1b51edb11b5fdadb334f5cd31da16e70a9171" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612141000 +0900" stop="20190612150000 +0900">
+    <title lang="kr">생활의 발견</title>
+    <desc lang="kr">생활의 발견
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57B65E7C0603190001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612150000 +0900" stop="20190612153000 +0900">
+    <title lang="kr">자동공부책상 위키 2</title>
+    <desc lang="kr">자동공부책상 위키 2
+장르 : 만화
+제작 : 한경택,기훈석,정효영
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>한경택</producer>
+      <producer>기훈석</producer>
+      <producer>정효영</producer>
+    </credits>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe221ca22eae3279b568951627458f11d6e5e9f83ead8a94944e217775bd4c5f2" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612153000 +0900" stop="20190612160000 +0900">
+    <title lang="kr">TV 유치원</title>
+    <desc lang="kr">TV 유치원
+장르 : 교육
+제작 : 기훈석,염지선
+등급 : 전체 관람가</desc>
+    <credits>
+      <producer>기훈석</producer>
+      <producer>염지선</producer>
+    </credits>
+    <category lang="kr">교육</category>
+    <category lang="en">Education / Science / Factual topics</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc2784ad97e484be4d9f8ccdb173cb0247c1fa6e7a3d52f4efd8f57dc93c6f90e" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612160000 +0900" stop="20190612170000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612160000 +0900" stop="20190612170000 +0900">
+    <title lang="kr">그녀들의 여유만만</title>
+    <desc lang="kr">그녀들의 여유만만
+장르 : 연예/오락
+출연 : 김보민,이선영,조수빈,김민정,이슬기,이재성
+제작 : 문장원
+등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김보민</actor>
+      <actor>이선영</actor>
+      <actor>조수빈</actor>
+      <actor>김민정</actor>
+      <actor>이슬기</actor>
+      <actor>이재성</actor>
+      <producer>문장원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc434dd7a7f2f3c476944fbab384a8e5516558b72d48af035f2407cf4ff8669ca" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612170000 +0900" stop="20190612173000 +0900">
+    <title lang="kr">파파독 2</title>
+    <desc lang="kr">파파독 2
+장르 : 만화
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F54594cf6aef2d499ca4dab9c49f28dc5423f85a7c898259317381f176d1b9a25" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612173000 +0900" stop="20190612180000 +0900">
+    <title lang="kr">강력추천 배틀 트립</title>
+    <desc lang="kr">강력추천 배틀 트립
+장르 : 연예/오락
+출연 : 이휘재,김숙,성시경
+제작 : 손지원
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>이휘재</actor>
+      <actor>김숙</actor>
+      <actor>성시경</actor>
+      <producer>손지원</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F570B3318010BFE0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612180000 +0900" stop="20190612183000 +0900">
+    <title lang="kr">KBS 경제타임</title>
+    <desc lang="kr">KBS 경제타임
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa16596cd4cd8bf9c2a66d97fba4f220e83dae1e3c7338fa0141889607d48423a" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612183000 +0900" stop="20190612195000 +0900">
+    <title lang="kr">2TV 생생정보</title>
+    <desc lang="kr">2TV 생생정보
+장르 : 교양/정보
+출연 : 도경완,이슬기,조충현
+제작 : 박석규
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>도경완</actor>
+      <actor>이슬기</actor>
+      <actor>조충현</actor>
+      <producer>박석규</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F569C3EE902399C0002" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612195000 +0900" stop="20190612203000 +0900">
+    <title lang="kr">태양의 계절</title>
+    <desc lang="kr">태양의 계절 (7회)
+회차 : 7회
+장르 : 드라마
+출연 : 정한용(장월천),유태웅(박재용),김나운(장숙희),이덕희(장정희),,윤소이(윤시월),황범식(황재
+제작 : 김원용
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>정한용(장월천)</actor>
+      <actor>유태웅(박재용)</actor>
+      <actor>김나운(장숙희)</actor>
+      <actor>이덕희(장정희)</actor>
+      <actor>윤소이(윤시월)</actor>
+      <actor>황범식(황재</actor>
+      <producer>김원용</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb16d76901e789d3ef64d1c5364e74b1bf59b9a164c5754ceb45c6dbe739b9163" /></programme>
+  <programme channel="111" start="20190612203000 +0900" stop="20190612205500 +0900">
+    <title lang="kr">글로벌24</title>
+    <desc lang="kr">글로벌24
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbf2f6bcdbf202f06f99d54eb86c31ba52b1b988897436656e5b05b7afd63e8c3" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612205500 +0900" stop="20190612220000 +0900">
+    <title lang="kr">살림하는 남자들</title>
+    <desc lang="kr">살림하는 남자들
+장르 : 연예/오락
+출연 : 백일섭,정원관,일라이
+제작 : 조현아,이민정
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>백일섭</actor>
+      <actor>정원관</actor>
+      <actor>일라이</actor>
+      <producer>조현아</producer>
+      <producer>이민정</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AB9432041D400001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612205500 +0900" stop="20190612220000 +0900">
+    <title lang="kr">살림하는 남자들</title>
+    <desc lang="kr">살림하는 남자들
+장르 : 연예/오락
+출연 : 백일섭,정원관,일라이
+제작 : 조현아,이민정
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>백일섭</actor>
+      <actor>정원관</actor>
+      <actor>일라이</actor>
+      <producer>조현아</producer>
+      <producer>이민정</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AB9432041D400001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612220000 +0900" stop="20190612223500 +0900">
+    <title lang="kr">단, 하나의 사랑</title>
+    <desc lang="kr">단, 하나의 사랑 (13회)
+회차 : 13회
+장르 : 드라마
+출연 : 우희진(정유미),도지원(최영자),이동건(지강우),김인권(후),김승욱(금기천),,길은혜(금루나)
+제작 : 이정섭
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>우희진(정유미)</actor>
+      <actor>도지원(최영자)</actor>
+      <actor>이동건(지강우)</actor>
+      <actor>김인권(후)</actor>
+      <actor>김승욱(금기천)</actor>
+      <actor>길은혜(금루나)</actor>
+      <producer>이정섭</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.12.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F590f826f61850ece0b60ae18ebc8c64991edf92654af62988cc895d0fcc243b0" /></programme>
+  <programme channel="111" start="20190612223500 +0900" stop="20190612231000 +0900">
+    <title lang="kr">단, 하나의 사랑</title>
+    <desc lang="kr">단, 하나의 사랑 (14회)
+회차 : 14회
+장르 : 드라마
+출연 : 우희진(정유미),도지원(최영자),이동건(지강우),김인권(후),김승욱(금기천),,길은혜(금루나)
+제작 : 이정섭
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>우희진(정유미)</actor>
+      <actor>도지원(최영자)</actor>
+      <actor>이동건(지강우)</actor>
+      <actor>김인권(후)</actor>
+      <actor>김승욱(금기천)</actor>
+      <actor>길은혜(금루나)</actor>
+      <producer>이정섭</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.13.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F590f826f61850ece0b60ae18ebc8c64991edf92654af62988cc895d0fcc243b0" /></programme>
+  <programme channel="111" start="20190612231000 +0900" stop="20190613000000 +0900">
+    <title lang="kr">불후의 명곡 전설을 노래하다</title>
+    <sub-title lang="kr">1부</sub-title>
+    <desc lang="kr">불후의 명곡 전설을 노래하다
+부제 : 1부
+장르 : 연예/오락
+출연 : 신동엽,정재형,문희준,바이브(윤민수)
+제작 : 권재영,김해룡
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>신동엽</actor>
+      <actor>정재형</actor>
+      <actor>문희준</actor>
+      <actor>바이브(윤민수)</actor>
+      <producer>권재영</producer>
+      <producer>김해룡</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F696bbcd0352ed016c1c4e8a90624d1c965cb78cc65b0e60917d5bbf56ddd0098" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="111" start="20190612231000 +0900" stop="20190613000000 +0900">
+    <title lang="kr">불후의 명곡 전설을 노래하다</title>
+    <sub-title lang="kr">1부</sub-title>
+    <desc lang="kr">불후의 명곡 전설을 노래하다
+부제 : 1부
+장르 : 연예/오락
+출연 : 신동엽,정재형,문희준,바이브(윤민수)
+제작 : 권재영,김해룡
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>신동엽</actor>
+      <actor>정재형</actor>
+      <actor>문희준</actor>
+      <actor>바이브(윤민수)</actor>
+      <producer>권재영</producer>
+      <producer>김해룡</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F696bbcd0352ed016c1c4e8a90624d1c965cb78cc65b0e60917d5bbf56ddd0098" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="121" start="20190610225000 +0900" stop="20190611011000 +0900">
     <title lang="kr">프로듀스 X 101</title>
     <desc lang="kr">프로듀스 X 101 (6회)
@@ -3216,28 +4302,10 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F692082dc62af2235b71b559e4caaf5169888c13313b67c69eac933f7dc6a12e1" /></programme>
-  <programme channel="129" start="20190611114000 +0900" stop="20190611130000 +0900">
-    <title lang="kr">기막힌 이야기 실제상황</title>
-    <desc lang="kr">기막힌 이야기 실제상황 (342회)
-회차 : 342회
-장르 : 교양/정보
-제작 : 정해상
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <producer>정해상</producer>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.341.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5860B8BA01064B0001" /></programme>
-  <programme channel="129" start="20190611130000 +0900" stop="20190611141000 +0900">
+  <programme channel="129" start="20190611114000 +0900" stop="20190611133000 +0900">
     <title lang="kr">속풀이쇼 동치미</title>
-    <desc lang="kr">속풀이쇼 동치미 (339회)
-회차 : 339회
+    <desc lang="kr">속풀이쇼 동치미 (343회)
+회차 : 343회
 장르 : 연예/오락
 출연 : 최은경,박수홍
 제작 : 김시중
@@ -3249,12 +4317,23 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.338.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.342.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /></programme>
+  <programme channel="129" start="20190611133000 +0900" stop="20190611141000 +0900">
+    <title lang="kr">MBN 뉴스특보</title>
+    <desc lang="kr">MBN 뉴스특보
+장르 : 뉴스
+등급 : 전체 관람가</desc>
+    <category lang="kr">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F586CAB020378EF0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="129" start="20190611141000 +0900" stop="20190611153000 +0900">
     <title lang="kr">모던 패밀리</title>
     <desc lang="kr">모던 패밀리 (16회)
@@ -6815,87 +7894,39 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57A96F5A0218E50001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="164" start="20190611125000 +0900" stop="20190611133000 +0900">
-    <title lang="kr">접속! 무비월드</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">접속! 무비월드
-부제 : 1부
-장르 : 연예/오락
-출연 : 최기환,김소원,장예원
-등급 : 15세 이상 관람가</desc>
+  <programme channel="164" start="20190611125000 +0900" stop="20190611132000 +0900">
+    <title lang="kr">생활의 달인 스페셜</title>
+    <desc lang="kr">생활의 달인 스페셜
+장르 : 교양/정보
+제작 : 이상준,김동현
+등급 : 전체 관람가</desc>
     <credits>
-      <actor>최기환</actor>
-      <actor>김소원</actor>
-      <actor>장예원</actor>
+      <producer>이상준</producer>
+      <producer>김동현</producer>
     </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ea5eebd1b386738d685f9821f88518dd1e14b98" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="164" start="20190611125000 +0900" stop="20190611133000 +0900">
-    <title lang="kr">접속! 무비월드</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">접속! 무비월드
-부제 : 1부
-장르 : 연예/오락
-출연 : 최기환,김소원,장예원
-등급 : 15세 이상 관람가</desc>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile29.uf.daum.net%2Fimage%2F13442C234A80CF4A7FDB30" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="164" start="20190611125000 +0900" stop="20190611132000 +0900">
+    <title lang="kr">생활의 달인 스페셜</title>
+    <desc lang="kr">생활의 달인 스페셜
+장르 : 교양/정보
+제작 : 이상준,김동현
+등급 : 전체 관람가</desc>
     <credits>
-      <actor>최기환</actor>
-      <actor>김소원</actor>
-      <actor>장예원</actor>
+      <producer>이상준</producer>
+      <producer>김동현</producer>
     </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ea5eebd1b386738d685f9821f88518dd1e14b98" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="164" start="20190611133000 +0900" stop="20190611140000 +0900">
-    <title lang="kr">접속! 무비월드</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">접속! 무비월드
-부제 : 2부
-장르 : 연예/오락
-출연 : 최기환,김소원,장예원
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>최기환</actor>
-      <actor>김소원</actor>
-      <actor>장예원</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ea5eebd1b386738d685f9821f88518dd1e14b98" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="164" start="20190611133000 +0900" stop="20190611140000 +0900">
-    <title lang="kr">접속! 무비월드</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">접속! 무비월드
-부제 : 2부
-장르 : 연예/오락
-출연 : 최기환,김소원,장예원
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>최기환</actor>
-      <actor>김소원</actor>
-      <actor>장예원</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ea5eebd1b386738d685f9821f88518dd1e14b98" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="164" start="20190611140000 +0900" stop="20190611160000 +0900">
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile29.uf.daum.net%2Fimage%2F13442C234A80CF4A7FDB30" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="164" start="20190611132000 +0900" stop="20190611160000 +0900">
     <title lang="kr">뉴스브리핑</title>
     <desc lang="kr">뉴스브리핑
 장르 : 뉴스
@@ -11053,10 +12084,8 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd48638fe26b230a6083cbf01d4f8101f201a635da09f82a2a7996c467a4e5255" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="218" start="20190611110000 +0900" stop="20190611115000 +0900">
-    <title lang="kr">뉴스N이슈</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">뉴스N이슈
-부제 : 1부
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11064,12 +12093,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67fa18c1a99dbb790cc8352ce768abf9dc523914" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="218" start="20190611115000 +0900" stop="20190611133000 +0900">
-    <title lang="kr">뉴스N이슈</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">뉴스N이슈
-부제 : 2부
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="218" start="20190611115000 +0900" stop="20190611132000 +0900">
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11077,12 +12104,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67fa18c1a99dbb790cc8352ce768abf9dc523914" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="218" start="20190611133000 +0900" stop="20190611153000 +0900">
-    <title lang="kr">노종면의 더뉴스</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">노종면의 더뉴스
-부제 : 1부
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="218" start="20190611132000 +0900" stop="20190611160000 +0900">
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11090,12 +12115,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7e57c367a8eb77c49106c5baf2cdd2522e0f714eb97771440bfdb9c0762c914f" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="218" start="20190611153000 +0900" stop="20190611160000 +0900">
-    <title lang="kr">노종면의 더뉴스</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">노종면의 더뉴스
-부제 : 2부
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="218" start="20190611160000 +0900" stop="20190611183000 +0900">
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11103,36 +12126,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7e57c367a8eb77c49106c5baf2cdd2522e0f714eb97771440bfdb9c0762c914f" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="218" start="20190611160000 +0900" stop="20190611173000 +0900">
-    <title lang="kr">뉴스Q</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">뉴스Q
-부제 : 1부
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b71825497e318ab39d4301cb9e849b0da31106840824ae9e165609b191a7e95" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="218" start="20190611173000 +0900" stop="20190611183000 +0900">
-    <title lang="kr">뉴스Q</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">뉴스Q
-부제 : 2부
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b71825497e318ab39d4301cb9e849b0da31106840824ae9e165609b191a7e95" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="218" start="20190611183000 +0900" stop="20190611193000 +0900">
-    <title lang="kr">YTN 24</title>
-    <desc lang="kr">YTN 24
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11140,10 +12137,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F55B1D67E0372E40001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="218" start="20190611193000 +0900" stop="20190611210000 +0900">
-    <title lang="kr">변상욱의 뉴스가 있는 저녁</title>
-    <desc lang="kr">변상욱의 뉴스가 있는 저녁
+    <title lang="kr">뉴스특보-침몰 유람선 인양</title>
+    <desc lang="kr">뉴스특보-침몰 유람선 인양
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11151,7 +12148,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F136eb7fd2bc9d94611ec5de1d3ca3b2bd218d3e49749545dd25787186dca5074" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="218" start="20190611210000 +0900" stop="20190611215000 +0900">
     <title lang="kr">YTN 24</title>
     <desc lang="kr">YTN 24
@@ -11577,8 +12574,8 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F569C45A5021A180001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="268" start="20190611113500 +0900" stop="20190611123500 +0900">
-    <title lang="kr">뉴스센터 12</title>
-    <desc lang="kr">뉴스센터 12
+    <title lang="kr">뉴스특보</title>
+    <desc lang="kr">뉴스특보
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11586,10 +12583,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F28d1425142381086a804b12f526eaef2a92ae5dedcbdc71438b363799de968d1" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="268" start="20190611123500 +0900" stop="20190611134500 +0900">
-    <title lang="kr">뉴스 13</title>
-    <desc lang="kr">뉴스 13
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="268" start="20190611123500 +0900" stop="20190611152000 +0900">
+    <title lang="kr">뉴스특보</title>
+    <desc lang="kr">뉴스특보
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11597,36 +12594,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="268" start="20190611134500 +0900" stop="20190611144000 +0900">
-    <title lang="kr">뉴스현장</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">뉴스현장
-부제 : 1부
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F2274D14E541FDCCC321451" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="268" start="20190611144000 +0900" stop="20190611152000 +0900">
-    <title lang="kr">뉴스현장</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">뉴스현장
-부제 : 2부
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile129.uf.daum.net%2Fimage%2F2274D14E541FDCCC321451" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="268" start="20190611152000 +0900" stop="20190611164000 +0900">
-    <title lang="kr">뉴스 1번지</title>
-    <desc lang="kr">뉴스 1번지
+    <title lang="kr">뉴스특보</title>
+    <desc lang="kr">뉴스특보
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11634,12 +12605,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6c6c620d18b2964b079063da32ec6320737176cbfaa680b6368f04f313765b7f" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="268" start="20190611164000 +0900" stop="20190611172500 +0900">
-    <title lang="kr">뉴스워치</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">뉴스워치
-부제 : 1부
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <programme channel="268" start="20190611164000 +0900" stop="20190611182000 +0900">
+    <title lang="kr">뉴스특보</title>
+    <desc lang="kr">뉴스특보
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11647,23 +12616,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fff96d1328b6bfb06f9527efd824bdafc5996979e0e4eddcc56044ad65b8939dd" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
-  <programme channel="268" start="20190611172500 +0900" stop="20190611182000 +0900">
-    <title lang="kr">뉴스워치</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">뉴스워치
-부제 : 2부
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fff96d1328b6bfb06f9527efd824bdafc5996979e0e4eddcc56044ad65b8939dd" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="268" start="20190611182000 +0900" stop="20190611194000 +0900">
-    <title lang="kr">뉴스메이커</title>
-    <desc lang="kr">뉴스메이커
+    <title lang="kr">뉴스특보</title>
+    <desc lang="kr">뉴스특보
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -11671,7 +12627,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F56b8835d5d2cb9da6eb3182e7f883372bb4f98b042a0a0154dd1b5904bcc3b2d" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58AD1B83042D5A0001" /><episode-num system="xmltv_ns">18.610.</episode-num></programme>
   <programme channel="268" start="20190611194000 +0900" stop="20190611204000 +0900">
     <title lang="kr">뉴스 20</title>
     <desc lang="kr">뉴스 20
