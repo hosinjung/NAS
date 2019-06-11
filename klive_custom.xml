@@ -513,8 +513,8 @@ J</title>
 	</programme>
 	<programme start="20190612190000 +0900" stop="20190612194000 +0900" channel="POOQ|K01">
 		<title lang="kr">중계방송 
-문재인 대통령 
-북유럽 순방</title>
+문재인 
+대통령</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
@@ -563,15 +563,12 @@ J</title>
 출연 : 엄경철,이각경,김태욱,박소현</desc>
 	</programme>
 	<programme start="20190612220000 +0900" stop="20190612225500 +0900" channel="POOQ|K01">
-		<title lang="kr">생로병사의  비밀</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2002-0429_210.jpg" />
+		<title lang="kr">이희호 여사 서거 특집 
+동행, 
+고난과 영광의 여정</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<credits>
-			<actor>엄지인</actor>
-		</credits>
-		<desc lang="kr">건강하게 오래 살기 위해 알아야 할 모든 정보를 시청자의 눈높이로 쉽게 전달함으로써 높아지는 \'삶의 질\'에 대한 시청자의 욕구를 충족시킨다
-등급 : 전체 관람가
-출연 : 엄지인</desc>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190612225500 +0900" stop="20190612233500 +0900" channel="POOQ|K01">
 		<title lang="kr">오늘밤 김제동</title>
@@ -967,7 +964,7 @@ J</title>
 		<title lang="kr">회사 가기 싫어
 2019</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0475_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>김동완</actor>
 			<actor>한수연</actor>
@@ -983,10 +980,10 @@ J</title>
 			<actor>심진혁</actor>
 		</credits>
 		<desc lang="kr">회사 가기 싫은 사람들의 아주 사소하고도 위대한 이야기. 이 시대의 평범한 직장인들을 위한 초밀착 리얼 오피스 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 김동완,한수연,소주연,김관수,지춘성,이황의,김중돈,김국희,최승일,서혜원,박세원,심진혁</desc>
 	</programme>
-	<programme start="20190612001500 +0900" stop="20190612011000 +0900" channel="POOQ|K02">
+	<programme start="20190612001500 +0900" stop="20190612012000 +0900" channel="POOQ|K02">
 		<title lang="kr">김영철의
 동네 한 바퀴</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0429_210.jpg" />
@@ -994,17 +991,10 @@ J</title>
 		<desc lang="kr">동네마다 고여있는 이야기와 역사, 그 동네를 비추는 불빛 같은 사람들을 만나는 여정을 통해 도시가 품고 있는 가치를 재발견하는 아날로그 감성 도시기행 다큐멘터리. 배우 김영철이 가장 아름다운 드라마의 무대  동네 에서, 자세히 보아야 보이는 작은 것들의 보물찾기를 이어간다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190612011000 +0900" stop="20190612012000 +0900" channel="POOQ|K02">
-		<title lang="kr">KBS 재난방송센터</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2015-0490_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">국민의 생명과 재산을 지키기 위한 재난과 안전 관련 정보를 제공한다. 한 주간의 재난안전 관련 주요 이슈를 분석하는 '재난안전 이슈', 방송되는 시기에 발생할 가능성 있는 재난에 대한 정보와 피해 예방 요령을 전하는 '재난안전 인사이드' 등의 코너로 구성된다.
-등급 : 전체 관람가</desc>
-	</programme>
 	<programme start="20190612012000 +0900" stop="20190612024000 +0900" channel="POOQ|K02">
 		<title lang="kr">2019 FIFA
 U-20 월드컵</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0170_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
@@ -1062,14 +1052,16 @@ U-20 월드컵
 출연 : 한상헌, 이지연</desc>
 	</programme>
 	<programme start="20190612073000 +0900" stop="20190612080000 +0900" channel="POOQ|K02">
-		<title lang="kr">강력추천 배틀트립</title>
+		<title lang="kr">강력추천
+배틀트립</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0040_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">.
 등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190612080000 +0900" stop="20190612090000 +0900" channel="POOQ|K02">
-		<title lang="kr">KBS 아침 뉴스타임</title>
+		<title lang="kr">KBS 아침
+뉴스타임</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_I2011-0001_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">어떻게 괴로움에서 벗어날 수 있습니까
@@ -1085,8 +1077,7 @@ U-20 월드컵
 	</programme>
 	<programme start="20190612090000 +0900" stop="20190612094000 +0900" channel="POOQ|K02">
 		<title lang="kr">일일연속극
-여름아
-부탁해</title>
+여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0043_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
@@ -1115,8 +1106,7 @@ U-20 월드컵
 출연 : 임채원, 이한위, 김예령, 강석우, 나혜미, 김혜옥, 이영은, 문희경, 손종범, 김산호, 변주은, 김기리, 김사권, 이채영, 윤선우, 김범진, 서벽준, 배우희, 김가란</desc>
 	</programme>
 	<programme start="20190612094000 +0900" stop="20190612104000 +0900" channel="POOQ|K02">
-		<title lang="kr">그녀들의
-여유만만</title>
+		<title lang="kr">그녀들의 여유만만</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0446_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<credits>
@@ -1215,22 +1205,11 @@ U-20 월드컵
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190612160000 +0900" stop="20190612170000 +0900" channel="POOQ|K02">
-		<title lang="kr">그녀들의
-여유만만</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2018-0446_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>김보민</actor>
-			<actor>김민정</actor>
-			<actor>이슬기</actor>
-			<actor>이선영</actor>
-			<actor>조수빈</actor>
-			<actor>이재성</actor>
-		</credits>
-		<desc lang="kr">희노애락을 통한 시청자의 마음도 여유만만
-매일 아침을 여는 스타들의 버라이어티 프로그램!
-등급 : 12세 이상 관람가
-출연 : 김보민, 김민정, 이슬기, 이선영, 조수빈, 이재성</desc>
+		<title lang="kr">2019 FIFA
+U-20 월드컵</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0170_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190612170000 +0900" stop="20190612173000 +0900" channel="POOQ|K02">
 		<title lang="kr">파파독2</title>
@@ -1510,89 +1489,17 @@ U-20 월드컵
 등급 : 12세 이상 관람가
 출연 : 김정근,박연경,김한석</desc>
 	</programme>
-	<programme start="20190611104500 +0900" stop="20190611143000 +0900" channel="POOQ|M01">
+	<programme start="20190611104500 +0900" stop="20190611141500 +0900" channel="POOQ|M01">
 		<title lang="kr">2019 메이저리그 류현진 선발경기 LA다저스 : LA에인절스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190611143000 +0900" stop="20190611160000 +0900" channel="POOQ|M01">
-		<title lang="kr">2시 뉴스 외전</title>
+	<programme start="20190611141500 +0900" stop="20190611175500 +0900" channel="POOQ|M01">
+		<title lang="kr">MBC 뉴스 특보</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190611160000 +0900" stop="20190611163000 +0900" channel="POOQ|M01">
-		<title lang="kr">뽀뽀뽀 모두야 놀자</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1003701100000100000_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">잘 놀게 만들어주는 잘 만든 어린이 콘텐츠
-새롭게 탄생한  뽀뽀뽀 모두야 놀자 
-‘그냥’ 노는 것이 아니라, ‘잘’ 노는 어린이 콘텐츠! 내 주변의 사소한 호기심을 해결하면서 창의력과 자신감을 키우고, 여럿이 함께 하는 놀이 활동을 통해 사회성을 키우고, 노래를 부르고 춤을 추면서 건강한 몸을 만들고, 맛있는 음식을 만들어 보면서 올바른 식습관을 형성하고 독립심을 키워주는 콘텐츠로 재미와 교육을 동시에 잡는다. 
-
-다양한 놀이와 재미난 이야기로 가득한 어린이 문화 채널
-TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이에 맞는 재미있고 유익한 놀이가 찾아온다. TV 속 즐거운 놀이 공간에서 모모, 두두와 함께 놀면서 즐겁고 건강하게 성장하는 시간! 부모는 아이와 소통하고, 아이는 올바른 인성을 키울 수 있는 여러 가지 놀이가 어린이 문화 채널을 통해 어린이들의 곁으로 찾아간다. 
-
-등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190611163000 +0900" stop="20190611165500 +0900" channel="POOQ|M01">
-		<title lang="kr">출발! 비디오 여행 다이제스트(재)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000827100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김생민</actor>
-			<actor>서인</actor>
-			<actor>양승은</actor>
-		</credits>
-		<desc lang="kr">출발! 비디오여행 은, 대한민국의 영화전문 프로그램 원조로,  19년 동안 장수 해온 프로그램입니다.  그 동안  영화 대 영화 ,  왜 ,  결정적 장면  등의 코너를 통해 재치있는 해설부터 깊이있는 분석에 이르기까지 영화를 다양하게 소개해드림으로써 시청자 여러분들의 많은 사랑을 받아왔습니다.  출발! 비디오여행은 앞으로도 더욱 즐겁게 영화를 볼 수 있는 가이드 프로그램으로써 노력을 다할 것을 약속드립니다.
-등급 : 15세 이상 관람가
-출연 : 김생민,서인,양승은</desc>
-	</programme>
-	<programme start="20190611165500 +0900" stop="20190611172500 +0900" channel="POOQ|M01">
-		<title lang="kr">실화탐사대 1부 스페셜</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1003736100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>신동엽</actor>
-			<actor>김정근</actor>
-			<actor>강다솜</actor>
-		</credits>
-		<desc lang="kr">진짜라서 더욱 놀라운 이야기들의 향연 '실화탐사대'가 시청자들을 찾아간다.
-
-MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐사대'는 변화무쌍한 세상 속에서 빛의 속도로 쏟아지는 수많은 이야기 중에, 실화여서 더욱 놀라운 '진짜 이야기'를 찾는 본격 실화 탐사 프로그램. 
-
- '실화탐사대'는 2018 봄을 맞이해 다양한 파일럿을 연달아 선보이며 교양 프로그램의 부흥기를 예고한 MBC 시사교양본부가 선보이는 프로그램으로, '실화탐사대 요원'을 맡은 3명의 MC가 각자 맡은 생생한 실화를 전달하고, 나머지 MC들이 시청자들을 대신해서 거침없이 질문하고 이야기할 예정이다. 
-
- '실화탐사대 요원'으로 나설 MC로는 '믿고보는 갓동엽' 신동엽과, 친정에 오랜만에 돌아오는 아나운서 출신 오상진, 그리고 MBC 이재은 아나운서가 나선다. 
-
-프로그램을 연출하는 김종우 PD는 "실제 상황이라 더욱 놀랍지만, 우리 사회의 인간 군상이 보이는 기막힌 사건사고, 화제의 인물, 미스터리, 핫이슈 현장과 그 이면의 진짜 이야기를 찾아서, 시청자와 함께 분노하고 감동할만 이야기로 꾸미고자 한다" 며 기대를 당부했다. 
-
-진짜 이야기를 들고 새롭게 찾아갈 '실화탐사대'는 5월 10일 목요일 밤 8시 55분에 방송될 예정이다
-등급 : 15세 이상 관람가
-출연 : 신동엽,김정근,강다솜</desc>
-	</programme>
-	<programme start="20190611172500 +0900" stop="20190611175500 +0900" channel="POOQ|M01">
-		<title lang="kr">실화탐사대 2부 스페셜</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1003736100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>신동엽</actor>
-			<actor>김정근</actor>
-			<actor>강다솜</actor>
-		</credits>
-		<desc lang="kr">진짜라서 더욱 놀라운 이야기들의 향연 '실화탐사대'가 시청자들을 찾아간다.
-
-MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐사대'는 변화무쌍한 세상 속에서 빛의 속도로 쏟아지는 수많은 이야기 중에, 실화여서 더욱 놀라운 '진짜 이야기'를 찾는 본격 실화 탐사 프로그램. 
-
- '실화탐사대'는 2018 봄을 맞이해 다양한 파일럿을 연달아 선보이며 교양 프로그램의 부흥기를 예고한 MBC 시사교양본부가 선보이는 프로그램으로, '실화탐사대 요원'을 맡은 3명의 MC가 각자 맡은 생생한 실화를 전달하고, 나머지 MC들이 시청자들을 대신해서 거침없이 질문하고 이야기할 예정이다. 
-
- '실화탐사대 요원'으로 나설 MC로는 '믿고보는 갓동엽' 신동엽과, 친정에 오랜만에 돌아오는 아나운서 출신 오상진, 그리고 MBC 이재은 아나운서가 나선다. 
-
-프로그램을 연출하는 김종우 PD는 "실제 상황이라 더욱 놀랍지만, 우리 사회의 인간 군상이 보이는 기막힌 사건사고, 화제의 인물, 미스터리, 핫이슈 현장과 그 이면의 진짜 이야기를 찾아서, 시청자와 함께 분노하고 감동할만 이야기로 꾸미고자 한다" 며 기대를 당부했다. 
-
-진짜 이야기를 들고 새롭게 찾아갈 '실화탐사대'는 5월 10일 목요일 밤 8시 55분에 방송될 예정이다
-등급 : 15세 이상 관람가
-출연 : 신동엽,김정근,강다솜</desc>
 	</programme>
 	<programme start="20190611175500 +0900" stop="20190611185000 +0900" channel="POOQ|M01">
 		<title lang="kr">생방송 오늘 저녁</title>
@@ -2197,26 +2104,40 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">수십년간 한 분야에 종사하며 부단한 열정과 노력으로 달인의 경지에 이르게 된 사람들.삶의 스토리와 리얼리티가 담겨 있는 생활 달인은 그 자체가 다큐멘터리.  비록 소박한 일이지만 평생을 통해 최고가 된 '생활 달인'의 놀라운 득도의 경지를 만나는 시간.  
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190611132000 +0900" stop="20190611160000 +0900" channel="POOQ|S01">
-		<title lang="kr">뉴스브리핑</title>
+	<programme start="20190611132000 +0900" stop="20190611140000 +0900" channel="POOQ|S01">
+		<title lang="kr">접속! 무비월드 1부</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000321955_210.jpg" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<credits>
+			<actor>김소원</actor>
+			<actor>김주우</actor>
+			<actor>장예원</actor>
+		</credits>
+		<desc lang="kr">영화를 즐기는 다양한 방법영화 정보 프로그램의 중심토요일엔 접속 무비월드!1. 디렉터스컷- 진행: 김주우 아나운서- 최신 개봉작 혹은 화제작 가운데 감독의 의도를 짚어냄으로서 영화에 대한 깊이를 선사합니다.2. 영화 공작소- 진행: 코미디언 박성호, 장예원 아나운서, 김주우 아나운서- 장르 불문, 기발한 착상으로 두 영화를 마치 한 편처럼 묶어 보는 코너. 재치있는 입담과 함께 하는 영화 비교의 시간.3. 눈여겨 볼만 하다- 진행: 김소원 아나운서- 개봉예정작 중,  눈여겨 볼만한 영화들의 눈여겨 볼만한 포인트를 짚어봅니다.4. 기획 :- 진행: 성우 김기현- 알고 나면 영화가 달리 보이는 작품 속 각종 비하인드를 파헤칩니다. 5. 이 영화 제목이 뭐지?- 진행: 이인권 아나운서- 영화 프로그램 사상 최초 미괄식 구성. 끝까지 봐야 제목을 알 수 있는 흡입력 있는 시간.6. 미안하다 몰라봐서- 진행: 성우 권성혁- 작품성, 소재 등 모든 것이 완벽하지만 대중들이 몰라보았던, 숨어있는 보석 같은 영화들을 골라서 이 코너만의 특별한 톤과 매너로 울림을 드립니다.
+등급 : 15세 이상 관람가
+출연 : 김소원,김주우,장예원</desc>
+	</programme>
+	<programme start="20190611140000 +0900" stop="20190611143000 +0900" channel="POOQ|S01">
+		<title lang="kr">접속! 무비월드 2부</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000321955_210.jpg" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<credits>
+			<actor>김소원</actor>
+			<actor>김주우</actor>
+			<actor>장예원</actor>
+		</credits>
+		<desc lang="kr">영화를 즐기는 다양한 방법영화 정보 프로그램의 중심토요일엔 접속 무비월드!1. 디렉터스컷- 진행: 김주우 아나운서- 최신 개봉작 혹은 화제작 가운데 감독의 의도를 짚어냄으로서 영화에 대한 깊이를 선사합니다.2. 영화 공작소- 진행: 코미디언 박성호, 장예원 아나운서, 김주우 아나운서- 장르 불문, 기발한 착상으로 두 영화를 마치 한 편처럼 묶어 보는 코너. 재치있는 입담과 함께 하는 영화 비교의 시간.3. 눈여겨 볼만 하다- 진행: 김소원 아나운서- 개봉예정작 중,  눈여겨 볼만한 영화들의 눈여겨 볼만한 포인트를 짚어봅니다.4. 기획 :- 진행: 성우 김기현- 알고 나면 영화가 달리 보이는 작품 속 각종 비하인드를 파헤칩니다. 5. 이 영화 제목이 뭐지?- 진행: 이인권 아나운서- 영화 프로그램 사상 최초 미괄식 구성. 끝까지 봐야 제목을 알 수 있는 흡입력 있는 시간.6. 미안하다 몰라봐서- 진행: 성우 권성혁- 작품성, 소재 등 모든 것이 완벽하지만 대중들이 몰라보았던, 숨어있는 보석 같은 영화들을 골라서 이 코너만의 특별한 톤과 매너로 울림을 드립니다.
+등급 : 15세 이상 관람가
+출연 : 김소원,김주우,장예원</desc>
+	</programme>
+	<programme start="20190611143000 +0900" stop="20190611170000 +0900" channel="POOQ|S01">
+		<title lang="kr">특집 뉴스브리핑</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000010201_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">주영진의 뉴스브리핑은 오후 2시와 4시로 나누어 방송한다.
 2시에는 앵커가 패널들과 함께 급변하는 정치 지형을 꼼꼼히 따져보며, 
 4시에는 당일 최고의 핫이슈로 떠오른 인물과 발언을 가지고 시청자들과 교감하는 뉴스 프로그램이다.
 등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190611160000 +0900" stop="20190611170000 +0900" channel="POOQ|S01">
-		<title lang="kr">불타는 청춘</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000006886_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김국진</actor>
-			<actor>강수지</actor>
-		</credits>
-		<desc lang="kr">싱글중년의 친구찾기!`불타는 청춘`
-등급 : 15세 이상 관람가
-출연 : 김국진,강수지</desc>
 	</programme>
 	<programme start="20190611170000 +0900" stop="20190611180000 +0900" channel="POOQ|S01">
 		<title lang="kr">SBS 오뉴스</title>
@@ -2238,21 +2159,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 등급 : 전체 관람가
 출연 : 김태균,정찬우</desc>
 	</programme>
-	<programme start="20190611190000 +0900" stop="20190611193000 +0900" channel="POOQ|S01">
-		<title lang="kr">생방송 투데이 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000338038_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<credits>
-			<actor>최영아</actor>
-			<actor>윤현진</actor>
-			<actor>김선재</actor>
-		</credits>
-		<desc lang="kr">바로 오늘.. 우리 주변에는 어떤 일들이 일어나고 있을까? 이슈가 되는 사건사고에서부터 웃음과 눈물을 줄 휴먼스토리, 출출한 저녁 사람들의 시선을 사로잡을 음식정보까지! 오늘을 사는 우리들의 생생한 이야기를 시청자들에게 전달한다.
-등급 : 전체 관람가
-출연 : 최영아,윤현진,김선재</desc>
-	</programme>
-	<programme start="20190611193000 +0900" stop="20190611200000 +0900" channel="POOQ|S01">
-		<title lang="kr">생방송 투데이 2부</title>
+	<programme start="20190611190000 +0900" stop="20190611200000 +0900" channel="POOQ|S01">
+		<title lang="kr">생방송 투데이</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000338038_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<credits>
@@ -3881,7 +3789,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190611133000 +0900" stop="20190611145000 +0900" channel="OKSUSU|242">
+	<programme start="20190611133000 +0900" stop="20190611152000 +0900" channel="OKSUSU|242">
 		<title lang="kr">사건 상황실</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -3889,7 +3797,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611145000 +0900" stop="20190611162000 +0900" channel="OKSUSU|242">
+	<programme start="20190611152000 +0900" stop="20190611163000 +0900" channel="OKSUSU|242">
 		<title lang="kr">나는 몸신이다(207회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -3907,7 +3815,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 정은아,엄앵란,이용식,변우민,조민희
 연출 : 정회욱</desc>
 	</programme>
-	<programme start="20190611162000 +0900" stop="20190611175000 +0900" channel="OKSUSU|242">
+	<programme start="20190611163000 +0900" stop="20190611175000 +0900" channel="OKSUSU|242">
 		<title lang="kr">정치 데스크</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -4290,47 +4198,31 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611110000 +0900" stop="20190611115000 +0900" channel="OKSUSU|570">
-		<title lang="kr">뉴스N이슈 1부</title>
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611115000 +0900" stop="20190611133000 +0900" channel="OKSUSU|570">
-		<title lang="kr">뉴스N이슈 2부</title>
+	<programme start="20190611115000 +0900" stop="20190611132000 +0900" channel="OKSUSU|570">
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611133000 +0900" stop="20190611153000 +0900" channel="OKSUSU|570">
-		<title lang="kr">노종면의 더뉴스 1부</title>
+	<programme start="20190611132000 +0900" stop="20190611160000 +0900" channel="OKSUSU|570">
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611153000 +0900" stop="20190611160000 +0900" channel="OKSUSU|570">
-		<title lang="kr">노종면의 더뉴스 2부</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190611160000 +0900" stop="20190611173000 +0900" channel="OKSUSU|570">
-		<title lang="kr">뉴스Q 1부</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190611173000 +0900" stop="20190611183000 +0900" channel="OKSUSU|570">
-		<title lang="kr">뉴스Q 2부</title>
+	<programme start="20190611160000 +0900" stop="20190611183000 +0900" channel="OKSUSU|570">
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4338,7 +4230,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611183000 +0900" stop="20190611193000 +0900" channel="OKSUSU|570">
-		<title lang="kr">YTN 24</title>
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4346,7 +4238,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611193000 +0900" stop="20190611210000 +0900" channel="OKSUSU|570">
-		<title lang="kr">변상욱의 뉴스가 있는 저녁</title>
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4354,7 +4246,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611210000 +0900" stop="20190611215000 +0900" channel="OKSUSU|570">
-		<title lang="kr">YTN 24</title>
+		<title lang="kr">뉴스특보-침몰 유람선 인양</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4655,31 +4547,15 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611113500 +0900" stop="20190611123500 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스센터 12</title>
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611123500 +0900" stop="20190611134500 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스 13</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190611134500 +0900" stop="20190611144000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스현장 1부</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190611144000 +0900" stop="20190611152000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스현장 2부</title>
+	<programme start="20190611123500 +0900" stop="20190611152000 +0900" channel="OKSUSU|571">
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4687,23 +4563,15 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611152000 +0900" stop="20190611164000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스 1번지</title>
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190611164000 +0900" stop="20190611172500 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스워치 1부</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190611172500 +0900" stop="20190611182000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스워치 2부</title>
+	<programme start="20190611164000 +0900" stop="20190611182000 +0900" channel="OKSUSU|571">
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4711,7 +4579,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190611182000 +0900" stop="20190611194000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스메이커</title>
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4902,16 +4770,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190612182000 +0900" stop="20190612194000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스메이커</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190612194000 +0900" stop="20190612204000 +0900" channel="OKSUSU|571">
-		<title lang="kr">뉴스 20</title>
+	<programme start="20190612182000 +0900" stop="20190612204000 +0900" channel="OKSUSU|571">
+		<title lang="kr">뉴스특보</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -5194,7 +5054,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190611190000 +0900" stop="20190611201000 +0900" channel="OKSUSU|872">
+	<programme start="20190611190000 +0900" stop="20190611201900 +0900" channel="OKSUSU|872">
 		<title lang="kr">물 오른 식탁(1회)&amp;lt;첫 방송&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5208,7 +5068,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 신현준,이상민,안현모</desc>
 	</programme>
-	<programme start="20190611201000 +0900" stop="20190611213000 +0900" channel="OKSUSU|872">
+	<programme start="20190611201900 +0900" stop="20190611213500 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5224,7 +5084,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190611213000 +0900" stop="20190611230000 +0900" channel="OKSUSU|872">
+	<programme start="20190611213500 +0900" stop="20190611230000 +0900" channel="OKSUSU|872">
 		<title lang="kr">어비스(12회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5245,7 +5105,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 박보영,안효섭,권수현,이시언,한소희,윤유선,이성재,이철민
 연출 : 유제원</desc>
 	</programme>
-	<programme start="20190611230000 +0900" stop="20190612002000 +0900" channel="OKSUSU|872">
+	<programme start="20190611230000 +0900" stop="20190612004000 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(21회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5258,7 +5118,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190612002000 +0900" stop="20190612015000 +0900" channel="OKSUSU|872">
+	<programme start="20190612004000 +0900" stop="20190612015400 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(160회)&amp;lt;우린 지금 선을 넘으러 간다 19&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5274,7 +5134,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190612015000 +0900" stop="20190612034000 +0900" channel="OKSUSU|872">
+	<programme start="20190612015400 +0900" stop="20190612033700 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(8회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5292,7 +5152,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190612034000 +0900" stop="20190612051000 +0900" channel="OKSUSU|872">
+	<programme start="20190612033700 +0900" stop="20190612050900 +0900" channel="OKSUSU|872">
 		<title lang="kr">쇼! 오디오자키(13회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5310,7 +5170,15 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 박명수,성시경,소유진,붐,몬스타 엑스
 연출 : 이영준</desc>
 	</programme>
-	<programme start="20190612051000 +0900" stop="20190612072000 +0900" channel="OKSUSU|872">
+	<programme start="20190612050900 +0900" stop="20190612054100 +0900" channel="OKSUSU|872">
+		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락</desc>
+	</programme>
+	<programme start="20190612054100 +0900" stop="20190612072600 +0900" channel="OKSUSU|872">
 		<title lang="kr">스페인 하숙(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5326,7 +5194,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190612072000 +0900" stop="20190612092000 +0900" channel="OKSUSU|872">
+	<programme start="20190612072600 +0900" stop="20190612091700 +0900" channel="OKSUSU|872">
 		<title lang="kr">스페인 하숙(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5342,7 +5210,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 차승원,유해진,배정남
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190612092000 +0900" stop="20190612111000 +0900" channel="OKSUSU|872">
+	<programme start="20190612091700 +0900" stop="20190612110300 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(21회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5355,7 +5223,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190612111000 +0900" stop="20190612130000 +0900" channel="OKSUSU|872">
+	<programme start="20190612110300 +0900" stop="20190612124900 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(8회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5373,7 +5241,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190612130000 +0900" stop="20190612142000 +0900" channel="OKSUSU|872">
+	<programme start="20190612124900 +0900" stop="20190612141600 +0900" channel="OKSUSU|872">
 		<title lang="kr">어비스(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5394,7 +5262,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 박보영,안효섭,권수현,이시언,한소희,윤유선,이성재,이철민
 연출 : 유제원</desc>
 	</programme>
-	<programme start="20190612142000 +0900" stop="20190612154000 +0900" channel="OKSUSU|872">
+	<programme start="20190612141600 +0900" stop="20190612154400 +0900" channel="OKSUSU|872">
 		<title lang="kr">어비스(12회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5415,23 +5283,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 박보영,안효섭,권수현,이시언,한소희,윤유선,이성재,이철민
 연출 : 유제원</desc>
 	</programme>
-	<programme start="20190612154000 +0900" stop="20190612172000 +0900" channel="OKSUSU|872">
-		<title lang="kr">고교급식왕(1회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>백종원</actor>
-			<actor>은지원</actor>
-			<actor>문세윤</actor>
-			<producer>임수정</producer>
-		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락
-출연 : 백종원,은지원,문세윤
-연출 : 임수정</desc>
-	</programme>
-	<programme start="20190612172000 +0900" stop="20190612191000 +0900" channel="OKSUSU|872">
+	<programme start="20190612154400 +0900" stop="20190612173800 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5449,6 +5301,32 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
+	</programme>
+	<programme start="20190612173800 +0900" stop="20190612191000 +0900" channel="OKSUSU|872">
+		<title lang="kr">검색어를 입력하세요 WWW(2회)(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">드라마</category>
+		<credits>
+			<actor>임수정</actor>
+			<actor>이다희</actor>
+			<actor>전혜진</actor>
+			<actor>장기용</actor>
+			<actor>이재욱</actor>
+			<actor>지승현</actor>
+			<actor>권해효</actor>
+			<actor>우지현</actor>
+			<actor>오아연</actor>
+			<actor>하승리</actor>
+			<actor>송지호</actor>
+			<actor>유서진</actor>
+			<actor>탁...</actor>
+			<producer>권영일</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 드라마
+출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
+연출 : 권영일</desc>
 	</programme>
 	<programme start="20190612191000 +0900" stop="20190612201000 +0900" channel="OKSUSU|872">
 		<title lang="kr">곽승준의 쿨까당(315회)</title>
@@ -6621,7 +6499,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 백종원,온유,정채연
 연출 : 백승룡</desc>
 	</programme>
-	<programme start="20190612013000 +0900" stop="20190612021000 +0900" channel="OKSUSU|431">
+	<programme start="20190612013000 +0900" stop="20190612020000 +0900" channel="OKSUSU|431">
 		<title lang="kr">셰프의 야식 2(7회)&amp;lt;황하늘 셰프의 맛있는 야식&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6633,23 +6511,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 취미/레저
 출연 : 홍석천</desc>
 	</programme>
-	<programme start="20190612021000 +0900" stop="20190612032000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원픽로드(8회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>이상민</actor>
-			<actor>소유</actor>
-			<actor>스윙스</actor>
-			<actor>솔빈</actor>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 이상민,소유,스윙스,솔빈</desc>
-	</programme>
-	<programme start="20190612032000 +0900" stop="20190612044000 +0900" channel="OKSUSU|431">
-		<title lang="kr">섬총사 (3회)</title>
+	<programme start="20190612020000 +0900" stop="20190612032000 +0900" channel="OKSUSU|431">
+		<title lang="kr">섬총사(3회)&amp;lt;섬총사의 본격 섬살이 시작&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6664,8 +6527,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 강호동,김희선,정용화
 연출 : 박상혁</desc>
 	</programme>
-	<programme start="20190612044000 +0900" stop="20190612060000 +0900" channel="OKSUSU|431">
-		<title lang="kr">섬총사 (4회)</title>
+	<programme start="20190612032000 +0900" stop="20190612045000 +0900" channel="OKSUSU|431">
+		<title lang="kr">섬총사(4회)&amp;lt;바보 섬총사의 첫 저녁식사&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6680,8 +6543,24 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 강호동,김희선,정용화
 연출 : 박상혁</desc>
 	</programme>
-	<programme start="20190612060000 +0900" stop="20190612070000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원나잇 푸드트립 스페셜(48회)</title>
+	<programme start="20190612045000 +0900" stop="20190612053000 +0900" channel="OKSUSU|431">
+		<title lang="kr">다 해먹는 요리학교 : 오늘 뭐 먹지?(5회)&amp;lt;신입생 최초로 낙제위기에 놓인 오상진?&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>박나래</actor>
+			<actor>양세형</actor>
+			<actor>샘 오취리</actor>
+			<producer>최정하</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 박나래,양세형,샘 오취리
+연출 : 최정하</desc>
+	</programme>
+	<programme start="20190612053000 +0900" stop="20190612060500 +0900" channel="OKSUSU|431">
+		<title lang="kr">원나잇 푸드트립 스페셜(35회)&amp;lt;대세배우 최우식의 미식여행&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6696,22 +6575,22 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 박나래,김지민,유재환,이연복,스테파니 리</desc>
 	</programme>
-	<programme start="20190612070000 +0900" stop="20190612080000 +0900" channel="OKSUSU|431">
-		<title lang="kr">스트리트 푸드파이터 미식로드 (2회)</title>
+	<programme start="20190612060500 +0900" stop="20190612071000 +0900" channel="OKSUSU|431">
+		<title lang="kr">스트리트 푸드파이터 미식로드-하와이편&amp;lt;동서양의 맛이 공존하는 하와이&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>백종원</actor>
 			<producer>박희연</producer>
 		</credits>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 백종원
 연출 : 박희연</desc>
 	</programme>
-	<programme start="20190612080000 +0900" stop="20190612084000 +0900" channel="OKSUSU|431">
-		<title lang="kr">샘&amp;레이먼의 쿠킹타임(6회)</title>
+	<programme start="20190612071000 +0900" stop="20190612073500 +0900" channel="OKSUSU|431">
+		<title lang="kr">샘&amp;레이먼의 쿠킹타임(6회)&amp;lt;해산물 파스타&amp;과일 젤리&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
@@ -6723,22 +6602,22 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 취미/레저
 출연 : 샘 킴,레이먼 킴</desc>
 	</programme>
-	<programme start="20190612084000 +0900" stop="20190612093000 +0900" channel="OKSUSU|431">
-		<title lang="kr">프리한마켓 10 (2회)</title>
+	<programme start="20190612073500 +0900" stop="20190612083000 +0900" channel="OKSUSU|431">
+		<title lang="kr">프리한마켓 10(2회)&amp;lt;홈케어 끝판왕! 나혼자 몰래 쓰는 뷰티템 10&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>김경화</actor>
 			<actor>문지애</actor>
 			<actor>김소영</actor>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 김경화,문지애,김소영</desc>
 	</programme>
-	<programme start="20190612093000 +0900" stop="20190612105000 +0900" channel="OKSUSU|431">
-		<title lang="kr">주말 사용 설명서(9회)&amp;lt;춘천&amp;gt;</title>
+	<programme start="20190612083000 +0900" stop="20190612100500 +0900" channel="OKSUSU|431">
+		<title lang="kr">주말 사용 설명서(11회)&amp;lt;포천에서 즐기는 이색 주말여행!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6754,23 +6633,57 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 김숙,라미란,장윤주,이세영
 연출 : 김유곤</desc>
 	</programme>
-	<programme start="20190612105000 +0900" stop="20190612120000 +0900" channel="OKSUSU|431">
-		<title lang="kr">애들 생각 (9회)</title>
+	<programme start="20190612100500 +0900" stop="20190612111500 +0900" channel="OKSUSU|431">
+		<title lang="kr">애들 생각(9회)&amp;lt;모범생 박민하의 파격 변신!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>박미선</actor>
 			<actor>장영란</actor>
 		</credits>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 박미선,장영란</desc>
 	</programme>
-	<programme start="20190612120000 +0900" stop="20190612131000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (206회)</title>
+	<programme start="20190612111500 +0900" stop="20190612121500 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(47회)&amp;lt;영자언니 Pick! 양평 칼제비&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>최화정</actor>
+			<actor>이영자</actor>
+			<actor>송은이</actor>
+			<actor>김숙</actor>
+			<actor>장도연</actor>
+			<producer>황인영</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 최화정,이영자,송은이,김숙,장도연
+연출 : 황인영</desc>
+	</programme>
+	<programme start="20190612121500 +0900" stop="20190612133000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수미네 반찬(7회)&amp;lt;손쉽게 만드는 코다리조림&amp;오징어채볶음&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>김수미</actor>
+			<actor>노사연</actor>
+			<actor>장동민</actor>
+			<producer>문태주</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 김수미,노사연,장동민
+연출 : 문태주</desc>
+	</programme>
+	<programme start="20190612133000 +0900" stop="20190612144000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(206회)&amp;lt;한국인이 사랑하는 추억의 음식 어묵&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -6780,13 +6693,31 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
 	</programme>
-	<programme start="20190612131000 +0900" stop="20190612144000 +0900" channel="OKSUSU|431">
-		<title lang="kr">짠내투어(78회)</title>
+	<programme start="20190612144000 +0900" stop="20190612154000 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(48회)&amp;lt;한국의 나폴리 화덕피자?!&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>최화정</actor>
+			<actor>이영자</actor>
+			<actor>송은이</actor>
+			<actor>김숙</actor>
+			<actor>장도연</actor>
+			<producer>황인영</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 최화정,이영자,송은이,김숙,장도연
+연출 : 황인영</desc>
+	</programme>
+	<programme start="20190612154000 +0900" stop="20190612164500 +0900" channel="OKSUSU|431">
+		<title lang="kr">짠내투어 스페셜(1회)&amp;lt;홍콩&amp;마카오 BEST 맛집 모음&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6802,8 +6733,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 박명수,박나래,문세윤,허경환
 연출 : 손창우</desc>
 	</programme>
-	<programme start="20190612144000 +0900" stop="20190612160000 +0900" channel="OKSUSU|431">
-		<title lang="kr">장보고 (3회)</title>
+	<programme start="20190612164500 +0900" stop="20190612180000 +0900" channel="OKSUSU|431">
+		<title lang="kr">장보고(3회)&amp;lt;역대급 장바구니의 주인공 김나영!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6821,44 +6752,10 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 노홍철,하하,붐,한혜연,이미주,김영옥
 연출 : 신소영</desc>
 	</programme>
-	<programme start="20190612160000 +0900" stop="20190612170000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (48회)</title>
+	<programme start="20190612180000 +0900" stop="20190612194000 +0900" channel="OKSUSU|431">
+		<title lang="kr">강식당 2(1회)&amp;lt;돌아온 강셰프의 신메뉴 공개!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>최화정</actor>
-			<actor>이영자</actor>
-			<actor>송은이</actor>
-			<actor>김숙</actor>
-			<actor>장도연</actor>
-			<producer>황인영</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 최화정,이영자,송은이,김숙,장도연
-연출 : 황인영</desc>
-	</programme>
-	<programme start="20190612170000 +0900" stop="20190612181000 +0900" channel="OKSUSU|431">
-		<title lang="kr">고교급식왕(1회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>백종원</actor>
-			<actor>은지원</actor>
-			<actor>문세윤</actor>
-			<producer>임수정</producer>
-		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락
-출연 : 백종원,은지원,문세윤
-연출 : 임수정</desc>
-	</programme>
-	<programme start="20190612181000 +0900" stop="20190612195000 +0900" channel="OKSUSU|431">
-		<title lang="kr">강식당 2 (1회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>강호동</actor>
@@ -6869,13 +6766,13 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 			<actor>피오</actor>
 			<producer>나영석</producer>
 		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190612195000 +0900" stop="20190612213000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까? 미국편(8회)</title>
+	<programme start="20190612194000 +0900" stop="20190612212500 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까? 미국편(8회)&amp;lt;미국인 입맛을 사로잡은 떡갈비 버거&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6892,10 +6789,10 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190612213000 +0900" stop="20190612224000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (206회)</title>
+	<programme start="20190612212500 +0900" stop="20190612224000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(206회)&amp;lt;한국인이 사랑하는 추억의 음식 어묵&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -6905,13 +6802,13 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
 	</programme>
 	<programme start="20190612224000 +0900" stop="20190613000000 +0900" channel="OKSUSU|431">
-		<title lang="kr">장보고 (3회)</title>
+		<title lang="kr">장보고(3회)&amp;lt;역대급 장바구니의 주인공 김나영!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7207,7 +7104,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 연출 : 정민석</desc>
 	</programme>
 	<programme start="20190612051000 +0900" stop="20190612064000 +0900" channel="OKSUSU|873">
-		<title lang="kr">너의 목소리가 보여 시즌4 (1회)&amp;lt;김종국 편&amp;gt;(재)</title>
+		<title lang="kr">너의 목소리가 보여 시즌4(1회)&amp;lt;김종국 편&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7222,7 +7119,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 유세윤,이특,김종국
 연출 : 이창규</desc>
 	</programme>
-	<programme start="20190612064000 +0900" stop="20190612072000 +0900" channel="OKSUSU|873">
+	<programme start="20190612064000 +0900" stop="20190612070000 +0900" channel="OKSUSU|873">
 		<title lang="kr">M morning(2180회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7230,7 +7127,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 음악</desc>
 	</programme>
-	<programme start="20190612072000 +0900" stop="20190612085000 +0900" channel="OKSUSU|873">
+	<programme start="20190612070000 +0900" stop="20190612083000 +0900" channel="OKSUSU|873">
 		<title lang="kr">너의 목소리가 보여 시즌6(10회)&amp;lt;노사연&amp;이무송 편&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7247,7 +7144,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 김종국,유세윤,이특
 연출 : 이선영,황나혜</desc>
 	</programme>
-	<programme start="20190612085000 +0900" stop="20190612095000 +0900" channel="OKSUSU|873">
+	<programme start="20190612083000 +0900" stop="20190612093000 +0900" channel="OKSUSU|873">
 		<title lang="kr">네이처의 내추럴 리얼리티 기분 좋게 해드릴게요(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7259,7 +7156,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 출연 : 네이처</desc>
 	</programme>
-	<programme start="20190612095000 +0900" stop="20190612113000 +0900" channel="OKSUSU|873">
+	<programme start="20190612093000 +0900" stop="20190612111000 +0900" channel="OKSUSU|873">
 		<title lang="kr">유학소녀(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7271,7 +7168,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190612113000 +0900" stop="20190612124000 +0900" channel="OKSUSU|873">
+	<programme start="20190612111000 +0900" stop="20190612122000 +0900" channel="OKSUSU|873">
 		<title lang="kr">뉴이스트 로드(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7279,7 +7176,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190612124000 +0900" stop="20190612145000 +0900" channel="OKSUSU|873">
+	<programme start="20190612122000 +0900" stop="20190612144000 +0900" channel="OKSUSU|873">
 		<title lang="kr">프로듀스 X 101(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7296,7 +7193,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190612145000 +0900" stop="20190612164000 +0900" channel="OKSUSU|873">
+	<programme start="20190612144000 +0900" stop="20190612163000 +0900" channel="OKSUSU|873">
 		<title lang="kr">유학소녀(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7308,7 +7205,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190612164000 +0900" stop="20190612175000 +0900" channel="OKSUSU|873">
+	<programme start="20190612163000 +0900" stop="20190612174000 +0900" channel="OKSUSU|873">
 		<title lang="kr">뉴이스트 로드(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7316,7 +7213,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190612175000 +0900" stop="20190612200000 +0900" channel="OKSUSU|873">
+	<programme start="20190612174000 +0900" stop="20190612200000 +0900" channel="OKSUSU|873">
 		<title lang="kr">프로듀스 X 101(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7333,7 +7230,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190612200000 +0900" stop="20190612210000 +0900" channel="OKSUSU|873">
+	<programme start="20190612200000 +0900" stop="20190612211000 +0900" channel="OKSUSU|873">
 		<title lang="kr">뉴이스트 로드(4회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7341,7 +7238,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190612210000 +0900" stop="20190612225000 +0900" channel="OKSUSU|873">
+	<programme start="20190612211000 +0900" stop="20190612230000 +0900" channel="OKSUSU|873">
 		<title lang="kr">유학소녀(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7353,15 +7250,15 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 연예/오락
 연출 : 이연규</desc>
 	</programme>
-	<programme start="20190612225000 +0900" stop="20190612232000 +0900" channel="OKSUSU|873">
-		<title lang="kr">프로듀스 X 101 Special Clip(1회)(재)</title>
+	<programme start="20190612230000 +0900" stop="20190612233000 +0900" channel="OKSUSU|873">
+		<title lang="kr">프로듀스 X 101 Special Clip(2회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190612232000 +0900" stop="20190613002000 +0900" channel="OKSUSU|873">
+	<programme start="20190612233000 +0900" stop="20190613004000 +0900" channel="OKSUSU|873">
 		<title lang="kr">뉴이스트 로드(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7777,7 +7674,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 다니엘 칼루유야,앨리슨 윌리엄스,브래들리 윗포드,캐서린 키너
 연출 : 조던 필레</desc>
 	</programme>
-	<programme start="20190612014000 +0900" stop="20190612023000 +0900" channel="OKSUSU|178">
+	<programme start="20190612014000 +0900" stop="20190612025000 +0900" channel="OKSUSU|178">
 		<title lang="kr">겟 아웃&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7794,39 +7691,22 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 다니엘 칼루유야,앨리슨 윌리엄스,브래들리 윗포드,캐서린 키너
 연출 : 조던 필레</desc>
 	</programme>
-	<programme start="20190612023000 +0900" stop="20190612032000 +0900" channel="OKSUSU|178">
-		<title lang="kr">장산범 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190612025000 +0900" stop="20190612042000 +0900" channel="OKSUSU|178">
+		<title lang="kr">인투 더 스톰</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
 		<credits>
-			<actor>염정아</actor>
-			<actor>박혁권</actor>
-			<actor>허진</actor>
-			<actor>신린아</actor>
-			<producer>허정</producer>
+			<actor>리차드 아미티지</actor>
+			<actor>사라 웨인 칼리즈</actor>
+			<actor>제레미 섬터</actor>
+			<actor>나단 크레스</actor>
+			<producer>스티븐 쿼일</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 영화
-출연 : 염정아,박혁권,허진,신린아
-연출 : 허정</desc>
-	</programme>
-	<programme start="20190612032000 +0900" stop="20190612042000 +0900" channel="OKSUSU|178">
-		<title lang="kr">장산범 &amp;lt;2부&amp;gt;</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">영화</category>
-		<credits>
-			<actor>염정아</actor>
-			<actor>박혁권</actor>
-			<actor>허진</actor>
-			<actor>신린아</actor>
-			<producer>허정</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 영화
-출연 : 염정아,박혁권,허진,신린아
-연출 : 허정</desc>
+출연 : 리차드 아미티지,사라 웨인 칼리즈,제레미 섬터,나단 크레스
+연출 : 스티븐 쿼일</desc>
 	</programme>
 	<programme start="20190612042000 +0900" stop="20190612060000 +0900" channel="OKSUSU|178">
 		<title lang="kr">라자루스</title>
@@ -7847,7 +7727,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 연출 : 데이빗 겔브</desc>
 	</programme>
 	<programme start="20190612060000 +0900" stop="20190612071000 +0900" channel="OKSUSU|178">
-		<title lang="kr">스파이(2013) &amp;lt;1부&amp;gt;</title>
+		<title lang="kr">스파이(2013)&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7867,8 +7747,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 설경구,문소리,다니엘 헤니,고창석,한예리,정인기,라미란,송재호
 연출 : 이승준</desc>
 	</programme>
-	<programme start="20190612071000 +0900" stop="20190612082000 +0900" channel="OKSUSU|178">
-		<title lang="kr">스파이(2013) &amp;lt;2부&amp;gt;</title>
+	<programme start="20190612071000 +0900" stop="20190612081000 +0900" channel="OKSUSU|178">
+		<title lang="kr">스파이(2013)&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7888,8 +7768,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 설경구,문소리,다니엘 헤니,고창석,한예리,정인기,라미란,송재호
 연출 : 이승준</desc>
 	</programme>
-	<programme start="20190612082000 +0900" stop="20190612090000 +0900" channel="OKSUSU|178">
-		<title lang="kr">주토피아 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190612081000 +0900" stop="20190612085000 +0900" channel="OKSUSU|178">
+		<title lang="kr">주토피아&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7905,8 +7785,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 지니퍼 굿윈,제이슨 베이트먼,아이드리스 엘바
 연출 : 바이론 하워드,리치 무어</desc>
 	</programme>
-	<programme start="20190612090000 +0900" stop="20190612102000 +0900" channel="OKSUSU|178">
-		<title lang="kr">주토피아 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190612085000 +0900" stop="20190612100000 +0900" channel="OKSUSU|178">
+		<title lang="kr">주토피아&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7922,8 +7802,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 지니퍼 굿윈,제이슨 베이트먼,아이드리스 엘바
 연출 : 바이론 하워드,리치 무어</desc>
 	</programme>
-	<programme start="20190612102000 +0900" stop="20190612112000 +0900" channel="OKSUSU|178">
-		<title lang="kr">겟 아웃 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190612100000 +0900" stop="20190612111000 +0900" channel="OKSUSU|178">
+		<title lang="kr">겟 아웃&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7939,8 +7819,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 다니엘 칼루유야,앨리슨 윌리엄스,브래들리 윗포드,캐서린 키너
 연출 : 조던 필레</desc>
 	</programme>
-	<programme start="20190612112000 +0900" stop="20190612122000 +0900" channel="OKSUSU|178">
-		<title lang="kr">겟 아웃 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190612111000 +0900" stop="20190612121000 +0900" channel="OKSUSU|178">
+		<title lang="kr">겟 아웃&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7956,8 +7836,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 다니엘 칼루유야,앨리슨 윌리엄스,브래들리 윗포드,캐서린 키너
 연출 : 조던 필레</desc>
 	</programme>
-	<programme start="20190612122000 +0900" stop="20190612134000 +0900" channel="OKSUSU|178">
-		<title lang="kr">보이스3 (9회)(재)</title>
+	<programme start="20190612121000 +0900" stop="20190612133000 +0900" channel="OKSUSU|178">
+		<title lang="kr">보이스3(9회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
@@ -7978,8 +7858,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이하나,이진욱,권율,손은서,김우석,김중기,김기남,한갑수
 연출 : 남기훈,마진원</desc>
 	</programme>
-	<programme start="20190612134000 +0900" stop="20190612150000 +0900" channel="OKSUSU|178">
-		<title lang="kr">보이스3 (10회)(재)</title>
+	<programme start="20190612133000 +0900" stop="20190612144000 +0900" channel="OKSUSU|178">
+		<title lang="kr">보이스3(10회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
@@ -8000,8 +7880,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이하나,이진욱,권율,손은서,김우석,김중기,김기남,한갑수
 연출 : 남기훈,마진원</desc>
 	</programme>
-	<programme start="20190612150000 +0900" stop="20190612155000 +0900" channel="OKSUSU|178">
-		<title lang="kr">호랑이보다 무서운 겨울 손님 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190612144000 +0900" stop="20190612155000 +0900" channel="OKSUSU|178">
+		<title lang="kr">호랑이보다 무서운 겨울 손님&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8017,8 +7897,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이진욱,고현정,서현우,류현경
 연출 : 이광국</desc>
 	</programme>
-	<programme start="20190612155000 +0900" stop="20190612171000 +0900" channel="OKSUSU|178">
-		<title lang="kr">호랑이보다 무서운 겨울 손님 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190612155000 +0900" stop="20190612165000 +0900" channel="OKSUSU|178">
+		<title lang="kr">호랑이보다 무서운 겨울 손님&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8034,7 +7914,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이진욱,고현정,서현우,류현경
 연출 : 이광국</desc>
 	</programme>
-	<programme start="20190612171000 +0900" stop="20190612181000 +0900" channel="OKSUSU|178">
+	<programme start="20190612165000 +0900" stop="20190612181000 +0900" channel="OKSUSU|178">
 		<title lang="kr">미션 임파서블5:로그네이션&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8052,7 +7932,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 톰 크루즈,제레미 레너,사이먼 페그,레베카 퍼거슨,알렉 볼드윈
 연출 : 크리스토퍼 맥쿼리</desc>
 	</programme>
-	<programme start="20190612181000 +0900" stop="20190612194000 +0900" channel="OKSUSU|178">
+	<programme start="20190612181000 +0900" stop="20190612193000 +0900" channel="OKSUSU|178">
 		<title lang="kr">미션 임파서블5:로그네이션&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8070,8 +7950,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 톰 크루즈,제레미 레너,사이먼 페그,레베카 퍼거슨,알렉 볼드윈
 연출 : 크리스토퍼 맥쿼리</desc>
 	</programme>
-	<programme start="20190612194000 +0900" stop="20190612203000 +0900" channel="OKSUSU|178">
-		<title lang="kr">공각기동대:고스트 인 더 쉘 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190612193000 +0900" stop="20190612204000 +0900" channel="OKSUSU|178">
+		<title lang="kr">공각기동대:고스트 인 더 쉘&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8087,8 +7967,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 스칼렛 요한슨,마이클 피트,줄리엣 비노쉬,마이클 윈콧
 연출 : 루퍼트 샌더스</desc>
 	</programme>
-	<programme start="20190612203000 +0900" stop="20190612214000 +0900" channel="OKSUSU|178">
-		<title lang="kr">공각기동대:고스트 인 더 쉘 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190612204000 +0900" stop="20190612214000 +0900" channel="OKSUSU|178">
+		<title lang="kr">공각기동대:고스트 인 더 쉘&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8125,7 +8005,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190612230000 +0900" stop="20190613003000 +0900" channel="OKSUSU|178">
+	<programme start="20190612230000 +0900" stop="20190613002000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(11회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8232,7 +8112,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190611182500 +0900" stop="20190611220000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;두산:한화&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8344,7 +8224,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190612182500 +0900" stop="20190612220000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;두산:한화&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8477,7 +8357,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190611182500 +0900" stop="20190611220000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;SK:kt, 수원&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8621,7 +8501,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190612182500 +0900" stop="20190612220000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;SK:kt, 수원&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
