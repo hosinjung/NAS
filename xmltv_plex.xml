@@ -719,7 +719,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb8a05c2086258f252b7b66ca04df1bd830dab771629f7d176ebe0eac88cc2da5" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="110" start="20190612225500 +0900" stop="20190612233500 +0900">
     <title lang="kr">오늘밤 김제동</title>
     <desc lang="kr">오늘밤 김제동
@@ -1599,37 +1599,17 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F571D8539026A9C0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="111" start="20190612073000 +0900" stop="20190612080000 +0900">
-    <title lang="kr">강력추천 배틀 트립</title>
-    <desc lang="kr">강력추천 배틀 트립
-장르 : 연예/오락
-출연 : 이휘재,김숙,성시경
-제작 : 손지원
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>이휘재</actor>
-      <actor>김숙</actor>
-      <actor>성시경</actor>
-      <producer>손지원</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F570B3318010BFE0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="111" start="20190612080000 +0900" stop="20190612090000 +0900">
-    <title lang="kr">KBS 아침 뉴스타임</title>
-    <desc lang="kr">KBS 아침 뉴스타임
-장르 : 뉴스
+  <programme channel="111" start="20190612073000 +0900" stop="20190612090000 +0900">
+    <title lang="kr">2019 FIFA U-20 월드컵 준결승전 하이라이트</title>
+    <desc lang="kr">2019 FIFA U-20 월드컵 준결승전 하이라이트
+장르 : 스포츠
 등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F52c779275d900485f442284f9cd7249786582aa6b971c57677a68967c2067c4f" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="111" start="20190612090000 +0900" stop="20190612094000 +0900">
     <title lang="kr">여름아 부탁해</title>
     <desc lang="kr">여름아 부탁해 (31회)
@@ -3371,7 +3351,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F582158A9020D350001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="122" start="20190612062500 +0900" stop="20190612075000 +0900">
+  <programme channel="122" start="20190612062500 +0900" stop="20190612070000 +0900">
     <title lang="kr">MBC 뉴스투데이</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">MBC 뉴스투데이
@@ -3384,7 +3364,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F582158A9020D350001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="122" start="20190612075000 +0900" stop="20190612083000 +0900">
+  <programme channel="122" start="20190612070000 +0900" stop="20190612083000 +0900">
     <title lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트</title>
     <desc lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트
 장르 : 스포츠
@@ -3396,8 +3376,8 @@
     </rating>
   <episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="122" start="20190612083000 +0900" stop="20190612093000 +0900">
-    <title lang="kr">생방송 오늘 아침 /</title>
-    <desc lang="kr">생방송 오늘 아침 / (2안포함)
+    <title lang="kr">생방송 오늘 아침</title>
+    <desc lang="kr">생방송 오늘 아침
 장르 : 교양/정보
 출연 : 신동진,이재은
 등급 : 15세 이상 관람가</desc>
@@ -3410,7 +3390,7 @@
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7c4037c0ee9ea781edb3217dde248ee4454ba60f02fb2f4a65dcefd19f4f1637" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile26.uf.daum.net%2Fimage%2F0130E04A514674B30C9F84" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="122" start="20190612093000 +0900" stop="20190612094500 +0900">
     <title lang="kr">930 MBC 뉴스</title>
     <desc lang="kr">930 MBC 뉴스
@@ -3433,58 +3413,17 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8c316c702ad4bf6906044db05fcb0de667065663f3e7a93e922806e5e2f9b8ae" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="122" start="20190612104500 +0900" stop="20190612112000 +0900">
-    <title lang="kr">봄밤</title>
-    <desc lang="kr">봄밤 (9회)
-회차 : 9회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
-    <previously-shown />
+  <programme channel="122" start="20190612104500 +0900" stop="20190612120000 +0900">
+    <title lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트</title>
+    <desc lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190612112000 +0900" stop="20190612120000 +0900">
-    <title lang="kr">봄밤</title>
-    <desc lang="kr">봄밤 (10회)
-회차 : 10회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="122" start="20190612120000 +0900" stop="20190612122500 +0900">
     <title lang="kr">12 MBC 뉴스</title>
     <desc lang="kr">12 MBC 뉴스
@@ -3596,48 +3535,17 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5694BAE2067D8F0001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="122" start="20190612163000 +0900" stop="20190612171500 +0900">
-    <title lang="kr">구해줘! 홈즈</title>
-    <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">구해줘! 홈즈
-부제 : 1부
-장르 : 연예/오락
-출연 : 박나래,김숙
-제작 : 전진수,이윤화
-등급 : 12세 이상 관람가</desc>
-    <credits>
-      <actor>박나래</actor>
-      <actor>김숙</actor>
-      <producer>전진수</producer>
-      <producer>이윤화</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+  <programme channel="122" start="20190612163000 +0900" stop="20190612175500 +0900">
+    <title lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트</title>
+    <desc lang="kr">MBC스포츠 2019 FIFA U-20 월드컵 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07f0498c86f057627cff60cce73672075a6e81353ae58bb906bdf38aa3514938" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="122" start="20190612171500 +0900" stop="20190612175500 +0900">
-    <title lang="kr">구해줘! 홈즈</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">구해줘! 홈즈
-부제 : 2부
-장르 : 연예/오락
-출연 : 박나래,김숙
-제작 : 전진수,이윤화
-등급 : 12세 이상 관람가</desc>
-    <credits>
-      <actor>박나래</actor>
-      <actor>김숙</actor>
-      <producer>전진수</producer>
-      <producer>이윤화</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07f0498c86f057627cff60cce73672075a6e81353ae58bb906bdf38aa3514938" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="122" start="20190612175500 +0900" stop="20190612185000 +0900">
     <title lang="kr">생방송 오늘 저녁</title>
     <desc lang="kr">생방송 오늘 저녁
@@ -4946,8 +4854,8 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4e89820c10d85853bcfb00e5d774553850d342bf28882ed2276ed2a79f91c80d" /></programme>
   <programme channel="129" start="20190613230000 +0900" stop="20190614004000 +0900">
-    <title lang="kr">속풀이쇼 동치미 스페셜</title>
-    <desc lang="kr">속풀이쇼 동치미 스페셜 (1회)
+    <title lang="kr">속풀이쇼 동치미 특별한 인생수업 동치미 특강</title>
+    <desc lang="kr">속풀이쇼 동치미 특별한 인생수업 동치미 특강 (1회)
 회차 : 1회
 장르 : 연예/오락
 출연 : 최은경,박수홍
@@ -6355,32 +6263,6 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb14cb351900a9cd55f906b849e5d2d980d95dacf0b5c46d8af256472856c2f07" /></programme>
-  <programme channel="148" start="20190612224000 +0900" stop="20190613000000 +0900">
-    <title lang="kr">장보고</title>
-    <sub-title lang="kr">역대급 장바구니의 주인공 김나영!</sub-title>
-    <desc lang="kr">장보고 (3회)
-부제 : 역대급 장바구니의 주인공 김나영!
-회차 : 3회
-장르 : 연예/오락
-출연 : 노홍철,하하,붐,한혜연,이미주,김영옥
-제작 : 신소영
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>노홍철</actor>
-      <actor>하하</actor>
-      <actor>붐</actor>
-      <actor>한혜연</actor>
-      <actor>이미주</actor>
-      <actor>김영옥</actor>
-      <producer>신소영</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6be4bbc6f3aa655fe5911db03f2940325b856f9606742fddfb4213e9be6ee4e4" /></programme>
   <programme channel="148" start="20190612224000 +0900" stop="20190613000000 +0900">
     <title lang="kr">장보고</title>
     <sub-title lang="kr">역대급 장바구니의 주인공 김나영!</sub-title>
@@ -8068,7 +7950,18 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58536DD10227D40001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="164" start="20190612073500 +0900" stop="20190612083500 +0900">
+  <programme channel="164" start="20190612073500 +0900" stop="20190612081000 +0900">
+    <title lang="kr">2019 FIFA U-20 월드컵 하이라이트</title>
+    <desc lang="kr">2019 FIFA U-20 월드컵 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <programme channel="164" start="20190612081000 +0900" stop="20190612091000 +0900">
     <title lang="kr">모닝와이드</title>
     <sub-title lang="kr">3부</sub-title>
     <desc lang="kr">모닝와이드
@@ -8086,31 +7979,6 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58536DD10227D40001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="164" start="20190612083500 +0900" stop="20190612091000 +0900">
-    <title lang="kr">수상한 장모 /</title>
-    <desc lang="kr">수상한 장모 / (2안) (18회)
-회차 : 18회
-장르 : 드라마
-출연 : 김정현(이동주),양정아(오애리),,김혜선(왕수진),윤복인(지화자),안연홍(최송아),박진우(오은
-제작 : 이정훈,김인강
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>김정현(이동주)</actor>
-      <actor>양정아(오애리)</actor>
-      <actor>김혜선(왕수진)</actor>
-      <actor>윤복인(지화자)</actor>
-      <actor>안연홍(최송아)</actor>
-      <actor>박진우(오은</actor>
-      <producer>이정훈</producer>
-      <producer>김인강</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.17.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fafa66f25f2d161bbdd80c392d0c7a6ead11e501ea7f929bb0089f423596557c6" /></programme>
   <programme channel="164" start="20190612091000 +0900" stop="20190612101000 +0900">
     <title lang="kr">좋은아침</title>
     <desc lang="kr">좋은아침
@@ -8199,43 +8067,16 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57A96F5A0218E50001" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="164" start="20190612125000 +0900" stop="20190612140000 +0900">
-    <title lang="kr">TV 동물농장 /</title>
-    <desc lang="kr">TV 동물농장 / (2안)
-장르 : 교양/정보
-출연 : 신동엽,정선희,김생민,장예원
+    <title lang="kr">2019 FIFA U-20 월드컵 하이라이트</title>
+    <desc lang="kr">2019 FIFA U-20 월드컵 하이라이트
+장르 : 스포츠
 등급 : 전체 관람가</desc>
-    <credits>
-      <actor>신동엽</actor>
-      <actor>정선희</actor>
-      <actor>김생민</actor>
-      <actor>장예원</actor>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <previously-shown />
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4d7ffefeaa4dfcd09711416d34cfa05112c4ee672e41053b54b654b9794c27c8" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
-  <programme channel="164" start="20190612125000 +0900" stop="20190612140000 +0900">
-    <title lang="kr">TV 동물농장 /</title>
-    <desc lang="kr">TV 동물농장 / (2안)
-장르 : 교양/정보
-출연 : 신동엽,정선희,김생민,장예원
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>신동엽</actor>
-      <actor>정선희</actor>
-      <actor>김생민</actor>
-      <actor>장예원</actor>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4d7ffefeaa4dfcd09711416d34cfa05112c4ee672e41053b54b654b9794c27c8" /><episode-num system="xmltv_ns">18.611.</episode-num></programme>
+  <episode-num system="xmltv_ns">18.611.</episode-num></programme>
   <programme channel="164" start="20190612140000 +0900" stop="20190612160000 +0900">
     <title lang="kr">뉴스브리핑</title>
     <desc lang="kr">뉴스브리핑
@@ -8776,8 +8617,8 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58536DD10227D40001" /><episode-num system="xmltv_ns">18.612.</episode-num></programme>
   <programme channel="164" start="20190613083500 +0900" stop="20190613091000 +0900">
     <title lang="kr">수상한 장모</title>
-    <desc lang="kr">수상한 장모 (19회)
-회차 : 19회
+    <desc lang="kr">수상한 장모 (18회)
+회차 : 18회
 장르 : 드라마
 출연 : 김정현(이동주),양정아(오애리),,김혜선(왕수진),윤복인(지화자),안연홍(최송아),박진우(오은
 제작 : 이정훈,김인강
@@ -8794,7 +8635,7 @@
     </credits>
     <category lang="kr">드라마</category>
     <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.18.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.17.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -11127,7 +10968,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56FCD65106294F0002" /></programme>
-  <programme channel="207" start="20190613045000 +0900" stop="20190613054000 +0900">
+  <programme channel="207" start="20190613045000 +0900" stop="20190613055000 +0900">
     <title lang="kr">프리한 19</title>
     <desc lang="kr">프리한 19 (160회)
 회차 : 160회
@@ -11149,7 +10990,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5862067002732B0001" /></programme>
-  <programme channel="207" start="20190613054000 +0900" stop="20190613073000 +0900">
+  <programme channel="207" start="20190613055000 +0900" stop="20190613073000 +0900">
     <title lang="kr">스페인 하숙</title>
     <desc lang="kr">스페인 하숙 (5회)
 회차 : 5회
