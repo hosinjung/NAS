@@ -7,14 +7,14 @@
 		<display-number>1</display-number>
 		<icon src="http://img.pooq.co.kr/BMS/ChannelImg/K01.jpg" />
 	</channel>
-	<programme start="20190614234500 +0900" stop="20190615004000 +0900" channel="POOQ|K01">
+	<programme start="20190614235000 +0900" stop="20190615004500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 스페셜</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2016-0065_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">공영방송이 선사하는 최고의 명품 다큐. 역사, 자연, 경제, 사회, 환경을 아우르는 모든 분야에서 시대적 과제와 지식, 감동과 즐거움을 선사한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615004000 +0900" stop="20190615005000 +0900" channel="POOQ|K01">
+	<programme start="20190615004500 +0900" stop="20190615005000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0595_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -27,7 +27,7 @@
 		<desc lang="kr">공중파중 유일하게 독립영화를 상영하는 시청자 참여 프로그램.독립 극영화뿐만 아니라 애니메이션, 다큐 등 중장편 독립영화를함께 소개함으로써 영화를 통한 다양한 문화에 대한 시청자의욕구를 충족시키고, 한국영화의 저변확대에 기여한다.또한 상시 상영공간이 절대적으로 부족한 환경아래 정규 프로를통해 우수한 독립영화를 발굴 상영함으로써 공영성 제고와한국 독립영화계의 발전에 기여하고자 한다
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615022300 +0900" stop="20190615032500 +0900" channel="POOQ|K01">
+	<programme start="20190615022300 +0900" stop="20190615033000 +0900" channel="POOQ|K01">
 		<title lang="kr">무엇이든 물어보세요</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0038_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -42,14 +42,14 @@
 등급 : 전체 관람가
 출연 : 김승휘, 정다은</desc>
 	</programme>
-	<programme start="20190615032500 +0900" stop="20190615041500 +0900" channel="POOQ|K01">
+	<programme start="20190615033000 +0900" stop="20190615042000 +0900" channel="POOQ|K01">
 		<title lang="kr">다큐 공감</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0126_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">사회를 향한 열린 마음으로, 이웃을 보는 따뜻한 시선으로 여러분과 소통합니다.치열한 문제의식으로 다양한 주제와 교감하며 굳이 외치지 않아도 마음에 와 닿는 우리들의 이야기를 펼치는 시간을 갖고자 합니다.장을 엽니다. 마음을 엽니다. 하나가 됩니다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615041500 +0900" stop="20190615045000 +0900" channel="POOQ|K01">
+	<programme start="20190615042000 +0900" stop="20190615045500 +0900" channel="POOQ|K01">
 		<title lang="kr">코리언 지오그래픽
 플러스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2015-0098_210.jpg" />
@@ -57,7 +57,7 @@
 		<desc lang="kr">기존 환경스페셜 및 자연다큐에서 주로 다루었던 방식, 즉 한 종 또는 어느 특정 지역에 사는 동물 위주의 제작 방식을 극복하고, 환경.문화.지리적 가치를 가진 특정 경관을 중심으로 그곳이 가지는 자연.인문 지리적 의미와 생태적 비밀을 헬리캠, 고속촬영 등 기존에 시도하지 않았던 생동감 있고 다양한 고품격 영상 기법으로 제작해 우리가 살고 있는 한반도에 대한 가치와 소중함을 일깨운다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615045000 +0900" stop="20190615050000 +0900" channel="POOQ|K01">
+	<programme start="20190615045500 +0900" stop="20190615050000 +0900" channel="POOQ|K01">
 		<title lang="kr">방송 없음</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -249,23 +249,23 @@
 		<desc lang="kr">토 휴일 낮 시간대와 저녁 마감뉴스 전달
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615171000 +0900" stop="20190615175900 +0900" channel="POOQ|K01">
+	<programme start="20190615171000 +0900" stop="20190615175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190615175900 +0900" stop="20190615185500 +0900" channel="POOQ|K01">
+	<programme start="20190615175800 +0900" stop="20190615185500 +0900" channel="POOQ|K01">
 		<title lang="kr">동행</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2014-0877_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<credits>
 			<actor>김기만</actor>
 			<actor>조수빈</actor>
 		</credits>
 		<desc lang="kr">남의 이야기가 아니라, 나의 이웃의 이야기며, 나의 이야기가 될 수도 있다. 여기 가난의 굴레에 갇힌 사람들이 있다. 가족의 질병이나 파산, 실직 등으로 한순간 벼랑 끝에 몰린 우리 이웃들의 이야기.끝없이 노력하고 발버둥을 쳐봐도 좀처럼 헤어날 길은 보이지 않는다.하지만...가족이 있기에 오늘도 희망의 끈을 놓을 수 없다.동행(同行)은 동행(同幸)이다.자활 의지로 희망의 끈을 놓지 않는 이웃들, 그들의 치열한 삶의 현장을 함께 하며 이를 통해 우리 사회의 안전망에 대해 점검해 본다. 더불어 우리 사회가 가진 공동체의 따뜻함이 불러오는 놀라운 변화를 통해 한 사람의 작은 관심이 얼마나 큰 역할을 할 수 있는지 되짚어본다.가난의 굴레에 갇힌 이들과 소통할 수 있는 기회의 장을 제공하고, 일방적인 도움이 아닌 출연자와 시청자가 함께 ‘힐링’ 할 수 있는 진정한 ’동행‘의 길을 모색해본다.
-등급 : 전체 관람가
+등급 : 12세 이상 관람가
 출연 : 김기만, 조수빈</desc>
 	</programme>
 	<programme start="20190615185500 +0900" stop="20190615190000 +0900" channel="POOQ|K01">
@@ -4871,16 +4871,8 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190616000000 +0900" stop="20190616002000 +0900" channel="OKSUSU|570">
+	<programme start="20190616000000 +0900" stop="20190616010000 +0900" channel="OKSUSU|570">
 		<title lang="kr">YTN 24</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190616002000 +0900" stop="20190616010000 +0900" channel="OKSUSU|570">
-		<title lang="kr">YTN 시민 데스크</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -5806,7 +5798,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190615162000 +0900" stop="20190615180000 +0900" channel="OKSUSU|872">
+	<programme start="20190615162000 +0900" stop="20190615180500 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5825,7 +5817,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190615180000 +0900" stop="20190615193000 +0900" channel="OKSUSU|872">
+	<programme start="20190615180500 +0900" stop="20190615193500 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 1부 호구들의 감빵생활(14회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5846,7 +5838,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 김태진,이수근,정형돈,김종민,황제성,이상엽,장도연
 연출 : 박성재,윤인회</desc>
 	</programme>
-	<programme start="20190615193000 +0900" stop="20190615210000 +0900" channel="OKSUSU|872">
+	<programme start="20190615193500 +0900" stop="20190615211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(63회)&amp;lt;셔누, 루다&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5866,7 +5858,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190615210000 +0900" stop="20190615225000 +0900" channel="OKSUSU|872">
+	<programme start="20190615211000 +0900" stop="20190615225000 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(5회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5891,7 +5883,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190615225000 +0900" stop="20190616004000 +0900" channel="OKSUSU|872">
+	<programme start="20190615225000 +0900" stop="20190616003100 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(2회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5907,7 +5899,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190616004000 +0900" stop="20190616023000 +0900" channel="OKSUSU|872">
+	<programme start="20190616003100 +0900" stop="20190616021900 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5926,7 +5918,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190616023000 +0900" stop="20190616040000 +0900" channel="OKSUSU|872">
+	<programme start="20190616021900 +0900" stop="20190616040300 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5951,7 +5943,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190616040000 +0900" stop="20190616054000 +0900" channel="OKSUSU|872">
+	<programme start="20190616040300 +0900" stop="20190616053400 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(63회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5971,15 +5963,15 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190616054000 +0900" stop="20190616062000 +0900" channel="OKSUSU|872">
-		<title lang="kr">커버스토리(재)</title>
+	<programme start="20190616053400 +0900" stop="20190616061700 +0900" channel="OKSUSU|872">
+		<title lang="kr">커버스토리(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 시사/다큐</desc>
 	</programme>
-	<programme start="20190616062000 +0900" stop="20190616075000 +0900" channel="OKSUSU|872">
+	<programme start="20190616061700 +0900" stop="20190616074400 +0900" channel="OKSUSU|872">
 		<title lang="kr">손세이셔널-그를 만든 시간(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -5991,7 +5983,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 시사/다큐
 출연 : 손흥민</desc>
 	</programme>
-	<programme start="20190616075000 +0900" stop="20190616094000 +0900" channel="OKSUSU|872">
+	<programme start="20190616074400 +0900" stop="20190616093100 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(9회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6009,7 +6001,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190616094000 +0900" stop="20190616112000 +0900" channel="OKSUSU|872">
+	<programme start="20190616093100 +0900" stop="20190616111600 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6034,7 +6026,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190616112000 +0900" stop="20190616125000 +0900" channel="OKSUSU|872">
+	<programme start="20190616111600 +0900" stop="20190616125600 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6050,7 +6042,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190616125000 +0900" stop="20190616143000 +0900" channel="OKSUSU|872">
+	<programme start="20190616125600 +0900" stop="20190616143800 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(63회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6070,7 +6062,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190616143000 +0900" stop="20190616163000 +0900" channel="OKSUSU|872">
+	<programme start="20190616143800 +0900" stop="20190616162900 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6089,7 +6081,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190616163000 +0900" stop="20190616181000 +0900" channel="OKSUSU|872">
+	<programme start="20190616162900 +0900" stop="20190616181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8718,7 +8710,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615165500 +0900" stop="20190615203000 +0900" channel="OKSUSU|125">
-		<title lang="kr">2019 KBO리그&amp;lt;LG:두산&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8830,7 +8822,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616165500 +0900" stop="20190616203000 +0900" channel="OKSUSU|125">
-		<title lang="kr">2019 KBO리그&amp;lt;LG:두산&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8875,7 +8867,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615003000 +0900" stop="20190615020000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 하이라이트 &amp;lt;LG:두산, 6/14&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8907,7 +8899,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615060000 +0900" stop="20190615080000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2017 동아시안컵 &amp;lt;대한민국:일본&amp;gt;(재)</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8971,7 +8963,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615165500 +0900" stop="20190615203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 &amp;lt;kt:삼성, 대구&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8979,7 +8971,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615203000 +0900" stop="20190615210000 +0900" channel="OKSUSU|424">
-		<title lang="kr">가장 빠른 하이라이트</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8987,7 +8979,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615210000 +0900" stop="20190615223000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 하이라이트 &amp;lt;kt:삼성, 6/15&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8995,7 +8987,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190615223000 +0900" stop="20190616003000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2017 동아시안컵 &amp;lt;대한민국:일본&amp;gt;(재)</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9003,7 +8995,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616003000 +0900" stop="20190616020000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 하이라이트 &amp;lt;LG:두산, 6/15&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9067,7 +9059,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616120000 +0900" stop="20190616140000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2017 동아시안컵 &amp;lt;대한민국:일본&amp;gt;(재)</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9091,7 +9083,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616165500 +0900" stop="20190616203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 &amp;lt;kt:삼성, 대구&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9099,7 +9091,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616203000 +0900" stop="20190616210000 +0900" channel="OKSUSU|424">
-		<title lang="kr">가장 빠른 하이라이트</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9107,7 +9099,7 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190616210000 +0900" stop="20190616223000 +0900" channel="OKSUSU|424">
-		<title lang="kr">2019 KBO리그 하이라이트 &amp;lt;kt:삼성, 6/16&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9611,5 +9603,130 @@ MBC가 5월에 새롭게 선보일 예정인 파일럿 프로그램 '실화 탐�
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 취미/레저</desc>
+	</programme>
+	<channel id="OKSUSU|424" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=424" video-type="HLS2">
+		<display-name>SPOTV 2</display-name>
+		<display-name>32</display-name>
+		<display-number>32</display-number>
+		<icon src="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_424.png" />
+	</channel>
+	<programme start="20190615000000 +0900" stop="20190615003000 +0900" channel="OKSUSU|424">
+		<title lang="kr">가장 빠른 하이라이트  6/14 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615003000 +0900" stop="20190615020000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615020000 +0900" stop="20190615030000 +0900" channel="OKSUSU|424">
+		<title lang="kr">SPORTS TIME BASEBALL 6/14 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615030000 +0900" stop="20190615050000 +0900" channel="OKSUSU|424">
+		<title lang="kr">김연경 최고의 명경기  18-19 시즌 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615050000 +0900" stop="20190615060000 +0900" channel="OKSUSU|424">
+		<title lang="kr">손흥민 시즌 베스트 골 SUPER 'SON' TIME (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615060000 +0900" stop="20190615080000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615080000 +0900" stop="20190615093000 +0900" channel="OKSUSU|424">
+		<title lang="kr">2019 KBO리그 하이라이트  6/14 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615093000 +0900" stop="20190615100000 +0900" channel="OKSUSU|424">
+		<title lang="kr">SPORTS TIME BASEBALL 하이라이트  6/14 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615100000 +0900" stop="20190615120000 +0900" channel="OKSUSU|424">
+		<title lang="kr">2018 FIVB 여자배구 세계선수권대회 아시아예선  대한민국:북한 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615120000 +0900" stop="20190615140000 +0900" channel="OKSUSU|424">
+		<title lang="kr">[시즌 리뷰] 손흥민 최고의 순간  18-19 시즌 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615140000 +0900" stop="20190615150500 +0900" channel="OKSUSU|424">
+		<title lang="kr">SPORTS TIME BASEBALL 스페셜  주간 명승부, 6월 2주차 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615150500 +0900" stop="20190615160000 +0900" channel="OKSUSU|424">
+		<title lang="kr">2019 JLPGA 산토리 레이디스 오픈  3R </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615160000 +0900" stop="20190615165500 +0900" channel="OKSUSU|424">
+		<title lang="kr">가장 빠른 하이라이트 스페셜 (2회) 끝내기 특집 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615165500 +0900" stop="20190615203000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615203000 +0900" stop="20190615210000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615210000 +0900" stop="20190615223000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190615223000 +0900" stop="20190616003000 +0900" channel="OKSUSU|424">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
 </tv>
