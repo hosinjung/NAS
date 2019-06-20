@@ -1470,9 +1470,9 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57C78C6A0628330001" /><episode-num system="xmltv_ns">18.620.</episode-num></programme>
   <programme channel="110" start="20190621234500 +0900" stop="20190622003500 +0900">
     <title lang="kr">다큐세상</title>
-    <sub-title lang="kr">분단을 넘어 하나의 언어로</sub-title>
+    <sub-title lang="kr">괜찮니? 일없다! 한민족, 두개의 한글</sub-title>
     <desc lang="kr">다큐세상
-부제 : 분단을 넘어 하나의 언어로
+부제 : 괜찮니? 일없다! 한민족, 두개의 한글
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -3594,7 +3594,7 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.619.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9797721157eaf6ca75a2f4be84f3088ab73de31ece154ab6d487bb3c11e77137" /><episode-num system="xmltv_ns">18.619.</episode-num></programme>
   <programme channel="122" start="20190620155500 +0900" stop="20190620162500 +0900">
     <title lang="kr">이상한 나라의 며느리</title>
     <sub-title lang="kr">1부</sub-title>
@@ -4455,7 +4455,8 @@
 장르 : 영화
 출연 : 로스 맥콜,제이미 레이 뉴먼,제이미 뱀버
 제작 : 나단 아이브스
-등급 : 15세 이상 관람가</desc>
+등급 : 19세 이상 관람가
+크리스마스를 앞둔 어느 날, 각자 나름의 사연을 가진 사람들이 있다. 임신 시기를 두고 다투게 된 재스...</desc>
     <credits>
       <actor>로스 맥콜</actor>
       <actor>제이미 레이 뉴먼</actor>
@@ -4465,7 +4466,7 @@
     <category lang="kr">영화</category>
     <category lang="en">Movie / Drama</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>19세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.619.</episode-num></programme>
   <programme channel="129" start="20190620044000 +0900" stop="20190620060000 +0900">
@@ -4699,9 +4700,11 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4e89820c10d85853bcfb00e5d774553850d342bf28882ed2276ed2a79f91c80d" /></programme>
-  <programme channel="129" start="20190620230000 +0900" stop="20190621004000 +0900">
-    <title lang="kr">속풀이쇼 동치미 스페셜</title>
-    <desc lang="kr">속풀이쇼 동치미 스페셜 (1회)
+  <programme channel="129" start="20190620230000 +0900" stop="20190621003000 +0900">
+    <title lang="kr">속풀이쇼 동치미</title>
+    <sub-title lang="kr">달콤살벌 부부특집</sub-title>
+    <desc lang="kr">속풀이쇼 동치미 (1회)
+부제 : 달콤살벌 부부특집
 회차 : 1회
 장르 : 연예/오락
 출연 : 최은경,박수홍
@@ -4718,19 +4721,20 @@
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  </programme>
-  <programme channel="129" start="20190621004000 +0900" stop="20190621014000 +0900">
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /></programme>
+  <programme channel="129" start="20190621003000 +0900" stop="20190621013000 +0900">
     <title lang="kr">특집다큐 미생물의 반란, 비만 잡는 장내 세균</title>
     <desc lang="kr">특집다큐 미생물의 반란, 비만 잡는 장내 세균
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
     <category lang="en">Documentary</category>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.620.</episode-num></programme>
-  <programme channel="129" start="20190621014000 +0900" stop="20190621024000 +0900">
+  <programme channel="129" start="20190621013000 +0900" stop="20190621023000 +0900">
     <title lang="kr">MBN 스페셜다큐 리더의 시간</title>
     <desc lang="kr">MBN 스페셜다큐 리더의 시간 (4회)
 회차 : 4회
@@ -4743,7 +4747,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme channel="129" start="20190621024000 +0900" stop="20190621034000 +0900">
+  <programme channel="129" start="20190621023000 +0900" stop="20190621033000 +0900">
     <title lang="kr">MBN 스페셜다큐 리더의 시간</title>
     <desc lang="kr">MBN 스페셜다큐 리더의 시간 (5회)
 회차 : 5회
@@ -4756,7 +4760,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme channel="129" start="20190621034000 +0900" stop="20190621050000 +0900">
+  <programme channel="129" start="20190621033000 +0900" stop="20190621050000 +0900">
     <title lang="kr">천기누설 스페셜</title>
     <desc lang="kr">천기누설 스페셜 (963회)
 회차 : 963회
@@ -8939,26 +8943,28 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F050813d072499982e183a1961712922da8f17b6035b4103b85e493824efcc1b5" /></programme>
-  <programme channel="164" start="20190621231000 +0900" stop="20190622002500 +0900">
-    <title lang="kr">특선영화 청년경찰</title>
+  <programme channel="164" start="20190621231000 +0900" stop="20190621234000 +0900">
+    <title lang="kr">U-20 월드컵 특집 배성재, 정정용 감독의 U20 최고의 순간들</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">특선영화 청년경찰
+    <desc lang="kr">U-20 월드컵 특집 배성재, 정정용 감독의 U20 최고의 순간들
 부제 : 1부
-장르 : 영화
-출연 : 박서준,강하늘,성동일,박하선,고준
-제작 : 김주환
-등급 : 15세 이상 관람가
-의욕충만 경찰대생 기준(박서준) X 이론백단 경찰대생 희열(강하늘) 둘도 없는 친구인 두 사람은 외출...</desc>
-    <credits>
-      <actor>박서준</actor>
-      <actor>강하늘</actor>
-      <actor>성동일</actor>
-      <actor>박하선</actor>
-      <actor>고준</actor>
-      <producer>김주환</producer>
-    </credits>
-    <category lang="kr">영화</category>
-    <category lang="en">Movie / Drama</category>
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.620.</episode-num></programme>
+  <programme channel="164" start="20190621234000 +0900" stop="20190622001000 +0900">
+    <title lang="kr">U-20 월드컵 특집 배성재, 정정용 감독의 U20 최고의 순간들</title>
+    <sub-title lang="kr">2부</sub-title>
+    <desc lang="kr">U-20 월드컵 특집 배성재, 정정용 감독의 U20 최고의 순간들
+부제 : 2부
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -9774,12 +9780,15 @@
     </rating>
   <episode-num system="xmltv_ns">18.619.</episode-num></programme>
   <programme channel="185" start="20190620090000 +0900" stop="20190620103000 +0900">
-    <title lang="kr">2019 NH농협은행 3X3 농구대회</title>
-    <desc lang="kr">2019 NH농협은행 3X3 농구대회
+    <title lang="kr">TOP 플레이어</title>
+    <sub-title lang="kr">손흥민/메시/호날두</sub-title>
+    <desc lang="kr">TOP 플레이어
+부제 : 손흥민/메시/호날두
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -9865,21 +9874,30 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme channel="185" start="20190620200000 +0900" stop="20190620220000 +0900">
-    <title lang="kr">TOP 플레이어</title>
-    <sub-title lang="kr">손흥민/메시/호날두</sub-title>
-    <desc lang="kr">TOP 플레이어
-부제 : 손흥민/메시/호날두
+  <programme channel="185" start="20190620200000 +0900" stop="20190620213000 +0900">
+    <title lang="kr">2019 NH농협은행 3X3 농구대회</title>
+    <desc lang="kr">2019 NH농협은행 3X3 농구대회
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
-    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.619.</episode-num></programme>
-  <programme channel="185" start="20190620220000 +0900" stop="20190621010000 +0900">
+  <programme channel="185" start="20190620213000 +0900" stop="20190620223000 +0900">
+    <title lang="kr">UFC 정찬성 스페셜</title>
+    <desc lang="kr">UFC 정찬성 스페셜
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.619.</episode-num></programme>
+  <programme channel="185" start="20190620223000 +0900" stop="20190621010000 +0900">
     <title lang="kr">UFC 코리안 파이터 최고의 경기</title>
     <desc lang="kr">UFC 코리안 파이터 최고의 경기
 장르 : 스포츠
@@ -10689,7 +10707,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190620175500 +0900" stop="20190620192000 +0900">
+  <programme channel="207" start="20190620175500 +0900" stop="20190620192500 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (55회)
 회차 : 55회
@@ -10711,7 +10729,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190620192000 +0900" stop="20190620205000 +0900">
+  <programme channel="207" start="20190620192500 +0900" stop="20190620205000 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (5회)
 회차 : 5회
@@ -10743,7 +10761,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190620205000 +0900" stop="20190620213000 +0900">
+  <programme channel="207" start="20190620205000 +0900" stop="20190620214000 +0900">
     <title lang="kr">커버스토리</title>
     <sub-title lang="kr">FIFA u-20 남자월드컵 편</sub-title>
     <desc lang="kr">커버스토리 (7회)
@@ -10758,7 +10776,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F66d8c21758ecf179872b33e62a22b5a1aca7ee29876fa4abae105ba520d3db69" /></programme>
-  <programme channel="207" start="20190620213000 +0900" stop="20190620230000 +0900">
+  <programme channel="207" start="20190620214000 +0900" stop="20190620230500 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (6회)
 회차 : 6회
@@ -10789,7 +10807,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190620230000 +0900" stop="20190621005000 +0900">
+  <programme channel="207" start="20190620230500 +0900" stop="20190621005100 +0900">
     <title lang="kr">현지에서 먹힐까? 미국편</title>
     <desc lang="kr">현지에서 먹힐까? 미국편 (10회)
 회차 : 10회
@@ -10812,7 +10830,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F084e5970e33c3dd39cfc77b0de29df9221617bca262c688dac460ed7ab98c95f" /></programme>
-  <programme channel="207" start="20190621005000 +0900" stop="20190621022000 +0900">
+  <programme channel="207" start="20190621005100 +0900" stop="20190621021800 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (6회)
 회차 : 6회
@@ -10844,7 +10862,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190621022000 +0900" stop="20190621041000 +0900">
+  <programme channel="207" start="20190621021800 +0900" stop="20190621034300 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">놀라운 토요일 (14회)
@@ -10873,7 +10891,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190621041000 +0900" stop="20190621043000 +0900">
+  <programme channel="207" start="20190621034300 +0900" stop="20190621042900 +0900">
     <title lang="kr">코미디 빅리그 Hot clip</title>
     <desc lang="kr">코미디 빅리그 Hot clip
 장르 : 연예/오락
@@ -10885,7 +10903,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /><episode-num system="xmltv_ns">18.620.</episode-num></programme>
-  <programme channel="207" start="20190621043000 +0900" stop="20190621053000 +0900">
+  <programme channel="207" start="20190621042900 +0900" stop="20190621053000 +0900">
     <title lang="kr">곽승준의 쿨까당</title>
     <desc lang="kr">곽승준의 쿨까당 (316회)
 회차 : 316회
