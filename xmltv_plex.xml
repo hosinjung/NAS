@@ -3924,7 +3924,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe947cfa0f47b672171e68ebb9cedcb45b412493c2daa718afed32d5d2be3d002" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622010500 +0900" stop="20190622031000 +0900">
+  <programme channel="122" start="20190622010500 +0900" stop="20190622030500 +0900">
     <title lang="kr">UHD 특선영화 범죄의 재구성</title>
     <desc lang="kr">UHD 특선영화 범죄의 재구성
 장르 : 영화
@@ -4024,7 +4024,27 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F806c89dea4b5b1ceb74eb3c4f68dba02d91c675ed6a97e647c99e103674f448f" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622091000 +0900" stop="20190622095500 +0900">
+  <programme channel="122" start="20190622091000 +0900" stop="20190622102000 +0900">
+    <title lang="kr">라디오스타 스페셜</title>
+    <desc lang="kr">라디오스타 스페셜
+장르 : 연예/오락
+출연 : 김국진,윤종신,김구라,차태현
+제작 : 박창훈
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>김국진</actor>
+      <actor>윤종신</actor>
+      <actor>김구라</actor>
+      <actor>차태현</actor>
+      <producer>박창훈</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile29.uf.daum.net%2Fimage%2F174268404FB1C4D31F1728" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
+  <programme channel="122" start="20190622102000 +0900" stop="20190622110500 +0900">
     <title lang="kr">구해줘! 홈즈</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">구해줘! 홈즈
@@ -4045,7 +4065,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07f0498c86f057627cff60cce73672075a6e81353ae58bb906bdf38aa3514938" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622095500 +0900" stop="20190622104000 +0900">
+  <programme channel="122" start="20190622110500 +0900" stop="20190622115000 +0900">
     <title lang="kr">구해줘! 홈즈</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">구해줘! 홈즈
@@ -4066,61 +4086,9 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07f0498c86f057627cff60cce73672075a6e81353ae58bb906bdf38aa3514938" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622104000 +0900" stop="20190622111500 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (13회)
-회차 : 13회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.12.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622111500 +0900" stop="20190622115500 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (14회)
-회차 : 14회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.13.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622115500 +0900" stop="20190622120500 +0900">
-    <title lang="kr">MBC 뉴스 /</title>
-    <desc lang="kr">MBC 뉴스 / (2안포함)
+  <programme channel="122" start="20190622115000 +0900" stop="20190622120000 +0900">
+    <title lang="kr">MBC 뉴스</title>
+    <desc lang="kr">MBC 뉴스
 장르 : 뉴스
 등급 : 전체 관람가</desc>
     <category lang="kr">뉴스</category>
@@ -4128,62 +4096,10 @@
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7f1e2b754714315f39851500705ef622fa55deb97d1975ef58844cd18301fdaa" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622120500 +0900" stop="20190622124000 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (15회)
-회차 : 15회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.14.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622124000 +0900" stop="20190622132000 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (16회)
-회차 : 16회
-장르 : 드라마
-출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
-제작 : 안판석,김은
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>송승환(이태학)</actor>
-      <actor>임성언(이서인)</actor>
-      <actor>한지민(이정인)</actor>
-      <actor>이무생(남ㅅ훈)</actor>
-      <actor>길해연(신형선)</actor>
-      <actor>정해인(유지</actor>
-      <producer>안판석</producer>
-      <producer>김은</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.15.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622132000 +0900" stop="20190622135500 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (17회)
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56613AE4026D420009" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
+  <programme channel="122" start="20190622120000 +0900" stop="20190622123500 +0900">
+    <title lang="kr">봄밤</title>
+    <desc lang="kr">봄밤 (17회)
 회차 : 17회
 장르 : 드라마
 출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
@@ -4207,9 +4123,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622135500 +0900" stop="20190622143500 +0900">
-    <title lang="kr">봄밤 /</title>
-    <desc lang="kr">봄밤 / (2안포함) (18회)
+  <programme channel="122" start="20190622123500 +0900" stop="20190622131500 +0900">
+    <title lang="kr">봄밤</title>
+    <desc lang="kr">봄밤 (18회)
 회차 : 18회
 장르 : 드라마
 출연 : 송승환(이태학),,임성언(이서인),한지민(이정인),이무생(남ㅅ훈),길해연(신형선),정해인(유지
@@ -4233,7 +4149,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622143500 +0900" stop="20190622151000 +0900">
+  <programme channel="122" start="20190622131500 +0900" stop="20190622135000 +0900">
     <title lang="kr">봄밤</title>
     <desc lang="kr">봄밤 (19회)
 회차 : 19회
@@ -4259,7 +4175,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622151000 +0900" stop="20190622155000 +0900">
+  <programme channel="122" start="20190622135000 +0900" stop="20190622143000 +0900">
     <title lang="kr">봄밤</title>
     <desc lang="kr">봄밤 (20회)
 회차 : 20회
@@ -4285,7 +4201,59 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F579ac39975be054195c5bf6365336ac0b1f8e8b2ba00859edd7715d9b2a1ae4c" /></programme>
-  <programme channel="122" start="20190622155000 +0900" stop="20190622171000 +0900">
+  <programme channel="122" start="20190622143000 +0900" stop="20190622150500 +0900">
+    <title lang="kr">검법남녀 시즌2</title>
+    <desc lang="kr">검법남녀 시즌2 (9회)
+회차 : 9회
+장르 : 드라마
+출연 : 정재영(백범),,오만석(도지한),송영규(마도남),노민우(장철),고규필(장성주),주진모(박중호)
+제작 : 노도철,민지은
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>정재영(백범)</actor>
+      <actor>오만석(도지한)</actor>
+      <actor>송영규(마도남)</actor>
+      <actor>노민우(장철)</actor>
+      <actor>고규필(장성주)</actor>
+      <actor>주진모(박중호)</actor>
+      <producer>노도철</producer>
+      <producer>민지은</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8052342063fdce8c1c1c88619ebce382d688f986032e0fb80c0c5e164e31cbeb" /></programme>
+  <programme channel="122" start="20190622150500 +0900" stop="20190622154500 +0900">
+    <title lang="kr">검법남녀 시즌2</title>
+    <desc lang="kr">검법남녀 시즌2 (10회)
+회차 : 10회
+장르 : 드라마
+출연 : 정재영(백범),,오만석(도지한),송영규(마도남),노민우(장철),고규필(장성주),주진모(박중호)
+제작 : 노도철,민지은
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>정재영(백범)</actor>
+      <actor>오만석(도지한)</actor>
+      <actor>송영규(마도남)</actor>
+      <actor>노민우(장철)</actor>
+      <actor>고규필(장성주)</actor>
+      <actor>주진모(박중호)</actor>
+      <producer>노도철</producer>
+      <producer>민지은</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8052342063fdce8c1c1c88619ebce382d688f986032e0fb80c0c5e164e31cbeb" /></programme>
+  <programme channel="122" start="20190622154500 +0900" stop="20190622170500 +0900">
     <title lang="kr">쇼! 음악중심</title>
     <desc lang="kr">쇼! 음악중심
 장르 : 음악
@@ -4296,7 +4264,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbae23b5ae3bdaea2c6016be140beba12db8ecc23f5322790657adb53181b0456" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
-  <programme channel="122" start="20190622171000 +0900" stop="20190622181500 +0900">
+  <programme channel="122" start="20190622170500 +0900" stop="20190622181500 +0900">
     <title lang="kr">호구의 연애 스페셜</title>
     <desc lang="kr">호구의 연애 스페셜
 장르 : 연예/오락
@@ -4506,11 +4474,34 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbef6099c0dd6098dc2b5329ead5e0954787466043d1eaa1b2644f3ae886201c8" /></programme>
-  <programme channel="122" start="20190622230500 +0900" stop="20190623000000 +0900">
+  <programme channel="122" start="20190622230500 +0900" stop="20190622235000 +0900">
     <title lang="kr">전지적 참견 시점</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">전지적 참견 시점
 부제 : 1부
+장르 : 연예/오락
+출연 : 전현무,이영자,송은이,양세형,유병재
+제작 : 안수영
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>전현무</actor>
+      <actor>이영자</actor>
+      <actor>송은이</actor>
+      <actor>양세형</actor>
+      <actor>유병재</actor>
+      <producer>안수영</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa00cb8d536c24015422a34cfd6a696cfd072adebb91382a9d8de21b83a74851c" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
+  <programme channel="122" start="20190622235000 +0900" stop="20190623004500 +0900">
+    <title lang="kr">전지적 참견 시점</title>
+    <sub-title lang="kr">2부</sub-title>
+    <desc lang="kr">전지적 참견 시점
+부제 : 2부
 장르 : 연예/오락
 출연 : 전현무,이영자,송은이,양세형,유병재
 제작 : 안수영
@@ -4699,8 +4690,8 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F692082dc62af2235b71b559e4caaf5169888c13313b67c69eac933f7dc6a12e1" /></programme>
   <programme channel="129" start="20190621114000 +0900" stop="20190621130000 +0900">
     <title lang="kr">기막힌 이야기 실제상황 스페셜</title>
-    <desc lang="kr">기막힌 이야기 실제상황 스페셜 (60회)
-회차 : 60회
+    <desc lang="kr">기막힌 이야기 실제상황 스페셜 (338회)
+회차 : 338회
 장르 : 교양/정보
 제작 : 정해상
 등급 : 15세 이상 관람가</desc>
@@ -4709,7 +4700,7 @@
     </credits>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.59.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.337.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -4955,8 +4946,8 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5860B63C026F990002" /></programme>
   <programme channel="129" start="20190622074000 +0900" stop="20190622084000 +0900">
-    <title lang="kr">특집다큐 관절에 좋은 자연의 선물 우슬</title>
-    <desc lang="kr">특집다큐 관절에 좋은 자연의 선물 우슬
+    <title lang="kr">특집다큐 우리가 몰랐던 관절염의 비밀</title>
+    <desc lang="kr">특집다큐 우리가 몰랐던 관절염의 비밀
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="kr">시사/다큐</category>
@@ -4989,8 +4980,8 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F581983870210430001" /><episode-num system="xmltv_ns">18.621.</episode-num></programme>
   <programme channel="129" start="20190622111000 +0900" stop="20190622123000 +0900">
     <title lang="kr">기막힌 이야기 실제상황</title>
-    <desc lang="kr">기막힌 이야기 실제상황 (343회)
-회차 : 343회
+    <desc lang="kr">기막힌 이야기 실제상황 (340회)
+회차 : 340회
 장르 : 교양/정보
 제작 : 정해상
 등급 : 15세 이상 관람가</desc>
@@ -4999,7 +4990,7 @@
     </credits>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.342.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.339.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
@@ -10979,7 +10970,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190621162600 +0900" stop="20190621180000 +0900">
+  <programme channel="207" start="20190621162600 +0900" stop="20190621181800 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (3회)
 회차 : 3회
@@ -11004,7 +10995,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190621180000 +0900" stop="20190621195000 +0900">
+  <programme channel="207" start="20190621181800 +0900" stop="20190621200000 +0900">
     <title lang="kr">현지에서 먹힐까? 미국편</title>
     <desc lang="kr">현지에서 먹힐까? 미국편 (10회)
 회차 : 10회
@@ -11028,7 +11019,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F084e5970e33c3dd39cfc77b0de29df9221617bca262c688dac460ed7ab98c95f" /></programme>
-  <programme channel="207" start="20190621195000 +0900" stop="20190621211000 +0900">
+  <programme channel="207" start="20190621200000 +0900" stop="20190621211500 +0900">
     <title lang="kr">300 엑스투</title>
     <sub-title lang="kr">레드벨벳/최종회</sub-title>
     <desc lang="kr">300 엑스투 (8회)
@@ -11051,7 +11042,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb5babfc976d9d67702cfdb9fd1e07b7d646fb23c940c38ed375b89f0320899b9" /></programme>
-  <programme channel="207" start="20190621211000 +0900" stop="20190621230000 +0900">
+  <programme channel="207" start="20190621211500 +0900" stop="20190621230000 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (4회)
 회차 : 4회
@@ -11075,7 +11066,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190621230000 +0900" stop="20190622002000 +0900">
+  <programme channel="207" start="20190621230000 +0900" stop="20190622002900 +0900">
     <title lang="kr">손세이셔널-그를 만든 시간</title>
     <desc lang="kr">손세이셔널-그를 만든 시간 (4회)
 회차 : 4회
@@ -11092,7 +11083,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F21d748e27c90e21efa2191726c239e032c10187a8d3b804d52e2f3d24e6500a7" /></programme>
-  <programme channel="207" start="20190622002000 +0900" stop="20190622022000 +0900">
+  <programme channel="207" start="20190622002900 +0900" stop="20190622021800 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (4회)
 회차 : 4회
@@ -11117,7 +11108,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190622022000 +0900" stop="20190622040000 +0900">
+  <programme channel="207" start="20190622021800 +0900" stop="20190622035900 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (5회)
 회차 : 5회
@@ -11148,7 +11139,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190622040000 +0900" stop="20190622054000 +0900">
+  <programme channel="207" start="20190622035900 +0900" stop="20190622054000 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (6회)
 회차 : 6회
