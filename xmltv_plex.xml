@@ -2872,7 +2872,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74dc4d9cd81bc8706951d8d307987be2078f9c50ec7a0f276d20288e5dcb7638" /></programme>
-  <programme channel="121" start="20190626114000 +0900" stop="20190626143000 +0900">
+  <programme channel="121" start="20190626114000 +0900" stop="20190626142000 +0900">
     <title lang="kr">프로듀스 X 101</title>
     <desc lang="kr">프로듀스 X 101 (8회)
 회차 : 8회
@@ -2895,7 +2895,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
-  <programme channel="121" start="20190626143000 +0900" stop="20190626161000 +0900">
+  <programme channel="121" start="20190626142000 +0900" stop="20190626160000 +0900">
     <title lang="kr">유학소녀</title>
     <desc lang="kr">유학소녀 (5회)
 회차 : 5회
@@ -2913,7 +2913,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F13ad263973d60d9eb942ef83f615932c4b75fb6dc8a862438556838eb6ebef71" /></programme>
-  <programme channel="121" start="20190626161000 +0900" stop="20190626170000 +0900">
+  <programme channel="121" start="20190626160000 +0900" stop="20190626164000 +0900">
     <title lang="kr">Daily Music Talk</title>
     <desc lang="kr">Daily Music Talk (SMS) (1374회)
 회차 : 1374회
@@ -2926,7 +2926,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme channel="121" start="20190626170000 +0900" stop="20190626200000 +0900">
+  <programme channel="121" start="20190626164000 +0900" stop="20190626193000 +0900">
     <title lang="kr">프로듀스 X 101</title>
     <desc lang="kr">프로듀스 X 101 (8회)
 회차 : 8회
@@ -2949,6 +2949,19 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
+  <programme channel="121" start="20190626193000 +0900" stop="20190626200000 +0900">
+    <title lang="kr">Live on M</title>
+    <desc lang="kr">Live on M (SMS) (2261회)
+회차 : 2261회
+장르 : 음악
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
+    <episode-num system="xmltv_ns">0.2260.0/0</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
   <programme channel="121" start="20190626200000 +0900" stop="20190626214000 +0900">
     <title lang="kr">유학소녀</title>
     <desc lang="kr">유학소녀 (5회)
@@ -9213,8 +9226,8 @@
     </rating>
   <episode-num system="xmltv_ns">18.624.</episode-num></programme>
   <programme channel="184" start="20190625100000 +0900" stop="20190625110000 +0900">
-    <title lang="kr">다시보는 2018 LoL 핫매치</title>
-    <desc lang="kr">다시보는 2018 LoL 핫매치
+    <title lang="kr">다시보는 2018 LOL 명경기</title>
+    <desc lang="kr">다시보는 2018 LOL 명경기
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -10432,7 +10445,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190625165900 +0900" stop="20190625190000 +0900">
+  <programme channel="207" start="20190625165900 +0900" stop="20190625185000 +0900">
     <title lang="kr">현지에서 먹힐까? 미국편</title>
     <desc lang="kr">현지에서 먹힐까? 미국편 (10회)
 회차 : 10회
@@ -10456,7 +10469,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F084e5970e33c3dd39cfc77b0de29df9221617bca262c688dac460ed7ab98c95f" /></programme>
-  <programme channel="207" start="20190625190000 +0900" stop="20190625201000 +0900">
+  <programme channel="207" start="20190625185000 +0900" stop="20190625202000 +0900">
     <title lang="kr">물 오른 식탁</title>
     <sub-title lang="kr">최종회</sub-title>
     <desc lang="kr">물 오른 식탁 (3회)
@@ -10477,7 +10490,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6b88ada96455df8fb8e21a4570d9cd92735deaa5a5b34a3113f5ed1b3f4eaf34" /></programme>
-  <programme channel="207" start="20190625201000 +0900" stop="20190625213000 +0900">
+  <programme channel="207" start="20190625202000 +0900" stop="20190625213500 +0900">
     <title lang="kr">손세이셔널-그를 만든 시간</title>
     <desc lang="kr">손세이셔널-그를 만든 시간 (4회)
 회차 : 4회
@@ -10495,7 +10508,7 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F21d748e27c90e21efa2191726c239e032c10187a8d3b804d52e2f3d24e6500a7" /></programme>
-  <programme channel="207" start="20190625213000 +0900" stop="20190625230000 +0900">
+  <programme channel="207" start="20190625213500 +0900" stop="20190625230000 +0900">
     <title lang="kr">어비스</title>
     <sub-title lang="kr">최종회</sub-title>
     <desc lang="kr">어비스 (16회)
@@ -10523,7 +10536,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Faaaaedc7d207d474e74bb66614b00801bb3ac4cef85620e04434d204fae3c5d9" /></programme>
-  <programme channel="207" start="20190625230000 +0900" stop="20190626003000 +0900">
+  <programme channel="207" start="20190625230000 +0900" stop="20190626005000 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (23회)
 회차 : 23회
@@ -10541,7 +10554,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190626003000 +0900" stop="20190626015000 +0900">
+  <programme channel="207" start="20190626005000 +0900" stop="20190626021000 +0900">
     <title lang="kr">수요미식회</title>
     <desc lang="kr">수요미식회 (208회)
 회차 : 208회
@@ -10564,7 +10577,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb14cb351900a9cd55f906b849e5d2d980d95dacf0b5c46d8af256472856c2f07" /></programme>
-  <programme channel="207" start="20190626015000 +0900" stop="20190626034000 +0900">
+  <programme channel="207" start="20190626021000 +0900" stop="20190626040200 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (23회)
 회차 : 23회
@@ -10583,7 +10596,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190626034000 +0900" stop="20190626050000 +0900">
+  <programme channel="207" start="20190626040200 +0900" stop="20190626052300 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (55회)
 회차 : 55회
@@ -10605,7 +10618,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190626050000 +0900" stop="20190626054000 +0900">
+  <programme channel="207" start="20190626052300 +0900" stop="20190626054000 +0900">
     <title lang="kr">신서유기6 게임모음.Zip</title>
     <desc lang="kr">신서유기6 게임모음.Zip
 장르 : 연예/오락
@@ -10629,7 +10642,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.625.</episode-num></programme>
-  <programme channel="207" start="20190626054000 +0900" stop="20190626072000 +0900">
+  <programme channel="207" start="20190626054000 +0900" stop="20190626071000 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (5회)
 회차 : 5회
@@ -10660,7 +10673,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190626072000 +0900" stop="20190626090000 +0900">
+  <programme channel="207" start="20190626071000 +0900" stop="20190626085000 +0900">
     <title lang="kr">아스달 연대기</title>
     <desc lang="kr">아스달 연대기 (6회)
 회차 : 6회
@@ -10691,35 +10704,28 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6686ae6ee19b471fced49de0322dbc082ddde4549411bc719e55d8d2b6aa9da0" /></programme>
-  <programme channel="207" start="20190626090000 +0900" stop="20190626103000 +0900">
-    <title lang="kr">슈퍼히어러</title>
-    <desc lang="kr">슈퍼히어러 (2회)
-회차 : 2회
+  <programme channel="207" start="20190626085000 +0900" stop="20190626103000 +0900">
+    <title lang="kr">고교급식왕</title>
+    <desc lang="kr">고교급식왕 (3회)
+회차 : 3회
 장르 : 연예/오락
-출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
-제작 : 민철기
+출연 : 백종원,은지원,문세윤
+제작 : 임수정
 등급 : 12세 이상 관람가</desc>
     <credits>
-      <actor>장성규</actor>
-      <actor>윤종신</actor>
-      <actor>강타</actor>
-      <actor>장윤정</actor>
-      <actor>케이윌</actor>
-      <actor>김구라</actor>
-      <actor>박준형</actor>
-      <actor>엄현경</actor>
-      <actor>붐</actor>
-      <actor>황제성</actor>
-      <producer>민철기</producer>
+      <actor>백종원</actor>
+      <actor>은지원</actor>
+      <actor>문세윤</actor>
+      <producer>임수정</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4f44b08fb29c0cd7c0a28bb363716246cf44b6f385cace7fd5e4bf563a53b260" /></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9ee6ade2803ca59ddb81f418a073e34897347689e81cfeda5c626a170210d3fd" /></programme>
   <programme channel="207" start="20190626103000 +0900" stop="20190626122000 +0900">
     <title lang="kr">현지에서 먹힐까? 미국편</title>
     <desc lang="kr">현지에서 먹힐까? 미국편 (10회)
@@ -10915,7 +10921,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190626230000 +0900" stop="20190627010000 +0900">
+  <programme channel="207" start="20190626230000 +0900" stop="20190627005000 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (4회)
 회차 : 4회
@@ -12980,13 +12986,13 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce7d4a02d883cce873cd429d31fa22302769ad82444a42812a4fb222be3c9763" /></programme>
   <programme channel="281" start="20190625073000 +0900" stop="20190625080000 +0900">
     <title lang="kr">우리는 비트몬스터</title>
-    <desc lang="kr">우리는 비트몬스터 (2회)
-회차 : 2회
+    <desc lang="kr">우리는 비트몬스터 (3회)
+회차 : 3회
 장르 : 만화
 등급 : 전체 관람가</desc>
     <category lang="kr">만화</category>
     <category lang="en">Cartoons / Puppets</category>
-    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
