@@ -170,46 +170,21 @@
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630125000 +0900" stop="20190630150000 +0900" channel="POOQ|K01">
+	<programme start="20190630125000 +0900" stop="20190630143000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스특보</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2011-1151_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630150000 +0900" stop="20190630170000 +0900" channel="POOQ|K01">
+	<programme start="20190630143000 +0900" stop="20190630173000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스특보</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2011-1151_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630170000 +0900" stop="20190630171000 +0900" channel="POOQ|K01">
-		<title lang="kr">KBS 뉴스</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2003-0195_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">토 휴일 낮 시간대 뉴스 전달
-등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190630171000 +0900" stop="20190630180000 +0900" channel="POOQ|K01">
-		<title lang="kr">동물의 왕국</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
-등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190630180000 +0900" stop="20190630190000 +0900" channel="POOQ|K01">
-		<title lang="kr">열린음악회</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0096_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<credits>
-			<actor>이현주</actor>
-		</credits>
-		<desc lang="kr">열린음악회는 대중음악, 클래식, 성악, 국악, 뮤지컬 등 다양한 장르를 아우르는 품격높은 TV프로그램으로 KBS홀과 야외 대형무대를 통해 시청자와 직접 만나는 공연을 통해 한국의 공연문화의 대중화에 이바지하고 있으며, 공영방송의 대표적인 음악 프로그램으로 시청자의 사랑을 받고 있다.
-등급 : 전체 관람가
-출연 : 이현주</desc>
-	</programme>
-	<programme start="20190630190000 +0900" stop="20190630191000 +0900" channel="POOQ|K01">
-		<title lang="kr">KBS 뉴스</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_I2011-0001_210.jpg" />
+	<programme start="20190630173000 +0900" stop="20190630191000 +0900" channel="POOQ|K01">
+		<title lang="kr">KBS 뉴스특보</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2011-1151_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
@@ -232,8 +207,8 @@
 		<desc lang="kr">사회를 향한 열린 마음으로, 이웃을 보는 따뜻한 시선으로 여러분과 소통합니다.치열한 문제의식으로 다양한 주제와 교감하며 굳이 외치지 않아도 마음에 와 닿는 우리들의 이야기를 펼치는 시간을 갖고자 합니다.장을 엽니다. 마음을 엽니다. 하나가 됩니다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630210000 +0900" stop="20190630214000 +0900" channel="POOQ|K01">
-		<title lang="kr">KBS 뉴스 9</title>
+	<programme start="20190630210000 +0900" stop="20190630215000 +0900" channel="POOQ|K01">
+		<title lang="kr">특집 KBS 뉴스 9</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0110_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<credits>
@@ -246,15 +221,15 @@
 등급 : 전체 관람가
 출연 : 엄경철,이각경,김태욱,박소현</desc>
 	</programme>
-	<programme start="20190630214000 +0900" stop="20190630224000 +0900" channel="POOQ|K01">
+	<programme start="20190630215000 +0900" stop="20190630225000 +0900" channel="POOQ|K01">
 		<title lang="kr">특집 대담
 다시 도는 비핵화시계
 한반도 평화의 길</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0201_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630224000 +0900" stop="20190630233500 +0900" channel="POOQ|K01">
+	<programme start="20190630225000 +0900" stop="20190630234500 +0900" channel="POOQ|K01">
 		<title lang="kr">저널리즘 토크쇼 
 J</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0345_210.jpg" />
@@ -262,20 +237,20 @@ J</title>
 		<desc lang="kr">력과 자본의 노골적인 언론 장악으로 망가진 저널리즘 회복을 위한 공영미디어 KBS의 프로젝트.  주요 뉴스를 균형 있게 분석해 시청자들이 합리적 판단을 내릴 수 있도록 도와주고, 저널리즘의 문제점을 파헤치고 고발하는 저널리즘 토크쇼.  전문가와 기자들의 토크를 통해 미디어의 홍수와 정보의 과잉 속에서 저널리즘의 원칙과 취재윤리를 기자와 시청자에게 알려준다.  좋은 뉴스를 널리 전파하고 새로운 저널리즘 트렌드도 소개한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630233500 +0900" stop="20190701002500 +0900" channel="POOQ|K01">
+	<programme start="20190630234500 +0900" stop="20190701003500 +0900" channel="POOQ|K01">
 		<title lang="kr">글로벌 다큐멘터리</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0006_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">KBS에서 세계적으로 유명한 다큐멘터리를 방영해주는 프로그램
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701002500 +0900" stop="20190701003500 +0900" channel="POOQ|K01">
+	<programme start="20190701003500 +0900" stop="20190701004500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_I2011-0001_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701003500 +0900" stop="20190701012500 +0900" channel="POOQ|K01">
+	<programme start="20190701004500 +0900" stop="20190701013500 +0900" channel="POOQ|K01">
 		<title lang="kr">한국인의 밥상</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2010-1657_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -286,14 +261,15 @@ J</title>
 등급 : 전체 관람가
 출연 : 최불암</desc>
 	</programme>
-	<programme start="20190701012500 +0900" stop="20190701030000 +0900" channel="POOQ|K01">
+	<programme start="20190701013500 +0900" stop="20190701031000 +0900" channel="POOQ|K01">
 		<title lang="kr">제31회 TV 바둑 
 아시아 선수권대회</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0156_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">등급 : 전체 관람가</desc>
+		<desc lang="kr">한국, 중국, 일본을 대표하는 TV기전의 우승, 준우승자들이 펼치는 세계속기바둑대회를 중계방송함으로써 시청자들에게 즐거움을 주고, 공영방송 KBS의 이미지 제고에 기하고자 함.
+등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701030000 +0900" stop="20190701050000 +0900" channel="POOQ|K01">
+	<programme start="20190701031000 +0900" stop="20190701050000 +0900" channel="POOQ|K01">
 		<title lang="kr">방송 없음</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -483,7 +459,7 @@ J</title>
 	<programme start="20190701203000 +0900" stop="20190701210000 +0900" channel="POOQ|K01">
 		<title lang="kr">일일연속극 여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0043_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>이영은</actor>
 			<actor>윤선우</actor>
@@ -499,7 +475,7 @@ J</title>
 			<actor>송민재</actor>
 		</credits>
 		<desc lang="kr">미워도 미워할 수만은 없는 가족에 대한 이야기를 유쾌하고 따뜻하게 그린 가족 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 이영은,윤선우,이채영,김사권,나혜미,김산호,김혜옥,이한위,강석우,문희경,김예령,송민재</desc>
 	</programme>
 	<programme start="20190701210000 +0900" stop="20190701220000 +0900" channel="POOQ|K01">
@@ -1586,266 +1562,65 @@ J</title>
 등급 : 15세 이상 관람가
 출연 : 김국진,윤종신,김구라</desc>
 	</programme>
-	<programme start="20190630105000 +0900" stop="20190630112000 +0900" channel="POOQ|M01">
+	<programme start="20190630105000 +0900" stop="20190630124500 +0900" channel="POOQ|M01">
 		<title lang="kr">MBC뉴스특보 - 한미정상회담</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630112000 +0900" stop="20190630124500 +0900" channel="POOQ|M01">
-		<title lang="kr">신비한 TV 서프라이즈</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000825100000100000_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<desc lang="kr">첨단과학의 세계로 치닫고 있는 21세기에 아직도 의문의 미스테리로 남아있는 역사적 사건과 베일에 가려진 진실들이 있다. 또한 세계를 깜짝 놀라게 만들었던 희대의 사건들이 있었으며, 오늘날의 과학적 근거로는 설명될 수 없는 사건들이 우리들의 일상 속에서 벌어지고 있다. 
-등급 : 12세 이상 관람가</desc>
-	</programme>
-	<programme start="20190630124500 +0900" stop="20190630132000 +0900" channel="POOQ|M01">
+	<programme start="20190630124500 +0900" stop="20190630160000 +0900" channel="POOQ|M01">
 		<title lang="kr">MBC뉴스특보 - 한미정상회담</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630132000 +0900" stop="20190630135500 +0900" channel="POOQ|M01">
-		<title lang="kr">출발! 비디오 여행 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000827100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김생민</actor>
-			<actor>서인</actor>
-			<actor>양승은</actor>
-		</credits>
-		<desc lang="kr">출발! 비디오여행 은, 대한민국의 영화전문 프로그램 원조로,  19년 동안 장수 해온 프로그램입니다.  그 동안  영화 대 영화 ,  왜 ,  결정적 장면  등의 코너를 통해 재치있는 해설부터 깊이있는 분석에 이르기까지 영화를 다양하게 소개해드림으로써 시청자 여러분들의 많은 사랑을 받아왔습니다.  출발! 비디오여행은 앞으로도 더욱 즐겁게 영화를 볼 수 있는 가이드 프로그램으로써 노력을 다할 것을 약속드립니다.
-등급 : 15세 이상 관람가
-출연 : 김생민,서인,양승은</desc>
-	</programme>
-	<programme start="20190630135500 +0900" stop="20190630143000 +0900" channel="POOQ|M01">
-		<title lang="kr">출발! 비디오 여행 2부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000827100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김생민</actor>
-			<actor>서인</actor>
-			<actor>양승은</actor>
-		</credits>
-		<desc lang="kr">출발! 비디오여행 은, 대한민국의 영화전문 프로그램 원조로,  19년 동안 장수 해온 프로그램입니다.  그 동안  영화 대 영화 ,  왜 ,  결정적 장면  등의 코너를 통해 재치있는 해설부터 깊이있는 분석에 이르기까지 영화를 다양하게 소개해드림으로써 시청자 여러분들의 많은 사랑을 받아왔습니다.  출발! 비디오여행은 앞으로도 더욱 즐겁게 영화를 볼 수 있는 가이드 프로그램으로써 노력을 다할 것을 약속드립니다.
-등급 : 15세 이상 관람가
-출연 : 김생민,서인,양승은</desc>
-	</programme>
-	<programme start="20190630143000 +0900" stop="20190630150500 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 13회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
-	</programme>
-	<programme start="20190630150500 +0900" stop="20190630154500 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 14회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
-	</programme>
-	<programme start="20190630154500 +0900" stop="20190630162000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 15회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
-	</programme>
-	<programme start="20190630162000 +0900" stop="20190630170000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 16회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
-	</programme>
-	<programme start="20190630170000 +0900" stop="20190630175000 +0900" channel="POOQ|M01">
-		<title lang="kr">복면가왕 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000790100000100000_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>김성주</actor>
-			<actor>김구라</actor>
-		</credits>
-		<desc lang="kr">복면가왕 밑에
-“계급장 떼고 덤벼라.”
-가수에게 계급장은 곧 인기다.
-내가 좋아하는 가수의 노래는 더 좋게 들린다.
-곡이 유명가수를 만나야 인기를 얻게 되는 이유도 바로 여기에 있다.
-하지만 만약 인기라는 계급장을 떼고
-진정한 노래 실력으로만 최고의 가수를 뽑는다면 누가 될까
-
-본 프로그램은 이러한 궁금증에서 시작되었다.
-인기라는 편견을 버리고 진정성 있는 노래로 자신을 어필 할 수 있는
-가수가 진정한 가수로 자리 할 수 있는 무대.
-바로 ‘복면가왕’이 희망하는 무대이다.
-
-그리고 
-이러한 ‘복면가왕’의 기본 정신은 
-시청자들에게도 목말라있던 진정성을 불러올 것이다.
-
-우리가 잊고 있던, 우리가 미처 인정하지 못한
-보컬리스트들의 대결이 시작된다.
-
-등급 : 12세 이상 관람가
-출연 : 김성주,김구라</desc>
-	</programme>
-	<programme start="20190630175000 +0900" stop="20190630184500 +0900" channel="POOQ|M01">
-		<title lang="kr">복면가왕 2부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000790100000100000_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>김성주</actor>
-			<actor>김구라</actor>
-		</credits>
-		<desc lang="kr">복면가왕 밑에
-“계급장 떼고 덤벼라.”
-가수에게 계급장은 곧 인기다.
-내가 좋아하는 가수의 노래는 더 좋게 들린다.
-곡이 유명가수를 만나야 인기를 얻게 되는 이유도 바로 여기에 있다.
-하지만 만약 인기라는 계급장을 떼고
-진정한 노래 실력으로만 최고의 가수를 뽑는다면 누가 될까
-
-본 프로그램은 이러한 궁금증에서 시작되었다.
-인기라는 편견을 버리고 진정성 있는 노래로 자신을 어필 할 수 있는
-가수가 진정한 가수로 자리 할 수 있는 무대.
-바로 ‘복면가왕’이 희망하는 무대이다.
-
-그리고 
-이러한 ‘복면가왕’의 기본 정신은 
-시청자들에게도 목말라있던 진정성을 불러올 것이다.
-
-우리가 잊고 있던, 우리가 미처 인정하지 못한
-보컬리스트들의 대결이 시작된다.
-
-등급 : 12세 이상 관람가
-출연 : 김성주,김구라</desc>
-	</programme>
-	<programme start="20190630184500 +0900" stop="20190630195500 +0900" channel="POOQ|M01">
-		<title lang="kr">마이 리틀 텔레비전 V2 스페셜</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004422100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김구라</actor>
-			<actor>안유진</actor>
-		</credits>
-		<desc lang="kr">기존의 TV 스타들과 사회 각층에서 전문가들까지, 특별히 선별된 스타가 자신만의 콘텐츠를 가지고, 직접 PD 겸 연기자가 되어 인터넷 생방송을 펼치는 1인 방송 대결 프로그램 
-등급 : 15세 이상 관람가
-출연 : 김구라,안유진</desc>
-	</programme>
-	<programme start="20190630195500 +0900" stop="20190630204500 +0900" channel="POOQ|M01">
-		<title lang="kr">MBC 뉴스데스크</title>
+	<programme start="20190630160000 +0900" stop="20190630193000 +0900" channel="POOQ|M01">
+		<title lang="kr">MBC뉴스특보 - 한미정상회담</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630204500 +0900" stop="20190630210500 +0900" channel="POOQ|M01">
-		<title lang="kr">침착한 주말(최종)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004422100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>김구라</actor>
-			<actor>안유진</actor>
-		</credits>
-		<desc lang="kr">기존의 TV 스타들과 사회 각층에서 전문가들까지, 특별히 선별된 스타가 자신만의 콘텐츠를 가지고, 직접 PD 겸 연기자가 되어 인터넷 생방송을 펼치는 1인 방송 대결 프로그램 
-등급 : 15세 이상 관람가
-출연 : 김구라,안유진</desc>
+	<programme start="20190630193000 +0900" stop="20190630210000 +0900" channel="POOQ|M01">
+		<title lang="kr">특집 MBC 뉴스데스크</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630210500 +0900" stop="20190630215000 +0900" channel="POOQ|M01">
-		<title lang="kr">호구의 연애 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004202100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>허경환</actor>
-			<actor>박성광</actor>
-			<actor>양세찬</actor>
-			<actor>김민규</actor>
-			<actor>성시경</actor>
-			<actor>유인영</actor>
-			<actor>양세형</actor>
-			<actor>장도연</actor>
-			<actor>장동우</actor>
-		</credits>
-		<desc lang="kr">누구나 한 번쯤 꿈꿔보는 
-여행지에서의 가슴 설레는 로맨스!
-함께 여행도 하고 새로운 인연도 만들어갈 
-핑크빛 동호회 활동이 
- 호감 구혼자의 연애 에서 시작됩니다
-
-등급 : 15세 이상 관람가
-출연 : 허경환,박성광,양세찬,김민규,성시경,유인영,양세형,장도연,장동우</desc>
+	<programme start="20190630210000 +0900" stop="20190630223000 +0900" channel="POOQ|M01">
+		<title lang="kr">MBC 특별대담 ‘판문점, 세기의 만남’ 이후 한반도</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630215000 +0900" stop="20190630223500 +0900" channel="POOQ|M01">
-		<title lang="kr">호구의 연애 2부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004202100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>허경환</actor>
-			<actor>박성광</actor>
-			<actor>양세찬</actor>
-			<actor>김민규</actor>
-			<actor>성시경</actor>
-			<actor>유인영</actor>
-			<actor>양세형</actor>
-			<actor>장도연</actor>
-			<actor>장동우</actor>
-		</credits>
-		<desc lang="kr">누구나 한 번쯤 꿈꿔보는 
-여행지에서의 가슴 설레는 로맨스!
-함께 여행도 하고 새로운 인연도 만들어갈 
-핑크빛 동호회 활동이 
- 호감 구혼자의 연애 에서 시작됩니다
-
-등급 : 15세 이상 관람가
-출연 : 허경환,박성광,양세찬,김민규,성시경,유인영,양세형,장도연,장동우</desc>
-	</programme>
-	<programme start="20190630223500 +0900" stop="20190630232000 +0900" channel="POOQ|M01">
+	<programme start="20190630223000 +0900" stop="20190630231500 +0900" channel="POOQ|M01">
 		<title lang="kr">구해줘! 홈즈 1부</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004223100000100000_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<desc lang="kr">'뭘 좋아할지 몰라 이집저집 준비 해봤어' 바쁜 현대인들의 집찾기를 위해 직접 나선 스타들! 그들의 리얼한 발품중개배틀  구해줘! 홈즈 
 등급 : 12세 이상 관람가</desc>
 	</programme>
-	<programme start="20190630232000 +0900" stop="20190701000500 +0900" channel="POOQ|M01">
+	<programme start="20190630231500 +0900" stop="20190701000000 +0900" channel="POOQ|M01">
 		<title lang="kr">구해줘! 홈즈 2부</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004223100000100000_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<desc lang="kr">'뭘 좋아할지 몰라 이집저집 준비 해봤어' 바쁜 현대인들의 집찾기를 위해 직접 나선 스타들! 그들의 리얼한 발품중개배틀  구해줘! 홈즈 
 등급 : 12세 이상 관람가</desc>
 	</programme>
-	<programme start="20190701000500 +0900" stop="20190701010000 +0900" channel="POOQ|M01">
+	<programme start="20190701000000 +0900" stop="20190701002000 +0900" channel="POOQ|M01">
+		<title lang="kr">침착한 주말(최종)</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004536100000100000_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<credits>
+			<actor>주호민</actor>
+			<actor>이말년</actor>
+		</credits>
+		<desc lang="kr">매주 금요일 밤 9시 50분에 방송되는  마이 리틀 텔레비전 V2 를
+&amp;#8203;주호민, 이말년의 화려한 입담으로 풀어내는 색다른 리뷰 프로그램
+
+등급 : 전체 관람가
+출연 : 주호민,이말년</desc>
+	</programme>
+	<programme start="20190701002000 +0900" stop="20190701011500 +0900" channel="POOQ|M01">
 		<title lang="kr">MBC 네트워크특선 열정의 에너지 축제를 말하다(원주M)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000858100000100000_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -1856,7 +1631,7 @@ J</title>
 
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701010000 +0900" stop="20190701021000 +0900" channel="POOQ|M01">
+	<programme start="20190701011500 +0900" stop="20190701022500 +0900" channel="POOQ|M01">
 		<title lang="kr">2019 지구촌 어린이 돕기 희망더하기 스페셜 차드 편</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004572100000100000_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -1864,7 +1639,7 @@ J</title>
 지구촌아이들의 작은 희망에 우리의 희망을 더합니다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701021000 +0900" stop="20190701050000 +0900" channel="POOQ|M01">
+	<programme start="20190701022500 +0900" stop="20190701050000 +0900" channel="POOQ|M01">
 		<title lang="kr">방송 없음</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -2329,13 +2104,13 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 등급 : 전체 관람가
 출연 : 토니안,정선희,신동엽,장예원</desc>
 	</programme>
-	<programme start="20190630105000 +0900" stop="20190630113000 +0900" channel="POOQ|S01">
+	<programme start="20190630105000 +0900" stop="20190630114000 +0900" channel="POOQ|S01">
 		<title lang="kr">SBS 뉴스특보</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630113000 +0900" stop="20190630124000 +0900" channel="POOQ|S01">
+	<programme start="20190630114000 +0900" stop="20190630125000 +0900" channel="POOQ|S01">
 		<title lang="kr">집사부일체</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000010677_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -2352,188 +2127,26 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 등급 : 15세 이상 관람가
 출연 : 양세형,이상윤,이승기,육성재</desc>
 	</programme>
-	<programme start="20190630124000 +0900" stop="20190630125000 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 뉴스</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">등급 : 전체 관람가</desc>
-	</programme>
-	<programme start="20190630125000 +0900" stop="20190630133500 +0900" channel="POOQ|S01">
+	<programme start="20190630125000 +0900" stop="20190630140000 +0900" channel="POOQ|S01">
 		<title lang="kr">뉴스특보 한미정상 공동 기자회견 (생중계)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630133500 +0900" stop="20190630141500 +0900" channel="POOQ|S01">
-		<title lang="kr">금토드라마 [녹두꽃] (39회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000011200_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>조정석</actor>
-			<actor>윤시윤</actor>
-			<actor>김하균</actor>
-			<actor>박지일</actor>
-			<actor>정규수</actor>
-			<actor>병헌</actor>
-			<actor>서영희</actor>
-			<actor>최원영</actor>
-			<actor>안길강</actor>
-			<actor>박혁권</actor>
-			<actor>김상호</actor>
-			<actor>한예리</actor>
-			<actor>조희봉</actor>
-			<actor>민성욱</actor>
-			<actor>노행하</actor>
-			<actor>황영희</actor>
-			<actor>조현식</actor>
-			<actor>최무성</actor>
-			<actor>문원주</actor>
-			<actor>정선철</actor>
-			<actor>백은혜</actor>
-			<actor>박지환</actor>
-			<actor>이태검</actor>
-			<actor>박규영</actor>
-			<actor>김도연</actor>
-			<actor>이순원</actor>
-			<actor>김정호</actor>
-		</credits>
-		<desc lang="kr">흰 옷의 백성들이 죽창을 들고 모여드니 앉으면 죽산(竹山)이요, 서면 백산(白山)이라!전설이 된 미완의 혁명, 동학농민항쟁!1894년 조선 강토를 피로 물들인 동학농민항쟁은 단순한 반란이 아니라 봉건의 한 시대를 마감하고 근대의 신새벽을 열어젖힌 전환기적 사건이었다. ‘사람이 곧 하늘(人乃天)’이라는 믿음으로 자유와 평등, 민족 자주가 실현되는 나라를 만들고자 했던 아래로부터의 혁명이었다. 미완(未完)의 혁명이기도 했다. 전봉준의 지휘 아래 서울로 진격하던 혁명군은 공주 우금티 전투에서 조일연합군의 막강한 화력 앞에 무릎을 꿇었다. 그러나 그들의 정신은 살아남아 3？1 운동으로, 항일독립투쟁으로, 4？19로, 유월항쟁으로 면면히 이어져 왔다.다른 세상은 가능하다고 믿었던 선조들의 우렁찬 사자후!  이 드라마는 ‘동학’하면 떠오르는 녹두장군 전봉준의 일대기가 아니다.  항쟁의 소용돌이에 휩쓸려 궤도를 이탈해버린 민초들의 이야기다.  혁명군과 토벌대로 갈라져 서로의 가슴에 총구를 겨눠야 하는 이복형제가 써내려가는 애증과 영욕의 드라마다. 역사에 이름 한 줄 남기지 못하고 스러져간 무명전사들, 혁명과 반혁명이 교차하는 와중에도 삶의 의지를 잃지 않았던 갑오년의 위대한 백성들에게 바치는 헌사이다.
-등급 : 15세 이상 관람가
-출연 : 조정석,윤시윤,김하균,박지일,정규수,병헌,서영희,최원영,안길강,박혁권,김상호,한예리,조희봉,민성욱,노행하,황영희,조현식,최무성,문원주,정선철,백은혜,박지환,이태검,박규영,김도연,이순원,김정호</desc>
-	</programme>
-	<programme start="20190630141500 +0900" stop="20190630144500 +0900" channel="POOQ|S01">
-		<title lang="kr">금토드라마 [녹두꽃] (40회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000011200_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>조정석</actor>
-			<actor>윤시윤</actor>
-			<actor>김하균</actor>
-			<actor>박지일</actor>
-			<actor>정규수</actor>
-			<actor>병헌</actor>
-			<actor>서영희</actor>
-			<actor>최원영</actor>
-			<actor>안길강</actor>
-			<actor>박혁권</actor>
-			<actor>김상호</actor>
-			<actor>한예리</actor>
-			<actor>조희봉</actor>
-			<actor>민성욱</actor>
-			<actor>노행하</actor>
-			<actor>황영희</actor>
-			<actor>조현식</actor>
-			<actor>최무성</actor>
-			<actor>문원주</actor>
-			<actor>정선철</actor>
-			<actor>백은혜</actor>
-			<actor>박지환</actor>
-			<actor>이태검</actor>
-			<actor>박규영</actor>
-			<actor>김도연</actor>
-			<actor>이순원</actor>
-			<actor>김정호</actor>
-		</credits>
-		<desc lang="kr">흰 옷의 백성들이 죽창을 들고 모여드니 앉으면 죽산(竹山)이요, 서면 백산(白山)이라!전설이 된 미완의 혁명, 동학농민항쟁!1894년 조선 강토를 피로 물들인 동학농민항쟁은 단순한 반란이 아니라 봉건의 한 시대를 마감하고 근대의 신새벽을 열어젖힌 전환기적 사건이었다. ‘사람이 곧 하늘(人乃天)’이라는 믿음으로 자유와 평등, 민족 자주가 실현되는 나라를 만들고자 했던 아래로부터의 혁명이었다. 미완(未完)의 혁명이기도 했다. 전봉준의 지휘 아래 서울로 진격하던 혁명군은 공주 우금티 전투에서 조일연합군의 막강한 화력 앞에 무릎을 꿇었다. 그러나 그들의 정신은 살아남아 3？1 운동으로, 항일독립투쟁으로, 4？19로, 유월항쟁으로 면면히 이어져 왔다.다른 세상은 가능하다고 믿었던 선조들의 우렁찬 사자후!  이 드라마는 ‘동학’하면 떠오르는 녹두장군 전봉준의 일대기가 아니다.  항쟁의 소용돌이에 휩쓸려 궤도를 이탈해버린 민초들의 이야기다.  혁명군과 토벌대로 갈라져 서로의 가슴에 총구를 겨눠야 하는 이복형제가 써내려가는 애증과 영욕의 드라마다. 역사에 이름 한 줄 남기지 못하고 스러져간 무명전사들, 혁명과 반혁명이 교차하는 와중에도 삶의 의지를 잃지 않았던 갑오년의 위대한 백성들에게 바치는 헌사이다.
-등급 : 15세 이상 관람가
-출연 : 조정석,윤시윤,김하균,박지일,정규수,병헌,서영희,최원영,안길강,박혁권,김상호,한예리,조희봉,민성욱,노행하,황영희,조현식,최무성,문원주,정선철,백은혜,박지환,이태검,박규영,김도연,이순원,김정호</desc>
-	</programme>
-	<programme start="20190630144500 +0900" stop="20190630154000 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 뉴스특보</title>
+	<programme start="20190630140000 +0900" stop="20190630172000 +0900" channel="POOQ|S01">
+		<title lang="kr">SBS 뉴스특보-남북미 정상 사상 첫 만남</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630154000 +0900" stop="20190630155000 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 뉴스</title>
+	<programme start="20190630172000 +0900" stop="20190630193000 +0900" channel="POOQ|S01">
+		<title lang="kr">SBS 뉴스특보 </title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630155000 +0900" stop="20190630170000 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 인기가요</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000010182_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>신은수</actor>
-			<actor>민규</actor>
-		</credits>
-		<desc lang="kr">기존 순위 위주의 가요 프로그램 형식을 탈피하고 다양한 조사 결과에 의거하여 한 주간 화제가 되었던 인기가요를 소개하고 컴백 스페셜 등 멋진 무대를 보여준다.
-등급 : 15세 이상 관람가
-출연 : 신은수,민규</desc>
-	</programme>
-	<programme start="20190630170000 +0900" stop="20190630174000 +0900" channel="POOQ|S01">
-		<title lang="kr">런닝맨 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000330171_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>양세찬</actor>
-			<actor>하하</actor>
-			<actor>송지효</actor>
-			<actor>유재석</actor>
-			<actor>지석진</actor>
-			<actor>김종국</actor>
-			<actor>전소민</actor>
-			<actor>이광수</actor>
-		</credits>
-		<desc lang="kr">누구도 상상하지 못했던 예측불허 빅웃음!!대한민국을 대표하는 랜드마크, 얼마나 알고 계십니까?런닝맨이 몸으로 직접 알려드리는 대한민국 대표 랜드마크!  대한민국 최고의 연예인들이 그 곳에 모였다!곳곳에 있는 미션을 해결하고, 게임을 통해서다음날 아침이 오기전까지 그 곳을 빠져나와야한다!!끊임없는 질주와 긴박감 넘치는 대결을 통해 대한민국 랜드마크들의 숨겨진 뒷모습을 전격 공개한다! 
-등급 : 12세 이상 관람가
-출연 : 양세찬,하하,송지효,유재석,지석진,김종국,전소민,이광수</desc>
-	</programme>
-	<programme start="20190630174000 +0900" stop="20190630182500 +0900" channel="POOQ|S01">
-		<title lang="kr">런닝맨 2부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000330171_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>양세찬</actor>
-			<actor>하하</actor>
-			<actor>송지효</actor>
-			<actor>유재석</actor>
-			<actor>지석진</actor>
-			<actor>김종국</actor>
-			<actor>전소민</actor>
-			<actor>이광수</actor>
-		</credits>
-		<desc lang="kr">누구도 상상하지 못했던 예측불허 빅웃음!!대한민국을 대표하는 랜드마크, 얼마나 알고 계십니까?런닝맨이 몸으로 직접 알려드리는 대한민국 대표 랜드마크!  대한민국 최고의 연예인들이 그 곳에 모였다!곳곳에 있는 미션을 해결하고, 게임을 통해서다음날 아침이 오기전까지 그 곳을 빠져나와야한다!!끊임없는 질주와 긴박감 넘치는 대결을 통해 대한민국 랜드마크들의 숨겨진 뒷모습을 전격 공개한다! 
-등급 : 12세 이상 관람가
-출연 : 양세찬,하하,송지효,유재석,지석진,김종국,전소민,이광수</desc>
-	</programme>
-	<programme start="20190630182500 +0900" stop="20190630190000 +0900" channel="POOQ|S01">
-		<title lang="kr">집사부일체 1부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000010677_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>양세형</actor>
-			<actor>이상윤</actor>
-			<actor>이승기</actor>
-			<actor>육성재</actor>
-		</credits>
-		<desc lang="kr">괴짜 사부들의 집을 찾아가 동거동락 하는 이야기
-
-
-
-등급 : 12세 이상 관람가
-출연 : 양세형,이상윤,이승기,육성재</desc>
-	</programme>
-	<programme start="20190630190000 +0900" stop="20190630200000 +0900" channel="POOQ|S01">
-		<title lang="kr">집사부일체 2부</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000010677_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>양세형</actor>
-			<actor>이상윤</actor>
-			<actor>이승기</actor>
-			<actor>육성재</actor>
-		</credits>
-		<desc lang="kr">괴짜 사부들의 집을 찾아가 동거동락 하는 이야기
-
-
-
-등급 : 12세 이상 관람가
-출연 : 양세형,이상윤,이승기,육성재</desc>
-	</programme>
-	<programme start="20190630200000 +0900" stop="20190630204500 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 8 뉴스</title>
+	<programme start="20190630193000 +0900" stop="20190630204500 +0900" channel="POOQ|S01">
+		<title lang="kr">특집 SBS 8 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000328679_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">SBS 8시 뉴스
@@ -2607,11 +2220,10 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 토니안,이상민,김건모,서장훈,박수홍,신동엽,김종국,홍진영</desc>
 	</programme>
 	<programme start="20190630230500 +0900" stop="20190701000500 +0900" channel="POOQ|S01">
-		<title lang="kr">SBS 스페셜</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000311936_210.jpg" />
+		<title lang="kr">SBS 특별 대담-DMZ에서 다시 평화를 말하다 </title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">'PD가 세상을 향해 던지는 화두(話頭)' SBS가 정규 편성된 본격 다큐멘터리를 선보입니다.새로운 다큐멘터리, 미래가 보이는 다큐멘터리, 이성적 논리와 감성적 표현으로 다가서는 다큐멘터리. SBS 스페셜 을 통해 그런 다큐멘터리를 만날 수 있다.제작자가 세상을 향해 던지는 화두(話頭)가 분명한 다큐.
-등급 : 전체 관람가</desc>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190701000500 +0900" stop="20190701010500 +0900" channel="POOQ|S01">
 		<title lang="kr">e스포츠 매거진 G.G</title>
@@ -2785,24 +2397,13 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701151000 +0900" stop="20190701160000 +0900" channel="POOQ|S01">
-		<title lang="kr">맨 인 블랙박스</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000009726_210.jpg" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<credits>
-			<actor>최기환</actor>
-			<actor>김구라</actor>
-			<actor>김선재</actor>
-		</credits>
-		<desc lang="kr">블랙박스 영상 뒤에 숨어있는 숨겨진 이야기까지 철저하게 파헤쳐 시청자에게 전달해 재미와 감동 그리고 유익한 정보까지 전달하는 프로그램천만 개의 블랙박스로 포착한 연출 불가능한 세상에 단 하나밖에 없는날것 그대로의 영상을 활용해 정보가 가득한 리얼리티쇼를 제작한다.
-등급 : 12세 이상 관람가
-출연 : 최기환,김구라,김선재</desc>
-	</programme>
-	<programme start="20190701160000 +0900" stop="20190701170000 +0900" channel="POOQ|S01">
-		<title lang="kr">생활의 달인</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000305532_210.jpg" />
+	<programme start="20190701151000 +0900" stop="20190701170000 +0900" channel="POOQ|S01">
+		<title lang="kr">특집 뉴스브리핑</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V2000010201_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">수십년간 한 분야에 종사하며 부단한 열정과 노력으로 달인의 경지에 이르게 된 사람들.삶의 스토리와 리얼리티가 담겨 있는 생활 달인은 그 자체가 다큐멘터리.  비록 소박한 일이지만 평생을 통해 최고가 된 '생활 달인'의 놀라운 득도의 경지를 만나는 시간.  
+		<desc lang="kr">주영진의 뉴스브리핑은 오후 2시와 4시로 나누어 방송한다.
+2시에는 앵커가 패널들과 함께 급변하는 정치 지형을 꼼꼼히 따져보며, 
+4시에는 당일 최고의 핫이슈로 떠오른 인물과 발언을 가지고 시청자들과 교감하는 뉴스 프로그램이다.
 등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190701170000 +0900" stop="20190701180000 +0900" channel="POOQ|S01">
@@ -2984,7 +2585,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">자연,문화,역사 등 우리 사회의 다양한 분야를 조명하는 다큐멘터리 프로그램
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630093000 +0900" stop="20190630104000 +0900" channel="POOQ|C2301">
+	<programme start="20190630093000 +0900" stop="20190630103500 +0900" channel="POOQ|C2301">
 		<title lang="kr">쉘 위 치킨 8회</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2301_PR10011049_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -2998,88 +2599,25 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 등급 : 12세 이상 관람가
 출연 : 김준현,이규한,써니,류태환</desc>
 	</programme>
-	<programme start="20190630104000 +0900" stop="20190630110000 +0900" channel="POOQ|C2301">
-		<title lang="kr">찰떡콤비 2회(재)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2301_PR10011061_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>이수근</actor>
-			<actor>은지원</actor>
-			<actor>정형돈</actor>
-			<actor>데프콘</actor>
-			<actor>이용진</actor>
-			<actor>이진호</actor>
-			<actor>김요한</actor>
-			<actor>문성민</actor>
-		</credits>
-		<desc lang="kr">단짝 친구와 함께 동네를 누비며 즐거웠던 어린 시절로 돌아가 다양한 추억의 게임과 토크를 즐기는 '뉴트로(New-Retro)' 버라이어티 
-등급 : 15세 이상 관람가
-출연 : 이수근,은지원,정형돈,데프콘,이용진,이진호,김요한,문성민</desc>
-	</programme>
-	<programme start="20190630110000 +0900" stop="20190630133000 +0900" channel="POOQ|C2301">
-		<title lang="kr">JTBC 뉴스특보 </title>
+	<programme start="20190630103500 +0900" stop="20190630124000 +0900" channel="POOQ|C2301">
+		<title lang="kr">JTBC 뉴스특보 1부 </title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630133000 +0900" stop="20190630160000 +0900" channel="POOQ|C2301">
-		<title lang="kr">JTBC 뉴스특보 </title>
+	<programme start="20190630124000 +0900" stop="20190630155000 +0900" channel="POOQ|C2301">
+		<title lang="kr">JTBC 뉴스특보 2부 </title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630160000 +0900" stop="20190630171000 +0900" channel="POOQ|C2301">
-		<title lang="kr">바람이 분다 8회(재)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2301_PR10011043_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>감우성</actor>
-			<actor>김하늘</actor>
-			<actor>김성철</actor>
-			<actor>김가은</actor>
-			<actor>이준혁</actor>
-			<actor>윤지혜</actor>
-			<actor>박효주</actor>
-		</credits>
-		<desc lang="kr">이별 후에 다시 사랑에 빠진 두 남녀가 어제의 기억과 내일의 사랑을 지켜내는 로맨스
-등급 : 15세 이상 관람가
-출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주</desc>
+	<programme start="20190630155000 +0900" stop="20190630190000 +0900" channel="POOQ|C2301">
+		<title lang="kr">JTBC 뉴스특보 3부   </title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190630171000 +0900" stop="20190630183000 +0900" channel="POOQ|C2301">
-		<title lang="kr">바람이 분다 9회(재)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2301_PR10011043_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>감우성</actor>
-			<actor>김하늘</actor>
-			<actor>김성철</actor>
-			<actor>김가은</actor>
-			<actor>이준혁</actor>
-			<actor>윤지혜</actor>
-			<actor>박효주</actor>
-		</credits>
-		<desc lang="kr">이별 후에 다시 사랑에 빠진 두 남녀가 어제의 기억과 내일의 사랑을 지켜내는 로맨스
-등급 : 15세 이상 관람가
-출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주</desc>
-	</programme>
-	<programme start="20190630183000 +0900" stop="20190630195500 +0900" channel="POOQ|C2301">
-		<title lang="kr">바람이 분다 10회(재)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2301_PR10011043_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>감우성</actor>
-			<actor>김하늘</actor>
-			<actor>김성철</actor>
-			<actor>김가은</actor>
-			<actor>이준혁</actor>
-			<actor>윤지혜</actor>
-			<actor>박효주</actor>
-		</credits>
-		<desc lang="kr">이별 후에 다시 사랑에 빠진 두 남녀가 어제의 기억과 내일의 사랑을 지켜내는 로맨스
-등급 : 15세 이상 관람가
-출연 : 감우성,김하늘,김성철,김가은,이준혁,윤지혜,박효주</desc>
-	</programme>
-	<programme start="20190630195500 +0900" stop="20190630210000 +0900" channel="POOQ|C2301">
+	<programme start="20190630190000 +0900" stop="20190630210000 +0900" channel="POOQ|C2301">
 		<title lang="kr">JTBC 뉴스룸 </title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -3494,26 +3032,30 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 등급 : 전체 관람가
 출연 : 출연진</desc>
 	</programme>
-	<programme start="20190630135000 +0900" stop="20190630155000 +0900" channel="POOQ|C2401">
-		<title lang="kr">속풀이쇼 동치미</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR593_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+	<programme start="20190630135000 +0900" stop="20190630150000 +0900" channel="POOQ|C2401">
+		<title lang="kr">MBN 뉴스특보</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR88_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<credits>
-			<actor>이창훈</actor>
-			<actor>장경동</actor>
-			<actor>함익병</actor>
-			<actor>최홍림</actor>
-			<actor>이경제</actor>
-			<actor>박준형</actor>
-			<actor>김영옥</actor>
-			<actor>최은경</actor>
-			<actor>박수홍</actor>
+			<actor>출연진</actor>
 		</credits>
-		<desc lang="kr">여성의 지혜가 세상을 바꾼다! 과연, 당신은 누구의 손을 들어줄 것인가? 오고가는 대화 속에 서로를 이해하고 공감하며 힐링까지 책임지는 속풀이쇼! 당신의 답답한 속을 톡 쏘는 동치미처럼 시원~하게 풀어드립니다!!
-등급 : 15세 이상 관람가
-출연 : 이창훈,장경동,함익병,최홍림,이경제,박준형,김영옥,최은경,박수홍</desc>
+		<desc lang="kr">빠른 속보와 다양한 소식을 신속하고 정확하게 제공하는 MBN 뉴스 특보
+등급 : 전체 관람가
+출연 : 출연진</desc>
 	</programme>
-	<programme start="20190630155000 +0900" stop="20190630172000 +0900" channel="POOQ|C2401">
+	<programme start="20190630150000 +0900" stop="20190630160000 +0900" channel="POOQ|C2401">
+		<title lang="kr">나는 자연인이다</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR592_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<credits>
+			<actor>윤택</actor>
+			<actor>이승윤</actor>
+		</credits>
+		<desc lang="kr">당신은 지금 행복한가? 돈 한 푼 없어도, 가진 것 하나 없어도 여유와 행복을 느끼며 살아가는 사람들이 있다.바로, 자연인... 온갖 스트레스를 앉고 사는 도시인이 원시의 삶 속 자연인을 찾아가는 대자연 속 험난한 여정을 따라간다.
+등급 : 전체 관람가
+출연 : 윤택,이승윤</desc>
+	</programme>
+	<programme start="20190630160000 +0900" stop="20190630172000 +0900" channel="POOQ|C2401">
 		<title lang="kr">알토란</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR671_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5371,7 +4913,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190630181000 +0900" stop="20190630194000 +0900" channel="OKSUSU|872">
+	<programme start="20190630181000 +0900" stop="20190630194500 +0900" channel="OKSUSU|872">
 		<title lang="kr">쇼! 오디오자키(16회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5389,7 +4931,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,성시경,소유진,붐,몬스타 엑스
 연출 : 이영준</desc>
 	</programme>
-	<programme start="20190630194000 +0900" stop="20190630210000 +0900" channel="OKSUSU|872">
+	<programme start="20190630194500 +0900" stop="20190630211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그&amp;lt;2Q 하이라이트-보이는 라디오 특집&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5405,7 +4947,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190630210000 +0900" stop="20190630224000 +0900" channel="OKSUSU|872">
+	<programme start="20190630211000 +0900" stop="20190630225000 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(10회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5430,7 +4972,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190630224000 +0900" stop="20190701003000 +0900" channel="OKSUSU|872">
+	<programme start="20190630225000 +0900" stop="20190701005000 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(3회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5453,7 +4995,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190701003000 +0900" stop="20190701022000 +0900" channel="OKSUSU|872">
+	<programme start="20190701005000 +0900" stop="20190701023800 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5471,7 +5013,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190701022000 +0900" stop="20190701040000 +0900" channel="OKSUSU|872">
+	<programme start="20190701023800 +0900" stop="20190701041400 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(10회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5496,7 +5038,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190701040000 +0900" stop="20190701054000 +0900" channel="OKSUSU|872">
+	<programme start="20190701041400 +0900" stop="20190701054700 +0900" channel="OKSUSU|872">
 		<title lang="kr">쇼! 오디오자키(16회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5514,7 +5056,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,성시경,소유진,붐,몬스타 엑스
 연출 : 이영준</desc>
 	</programme>
-	<programme start="20190701054000 +0900" stop="20190701060000 +0900" channel="OKSUSU|872">
+	<programme start="20190701054700 +0900" stop="20190701060000 +0900" channel="OKSUSU|872">
 		<title lang="kr">신서유기6 게임모음.Zip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -9205,7 +8747,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190701030000 +0900" stop="20190701070000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 2018 LOL 명경기</title>
+		<title lang="kr">다시보는 2018 LOL 명경기(16회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
@@ -9213,7 +8755,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190701070000 +0900" stop="20190701080000 +0900" channel="OKSUSU|254">
-		<title lang="kr">2019 카트라이더 리그 시즌1(재)</title>
+		<title lang="kr">2019 카트라이더 리그 시즌1&amp;lt;개인전 1~2회&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
@@ -9221,31 +8763,23 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190701080000 +0900" stop="20190701090000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시 보는 SSL Classic(재)</title>
+		<title lang="kr">다시 보는 SSL Classic(1회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190701090000 +0900" stop="20190701100000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시 보는 SSL Classic(재)</title>
+	<programme start="20190701090000 +0900" stop="20190701110000 +0900" channel="OKSUSU|254">
+		<title lang="kr">EACC SPRING 2019 다이제스트(1회)(재)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190701100000 +0900" stop="20190701110000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 2018 LoL 핫매치</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 취미/레저</desc>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190701110000 +0900" stop="20190701130000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 SSL Premier 시즌1 스페셜</title>
+		<title lang="kr">다시보는 SSL Premier 시즌1 스페셜(6회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
@@ -9253,11 +8787,11 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190701130000 +0900" stop="20190701150000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시 보는 SSL Classic(재)</title>
+		<title lang="kr">다시보는 액션토너먼트 사이퍼즈 2017 스페셜(1회)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190701150000 +0900" stop="20190701160000 +0900" channel="OKSUSU|254">
@@ -9268,16 +8802,16 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190701160000 +0900" stop="20190701173000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 2019 카트라이더 리그 시즌1</title>
+	<programme start="20190701160000 +0900" stop="20190701170000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시보는 2019 카트라이더 리그 시즌1(6회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190701173000 +0900" stop="20190701180000 +0900" channel="OKSUSU|254">
-		<title lang="kr">EACC SPRING 2019 스페셜</title>
+	<programme start="20190701170000 +0900" stop="20190701180000 +0900" channel="OKSUSU|254">
+		<title lang="kr">EACC SPRING 2019 스페셜&amp;lt;Elite vs TNP Blue&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9285,22 +8819,14 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190701180000 +0900" stop="20190701200000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 DPL 2018 SPRING 스페셜</title>
+		<title lang="kr">다시보는 DPL 2018 SUMMER 스페셜(1회)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190701200000 +0900" stop="20190701220000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시 보는 SSL Classic 명경기 특집</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190701220000 +0900" stop="20190701230000 +0900" channel="OKSUSU|254">
+	<programme start="20190701200000 +0900" stop="20190701210000 +0900" channel="OKSUSU|254">
 		<title lang="kr">마계 회합 텔레비전 (재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -9308,12 +8834,20 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190701230000 +0900" stop="20190702010000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시 보는 SSL Classic(재)</title>
+	<programme start="20190701210000 +0900" stop="20190701230000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시보는 액션토너먼트 사이퍼즈 2017 스페셜(1회)(재)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190701230000 +0900" stop="20190702010000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시보는 카트라이더 결승전(3회)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 전체 관람가
 장르 : 취미/레저</desc>
 	</programme>
 </tv>
