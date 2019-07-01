@@ -138,11 +138,11 @@
 	</programme>
 	<programme start="20190701130000 +0900" stop="20190701135000 +0900" channel="POOQ|K01">
 		<title lang="kr">네트워크기획 
-문화산책
+문화산책 
 [창원총국]</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0595_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0596_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">한 주간 공연예술과 문화정보를 다양하고 재미있게 전달해 문화에 대한 인식을 제고합니다
+		<desc lang="kr">지역 예술가들의 다양한 문화예술 활동을 소개함으로써 지역문화발전에 기여하고자 함.
 등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190701135000 +0900" stop="20190701140000 +0900" channel="POOQ|K01">
@@ -182,21 +182,21 @@
 		<desc lang="kr">대한민국의 오늘을 읽는다! 그날 그날 발생한 뉴스를 신속정확하게 전달하고 깊이있고 균형잡힌 접근으로 주요 시사 이슈를 발빠르게 진단한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701170000 +0900" stop="20190701172900 +0900" channel="POOQ|K01">
+	<programme start="20190701170000 +0900" stop="20190701173000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스 5</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0069_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">당일 발생한 국내외 주요뉴스를 종합 편성해 신속 보도함.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701172900 +0900" stop="20190701175600 +0900" channel="POOQ|K01">
+	<programme start="20190701173000 +0900" stop="20190701175700 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190701175600 +0900" stop="20190701190000 +0900" channel="POOQ|K01">
+	<programme start="20190701175700 +0900" stop="20190701190000 +0900" channel="POOQ|K01">
 		<title lang="kr">6시 내고향</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0093_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -3727,7 +3727,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 연출 : 김성우</desc>
 	</programme>
 	<programme start="20190701030000 +0900" stop="20190701040000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 비밀병기 (6회)</title>
+		<title lang="kr">채널A스페셜 &amp;lt;비밀병기&amp;gt;(6회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
@@ -3735,7 +3735,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 시사/다큐</desc>
 	</programme>
 	<programme start="20190701040000 +0900" stop="20190701050000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 원인불명의 기록들 (5회)</title>
+		<title lang="kr">채널A스페셜 &amp;lt;원인불명의 기록들&amp;gt;(5회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
@@ -3743,7 +3743,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 시사/다큐</desc>
 	</programme>
 	<programme start="20190701050000 +0900" stop="20190701060000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 원인불명의 기록들 (6회)</title>
+		<title lang="kr">채널A스페셜 &amp;lt;원인불명의 기록들&amp;gt; (6회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
@@ -3964,7 +3964,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 시사/다큐</desc>
 	</programme>
 	<programme start="20190702040000 +0900" stop="20190702050000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 원인불명의 기록들 (7회)</title>
+		<title lang="kr">채널A스페셜 &amp;lt;원인불명의 기록들&amp;gt; (7회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
@@ -3972,7 +3972,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 시사/다큐</desc>
 	</programme>
 	<programme start="20190702050000 +0900" stop="20190702060000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 원인불명의 기록들 (8회)</title>
+		<title lang="kr">채널A스페셜 &amp;lt;원인불명의 기록들&amp;gt;(8회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
@@ -4249,16 +4249,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 뉴스</desc>
 	</programme>
-	<programme start="20190701133000 +0900" stop="20190701153000 +0900" channel="OKSUSU|570">
-		<title lang="kr">노종면의 더뉴스 1부</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">뉴스</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 뉴스</desc>
-	</programme>
-	<programme start="20190701153000 +0900" stop="20190701160000 +0900" channel="OKSUSU|570">
-		<title lang="kr">노종면의 더뉴스 2부</title>
+	<programme start="20190701133000 +0900" stop="20190701160000 +0900" channel="OKSUSU|570">
+		<title lang="kr">노종면의 더뉴스</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">뉴스</category>
@@ -4991,7 +4983,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,성시경,소유진,붐,몬스타 엑스
 연출 : 이영준</desc>
 	</programme>
-	<programme start="20190701054700 +0900" stop="20190701060000 +0900" channel="OKSUSU|872">
+	<programme start="20190701054700 +0900" stop="20190701060700 +0900" channel="OKSUSU|872">
 		<title lang="kr">신서유기6 게임모음.Zip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5011,7 +5003,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190701060000 +0900" stop="20190701070000 +0900" channel="OKSUSU|872">
+	<programme start="20190701060700 +0900" stop="20190701070600 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(162회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5027,7 +5019,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190701070000 +0900" stop="20190701082000 +0900" channel="OKSUSU|872">
+	<programme start="20190701070600 +0900" stop="20190701082400 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5053,7 +5045,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190701082000 +0900" stop="20190701094000 +0900" channel="OKSUSU|872">
+	<programme start="20190701082400 +0900" stop="20190701094900 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5079,7 +5071,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190701094000 +0900" stop="20190701113000 +0900" channel="OKSUSU|872">
+	<programme start="20190701094900 +0900" stop="20190701114200 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5102,7 +5094,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190701113000 +0900" stop="20190701132000 +0900" channel="OKSUSU|872">
+	<programme start="20190701114200 +0900" stop="20190701131400 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5118,7 +5110,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190701132000 +0900" stop="20190701145000 +0900" channel="OKSUSU|872">
+	<programme start="20190701131400 +0900" stop="20190701144700 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(9회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5143,7 +5135,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190701145000 +0900" stop="20190701162000 +0900" channel="OKSUSU|872">
+	<programme start="20190701144700 +0900" stop="20190701161900 +0900" channel="OKSUSU|872">
 		<title lang="kr">아스달 연대기(10회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5168,7 +5160,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 송중기,장동건,김지원,김옥빈,김의성,조성하,박해준,박병은,유태오,고보결,추자현
 연출 : 김원석,김영현</desc>
 	</programme>
-	<programme start="20190701162000 +0900" stop="20190701181000 +0900" channel="OKSUSU|872">
+	<programme start="20190701161900 +0900" stop="20190701181200 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5186,7 +5178,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190701181000 +0900" stop="20190701201000 +0900" channel="OKSUSU|872">
+	<programme start="20190701181200 +0900" stop="20190701200500 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5205,23 +5197,53 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190701201000 +0900" stop="20190701213000 +0900" channel="OKSUSU|872">
+	<programme start="20190701200500 +0900" stop="20190701213500 +0900" channel="OKSUSU|872">
 		<title lang="kr">서울 메이트 3(1회)&amp;lt;첫방송&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>오상진</actor>
+			<actor>김소영</actor>
+			<actor>이규한</actor>
+			<actor>붐</actor>
+			<actor>유라</actor>
+			<producer>박상혁</producer>
+			<producer>김영화</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
+장르 : 연예/오락
+출연 : 오상진,김소영,이규한,붐,유라
+연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190701213000 +0900" stop="20190701230000 +0900" channel="OKSUSU|872">
+	<programme start="20190701213500 +0900" stop="20190701230000 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(1회)&amp;lt;첫 방송&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
+		<credits>
+			<actor>지진희</actor>
+			<actor>이준혁</actor>
+			<actor>허준호</actor>
+			<actor>강한나</actor>
+			<actor>배종옥</actor>
+			<actor>김규리</actor>
+			<actor>손석구</actor>
+			<actor>최윤영</actor>
+			<actor>최재성</actor>
+			<actor>이무생</actor>
+			<actor>안내상</actor>
+			<actor>백현주</actor>
+			<actor>박...</actor>
+			<producer>유종선</producer>
+			<producer>김태희</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마</desc>
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
+연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190701230000 +0900" stop="20190702002000 +0900" channel="OKSUSU|872">
+	<programme start="20190701230000 +0900" stop="20190702003000 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(81회)&amp;lt;가오슝 3편&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5239,7 +5261,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190702002000 +0900" stop="20190702013000 +0900" channel="OKSUSU|872">
+	<programme start="20190702003000 +0900" stop="20190702013900 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(163회)&amp;lt;극강스릴 여행 19&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5255,15 +5277,34 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190702013000 +0900" stop="20190702030000 +0900" channel="OKSUSU|872">
+	<programme start="20190702013900 +0900" stop="20190702030200 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
+		<credits>
+			<actor>지진희</actor>
+			<actor>이준혁</actor>
+			<actor>허준호</actor>
+			<actor>강한나</actor>
+			<actor>배종옥</actor>
+			<actor>김규리</actor>
+			<actor>손석구</actor>
+			<actor>최윤영</actor>
+			<actor>최재성</actor>
+			<actor>이무생</actor>
+			<actor>안내상</actor>
+			<actor>백현주</actor>
+			<actor>박...</actor>
+			<producer>유종선</producer>
+			<producer>김태희</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마</desc>
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
+연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190702030000 +0900" stop="20190702042000 +0900" channel="OKSUSU|872">
+	<programme start="20190702030200 +0900" stop="20190702041900 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그&amp;lt;2Q 하이라이트&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5279,7 +5320,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190702042000 +0900" stop="20190702060000 +0900" channel="OKSUSU|872">
+	<programme start="20190702041900 +0900" stop="20190702060000 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5302,7 +5343,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190702060000 +0900" stop="20190702071000 +0900" channel="OKSUSU|872">
+	<programme start="20190702060000 +0900" stop="20190702071500 +0900" channel="OKSUSU|872">
 		<title lang="kr">수미네 반찬(56회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5318,7 +5359,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 김수미,노사연,장동민
 연출 : 문태주</desc>
 	</programme>
-	<programme start="20190702071000 +0900" stop="20190702082000 +0900" channel="OKSUSU|872">
+	<programme start="20190702071500 +0900" stop="20190702082700 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5344,7 +5385,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190702082000 +0900" stop="20190702094000 +0900" channel="OKSUSU|872">
+	<programme start="20190702082700 +0900" stop="20190702095100 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5370,7 +5411,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190702094000 +0900" stop="20190702112000 +0900" channel="OKSUSU|872">
+	<programme start="20190702095100 +0900" stop="20190702112700 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(81회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5388,15 +5429,26 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190702112000 +0900" stop="20190702125000 +0900" channel="OKSUSU|872">
+	<programme start="20190702112700 +0900" stop="20190702130000 +0900" channel="OKSUSU|872">
 		<title lang="kr">서울 메이트 3(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>오상진</actor>
+			<actor>김소영</actor>
+			<actor>이규한</actor>
+			<actor>붐</actor>
+			<actor>유라</actor>
+			<producer>박상혁</producer>
+			<producer>김영화</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
+장르 : 연예/오락
+출연 : 오상진,김소영,이규한,붐,유라
+연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190702125000 +0900" stop="20190702144000 +0900" channel="OKSUSU|872">
+	<programme start="20190702130000 +0900" stop="20190702145000 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5415,7 +5467,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190702144000 +0900" stop="20190702163000 +0900" channel="OKSUSU|872">
+	<programme start="20190702145000 +0900" stop="20190702163800 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5434,7 +5486,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190702163000 +0900" stop="20190702180000 +0900" channel="OKSUSU|872">
+	<programme start="20190702163800 +0900" stop="20190702180000 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(81회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5475,16 +5527,54 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
+		<credits>
+			<actor>지진희</actor>
+			<actor>이준혁</actor>
+			<actor>허준호</actor>
+			<actor>강한나</actor>
+			<actor>배종옥</actor>
+			<actor>김규리</actor>
+			<actor>손석구</actor>
+			<actor>최윤영</actor>
+			<actor>최재성</actor>
+			<actor>이무생</actor>
+			<actor>안내상</actor>
+			<actor>백현주</actor>
+			<actor>박...</actor>
+			<producer>유종선</producer>
+			<producer>김태희</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마</desc>
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
+연출 : 유종선,김태희</desc>
 	</programme>
 	<programme start="20190702213000 +0900" stop="20190702230000 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(2회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
+		<credits>
+			<actor>지진희</actor>
+			<actor>이준혁</actor>
+			<actor>허준호</actor>
+			<actor>강한나</actor>
+			<actor>배종옥</actor>
+			<actor>김규리</actor>
+			<actor>손석구</actor>
+			<actor>최윤영</actor>
+			<actor>최재성</actor>
+			<actor>이무생</actor>
+			<actor>안내상</actor>
+			<actor>백현주</actor>
+			<actor>박...</actor>
+			<producer>유종선</producer>
+			<producer>김태희</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마</desc>
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
+연출 : 유종선,김태희</desc>
 	</programme>
 	<programme start="20190702230000 +0900" stop="20190703003000 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(24회)</title>
@@ -6626,7 +6716,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190702010000 +0900" stop="20190702022000 +0900" channel="OKSUSU|431">
+	<programme start="20190702010000 +0900" stop="20190702020500 +0900" channel="OKSUSU|431">
 		<title lang="kr">인생술집(17회)&amp;lt;엄친아 임시완의 멍뭉미 발산!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>19세 이상 관람가</value></rating>
@@ -6643,10 +6733,10 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신동엽,김준현,김희철,장도연
 연출 : 안상휘</desc>
 	</programme>
-	<programme start="20190702022000 +0900" stop="20190702035000 +0900" channel="OKSUSU|431">
-		<title lang="kr">숲속의 작은 집 (5회)</title>
+	<programme start="20190702020500 +0900" stop="20190702034500 +0900" channel="OKSUSU|431">
+		<title lang="kr">숲속의 작은 집(5회)&amp;lt;다섯번째 실험, 운동이 주는 행복!&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>박신혜</actor>
@@ -6654,60 +6744,76 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 			<producer>나영석</producer>
 			<producer>양정우</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 박신혜,소지섭
 연출 : 나영석,양정우</desc>
 	</programme>
-	<programme start="20190702035000 +0900" stop="20190702045000 +0900" channel="OKSUSU|431">
-		<title lang="kr">2016 테이스티로드 (24회)&amp;lt;대구맛집&amp;gt;</title>
+	<programme start="20190702034500 +0900" stop="20190702044500 +0900" channel="OKSUSU|431">
+		<title lang="kr">2016 테이스티로드(24회)&amp;lt;비투비와 함께 떠나는 대구 맛집 여행&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>김민정</actor>
 			<actor>유라</actor>
 			<producer>최정하</producer>
 		</credits>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 김민정,유라
 연출 : 최정하</desc>
 	</programme>
-	<programme start="20190702045000 +0900" stop="20190702061000 +0900" channel="OKSUSU|431">
-		<title lang="kr">섬총사 2 (6회)</title>
+	<programme start="20190702044500 +0900" stop="20190702053500 +0900" channel="OKSUSU|431">
+		<title lang="kr">스트리트 푸드파이터 미식로드-하와이편&amp;lt;남태평양의 파라다이스 '하와이'&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>강호동</actor>
-			<actor>이수근</actor>
-			<actor>이연희</actor>
-			<producer>박상혁</producer>
-			<producer>김영화</producer>
-			<producer>김윤영</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 강호동,이수근,이연희
-연출 : 박상혁,김영화,김윤영</desc>
-	</programme>
-	<programme start="20190702061000 +0900" stop="20190702065000 +0900" channel="OKSUSU|431">
-		<title lang="kr">스트리트 푸드파이터 미식로드 (2회)&amp;lt;하와이&amp;gt;</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>백종원</actor>
 			<producer>박희연</producer>
 		</credits>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 백종원
 연출 : 박희연</desc>
 	</programme>
-	<programme start="20190702065000 +0900" stop="20190702075000 +0900" channel="OKSUSU|431">
-		<title lang="kr">여기 GO(15회)&amp;lt;육식대첩&amp;gt;</title>
+	<programme start="20190702053500 +0900" stop="20190702060000 +0900" channel="OKSUSU|431">
+		<title lang="kr">오늘 뭐 먹지? 딜리버리(80회)&amp;lt;갈치조림&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<credits>
+			<actor>신동엽</actor>
+			<actor>성시경</actor>
+			<actor>민경훈</actor>
+			<producer>신소영</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 취미/레저
+출연 : 신동엽,성시경,민경훈
+연출 : 신소영</desc>
+	</programme>
+	<programme start="20190702060000 +0900" stop="20190702070500 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(27회)&amp;lt;백 투 더 90's! 압구정 고고!&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>최화정</actor>
+			<actor>이영자</actor>
+			<actor>송은이</actor>
+			<actor>김숙</actor>
+			<actor>장도연</actor>
+			<producer>황인영</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 최화정,이영자,송은이,김숙,장도연
+연출 : 황인영</desc>
+	</programme>
+	<programme start="20190702070500 +0900" stop="20190702080000 +0900" channel="OKSUSU|431">
+		<title lang="kr">여기 GO(14회)&amp;lt;면 요리에 이런 면이? 면 요리 맛집!&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6722,8 +6828,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 정형돈,서장훈
 연출 : 석정호,신소영</desc>
 	</programme>
-	<programme start="20190702075000 +0900" stop="20190702085000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (27회)&amp;lt;압구정&amp;gt;</title>
+	<programme start="20190702080000 +0900" stop="20190702085500 +0900" channel="OKSUSU|431">
+		<title lang="kr">밥블레스유(13회)&amp;lt;새싹PD 일냈다! 핸님 오셨네~&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6740,8 +6846,25 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 최화정,이영자,송은이,김숙,장도연
 연출 : 황인영</desc>
 	</programme>
-	<programme start="20190702085000 +0900" stop="20190702101000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수미네 반찬(8회)&amp;lt;낙지볶음&amp;gt;</title>
+	<programme start="20190702085500 +0900" stop="20190702095500 +0900" channel="OKSUSU|431">
+		<title lang="kr">짠내투어 스페셜(1회)&amp;lt;홍콩&amp;마카오 BEST 맛집 모음!&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>박명수</actor>
+			<actor>박나래</actor>
+			<actor>문세윤</actor>
+			<actor>허경환</actor>
+			<producer>손창우</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 박명수,박나래,문세윤,허경환
+연출 : 손창우</desc>
+	</programme>
+	<programme start="20190702095500 +0900" stop="20190702111000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수미네 반찬(6회)&amp;lt;여름 보양식 '아귀찜' 비법 공개&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6756,118 +6879,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 김수미,노사연,장동민
 연출 : 문태주</desc>
 	</programme>
-	<programme start="20190702101000 +0900" stop="20190702111000 +0900" channel="OKSUSU|431">
-		<title lang="kr">밥블레스유 (42회)&amp;lt;중국 가정식&amp;gt;</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>최화정</actor>
-			<actor>이영자</actor>
-			<actor>송은이</actor>
-			<actor>김숙</actor>
-			<actor>장도연</actor>
-			<producer>황인영</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 최화정,이영자,송은이,김숙,장도연
-연출 : 황인영</desc>
-	</programme>
-	<programme start="20190702111000 +0900" stop="20190702122000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까:현지인 먹방 릴레이 (1회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락</desc>
-	</programme>
-	<programme start="20190702122000 +0900" stop="20190702134000 +0900" channel="OKSUSU|431">
-		<title lang="kr">검색어를 입력하세요 WWW(5회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">드라마</category>
-		<credits>
-			<actor>임수정</actor>
-			<actor>이다희</actor>
-			<actor>전혜진</actor>
-			<actor>장기용</actor>
-			<actor>이재욱</actor>
-			<actor>지승현</actor>
-			<actor>권해효</actor>
-			<actor>우지현</actor>
-			<actor>오아연</actor>
-			<actor>하승리</actor>
-			<actor>송지호</actor>
-			<actor>유서진</actor>
-			<actor>탁...</actor>
-			<producer>권영일</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
-연출 : 권영일</desc>
-	</programme>
-	<programme start="20190702134000 +0900" stop="20190702151000 +0900" channel="OKSUSU|431">
-		<title lang="kr">검색어를 입력하세요 WWW(6회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">드라마</category>
-		<credits>
-			<actor>임수정</actor>
-			<actor>이다희</actor>
-			<actor>전혜진</actor>
-			<actor>장기용</actor>
-			<actor>이재욱</actor>
-			<actor>지승현</actor>
-			<actor>권해효</actor>
-			<actor>우지현</actor>
-			<actor>오아연</actor>
-			<actor>하승리</actor>
-			<actor>송지호</actor>
-			<actor>유서진</actor>
-			<actor>탁...</actor>
-			<producer>권영일</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
-연출 : 권영일</desc>
-	</programme>
-	<programme start="20190702151000 +0900" stop="20190702161000 +0900" channel="OKSUSU|431">
-		<title lang="kr">프리한마켓 10(2회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>김경화</actor>
-			<actor>문지애</actor>
-			<actor>김소영</actor>
-		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락
-출연 : 김경화,문지애,김소영</desc>
-	</programme>
-	<programme start="20190702161000 +0900" stop="20190702173000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (208회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>전현무</actor>
-			<actor>신동엽</actor>
-			<actor>이현우</actor>
-			<actor>홍신애</actor>
-			<actor>황교익</actor>
-			<producer>이길수</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 전현무,신동엽,이현우,홍신애,황교익
-연출 : 이길수</desc>
-	</programme>
-	<programme start="20190702173000 +0900" stop="20190702191000 +0900" channel="OKSUSU|431">
-		<title lang="kr">더 짠내투어(80회)</title>
+	<programme start="20190702111000 +0900" stop="20190702124000 +0900" channel="OKSUSU|431">
+		<title lang="kr">더 짠내투어(80회)&amp;lt;볼거리 먹거리 가득한 '가오슝' 투어&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6884,10 +6897,102 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190702191000 +0900" stop="20190702205000 +0900" channel="OKSUSU|431">
-		<title lang="kr">강식당 2 (4회)</title>
+	<programme start="20190702124000 +0900" stop="20190702140000 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까:현지인 먹방 릴레이(1회)&amp;lt;한식에 반한 현지인 리액션 엿보기&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 연예/오락</desc>
+	</programme>
+	<programme start="20190702140000 +0900" stop="20190702152500 +0900" channel="OKSUSU|431">
+		<title lang="kr">검색어를 입력하세요 WWW(5회)&amp;lt;임수정이 실검 1위에 오른 이유는?&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">드라마</category>
+		<credits>
+			<actor>임수정</actor>
+			<actor>이다희</actor>
+			<actor>전혜진</actor>
+			<actor>장기용</actor>
+			<actor>이재욱</actor>
+			<actor>지승현</actor>
+			<actor>권해효</actor>
+			<actor>우지현</actor>
+			<actor>오아연</actor>
+			<actor>하승리</actor>
+			<actor>송지호</actor>
+			<actor>유서진</actor>
+			<actor>탁...</actor>
+			<producer>권영일</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 드라마
+출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
+연출 : 권영일</desc>
+	</programme>
+	<programme start="20190702152500 +0900" stop="20190702164500 +0900" channel="OKSUSU|431">
+		<title lang="kr">검색어를 입력하세요 WWW(6회)&amp;lt;임수정&amp;장기용 서로를 향한 진솔한 고백!&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">드라마</category>
+		<credits>
+			<actor>임수정</actor>
+			<actor>이다희</actor>
+			<actor>전혜진</actor>
+			<actor>장기용</actor>
+			<actor>이재욱</actor>
+			<actor>지승현</actor>
+			<actor>권해효</actor>
+			<actor>우지현</actor>
+			<actor>오아연</actor>
+			<actor>하승리</actor>
+			<actor>송지호</actor>
+			<actor>유서진</actor>
+			<actor>탁...</actor>
+			<producer>권영일</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 드라마
+출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
+연출 : 권영일</desc>
+	</programme>
+	<programme start="20190702164500 +0900" stop="20190702180000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(208회)&amp;lt;바닷속 최고의 감칠맛 '새우'&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>전현무</actor>
+			<actor>신동엽</actor>
+			<actor>이현우</actor>
+			<actor>홍신애</actor>
+			<actor>황교익</actor>
+			<producer>이길수</producer>
+		</credits>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 연예/오락
+출연 : 전현무,신동엽,이현우,홍신애,황교익
+연출 : 이길수</desc>
+	</programme>
+	<programme start="20190702180000 +0900" stop="20190702190000 +0900" channel="OKSUSU|431">
+		<title lang="kr">프리한마켓 10(2회)&amp;lt;홈케어 끝판왕! 나혼자 몰래 쓰는 뷰티템 10&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>김경화</actor>
+			<actor>문지애</actor>
+			<actor>김소영</actor>
+		</credits>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 연예/오락
+출연 : 김경화,문지애,김소영</desc>
+	</programme>
+	<programme start="20190702190000 +0900" stop="20190702205000 +0900" channel="OKSUSU|431">
+		<title lang="kr">강식당 2(4회)&amp;lt;깜짝 손님 백종원의 원 포인트 레슨!&amp;gt;(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>강호동</actor>
@@ -6898,15 +7003,15 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 			<actor>피오</actor>
 			<producer>나영석</producer>
 		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190702205000 +0900" stop="20190702221000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (209회)&amp;lt;빙수&amp;gt;</title>
+	<programme start="20190702205000 +0900" stop="20190702215500 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(209회)&amp;lt;무더위를 물리칠 시원한 이색 '빙수'&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -6916,23 +7021,23 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
 	</programme>
-	<programme start="20190702221000 +0900" stop="20190702232000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까:복스푸드레시피 (1회)</title>
+	<programme start="20190702215500 +0900" stop="20190702230500 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까:복스푸드레시피(1회)&amp;lt;이연복의 화제의 레시피 총집합!&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190702232000 +0900" stop="20190703004000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (209회)</title>
+	<programme start="20190702230500 +0900" stop="20190703001500 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(209회)&amp;lt;무더위를 물리칠 시원한 이색 '빙수'&amp;gt;(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -6942,7 +7047,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
@@ -7846,7 +7951,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,하비에르 바르뎀,브렌튼 스웨이츠,카야 스코델라리오
 연출 : 요아킴 뢰닝,에스펜 샌버그</desc>
 	</programme>
-	<programme start="20190702015000 +0900" stop="20190702024000 +0900" channel="OKSUSU|178">
+	<programme start="20190702015000 +0900" stop="20190702030000 +0900" channel="OKSUSU|178">
 		<title lang="kr">캐리비안의 해적:죽은 자는 말이 없다&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -7864,7 +7969,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,하비에르 바르뎀,브렌튼 스웨이츠,카야 스코델라리오
 연출 : 요아킴 뢰닝,에스펜 샌버그</desc>
 	</programme>
-	<programme start="20190702024000 +0900" stop="20190702033000 +0900" channel="OKSUSU|178">
+	<programme start="20190702030000 +0900" stop="20190702035000 +0900" channel="OKSUSU|178">
 		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>19세 이상 관람가</value></rating>
@@ -7882,7 +7987,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이민기,박성웅,이태임,김종구,조용현
 연출 : 박상준</desc>
 	</programme>
-	<programme start="20190702033000 +0900" stop="20190702043000 +0900" channel="OKSUSU|178">
+	<programme start="20190702035000 +0900" stop="20190702045000 +0900" channel="OKSUSU|178">
 		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>19세 이상 관람가</value></rating>
@@ -7900,7 +8005,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이민기,박성웅,이태임,김종구,조용현
 연출 : 박상준</desc>
 	</programme>
-	<programme start="20190702043000 +0900" stop="20190702061000 +0900" channel="OKSUSU|178">
+	<programme start="20190702045000 +0900" stop="20190702062000 +0900" channel="OKSUSU|178">
 		<title lang="kr">브릭맨션:통제불능 범죄구역</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7915,8 +8020,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 폴 워커,데이빗 벨
 연출 : 카밀 들라마레</desc>
 	</programme>
-	<programme start="20190702061000 +0900" stop="20190702070000 +0900" channel="OKSUSU|178">
-		<title lang="kr">거울나라의 앨리스 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190702062000 +0900" stop="20190702072000 +0900" channel="OKSUSU|178">
+		<title lang="kr">거울나라의 앨리스&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7934,8 +8039,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,앤 해서웨이,미아 와시코우스카,헬레나 본햄 카터,사챠 바론 코헨,리스 이반스
 연출 : 제임스 보빈</desc>
 	</programme>
-	<programme start="20190702070000 +0900" stop="20190702081000 +0900" channel="OKSUSU|178">
-		<title lang="kr">거울나라의 앨리스 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190702072000 +0900" stop="20190702082000 +0900" channel="OKSUSU|178">
+		<title lang="kr">거울나라의 앨리스&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7953,8 +8058,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,앤 해서웨이,미아 와시코우스카,헬레나 본햄 카터,사챠 바론 코헨,리스 이반스
 연출 : 제임스 보빈</desc>
 	</programme>
-	<programme start="20190702081000 +0900" stop="20190702092000 +0900" channel="OKSUSU|178">
-		<title lang="kr">라푼젤 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190702082000 +0900" stop="20190702093000 +0900" channel="OKSUSU|178">
+		<title lang="kr">라푼젤&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7970,8 +8075,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 맨디 무어,제커리 레비,론 펄먼,도나 머피
 연출 : 네이슨 그레노</desc>
 	</programme>
-	<programme start="20190702092000 +0900" stop="20190702100000 +0900" channel="OKSUSU|178">
-		<title lang="kr">라푼젤 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190702093000 +0900" stop="20190702101000 +0900" channel="OKSUSU|178">
+		<title lang="kr">라푼젤&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -7987,7 +8092,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 맨디 무어,제커리 레비,론 펄먼,도나 머피
 연출 : 네이슨 그레노</desc>
 	</programme>
-	<programme start="20190702100000 +0900" stop="20190702112000 +0900" channel="OKSUSU|178">
+	<programme start="20190702101000 +0900" stop="20190702113000 +0900" channel="OKSUSU|178">
 		<title lang="kr">보이스3(15회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8009,7 +8114,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이하나,이진욱,권율,손은서,김우석,김중기,김기남,한갑수
 연출 : 남기훈,마진원</desc>
 	</programme>
-	<programme start="20190702112000 +0900" stop="20190702124000 +0900" channel="OKSUSU|178">
+	<programme start="20190702113000 +0900" stop="20190702123000 +0900" channel="OKSUSU|178">
 		<title lang="kr">보이스3(16회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8031,8 +8136,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이하나,이진욱,권율,손은서,김우석,김중기,김기남,한갑수
 연출 : 남기훈,마진원</desc>
 	</programme>
-	<programme start="20190702124000 +0900" stop="20190702134000 +0900" channel="OKSUSU|178">
-		<title lang="kr">위자:저주의 시작 &amp;lt;1부&amp;gt;(재)</title>
+	<programme start="20190702123000 +0900" stop="20190702134000 +0900" channel="OKSUSU|178">
+		<title lang="kr">위자:저주의 시작&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8048,8 +8153,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 엘리자베스 리저,애너리즈 바쏘,루루 윌슨,헨리 토마스
 연출 : 마이크 플래너건</desc>
 	</programme>
-	<programme start="20190702134000 +0900" stop="20190702143000 +0900" channel="OKSUSU|178">
-		<title lang="kr">위자:저주의 시작 &amp;lt;2부&amp;gt;(재)</title>
+	<programme start="20190702134000 +0900" stop="20190702141000 +0900" channel="OKSUSU|178">
+		<title lang="kr">위자:저주의 시작&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8065,7 +8170,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 엘리자베스 리저,애너리즈 바쏘,루루 윌슨,헨리 토마스
 연출 : 마이크 플래너건</desc>
 	</programme>
-	<programme start="20190702143000 +0900" stop="20190702154000 +0900" channel="OKSUSU|178">
+	<programme start="20190702141000 +0900" stop="20190702153000 +0900" channel="OKSUSU|178">
 		<title lang="kr">캐리비안의 해적:죽은 자는 말이 없다&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -8083,7 +8188,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,하비에르 바르뎀,브렌튼 스웨이츠,카야 스코델라리오
 연출 : 요아킴 뢰닝,에스펜 샌버그</desc>
 	</programme>
-	<programme start="20190702154000 +0900" stop="20190702165000 +0900" channel="OKSUSU|178">
+	<programme start="20190702153000 +0900" stop="20190702163000 +0900" channel="OKSUSU|178">
 		<title lang="kr">캐리비안의 해적:죽은 자는 말이 없다&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -8101,8 +8206,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 조니 뎁,하비에르 바르뎀,브렌튼 스웨이츠,카야 스코델라리오
 연출 : 요아킴 뢰닝,에스펜 샌버그</desc>
 	</programme>
-	<programme start="20190702165000 +0900" stop="20190702180000 +0900" channel="OKSUSU|178">
-		<title lang="kr">원라인 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190702163000 +0900" stop="20190702175000 +0900" channel="OKSUSU|178">
+		<title lang="kr">원라인&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8119,8 +8224,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임시완,진구,박병은,김구경,이동휘
 연출 : 양경모</desc>
 	</programme>
-	<programme start="20190702180000 +0900" stop="20190702192000 +0900" channel="OKSUSU|178">
-		<title lang="kr">원라인 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190702175000 +0900" stop="20190702191000 +0900" channel="OKSUSU|178">
+		<title lang="kr">원라인&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8137,7 +8242,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 임시완,진구,박병은,김구경,이동휘
 연출 : 양경모</desc>
 	</programme>
-	<programme start="20190702192000 +0900" stop="20190702204000 +0900" channel="OKSUSU|178">
+	<programme start="20190702191000 +0900" stop="20190702204000 +0900" channel="OKSUSU|178">
 		<title lang="kr">구해줘2(15회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8179,8 +8284,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 엄태구,천호진,이솜,김영민,임하룡,오연아,이주실,서영화
 연출 : 이권</desc>
 	</programme>
-	<programme start="20190702220000 +0900" stop="20190702231000 +0900" channel="OKSUSU|178">
-		<title lang="kr">꾼 &amp;lt;1부&amp;gt;</title>
+	<programme start="20190702220000 +0900" stop="20190702232000 +0900" channel="OKSUSU|178">
+		<title lang="kr">꾼&amp;lt;1부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
@@ -8198,8 +8303,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 현빈,유지태,배성우,박성웅,나나,안세하
 연출 : 장창원</desc>
 	</programme>
-	<programme start="20190702231000 +0900" stop="20190703003000 +0900" channel="OKSUSU|178">
-		<title lang="kr">꾼 &amp;lt;2부&amp;gt;</title>
+	<programme start="20190702232000 +0900" stop="20190703002000 +0900" channel="OKSUSU|178">
+		<title lang="kr">꾼&amp;lt;2부&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">영화</category>
