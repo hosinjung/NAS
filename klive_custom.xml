@@ -246,14 +246,14 @@
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190714170000 +0900" stop="20190714170800 +0900" channel="POOQ|K01">
+	<programme start="20190714170000 +0900" stop="20190714170900 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2003-0195_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">토 휴일 낮 시간대 뉴스 전달
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190714170800 +0900" stop="20190714175700 +0900" channel="POOQ|K01">
+	<programme start="20190714170900 +0900" stop="20190714175700 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -5656,7 +5656,7 @@ J</title>
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190714165000 +0900" stop="20190714181000 +0900" channel="OKSUSU|872">
+	<programme start="20190714165000 +0900" stop="20190714182000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5683,7 +5683,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190714181000 +0900" stop="20190714194000 +0900" channel="OKSUSU|872">
+	<programme start="20190714182000 +0900" stop="20190714194500 +0900" channel="OKSUSU|872">
 		<title lang="kr">플레이어(1회)&amp;lt;첫방송&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5702,7 +5702,7 @@ J</title>
 출연 : 이수근,김동현,황제성,이용진,이진호,이이경
 연출 : 심우경</desc>
 	</programme>
-	<programme start="20190714194000 +0900" stop="20190714210000 +0900" channel="OKSUSU|872">
+	<programme start="20190714194500 +0900" stop="20190714211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(319회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5718,7 +5718,7 @@ J</title>
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190714210000 +0900" stop="20190714223000 +0900" channel="OKSUSU|872">
+	<programme start="20190714211000 +0900" stop="20190714223500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(2회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5745,7 +5745,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190714223000 +0900" stop="20190714224000 +0900" channel="OKSUSU|872">
+	<programme start="20190714223500 +0900" stop="20190714225500 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5753,7 +5753,7 @@ J</title>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190714224000 +0900" stop="20190715004000 +0900" channel="OKSUSU|872">
+	<programme start="20190714225500 +0900" stop="20190715010000 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(5회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5776,7 +5776,7 @@ J</title>
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190715004000 +0900" stop="20190715022000 +0900" channel="OKSUSU|872">
+	<programme start="20190715010000 +0900" stop="20190715023500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5803,7 +5803,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190715022000 +0900" stop="20190715035000 +0900" channel="OKSUSU|872">
+	<programme start="20190715023500 +0900" stop="20190715041200 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5830,7 +5830,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190715035000 +0900" stop="20190715053000 +0900" channel="OKSUSU|872">
+	<programme start="20190715041200 +0900" stop="20190715054300 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(82회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5848,7 +5848,7 @@ J</title>
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190715053000 +0900" stop="20190715061000 +0900" channel="OKSUSU|872">
+	<programme start="20190715054300 +0900" stop="20190715062400 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5856,7 +5856,7 @@ J</title>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190715061000 +0900" stop="20190715075000 +0900" channel="OKSUSU|872">
+	<programme start="20190715062400 +0900" stop="20190715080700 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(7회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5874,7 +5874,7 @@ J</title>
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190715075000 +0900" stop="20190715094000 +0900" channel="OKSUSU|872">
+	<programme start="20190715080700 +0900" stop="20190715095100 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(8회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5892,7 +5892,7 @@ J</title>
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190715094000 +0900" stop="20190715112000 +0900" channel="OKSUSU|872">
+	<programme start="20190715095100 +0900" stop="20190715112900 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5908,7 +5908,7 @@ J</title>
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190715112000 +0900" stop="20190715132000 +0900" channel="OKSUSU|872">
+	<programme start="20190715112900 +0900" stop="20190715133300 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5931,7 +5931,7 @@ J</title>
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190715132000 +0900" stop="20190715145000 +0900" channel="OKSUSU|872">
+	<programme start="20190715133300 +0900" stop="20190715150700 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5958,7 +5958,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190715145000 +0900" stop="20190715163000 +0900" channel="OKSUSU|872">
+	<programme start="20190715150700 +0900" stop="20190715164400 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5985,7 +5985,7 @@ J</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190715163000 +0900" stop="20190715181000 +0900" channel="OKSUSU|872">
+	<programme start="20190715164400 +0900" stop="20190715181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(67회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8730,7 +8730,7 @@ J</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190714175500 +0900" stop="20190714213000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;삼성:LG&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8967,7 +8967,7 @@ J</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190714175500 +0900" stop="20190714213000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;키움:SK, 문학&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
