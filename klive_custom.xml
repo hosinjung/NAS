@@ -206,14 +206,14 @@
 		<desc lang="kr">당일 발생한 국내외 주요뉴스를 종합 편성해 신속 보도함.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190715173000 +0900" stop="20190715180000 +0900" channel="POOQ|K01">
+	<programme start="20190715173000 +0900" stop="20190715175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190715180000 +0900" stop="20190715190000 +0900" channel="POOQ|K01">
+	<programme start="20190715175800 +0900" stop="20190715190000 +0900" channel="POOQ|K01">
 		<title lang="kr">6시 내고향</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0093_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -5057,7 +5057,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190715164400 +0900" stop="20190715181000 +0900" channel="OKSUSU|872">
+	<programme start="20190715164400 +0900" stop="20190715182300 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(67회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5077,7 +5077,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190715181000 +0900" stop="20190715201000 +0900" channel="OKSUSU|872">
+	<programme start="20190715182300 +0900" stop="20190715201000 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 3(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5097,7 +5097,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190715201000 +0900" stop="20190715213000 +0900" channel="OKSUSU|872">
+	<programme start="20190715201000 +0900" stop="20190715214000 +0900" channel="OKSUSU|872">
 		<title lang="kr">서울 메이트 3(3회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5116,7 +5116,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 오상진,김소영,이규한,붐,유라
 연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190715213000 +0900" stop="20190715230000 +0900" channel="OKSUSU|872">
+	<programme start="20190715214000 +0900" stop="20190715231000 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(5회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5143,7 +5143,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190715230000 +0900" stop="20190716002000 +0900" channel="OKSUSU|872">
+	<programme start="20190715231000 +0900" stop="20190716003500 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(83회)&amp;lt;방콕 1편&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5161,7 +5161,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190716002000 +0900" stop="20190716013000 +0900" channel="OKSUSU|872">
+	<programme start="20190716003500 +0900" stop="20190716014800 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(165회)&amp;lt;악령이몰려온다?엑소시즘19&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5177,7 +5177,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190716013000 +0900" stop="20190716025000 +0900" channel="OKSUSU|872">
+	<programme start="20190716014800 +0900" stop="20190716030700 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(319회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5193,7 +5193,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190716025000 +0900" stop="20190716042000 +0900" channel="OKSUSU|872">
+	<programme start="20190716030700 +0900" stop="20190716043600 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5220,7 +5220,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190716042000 +0900" stop="20190716054000 +0900" channel="OKSUSU|872">
+	<programme start="20190716043600 +0900" stop="20190716055700 +0900" channel="OKSUSU|872">
 		<title lang="kr">서울 메이트 3(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5239,7 +5239,15 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 오상진,김소영,이규한,붐,유라
 연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190716054000 +0900" stop="20190716062000 +0900" channel="OKSUSU|872">
+	<programme start="20190716055700 +0900" stop="20190716062200 +0900" channel="OKSUSU|872">
+		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락</desc>
+	</programme>
+	<programme start="20190716062200 +0900" stop="20190716065900 +0900" channel="OKSUSU|872">
 		<title lang="kr">커버스토리(10회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5247,7 +5255,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 시사/다큐</desc>
 	</programme>
-	<programme start="20190716062000 +0900" stop="20190716080000 +0900" channel="OKSUSU|872">
+	<programme start="20190716065900 +0900" stop="20190716084100 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(9회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5265,7 +5273,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190716080000 +0900" stop="20190716095000 +0900" channel="OKSUSU|872">
+	<programme start="20190716084100 +0900" stop="20190716103000 +0900" channel="OKSUSU|872">
 		<title lang="kr">현지에서 먹힐까? 미국편(10회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5283,7 +5291,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190716095000 +0900" stop="20190716113000 +0900" channel="OKSUSU|872">
+	<programme start="20190716103000 +0900" stop="20190716120500 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(5회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5310,7 +5318,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190716113000 +0900" stop="20190716130000 +0900" channel="OKSUSU|872">
+	<programme start="20190716120500 +0900" stop="20190716134100 +0900" channel="OKSUSU|872">
 		<title lang="kr">서울 메이트 3(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5329,7 +5337,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 오상진,김소영,이규한,붐,유라
 연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190716130000 +0900" stop="20190716150000 +0900" channel="OKSUSU|872">
+	<programme start="20190716134100 +0900" stop="20190716153200 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(6회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5348,7 +5356,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190716150000 +0900" stop="20190716165000 +0900" channel="OKSUSU|872">
+	<programme start="20190716153200 +0900" stop="20190716171700 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 3(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5368,7 +5376,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190716165000 +0900" stop="20190716183000 +0900" channel="OKSUSU|872">
+	<programme start="20190716171700 +0900" stop="20190716183000 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(83회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5418,8 +5426,17 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>이승철</actor>
+			<actor>김준현</actor>
+			<actor>임수향</actor>
+			<actor>정일훈</actor>
+			<producer>이용수</producer>
+		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
+장르 : 연예/오락
+출연 : 이승철,김준현,임수향,정일훈
+연출 : 이용수</desc>
 	</programme>
 	<programme start="20190716213000 +0900" stop="20190716230000 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(6회)</title>
