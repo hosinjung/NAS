@@ -220,21 +220,21 @@
 		<desc lang="kr">대한민국의 오늘을 읽는다! 그날 그날 발생한 뉴스를 신속정확하게 전달하고 깊이있고 균형잡힌 접근으로 주요 시사 이슈를 발빠르게 진단한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190717170000 +0900" stop="20190717172700 +0900" channel="POOQ|K01">
+	<programme start="20190717170000 +0900" stop="20190717173000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스 5</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0069_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">당일 발생한 국내외 주요뉴스를 종합 편성해 신속 보도함.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190717172700 +0900" stop="20190717175500 +0900" channel="POOQ|K01">
+	<programme start="20190717173000 +0900" stop="20190717175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190717175500 +0900" stop="20190717190000 +0900" channel="POOQ|K01">
+	<programme start="20190717175800 +0900" stop="20190717190000 +0900" channel="POOQ|K01">
 		<title lang="kr">6시 내고향</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0093_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -329,7 +329,7 @@
 		<desc lang="kr">21세기 현대인들은 모든 것이 순식간에 변하고, 치열하고 바쁜 일상이 점철되는 사회에서 지친 삶을 살고 있다. 이럴 때일수록 고단한 삶을 치유하고 새로운 미래를 사유할 수 있는 계기가 필요하고, 실제로 시청자들은 그러한 프로그램을 갈망하고 있다. 따라서  본 프로그램은 자연 속에서 자연과 공존을 꿈꾸는 사람들, 그들만의 방식으로 독특한 생태습성을 보여주는 야생, 그리고 보잘 것 없으면서도 깊이 들여다  보면 심오한 생명의 가치를 가지고 있는 비경 등을 소개함으로써 ‘fast’보다는 ‘slow’의 가치를 구현하고 파편화된 삶을 치유할 수 있는 힐링시간이 되게 함으로써 ‘느낌’을 주는 프로그램을 지향하고자 한다. 잔잔하고 감동적인 그러나 삶의 의미를 느낄 수 있는 영상 생명에세이를 통해 뭇 생명들이 살아 숨쉬고, 시청자들의 마음이 쉬어가며, 편성적으로도 프로그램 간 쉬어갈 수 있는 완충의 역할을 하고자 한다.  아울러 방대한 자연, 환경프로그램의 footage를 적극 활용함으로써 ‘One-source Multi-use’를 구현하고, 제작비 절감에 기여하며, 국내외 유통 및 부가가치 창출 (도서)을 통해 수익성 강화에도 기여하고자 한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190717234000 +0900" stop="20190718003000 +0900" channel="POOQ|K01">
+	<programme start="20190717234000 +0900" stop="20190718002500 +0900" channel="POOQ|K01">
 		<title lang="kr">달 착륙 50주년
 특선 다큐멘터리</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2014-0471_210.jpg" />
@@ -337,13 +337,13 @@
 		<desc lang="kr">우수한 해외 다큐멘터리를 소개
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190718003000 +0900" stop="20190718004000 +0900" channel="POOQ|K01">
+	<programme start="20190718002500 +0900" stop="20190718003500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0595_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190718004000 +0900" stop="20190718015000 +0900" channel="POOQ|K01">
+	<programme start="20190718003500 +0900" stop="20190718014500 +0900" channel="POOQ|K01">
 		<title lang="kr">인간극장 스페셜</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0030_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -354,14 +354,14 @@
 등급 : 전체 관람가
 출연 : 이규원</desc>
 	</programme>
-	<programme start="20190718015000 +0900" stop="20190718035000 +0900" channel="POOQ|K01">
+	<programme start="20190718014500 +0900" stop="20190718034500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 중계석</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2005-0900_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">[문화예술]-문화예술 전 부문에 걸쳐 공연 및 이벤트를 녹화, 해설 및 연주자들과의 인터부와 함께 방송함으로써 고급문화의 대중화에 기여하고자 합니다.[학술]-학술 세미나,토론,특강,심포지움 등의 중계녹화를 통해 시사적인 현안이나 학문에 관한 관심과 공론의 장을 마련합니다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190718035000 +0900" stop="20190718045000 +0900" channel="POOQ|K01">
+	<programme start="20190718034500 +0900" stop="20190718044500 +0900" channel="POOQ|K01">
 		<title lang="kr">무엇이든 물어보세요</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0038_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -375,6 +375,13 @@
 건강, 요리, 상담, 생활경제, 취미레저
 등급 : 전체 관람가
 출연 : 김승휘, 정다은</desc>
+	</programme>
+	<programme start="20190718044500 +0900" stop="20190718045000 +0900" channel="POOQ|K01">
+		<title lang="kr">UHD 숨 터</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2014-0613_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">21세기 현대인들은 모든 것이 순식간에 변하고, 치열하고 바쁜 일상이 점철되는 사회에서 지친 삶을 살고 있다. 이럴 때일수록 고단한 삶을 치유하고 새로운 미래를 사유할 수 있는 계기가 필요하고, 실제로 시청자들은 그러한 프로그램을 갈망하고 있다. 따라서  본 프로그램은 자연 속에서 자연과 공존을 꿈꾸는 사람들, 그들만의 방식으로 독특한 생태습성을 보여주는 야생, 그리고 보잘 것 없으면서도 깊이 들여다  보면 심오한 생명의 가치를 가지고 있는 비경 등을 소개함으로써 ‘fast’보다는 ‘slow’의 가치를 구현하고 파편화된 삶을 치유할 수 있는 힐링시간이 되게 함으로써 ‘느낌’을 주는 프로그램을 지향하고자 한다. 잔잔하고 감동적인 그러나 삶의 의미를 느낄 수 있는 영상 생명에세이를 통해 뭇 생명들이 살아 숨쉬고, 시청자들의 마음이 쉬어가며, 편성적으로도 프로그램 간 쉬어갈 수 있는 완충의 역할을 하고자 한다.  아울러 방대한 자연, 환경프로그램의 footage를 적극 활용함으로써 ‘One-source Multi-use’를 구현하고, 제작비 절감에 기여하며, 국내외 유통 및 부가가치 창출 (도서)을 통해 수익성 강화에도 기여하고자 한다.
+등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190718045000 +0900" stop="20190718050000 +0900" channel="POOQ|K01">
 		<title lang="kr">방송 없음</title>
@@ -588,7 +595,7 @@
 	<programme start="20190718203000 +0900" stop="20190718210000 +0900" channel="POOQ|K01">
 		<title lang="kr">일일연속극 여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0043_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>이영은</actor>
 			<actor>윤선우</actor>
@@ -604,7 +611,7 @@
 			<actor>송민재</actor>
 		</credits>
 		<desc lang="kr">미워도 미워할 수만은 없는 가족에 대한 이야기를 유쾌하고 따뜻하게 그린 가족 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 이영은,윤선우,이채영,김사권,나혜미,김산호,김혜옥,이한위,강석우,문희경,김예령,송민재</desc>
 	</programme>
 	<programme start="20190718210000 +0900" stop="20190718220000 +0900" channel="POOQ|K01">
@@ -5286,7 +5293,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190717172800 +0900" stop="20190717191000 +0900" channel="OKSUSU|872">
+	<programme start="20190717172800 +0900" stop="20190717191500 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 3(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5306,7 +5313,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190717191000 +0900" stop="20190717201000 +0900" channel="OKSUSU|872">
+	<programme start="20190717191500 +0900" stop="20190717201500 +0900" channel="OKSUSU|872">
 		<title lang="kr">곽승준의 쿨까당(320회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5320,7 +5327,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 곽승준
 연출 : 박소연</desc>
 	</programme>
-	<programme start="20190717201000 +0900" stop="20190717213000 +0900" channel="OKSUSU|872">
+	<programme start="20190717201500 +0900" stop="20190717213500 +0900" channel="OKSUSU|872">
 		<title lang="kr">수미네 반찬(59회)&amp;lt;이계인/중복 닭요리&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5336,7 +5343,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 김수미,노사연,장동민
 연출 : 문태주</desc>
 	</programme>
-	<programme start="20190717213000 +0900" stop="20190717230000 +0900" channel="OKSUSU|872">
+	<programme start="20190717213500 +0900" stop="20190717230000 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(13회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5362,7 +5369,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190717230000 +0900" stop="20190718003000 +0900" channel="OKSUSU|872">
+	<programme start="20190717230000 +0900" stop="20190718004500 +0900" channel="OKSUSU|872">
 		<title lang="kr">뭐든지 프렌즈(1회)&amp;lt;첫 방송&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5383,7 +5390,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 박나래,양세형,문세윤,양세찬,홍윤화,황제성,붐,이시원
 연출 : 김유곤</desc>
 	</programme>
-	<programme start="20190718003000 +0900" stop="20190718020000 +0900" channel="OKSUSU|872">
+	<programme start="20190718004500 +0900" stop="20190718021400 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(13회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5409,7 +5416,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190718020000 +0900" stop="20190718035000 +0900" channel="OKSUSU|872">
+	<programme start="20190718021400 +0900" stop="20190718035000 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 3(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5429,7 +5436,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190718035000 +0900" stop="20190718055000 +0900" channel="OKSUSU|872">
+	<programme start="20190718035000 +0900" stop="20190718053700 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(26회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5442,7 +5449,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190718055000 +0900" stop="20190718061000 +0900" channel="OKSUSU|872">
+	<programme start="20190718053700 +0900" stop="20190718061800 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5450,7 +5457,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190718061000 +0900" stop="20190718081000 +0900" channel="OKSUSU|872">
+	<programme start="20190718061800 +0900" stop="20190718081200 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 고창편(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5467,7 +5474,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 차승원,유해진,손호준,남주혁
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190718081000 +0900" stop="20190718101000 +0900" channel="OKSUSU|872">
+	<programme start="20190718081200 +0900" stop="20190718100300 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 고창편(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5484,7 +5491,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 차승원,유해진,손호준,남주혁
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190718101000 +0900" stop="20190718114000 +0900" channel="OKSUSU|872">
+	<programme start="20190718100300 +0900" stop="20190718113500 +0900" channel="OKSUSU|872">
 		<title lang="kr">검색어를 입력하세요 WWW(13회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5510,7 +5517,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 임수정,이다희,전혜진,장기용,이재욱,지승현,권해효,우지현,오아연,하승리,송지호,유서진,탁...
 연출 : 권영일</desc>
 	</programme>
-	<programme start="20190718114000 +0900" stop="20190718131000 +0900" channel="OKSUSU|872">
+	<programme start="20190718113500 +0900" stop="20190718131200 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(83회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5528,7 +5535,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190718131000 +0900" stop="20190718144000 +0900" channel="OKSUSU|872">
+	<programme start="20190718131200 +0900" stop="20190718145400 +0900" channel="OKSUSU|872">
 		<title lang="kr">뭐든지 프렌즈(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5549,7 +5556,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 박나래,양세형,문세윤,양세찬,홍윤화,황제성,붐,이시원
 연출 : 김유곤</desc>
 	</programme>
-	<programme start="20190718144000 +0900" stop="20190718161000 +0900" channel="OKSUSU|872">
+	<programme start="20190718145400 +0900" stop="20190718162800 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(1회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5576,7 +5583,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190718161000 +0900" stop="20190718175000 +0900" channel="OKSUSU|872">
+	<programme start="20190718162800 +0900" stop="20190718180600 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5603,7 +5610,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190718175000 +0900" stop="20190718192000 +0900" channel="OKSUSU|872">
+	<programme start="20190718180600 +0900" stop="20190718192000 +0900" channel="OKSUSU|872">
 		<title lang="kr">수미네 반찬(59회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6795,7 +6802,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 김경화,문지애,김소영</desc>
 	</programme>
-	<programme start="20190718000000 +0900" stop="20190718015000 +0900" channel="OKSUSU|431">
+	<programme start="20190718000000 +0900" stop="20190718013000 +0900" channel="OKSUSU|431">
 		<title lang="kr">고교급식왕(6회)&amp;lt;여고생 입맛을 사로잡은 우승 팀은?&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6811,10 +6818,10 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190718015000 +0900" stop="20190718033000 +0900" channel="OKSUSU|431">
-		<title lang="kr">미쓰코리아 (9회)</title>
+	<programme start="20190718013000 +0900" stop="20190718031000 +0900" channel="OKSUSU|431">
+		<title lang="kr">미쓰코리아(7회)&amp;lt;샴페인의 고장, 프랑스 상파뉴에 가다!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>한고은</actor>
@@ -6827,13 +6834,13 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 			<actor>장동윤</actor>
 			<producer>손창우</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 한고은,신현준,조세호,박나래,황광희,돈 스파이크,신아영,장동윤
 연출 : 손창우</desc>
 	</programme>
-	<programme start="20190718033000 +0900" stop="20190718045000 +0900" channel="OKSUSU|431">
-		<title lang="kr">내 방의 품격 (10회)&amp;lt;산장 인테리어&amp;gt;</title>
+	<programme start="20190718031000 +0900" stop="20190718043000 +0900" channel="OKSUSU|431">
+		<title lang="kr">내 방의 품격(10회)&amp;lt;도심 속 산장 인테리어&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6849,8 +6856,8 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 노홍철,오상진,박건형,김준현
 연출 : 김종훈</desc>
 	</programme>
-	<programme start="20190718045000 +0900" stop="20190718060000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원나잇 푸드트립:언리미티드 (4회)</title>
+	<programme start="20190718043000 +0900" stop="20190718053500 +0900" channel="OKSUSU|431">
+		<title lang="kr">원나잇 푸드트립:언리미티드(3회)&amp;lt;시드니 최강의 매운맛! 악마의 핫윙&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6864,8 +6871,8 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 김태우,테이,이원일,정다래</desc>
 	</programme>
-	<programme start="20190718060000 +0900" stop="20190718071000 +0900" channel="OKSUSU|431">
-		<title lang="kr">원픽로드(3회)</title>
+	<programme start="20190718053500 +0900" stop="20190718065500 +0900" channel="OKSUSU|431">
+		<title lang="kr">원픽로드(3회)&amp;lt;스윙스&amp;딘딘의 도쿄 돈가스로드&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6879,44 +6886,38 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 이상민,소유,스윙스,솔빈</desc>
 	</programme>
-	<programme start="20190718071000 +0900" stop="20190718082000 +0900" channel="OKSUSU|431">
-		<title lang="kr">삼시세끼 고창편 (1회)&amp;lt;오늘뭐먹지&amp;gt;</title>
+	<programme start="20190718065500 +0900" stop="20190718082000 +0900" channel="OKSUSU|431">
+		<title lang="kr">삼시세끼 정선편 오늘뭐먹지?(2회)&amp;lt;이서진X옥택연이 추천하는 오늘의 메뉴&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>차승원</actor>
-			<actor>유해진</actor>
-			<actor>손호준</actor>
-			<actor>남주혁</actor>
+			<actor>이서진</actor>
+			<actor>택연</actor>
+			<actor>김광규</actor>
 			<producer>나영석</producer>
 		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
-출연 : 차승원,유해진,손호준,남주혁
+출연 : 이서진,택연,김광규
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190718082000 +0900" stop="20190718094000 +0900" channel="OKSUSU|431">
-		<title lang="kr">둥지탈출(8회)</title>
+	<programme start="20190718082000 +0900" stop="20190718092500 +0900" channel="OKSUSU|431">
+		<title lang="kr">프리한마켓 10(5회)&amp;lt;바캉스 필수템 10&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>박상원</actor>
-			<actor>최민수</actor>
-			<actor>기동민</actor>
-			<actor>박미선</actor>
-			<actor>김혜선</actor>
-			<actor>이종원</actor>
-			<producer>김유곤</producer>
+			<actor>김경화</actor>
+			<actor>문지애</actor>
+			<actor>김소영</actor>
 		</credits>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
-출연 : 박상원,최민수,기동민,박미선,김혜선,이종원
-연출 : 김유곤</desc>
+출연 : 김경화,문지애,김소영</desc>
 	</programme>
-	<programme start="20190718094000 +0900" stop="20190718112000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까? 미국편(4회)</title>
+	<programme start="20190718092500 +0900" stop="20190718110000 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까? 미국편(4회)&amp;lt;LA를 매료시킨 이연복의 두 마리 치킨!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6933,32 +6934,45 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 이연복,에릭,이민우,허경환,존 박
 연출 : 이우형</desc>
 	</programme>
-	<programme start="20190718112000 +0900" stop="20190718123000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수미네 반찬(44회)&amp;lt;꽃게미더덕찜&amp;gt;</title>
+	<programme start="20190718110000 +0900" stop="20190718124500 +0900" channel="OKSUSU|431">
+		<title lang="kr">꽃보다 청춘 아프리카 편(1회)&amp;lt;아프리카로 떠난 박보검X류준열&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>김수미</actor>
-			<actor>노사연</actor>
-			<actor>장동민</actor>
-			<producer>문태주</producer>
+			<actor>류준열</actor>
+			<actor>안재홍</actor>
+			<actor>고경표</actor>
+			<actor>박보검</actor>
+			<producer>나영석</producer>
+			<producer>이진주</producer>
 		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
-출연 : 김수미,노사연,장동민
-연출 : 문태주</desc>
+출연 : 류준열,안재홍,고경표,박보검
+연출 : 나영석,이진주</desc>
 	</programme>
-	<programme start="20190718123000 +0900" stop="20190718134000 +0900" channel="OKSUSU|431">
-		<title lang="kr">현지에서 먹힐까:복스푸드레시피 (1회)</title>
+	<programme start="20190718124500 +0900" stop="20190718141000 +0900" channel="OKSUSU|431">
+		<title lang="kr">서울 메이트 3(3회)&amp;lt;붐 메이트들의 댄스 실력 대방출!&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락</desc>
+		<credits>
+			<actor>오상진</actor>
+			<actor>김소영</actor>
+			<actor>이규한</actor>
+			<actor>붐</actor>
+			<actor>유라</actor>
+			<producer>박상혁</producer>
+			<producer>김영화</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 오상진,김소영,이규한,붐,유라
+연출 : 박상혁,김영화</desc>
 	</programme>
-	<programme start="20190718134000 +0900" stop="20190718144000 +0900" channel="OKSUSU|431">
-		<title lang="kr">프리한마켓 10(5회)</title>
+	<programme start="20190718141000 +0900" stop="20190718151000 +0900" channel="OKSUSU|431">
+		<title lang="kr">프리한마켓 10(5회)&amp;lt;바캉스 필수템 10&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -6971,10 +6985,10 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 김경화,문지애,김소영</desc>
 	</programme>
-	<programme start="20190718144000 +0900" stop="20190718160000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (211회)</title>
+	<programme start="20190718151000 +0900" stop="20190718162500 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(211회)&amp;lt;달콤 바삭 촉촉 디저트 와플&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -6984,48 +6998,13 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
 	</programme>
-	<programme start="20190718160000 +0900" stop="20190718172000 +0900" channel="OKSUSU|431">
-		<title lang="kr">서울 메이트 3 (3회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>오상진</actor>
-			<actor>김소영</actor>
-			<actor>이규한</actor>
-			<actor>붐</actor>
-			<actor>유라</actor>
-			<producer>박상혁</producer>
-			<producer>김영화</producer>
-		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락
-출연 : 오상진,김소영,이규한,붐,유라
-연출 : 박상혁,김영화</desc>
-	</programme>
-	<programme start="20190718172000 +0900" stop="20190718190000 +0900" channel="OKSUSU|431">
-		<title lang="kr">삼시세끼 바다목장편 (2회)&amp;lt;한지민1&amp;gt;</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>이서진</actor>
-			<actor>에릭</actor>
-			<actor>윤균상</actor>
-			<producer>나영석</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락
-출연 : 이서진,에릭,윤균상
-연출 : 나영석</desc>
-	</programme>
-	<programme start="20190718190000 +0900" stop="20190718204000 +0900" channel="OKSUSU|431">
-		<title lang="kr">더 짠내투어(82회)</title>
+	<programme start="20190718162500 +0900" stop="20190718180000 +0900" channel="OKSUSU|431">
+		<title lang="kr">더 짠내투어(82회)&amp;lt;규현이 추천하는 대만 미식 투어&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -7042,10 +7021,26 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190718204000 +0900" stop="20190718220000 +0900" channel="OKSUSU|431">
-		<title lang="kr">강식당 2 영업일지(1회)</title>
+	<programme start="20190718180000 +0900" stop="20190718195500 +0900" channel="OKSUSU|431">
+		<title lang="kr">삼시세끼 바다목장편(2회)&amp;lt;러블리 한지민의 여름 맞이 득량도 나들이&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>이서진</actor>
+			<actor>에릭</actor>
+			<actor>윤균상</actor>
+			<producer>나영석</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 이서진,에릭,윤균상
+연출 : 나영석</desc>
+	</programme>
+	<programme start="20190718195500 +0900" stop="20190718210500 +0900" channel="OKSUSU|431">
+		<title lang="kr">강식당 2 영업일지(1회)&amp;lt;새롭게 돌아온 강볶이!&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>강호동</actor>
@@ -7056,29 +7051,15 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 			<actor>피오</actor>
 			<producer>나영석</producer>
 		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190718220000 +0900" stop="20190718230000 +0900" channel="OKSUSU|431">
-		<title lang="kr">프리한마켓 10(5회)</title>
+	<programme start="20190718210500 +0900" stop="20190718222000 +0900" channel="OKSUSU|431">
+		<title lang="kr">수요미식회(211회)&amp;lt;달콤 바삭 촉촉 디저트 와플&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<credits>
-			<actor>김경화</actor>
-			<actor>문지애</actor>
-			<actor>김소영</actor>
-		</credits>
-		<desc lang="kr">등급 : 12세 이상 관람가
-장르 : 연예/오락
-출연 : 김경화,문지애,김소영</desc>
-	</programme>
-	<programme start="20190718230000 +0900" stop="20190719002000 +0900" channel="OKSUSU|431">
-		<title lang="kr">수요미식회 (211회)</title>
-		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<credits>
 			<actor>전현무</actor>
@@ -7088,10 +7069,37 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 			<actor>황교익</actor>
 			<producer>이길수</producer>
 		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
+		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 연예/오락
 출연 : 전현무,신동엽,이현우,홍신애,황교익
 연출 : 이길수</desc>
+	</programme>
+	<programme start="20190718222000 +0900" stop="20190718233000 +0900" channel="OKSUSU|431">
+		<title lang="kr">현지에서 먹힐까:현지인 먹방 릴레이(2회)&amp;lt;복스푸드에 반한 현지인 리액션&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 연예/오락</desc>
+	</programme>
+	<programme start="20190718233000 +0900" stop="20190719005000 +0900" channel="OKSUSU|431">
+		<title lang="kr">내친구와 식샤를 합시다(1회)&amp;lt;서현진X윤두준의 파리 여행&amp;gt;</title>
+		<icon src="http://image.tving.com/thumbnail/C00575_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<credits>
+			<actor>윤두준</actor>
+			<actor>서현진</actor>
+			<actor>양요섭</actor>
+			<actor>박희본</actor>
+			<actor>김지훈</actor>
+			<actor>김희정</actor>
+			<producer>박준화</producer>
+		</credits>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락
+출연 : 윤두준,서현진,양요섭,박희본,김지훈,김희정
+연출 : 박준화</desc>
 	</programme>
 	<channel id="OKSUSU|873" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=873" video-type="HLS2">
 		<display-name>Mnet</display-name>
@@ -7280,7 +7288,15 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190717200000 +0900" stop="20190717204000 +0900" channel="OKSUSU|873">
+	<programme start="20190717200000 +0900" stop="20190717211000 +0900" channel="OKSUSU|873">
+		<title lang="kr">FLEX ZONE(1회)(재)</title>
+		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">연예/오락</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 연예/오락</desc>
+	</programme>
+	<programme start="20190717211000 +0900" stop="20190717215000 +0900" channel="OKSUSU|873">
 		<title lang="kr">Live on M (SMS)(2268회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7288,7 +7304,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 음악</desc>
 	</programme>
-	<programme start="20190717204000 +0900" stop="20190717233000 +0900" channel="OKSUSU|873">
+	<programme start="20190717215000 +0900" stop="20190718004000 +0900" channel="OKSUSU|873">
 		<title lang="kr">프로듀스 X 101(11회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7305,7 +7321,7 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 출연 : 이동욱,배윤정,치타,이석훈
 연출 : 안준영</desc>
 	</programme>
-	<programme start="20190717233000 +0900" stop="20190718010000 +0900" channel="OKSUSU|873">
+	<programme start="20190718004000 +0900" stop="20190718021000 +0900" channel="OKSUSU|873">
 		<title lang="kr">더 콜 2(2회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -7322,14 +7338,6 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 장르 : 연예/오락
 출연 : 윤종신,윤민수,소유,김종국
 연출 : 이선영,이창규</desc>
-	</programme>
-	<programme start="20190718010000 +0900" stop="20190718021000 +0900" channel="OKSUSU|873">
-		<title lang="kr">FLEX ZONE(1회)(재)</title>
-		<icon src="http://image.tving.com/thumbnail/C00579_4_1920_1080.jpg/dims/resize/480x270" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">연예/오락</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 연예/오락</desc>
 	</programme>
 	<programme start="20190718021000 +0900" stop="20190718024000 +0900" channel="OKSUSU|873">
 		<title lang="kr">다시보는 최종 연습생의 1분 자기소개(1회)(재)</title>
@@ -8215,25 +8223,6 @@ SBS 제휴 네트워크인 전국 9개 지역민방에서
 	</programme>
 	<programme start="20190718214000 +0900" stop="20190718230000 +0900" channel="OKSUSU|178">
 		<title lang="kr">미스터 기간제 (1회)(재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">드라마</category>
-		<credits>
-			<actor>윤균상</actor>
-			<actor>금새록</actor>
-			<actor>이준영</actor>
-			<actor>최유화</actor>
-			<actor>최규진</actor>
-			<actor>한소은</actor>
-			<producer>성용일</producer>
-		</credits>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 윤균상,금새록,이준영,최유화,최규진,한소은
-연출 : 성용일</desc>
-	</programme>
-	<programme start="20190718230000 +0900" stop="20190719003000 +0900" channel="OKSUSU|178">
-		<title lang="kr">미스터 기간제 (2회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">드라마</category>
