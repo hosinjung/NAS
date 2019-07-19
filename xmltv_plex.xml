@@ -2336,21 +2336,6 @@
       <value>전체 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F90017e204ea54ab05f92f60e4e211183db973b8741f26bb3410ddc4d8d89722a" /><episode-num system="xmltv_ns">18.719.</episode-num></programme>
-  <programme channel="110" start="20190720223000 +0900" stop="20190721000000 +0900">
-    <title lang="kr">생방송 심야토론</title>
-    <desc lang="kr">생방송 심야토론
-장르 : 시사/다큐
-출연 : 정관용
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>정관용</actor>
-    </credits>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F90017e204ea54ab05f92f60e4e211183db973b8741f26bb3410ddc4d8d89722a" /><episode-num system="xmltv_ns">18.719.</episode-num></programme>
   <programme channel="111" start="20190718231000 +0900" stop="20190719001000 +0900">
     <title lang="kr">해피투게더</title>
     <sub-title lang="kr">1부</sub-title>
@@ -3977,28 +3962,6 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
-  <programme channel="121" start="20190719200000 +0900" stop="20190720000000 +0900">
-    <title lang="kr">프로듀스 X 101</title>
-    <desc lang="kr">프로듀스 X 101 (12회)
-회차 : 12회
-장르 : 연예/오락
-출연 : 이동욱,배윤정,치타,이석훈
-제작 : 안준영
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>이동욱</actor>
-      <actor>배윤정</actor>
-      <actor>치타</actor>
-      <actor>이석훈</actor>
-      <producer>안준영</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.11.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F887a6597f628ab29982b83e51c8def8418b84298a00cc1cae63805fb77e42f53" /></programme>
   <programme channel="121" start="20190720000000 +0900" stop="20190720040000 +0900">
     <title lang="kr">프로듀스 X 101</title>
     <desc lang="kr">프로듀스 X 101 (12회)
@@ -4907,7 +4870,7 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.719.</episode-num></programme>
-  <programme channel="122" start="20190720105000 +0900" stop="20190720143000 +0900">
+  <programme channel="122" start="20190720105000 +0900" stop="20190720125000 +0900">
     <title lang="kr">2019 메이저리그 /</title>
     <sub-title lang="kr">류현진 선발경기, 마이애미:LA다저스</sub-title>
     <desc lang="kr">2019 메이저리그 / (2안포함)
@@ -4920,58 +4883,39 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.719.</episode-num></programme>
-  <programme channel="122" start="20190720143000 +0900" stop="20190720150500 +0900">
-    <title lang="kr">신입사관 구해령</title>
-    <desc lang="kr">신입사관 구해령 (1회)
-회차 : 1회
-장르 : 드라마
-출연 : 김여진(대비 임씨),,이지훈(민우원),성지루(허삼보),신세경(구해령),최덕문(민익평),박기웅(
-제작 : 강일수,김호수
+  <programme channel="122" start="20190720125000 +0900" stop="20190720145500 +0900">
+    <title lang="kr">2019 메이저리그 /</title>
+    <sub-title lang="kr">류현진 선발경기, 마이애미:LA다저스</sub-title>
+    <desc lang="kr">2019 메이저리그 / (2안포함)
+부제 : 류현진 선발경기, 마이애미:LA다저스
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.719.</episode-num></programme>
+  <programme channel="122" start="20190720145500 +0900" stop="20190720154500 +0900">
+    <title lang="kr">라디오스타 스페셜</title>
+    <desc lang="kr">라디오스타 스페셜
+장르 : 연예/오락
+출연 : 김국진,윤종신,김구라,안영미
+제작 : 최행호
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>김여진(대비 임씨)</actor>
-      <actor>이지훈(민우원)</actor>
-      <actor>성지루(허삼보)</actor>
-      <actor>신세경(구해령)</actor>
-      <actor>최덕문(민익평)</actor>
-      <actor>박기웅(</actor>
-      <producer>강일수</producer>
-      <producer>김호수</producer>
+      <actor>김국진</actor>
+      <actor>윤종신</actor>
+      <actor>김구라</actor>
+      <actor>안영미</actor>
+      <producer>최행호</producer>
     </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
-    <previously-shown />
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4ef95ad4feed267d73956375833df0fb7b62bad82b088c48ac584f5094884c2f" /></programme>
-  <programme channel="122" start="20190720150500 +0900" stop="20190720154500 +0900">
-    <title lang="kr">신입사관 구해령</title>
-    <desc lang="kr">신입사관 구해령 (2회)
-회차 : 2회
-장르 : 드라마
-출연 : 김여진(대비 임씨),,이지훈(민우원),성지루(허삼보),신세경(구해령),최덕문(민익평),박기웅(
-제작 : 강일수,김호수
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>김여진(대비 임씨)</actor>
-      <actor>이지훈(민우원)</actor>
-      <actor>성지루(허삼보)</actor>
-      <actor>신세경(구해령)</actor>
-      <actor>최덕문(민익평)</actor>
-      <actor>박기웅(</actor>
-      <producer>강일수</producer>
-      <producer>김호수</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4ef95ad4feed267d73956375833df0fb7b62bad82b088c48ac584f5094884c2f" /></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile29.uf.daum.net%2Fimage%2F174268404FB1C4D31F1728" /><episode-num system="xmltv_ns">18.719.</episode-num></programme>
   <programme channel="122" start="20190720154500 +0900" stop="20190720170500 +0900">
     <title lang="kr">쇼! 음악중심</title>
     <desc lang="kr">쇼! 음악중심
@@ -8940,20 +8884,22 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57A96F5A0218E50001" /><episode-num system="xmltv_ns">18.718.</episode-num></programme>
   <programme channel="164" start="20190719125000 +0900" stop="20190719133000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">닥터탐정 (2회)
+    <desc lang="kr">닥터 탐정 (2회)
 부제 : 1부
 회차 : 2회
 장르 : 드라마
-출연 : 박진희,봉태규,이기우,박지영
+출연 : 박지영(공일순),박진희(도중은),이영진(변정호),봉태규(허민기),이기우(최태영),이철민(권실
 제작 : 박준우,송윤희
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>박진희</actor>
-      <actor>봉태규</actor>
-      <actor>이기우</actor>
-      <actor>박지영</actor>
+      <actor>박지영(공일순)</actor>
+      <actor>박진희(도중은)</actor>
+      <actor>이영진(변정호)</actor>
+      <actor>봉태규(허민기)</actor>
+      <actor>이기우(최태영)</actor>
+      <actor>이철민(권실</actor>
       <producer>박준우</producer>
       <producer>송윤희</producer>
     </credits>
@@ -8966,20 +8912,22 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0358144e3f695bac850b442615acd37c76d6ce3a6eb2335a2f5582003a91a0f5" /></programme>
   <programme channel="164" start="20190719133000 +0900" stop="20190719140000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">닥터탐정 (2회)
+    <desc lang="kr">닥터 탐정 (2회)
 부제 : 2부
 회차 : 2회
 장르 : 드라마
-출연 : 박진희,봉태규,이기우,박지영
+출연 : 박지영(공일순),박진희(도중은),이영진(변정호),봉태규(허민기),이기우(최태영),이철민(권실
 제작 : 박준우,송윤희
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>박진희</actor>
-      <actor>봉태규</actor>
-      <actor>이기우</actor>
-      <actor>박지영</actor>
+      <actor>박지영(공일순)</actor>
+      <actor>박진희(도중은)</actor>
+      <actor>이영진(변정호)</actor>
+      <actor>봉태규(허민기)</actor>
+      <actor>이기우(최태영)</actor>
+      <actor>이철민(권실</actor>
       <producer>박준우</producer>
       <producer>송윤희</producer>
     </credits>
@@ -9219,29 +9167,22 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa0c953868beea4b62984ce0b023abdaa8d5f0e9441c5872182843fbed180b0b4" /><episode-num system="xmltv_ns">18.718.</episode-num></programme>
   <programme channel="164" start="20190719220000 +0900" stop="20190719224000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">의사요한 (1회)
+    <desc lang="kr">의사 요한 (1회)
 부제 : 1부
 회차 : 1회
 장르 : 드라마
-출연 : 지성,이세영,이규형,정민아,권화운,오현중,손산,이유미,김혜은,오승현,정재성,신동미,정인기
+출연 : 오승현(민주경),이세영(강시영),,신동미(채은정),정인기(오정남),,김혜은(민태경),,이규형(손
 제작 : 조수원,김영환,김지운
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>지성</actor>
-      <actor>이세영</actor>
-      <actor>이규형</actor>
-      <actor>정민아</actor>
-      <actor>권화운</actor>
-      <actor>오현중</actor>
-      <actor>손산</actor>
-      <actor>이유미</actor>
-      <actor>김혜은</actor>
-      <actor>오승현</actor>
-      <actor>정재성</actor>
-      <actor>신동미</actor>
-      <actor>정인기</actor>
+      <actor>오승현(민주경)</actor>
+      <actor>이세영(강시영)</actor>
+      <actor>신동미(채은정)</actor>
+      <actor>정인기(오정남)</actor>
+      <actor>김혜은(민태경)</actor>
+      <actor>이규형(손</actor>
       <producer>조수원</producer>
       <producer>김영환</producer>
       <producer>김지운</producer>
@@ -9254,29 +9195,22 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fedc9ec0020b878ac9467608f862b423317731f07dd22341f2761d5e2542ca65c" /></programme>
   <programme channel="164" start="20190719224000 +0900" stop="20190719231000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">의사요한 (1회)
+    <desc lang="kr">의사 요한 (1회)
 부제 : 2부
 회차 : 1회
 장르 : 드라마
-출연 : 지성,이세영,이규형,정민아,권화운,오현중,손산,이유미,김혜은,오승현,정재성,신동미,정인기
+출연 : 오승현(민주경),이세영(강시영),,신동미(채은정),정인기(오정남),,김혜은(민태경),,이규형(손
 제작 : 조수원,김영환,김지운
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>지성</actor>
-      <actor>이세영</actor>
-      <actor>이규형</actor>
-      <actor>정민아</actor>
-      <actor>권화운</actor>
-      <actor>오현중</actor>
-      <actor>손산</actor>
-      <actor>이유미</actor>
-      <actor>김혜은</actor>
-      <actor>오승현</actor>
-      <actor>정재성</actor>
-      <actor>신동미</actor>
-      <actor>정인기</actor>
+      <actor>오승현(민주경)</actor>
+      <actor>이세영(강시영)</actor>
+      <actor>신동미(채은정)</actor>
+      <actor>정인기(오정남)</actor>
+      <actor>김혜은(민태경)</actor>
+      <actor>이규형(손</actor>
       <producer>조수원</producer>
       <producer>김영환</producer>
       <producer>김지운</producer>
@@ -9289,20 +9223,22 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fedc9ec0020b878ac9467608f862b423317731f07dd22341f2761d5e2542ca65c" /></programme>
   <programme channel="164" start="20190719231000 +0900" stop="20190719235000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">닥터탐정 (1회)
+    <desc lang="kr">닥터 탐정 (1회)
 부제 : 1부
 회차 : 1회
 장르 : 드라마
-출연 : 박진희,봉태규,이기우,박지영
+출연 : 박지영(공일순),박진희(도중은),이영진(변정호),봉태규(허민기),이기우(최태영),이철민(권실
 제작 : 박준우,송윤희
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>박진희</actor>
-      <actor>봉태규</actor>
-      <actor>이기우</actor>
-      <actor>박지영</actor>
+      <actor>박지영(공일순)</actor>
+      <actor>박진희(도중은)</actor>
+      <actor>이영진(변정호)</actor>
+      <actor>봉태규(허민기)</actor>
+      <actor>이기우(최태영)</actor>
+      <actor>이철민(권실</actor>
       <producer>박준우</producer>
       <producer>송윤희</producer>
     </credits>
@@ -9315,20 +9251,22 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0358144e3f695bac850b442615acd37c76d6ce3a6eb2335a2f5582003a91a0f5" /></programme>
   <programme channel="164" start="20190719235000 +0900" stop="20190720002000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">닥터탐정 (1회)
+    <desc lang="kr">닥터 탐정 (1회)
 부제 : 2부
 회차 : 1회
 장르 : 드라마
-출연 : 박진희,봉태규,이기우,박지영
+출연 : 박지영(공일순),박진희(도중은),이영진(변정호),봉태규(허민기),이기우(최태영),이철민(권실
 제작 : 박준우,송윤희
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>박진희</actor>
-      <actor>봉태규</actor>
-      <actor>이기우</actor>
-      <actor>박지영</actor>
+      <actor>박지영(공일순)</actor>
+      <actor>박진희(도중은)</actor>
+      <actor>이영진(변정호)</actor>
+      <actor>봉태규(허민기)</actor>
+      <actor>이기우(최태영)</actor>
+      <actor>이철민(권실</actor>
       <producer>박준우</producer>
       <producer>송윤희</producer>
     </credits>
@@ -9341,9 +9279,9 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0358144e3f695bac850b442615acd37c76d6ce3a6eb2335a2f5582003a91a0f5" /></programme>
   <programme channel="164" start="20190720002000 +0900" stop="20190720010000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">닥터탐정 (2회)
+    <desc lang="kr">닥터 탐정 (2회)
 부제 : 1부
 회차 : 2회
 장르 : 드라마
@@ -9369,9 +9307,9 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0358144e3f695bac850b442615acd37c76d6ce3a6eb2335a2f5582003a91a0f5" /></programme>
   <programme channel="164" start="20190720010000 +0900" stop="20190720013000 +0900">
-    <title lang="kr">닥터탐정</title>
+    <title lang="kr">닥터 탐정</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">닥터탐정 (2회)
+    <desc lang="kr">닥터 탐정 (2회)
 부제 : 2부
 회차 : 2회
 장르 : 드라마
@@ -10130,9 +10068,9 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07568ba266149a68b93d285134c9c02325b225ed0b74b3935e1b167dfea239c5" /><episode-num system="xmltv_ns">18.719.</episode-num></programme>
   <programme channel="164" start="20190720185000 +0900" stop="20190720193000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">의사요한 (1회)
+    <desc lang="kr">의사 요한 (1회)
 부제 : 1부
 회차 : 1회
 장르 : 드라마
@@ -10159,9 +10097,9 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fedc9ec0020b878ac9467608f862b423317731f07dd22341f2761d5e2542ca65c" /></programme>
   <programme channel="164" start="20190720193000 +0900" stop="20190720200000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">의사요한 (1회)
+    <desc lang="kr">의사 요한 (1회)
 부제 : 2부
 회차 : 1회
 장르 : 드라마
@@ -10258,9 +10196,9 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff8b707203b50222613f664e3f7033e99746346253bf83884623114446099d4c7" /><episode-num system="xmltv_ns">18.719.</episode-num></programme>
   <programme channel="164" start="20190720220000 +0900" stop="20190720224000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">1부</sub-title>
-    <desc lang="kr">의사요한 (2회)
+    <desc lang="kr">의사 요한 (2회)
 부제 : 1부
 회차 : 2회
 장르 : 드라마
@@ -10286,9 +10224,9 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fedc9ec0020b878ac9467608f862b423317731f07dd22341f2761d5e2542ca65c" /></programme>
   <programme channel="164" start="20190720224000 +0900" stop="20190720231000 +0900">
-    <title lang="kr">의사요한</title>
+    <title lang="kr">의사 요한</title>
     <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">의사요한 (2회)
+    <desc lang="kr">의사 요한 (2회)
 부제 : 2부
 회차 : 2회
 장르 : 드라마
@@ -11942,7 +11880,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190719164900 +0900" stop="20190719181000 +0900">
+  <programme channel="207" start="20190719164900 +0900" stop="20190719181600 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (59회)
 회차 : 59회
@@ -11964,7 +11902,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190719181000 +0900" stop="20190719194000 +0900">
+  <programme channel="207" start="20190719181600 +0900" stop="20190719194700 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (1회)
 회차 : 1회
@@ -11997,7 +11935,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190719194000 +0900" stop="20190719211000 +0900">
+  <programme channel="207" start="20190719194700 +0900" stop="20190719212000 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (2회)
 회차 : 2회
@@ -12030,7 +11968,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190719211000 +0900" stop="20190719230000 +0900">
+  <programme channel="207" start="20190719212000 +0900" stop="20190719230200 +0900">
     <title lang="kr">강식당 3</title>
     <desc lang="kr">강식당 3 (2회)
 회차 : 2회
@@ -12055,7 +11993,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62ab46388a643bcb67e378048a65b99b6fe350dcfbcc57a90fa81f9d127ea209" /></programme>
-  <programme channel="207" start="20190719230000 +0900" stop="20190720003000 +0900">
+  <programme channel="207" start="20190719230200 +0900" stop="20190720003900 +0900">
     <title lang="kr">더 짠내투어</title>
     <desc lang="kr">더 짠내투어 (83회)
 회차 : 83회
@@ -12079,7 +12017,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190720003000 +0900" stop="20190720022000 +0900">
+  <programme channel="207" start="20190720003900 +0900" stop="20190720022600 +0900">
     <title lang="kr">강식당 3</title>
     <desc lang="kr">강식당 3 (2회)
 회차 : 2회
@@ -12105,7 +12043,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62ab46388a643bcb67e378048a65b99b6fe350dcfbcc57a90fa81f9d127ea209" /></programme>
-  <programme channel="207" start="20190720022000 +0900" stop="20190720035000 +0900">
+  <programme channel="207" start="20190720022600 +0900" stop="20190720035800 +0900">
     <title lang="kr">서울 메이트 3</title>
     <desc lang="kr">서울 메이트 3 (3회)
 회차 : 3회
@@ -12130,7 +12068,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce747b822073e5e65f7e92dfcc4af04cfcd10924510e76dd4693fcf995e4dbbb" /></programme>
-  <programme channel="207" start="20190720035000 +0900" stop="20190720051000 +0900">
+  <programme channel="207" start="20190720035800 +0900" stop="20190720051700 +0900">
     <title lang="kr">코미디 빅리그</title>
     <desc lang="kr">코미디 빅리그 (319회)
 회차 : 319회
@@ -12152,7 +12090,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /></programme>
-  <programme channel="207" start="20190720051000 +0900" stop="20190720063000 +0900">
+  <programme channel="207" start="20190720051700 +0900" stop="20190720060000 +0900">
     <title lang="kr">커버스토리</title>
     <desc lang="kr">커버스토리 (11회)
 회차 : 11회
@@ -12165,32 +12103,29 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F66d8c21758ecf179872b33e62a22b5a1aca7ee29876fa4abae105ba520d3db69" /></programme>
-  <programme channel="207" start="20190720063000 +0900" stop="20190720080000 +0900">
-    <title lang="kr">서울 메이트 3</title>
-    <desc lang="kr">서울 메이트 3 (3회)
-회차 : 3회
+  <programme channel="207" start="20190720060000 +0900" stop="20190720073000 +0900">
+    <title lang="kr">수미네 반찬</title>
+    <desc lang="kr">수미네 반찬 (59회)
+회차 : 59회
 장르 : 연예/오락
-출연 : 오상진,김소영,이규한,붐,유라
-제작 : 박상혁,김영화
+출연 : 김수미,노사연,장동민
+제작 : 문태주
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>오상진</actor>
-      <actor>김소영</actor>
-      <actor>이규한</actor>
-      <actor>붐</actor>
-      <actor>유라</actor>
-      <producer>박상혁</producer>
-      <producer>김영화</producer>
+      <actor>김수미</actor>
+      <actor>노사연</actor>
+      <actor>장동민</actor>
+      <producer>문태주</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.58.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce747b822073e5e65f7e92dfcc4af04cfcd10924510e76dd4693fcf995e4dbbb" /></programme>
-  <programme channel="207" start="20190720080000 +0900" stop="20190720093000 +0900">
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
+  <programme channel="207" start="20190720073000 +0900" stop="20190720091000 +0900">
     <title lang="kr">더 짠내투어</title>
     <desc lang="kr">더 짠내투어 (83회)
 회차 : 83회
@@ -12214,29 +12149,34 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190720093000 +0900" stop="20190720110000 +0900">
-    <title lang="kr">수미네 반찬</title>
-    <desc lang="kr">수미네 반찬 (59회)
-회차 : 59회
+  <programme channel="207" start="20190720091000 +0900" stop="20190720105000 +0900">
+    <title lang="kr">뭐든지 프렌즈</title>
+    <desc lang="kr">뭐든지 프렌즈 (1회)
+회차 : 1회
 장르 : 연예/오락
-출연 : 김수미,노사연,장동민
-제작 : 문태주
+출연 : 박나래,양세형,문세윤,양세찬,홍윤화,황제성,붐,이시원
+제작 : 김유곤
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>김수미</actor>
-      <actor>노사연</actor>
-      <actor>장동민</actor>
-      <producer>문태주</producer>
+      <actor>박나래</actor>
+      <actor>양세형</actor>
+      <actor>문세윤</actor>
+      <actor>양세찬</actor>
+      <actor>홍윤화</actor>
+      <actor>황제성</actor>
+      <actor>붐</actor>
+      <actor>이시원</actor>
+      <producer>김유곤</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.58.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190720110000 +0900" stop="20190720130000 +0900">
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1aa5d78996de286ba615ebf79df39adf5282e1152a088674a8b212c61f3a2658" /></programme>
+  <programme channel="207" start="20190720105000 +0900" stop="20190720125000 +0900">
     <title lang="kr">강식당 3</title>
     <desc lang="kr">강식당 3 (2회)
 회차 : 2회
@@ -12262,7 +12202,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62ab46388a643bcb67e378048a65b99b6fe350dcfbcc57a90fa81f9d127ea209" /></programme>
-  <programme channel="207" start="20190720130000 +0900" stop="20190720145000 +0900">
+  <programme channel="207" start="20190720125000 +0900" stop="20190720145000 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (26회)
 회차 : 26회
