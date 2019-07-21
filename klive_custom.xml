@@ -241,21 +241,21 @@
 바쁜 당신을 위해 준비한, 지식채집 프로젝트  베짱이 우리 사회를 뜨겁게 달구고 있는 이슈, 인물, 지식 등의 숨겨진 이야기를 짧고 쉽고 유쾌하게 전하는 지식 다큐멘터리.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190721170000 +0900" stop="20190721171700 +0900" channel="POOQ|K01">
+	<programme start="20190721170000 +0900" stop="20190721171000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2003-0195_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">토 휴일 낮 시간대 뉴스 전달
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190721171700 +0900" stop="20190721180500 +0900" channel="POOQ|K01">
+	<programme start="20190721171000 +0900" stop="20190721175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190721180500 +0900" stop="20190721190000 +0900" channel="POOQ|K01">
+	<programme start="20190721175800 +0900" stop="20190721190000 +0900" channel="POOQ|K01">
 		<title lang="kr">열린음악회</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0096_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -5604,7 +5604,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190721164900 +0900" stop="20190721181000 +0900" channel="OKSUSU|872">
+	<programme start="20190721164900 +0900" stop="20190721182000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5631,7 +5631,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190721181000 +0900" stop="20190721194000 +0900" channel="OKSUSU|872">
+	<programme start="20190721182000 +0900" stop="20190721194500 +0900" channel="OKSUSU|872">
 		<title lang="kr">플레이어(2회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5650,7 +5650,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 이수근,김동현,황제성,이용진,이진호,이이경
 연출 : 심우경</desc>
 	</programme>
-	<programme start="20190721194000 +0900" stop="20190721210000 +0900" channel="OKSUSU|872">
+	<programme start="20190721194500 +0900" stop="20190721211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(320회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5666,7 +5666,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190721210000 +0900" stop="20190721224000 +0900" channel="OKSUSU|872">
+	<programme start="20190721211000 +0900" stop="20190721224000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(4회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5693,7 +5693,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190721224000 +0900" stop="20190722003000 +0900" channel="OKSUSU|872">
+	<programme start="20190721224000 +0900" stop="20190722004700 +0900" channel="OKSUSU|872">
 		<title lang="kr">슈퍼히어러(6회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5716,7 +5716,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190722003000 +0900" stop="20190722021000 +0900" channel="OKSUSU|872">
+	<programme start="20190722004700 +0900" stop="20190722022000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(3회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5743,7 +5743,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190722021000 +0900" stop="20190722034000 +0900" channel="OKSUSU|872">
+	<programme start="20190722022000 +0900" stop="20190722035200 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(4회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5770,7 +5770,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190722034000 +0900" stop="20190722051000 +0900" channel="OKSUSU|872">
+	<programme start="20190722035200 +0900" stop="20190722052500 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(83회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5788,7 +5788,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190722051000 +0900" stop="20190722060000 +0900" channel="OKSUSU|872">
+	<programme start="20190722052500 +0900" stop="20190722060000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -9085,38 +9085,38 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190721160000 +0900" stop="20190721170000 +0900" channel="OKSUSU|134">
-		<title lang="kr">2019 인터내셔널 챔피언스 컵 하이라이트 &amp;lt;바이에른 뮌헨:레알마드리드&amp;gt;(재)</title>
+		<title lang="kr">2019 인터내셔널 챔피언스 컵 하이라이트&amp;lt;바이에른 뮌헨:레알마드리드&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190721170000 +0900" stop="20190721180000 +0900" channel="OKSUSU|134">
-		<title lang="kr">2019 인터내셔널 챔피언스 컵 하이라이트 &amp;lt;맨유:인터밀란&amp;gt;</title>
+	<programme start="20190721170000 +0900" stop="20190721185000 +0900" channel="OKSUSU|134">
+		<title lang="kr">UFC SEOUL 명경기(재)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">스포츠</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 스포츠</desc>
-	</programme>
-	<programme start="20190721180000 +0900" stop="20190721185000 +0900" channel="OKSUSU|134">
-		<title lang="kr">2019 프리미어리그 아시아 트로피  H/L</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">스포츠</category>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190721185000 +0900" stop="20190721210000 +0900" channel="OKSUSU|134">
-		<title lang="kr">2019 K리그1 &amp;lt;22R, 상주:대구&amp;gt;</title>
+		<title lang="kr">2019 K리그1&amp;lt;22R, 울산:강원&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190721210000 +0900" stop="20190721230000 +0900" channel="OKSUSU|134">
+	<programme start="20190721210000 +0900" stop="20190721220000 +0900" channel="OKSUSU|134">
+		<title lang="kr">손흥민 챔피언스리그 특집  SUPER SON TIME(재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190721220000 +0900" stop="20190722000000 +0900" channel="OKSUSU|134">
 		<title lang="kr">2019 인터내셔널 챔피언스 컵 하이라이트</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -9124,16 +9124,8 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190721230000 +0900" stop="20190722000000 +0900" channel="OKSUSU|134">
-		<title lang="kr">2019 프리미어리그 아시아 트로피 H/L (재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">스포츠</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 스포츠</desc>
-	</programme>
 	<programme start="20190722000000 +0900" stop="20190722010000 +0900" channel="OKSUSU|134">
-		<title lang="kr">손흥민 챔피언스리그 특집  SUPER SON TIME (재)</title>
+		<title lang="kr">2019 프리미어리그 아시아 트로피 H/L(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
