@@ -241,7 +241,7 @@
 	<programme start="20190722203000 +0900" stop="20190722210000 +0900" channel="POOQ|K01">
 		<title lang="kr">일일연속극 여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0043_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>이영은</actor>
 			<actor>윤선우</actor>
@@ -257,7 +257,7 @@
 			<actor>송민재</actor>
 		</credits>
 		<desc lang="kr">미워도 미워할 수만은 없는 가족에 대한 이야기를 유쾌하고 따뜻하게 그린 가족 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 이영은,윤선우,이채영,김사권,나혜미,김산호,김혜옥,이한위,강석우,문희경,김예령,송민재</desc>
 	</programme>
 	<programme start="20190722210000 +0900" stop="20190722220000 +0900" channel="POOQ|K01">
@@ -288,7 +288,7 @@
 	<programme start="20190722230000 +0900" stop="20190722234000 +0900" channel="POOQ|K01">
 		<title lang="kr">여름방학 스페셜 
 대화의 희열</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0218_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
@@ -525,7 +525,7 @@ J</title>
 	<programme start="20190723203000 +0900" stop="20190723210000 +0900" channel="POOQ|K01">
 		<title lang="kr">일일연속극 여름아 부탁해</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0043_210.jpg" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
 			<actor>이영은</actor>
 			<actor>윤선우</actor>
@@ -541,7 +541,7 @@ J</title>
 			<actor>송민재</actor>
 		</credits>
 		<desc lang="kr">미워도 미워할 수만은 없는 가족에 대한 이야기를 유쾌하고 따뜻하게 그린 가족 드라마
-등급 : 전체 관람가
+등급 : 15세 이상 관람가
 출연 : 이영은,윤선우,이채영,김사권,나혜미,김산호,김혜옥,이한위,강석우,문희경,김예령,송민재</desc>
 	</programme>
 	<programme start="20190723210000 +0900" stop="20190723220000 +0900" channel="POOQ|K01">
@@ -570,7 +570,7 @@ KBS 스페셜</title>
 	<programme start="20190723230000 +0900" stop="20190723234000 +0900" channel="POOQ|K01">
 		<title lang="kr">여름방학 스페셜 
 대화의 희열</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0218_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
@@ -1593,26 +1593,26 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000827100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
-			<actor>김생민</actor>
 			<actor>서인</actor>
-			<actor>양승은</actor>
+			<actor>김초롱</actor>
+			<actor>김경식</actor>
 		</credits>
 		<desc lang="kr">출발! 비디오여행 은, 대한민국의 영화전문 프로그램 원조로,  19년 동안 장수 해온 프로그램입니다.  그 동안  영화 대 영화 ,  왜 ,  결정적 장면  등의 코너를 통해 재치있는 해설부터 깊이있는 분석에 이르기까지 영화를 다양하게 소개해드림으로써 시청자 여러분들의 많은 사랑을 받아왔습니다.  출발! 비디오여행은 앞으로도 더욱 즐겁게 영화를 볼 수 있는 가이드 프로그램으로써 노력을 다할 것을 약속드립니다.
 등급 : 15세 이상 관람가
-출연 : 김생민,서인,양승은</desc>
+출연 : 서인,김초롱,김경식</desc>
 	</programme>
 	<programme start="20190722175500 +0900" stop="20190722182500 +0900" channel="POOQ|M01">
 		<title lang="kr">출발! 비디오 여행 2부 스페셜</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1000827100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
-			<actor>김생민</actor>
 			<actor>서인</actor>
-			<actor>양승은</actor>
+			<actor>김초롱</actor>
+			<actor>김경식</actor>
 		</credits>
 		<desc lang="kr">출발! 비디오여행 은, 대한민국의 영화전문 프로그램 원조로,  19년 동안 장수 해온 프로그램입니다.  그 동안  영화 대 영화 ,  왜 ,  결정적 장면  등의 코너를 통해 재치있는 해설부터 깊이있는 분석에 이르기까지 영화를 다양하게 소개해드림으로써 시청자 여러분들의 많은 사랑을 받아왔습니다.  출발! 비디오여행은 앞으로도 더욱 즐겁게 영화를 볼 수 있는 가이드 프로그램으로써 노력을 다할 것을 약속드립니다.
 등급 : 15세 이상 관람가
-출연 : 김생민,서인,양승은</desc>
+출연 : 서인,김초롱,김경식</desc>
 	</programme>
 	<programme start="20190722182500 +0900" stop="20190722193000 +0900" channel="POOQ|M01">
 		<title lang="kr">생방송 오늘 저녁</title>
@@ -1633,35 +1633,12 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190722205500 +0900" stop="20190722213000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(29회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
-	</programme>
-	<programme start="20190722213000 +0900" stop="20190722220500 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(30회)</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<credits>
-			<actor>정재영</actor>
-			<actor>정유미</actor>
-			<actor>오만석</actor>
-			<actor>노민우</actor>
-			<actor>강승현</actor>
-		</credits>
-		<desc lang="kr">범죄는 진화했고, 공조는 진보했다. 까칠법의학자, 열혈신참검사, 베테랑검사의 돌아온 리얼공조! '검법남녀 시즌2'
-등급 : 15세 이상 관람가
-출연 : 정재영,정유미,오만석,노민우,강승현</desc>
+	<programme start="20190722205500 +0900" stop="20190722220500 +0900" channel="POOQ|M01">
+		<title lang="kr">2019 FINA 광주 세계수영선수권 다이빙 여 100m 배영 준결승</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004714100000100000_210.jpg" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<desc lang="kr">2019 FINA 광주 세계수영선수권대회 생중계 및 다시보기, 클립 서비스
+등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190722220500 +0900" stop="20190722230500 +0900" channel="POOQ|M01">
 		<title lang="kr">스트레이트</title>
@@ -1765,7 +1742,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 김정근,박연경,김한석</desc>
 	</programme>
 	<programme start="20190723104500 +0900" stop="20190723112000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 29회)</title>
+		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 27회)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
@@ -1780,7 +1757,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 정재영,정유미,오만석,노민우,강승현</desc>
 	</programme>
 	<programme start="20190723112000 +0900" stop="20190723120000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 30회)</title>
+		<title lang="kr">월화미니시리즈 검법남녀 시즌2(재, 28회)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
@@ -1914,7 +1891,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190723205500 +0900" stop="20190723213000 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(31회)</title>
+		<title lang="kr">월화미니시리즈 검법남녀 시즌2(29회)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
@@ -1929,7 +1906,7 @@ TV를 보면서 누구나 쉽게 따라할 수 있고 어린이들의 눈높이�
 출연 : 정재영,정유미,오만석,노민우,강승현</desc>
 	</programme>
 	<programme start="20190723213000 +0900" stop="20190723220500 +0900" channel="POOQ|M01">
-		<title lang="kr">월화미니시리즈 검법남녀 시즌2(최종)</title>
+		<title lang="kr">월화미니시리즈 검법남녀 시즌2(30회)</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/M_1004574100000100000_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<credits>
