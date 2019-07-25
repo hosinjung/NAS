@@ -3473,20 +3473,15 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fffd48c1b6cfb1fa2bf1fcb699daf7f3d2188166e5f02807fae452f936be1e557" /></programme>
   <programme channel="121" start="20190725113000 +0900" stop="20190725122000 +0900">
-    <title lang="kr">쇼미더머니 8 왓업쇼미</title>
-    <desc lang="kr">쇼미더머니 8 왓업쇼미 (1회)
+    <title lang="kr">쇼미더머니 베스트 퍼포먼스</title>
+    <desc lang="kr">쇼미더머니 베스트 퍼포먼스 (1회)
 회차 : 1회
-장르 : 연예/오락
-출연 : 김진표,스윙스,매드 클라운
+장르 : 음악
 등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>김진표</actor>
-      <actor>스윙스</actor>
-      <actor>매드 클라운</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <category lang="kr">음악</category>
+    <category lang="en">Music / Ballet / Dance</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -3530,7 +3525,9 @@
   </programme>
   <programme channel="121" start="20190725143000 +0900" stop="20190725164000 +0900">
     <title lang="kr">쇼미더머니 777</title>
+    <sub-title lang="kr">세미파이널</sub-title>
     <desc lang="kr">쇼미더머니 777 (9회)
+부제 : 세미파이널
 회차 : 9회
 장르 : 연예/오락
 출연 : 스윙스,기리보이,딥플로우,넉살,더 콰이엇,창모,팔로알토,코드 쿤스트
@@ -3568,7 +3565,6 @@
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
-    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -3739,9 +3735,11 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme channel="121" start="20190726045000 +0900" stop="20190726064000 +0900">
+  <programme channel="121" start="20190726045000 +0900" stop="20190726062000 +0900">
     <title lang="kr">니가 알던 내가 아냐 V2</title>
+    <sub-title lang="kr">전소미 편</sub-title>
     <desc lang="kr">니가 알던 내가 아냐 V2 (1회)
+부제 : 전소미 편
 회차 : 1회
 장르 : 연예/오락
 출연 : 장성규,이상민,붐,딘딘,정혜성
@@ -3763,7 +3761,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fffd48c1b6cfb1fa2bf1fcb699daf7f3d2188166e5f02807fae452f936be1e557" /></programme>
-  <programme channel="121" start="20190726064000 +0900" stop="20190726073000 +0900">
+  <programme channel="121" start="20190726062000 +0900" stop="20190726073000 +0900">
     <title lang="kr">M morning</title>
     <desc lang="kr">M morning (2204회)
 회차 : 2204회
@@ -3776,7 +3774,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme channel="121" start="20190726073000 +0900" stop="20190726083000 +0900">
+  <programme channel="121" start="20190726073000 +0900" stop="20190726082000 +0900">
     <title lang="kr">쇼미더머니 베스트 퍼포먼스</title>
     <desc lang="kr">쇼미더머니 베스트 퍼포먼스 (1회)
 회차 : 1회
@@ -3790,7 +3788,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme channel="121" start="20190726083000 +0900" stop="20190726093000 +0900">
+  <programme channel="121" start="20190726082000 +0900" stop="20190726092000 +0900">
     <title lang="kr">ONE DREAM.TXT</title>
     <desc lang="kr">ONE DREAM.TXT (5회)
 회차 : 5회
@@ -3810,7 +3808,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fd4ee6238c716fa2cd2f4f2712ad6c561da2200f979529e4208f0c406b80e9624" /></programme>
-  <programme channel="121" start="20190726093000 +0900" stop="20190726110000 +0900">
+  <programme channel="121" start="20190726092000 +0900" stop="20190726105000 +0900">
     <title lang="kr">더 콜 2</title>
     <desc lang="kr">더 콜 2 (2회)
 회차 : 2회
@@ -3834,7 +3832,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07b8dd2bf00c059a5f666ffbc6bf88a3fcec8c448308dc7469b7feabe8fe33f8" /></programme>
-  <programme channel="121" start="20190726110000 +0900" stop="20190726130000 +0900">
+  <programme channel="121" start="20190726105000 +0900" stop="20190726125000 +0900">
     <title lang="kr">M COUNTDOWN</title>
     <sub-title lang="kr">KCON 2019 NY</sub-title>
     <desc lang="kr">M COUNTDOWN (629회)
@@ -3850,7 +3848,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5359b6c406fc09a8650082b2e4983c2814eb339e8fe4bd4bd259e297f9ba96c2" /></programme>
-  <programme channel="121" start="20190726130000 +0900" stop="20190726143000 +0900">
+  <programme channel="121" start="20190726125000 +0900" stop="20190726142000 +0900">
     <title lang="kr">니가 알던 내가 아냐 V2</title>
     <sub-title lang="kr">정혜성 편</sub-title>
     <desc lang="kr">니가 알던 내가 아냐 V2 (5회)
@@ -3876,7 +3874,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fffd48c1b6cfb1fa2bf1fcb699daf7f3d2188166e5f02807fae452f936be1e557" /></programme>
-  <programme channel="121" start="20190726143000 +0900" stop="20190726171000 +0900">
+  <programme channel="121" start="20190726142000 +0900" stop="20190726172000 +0900">
     <title lang="kr">쇼미더머니 777</title>
     <sub-title lang="kr">파이널</sub-title>
     <desc lang="kr">쇼미더머니 777 (10회)
@@ -3903,15 +3901,22 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdeeb822fb749b1017e2a1b7ca57b8b8cbe3a1a3fed4ff2d79a61cae6c6e54f3e" /></programme>
-  <programme channel="121" start="20190726171000 +0900" stop="20190726181000 +0900">
-    <title lang="kr">Daily Music Talk</title>
-    <desc lang="kr">Daily Music Talk (SMS) (1383회)
-회차 : 1383회
+  <programme channel="121" start="20190726172000 +0900" stop="20190726181000 +0900">
+    <title lang="kr">쇼미더머니 8 왓업쇼미</title>
+    <desc lang="kr">쇼미더머니 8 왓업쇼미 (1회)
+회차 : 1회
 장르 : 연예/오락
+출연 : 김진표,스윙스,매드 클라운
 등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>김진표</actor>
+      <actor>스윙스</actor>
+      <actor>매드 클라운</actor>
+    </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.1382.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -3993,6 +3998,7 @@
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -11434,7 +11440,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190725175100 +0900" stop="20190725192000 +0900">
+  <programme channel="207" start="20190725175100 +0900" stop="20190725191900 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (60회)
 회차 : 60회
@@ -11456,7 +11462,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190725192000 +0900" stop="20190725205000 +0900">
+  <programme channel="207" start="20190725191900 +0900" stop="20190725205000 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (15회)
 회차 : 15회
@@ -11488,7 +11494,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190725205000 +0900" stop="20190725213000 +0900">
+  <programme channel="207" start="20190725205000 +0900" stop="20190725212500 +0900">
     <title lang="kr">커버스토리</title>
     <sub-title lang="kr">최종회/친절한이민가이드</sub-title>
     <desc lang="kr">커버스토리 (12회)
@@ -11503,7 +11509,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F66d8c21758ecf179872b33e62a22b5a1aca7ee29876fa4abae105ba520d3db69" /></programme>
-  <programme channel="207" start="20190725213000 +0900" stop="20190725230000 +0900">
+  <programme channel="207" start="20190725212500 +0900" stop="20190725230500 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <sub-title lang="kr">최종화</sub-title>
     <desc lang="kr">검색어를 입력하세요 WWW (16회)
@@ -11536,7 +11542,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190725230000 +0900" stop="20190726003000 +0900">
+  <programme channel="207" start="20190725230500 +0900" stop="20190726004000 +0900">
     <title lang="kr">씬의 퀴즈</title>
     <desc lang="kr">씬의 퀴즈 (3회)
 회차 : 3회
@@ -11560,7 +11566,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Feeed9fd95332397311ea03cf185818b8c3d291861e9590698495a749230614b5" /></programme>
-  <programme channel="207" start="20190726003000 +0900" stop="20190726020000 +0900">
+  <programme channel="207" start="20190726004000 +0900" stop="20190726022200 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (16회)
 회차 : 16회
@@ -11592,7 +11598,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190726020000 +0900" stop="20190726033000 +0900">
+  <programme channel="207" start="20190726022200 +0900" stop="20190726035200 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (3회)
 회차 : 3회
@@ -11625,7 +11631,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190726033000 +0900" stop="20190726050000 +0900">
+  <programme channel="207" start="20190726035200 +0900" stop="20190726051700 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (4회)
 회차 : 4회
@@ -11658,7 +11664,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190726050000 +0900" stop="20190726060000 +0900">
+  <programme channel="207" start="20190726051700 +0900" stop="20190726060000 +0900">
     <title lang="kr">곽승준의 쿨까당</title>
     <desc lang="kr">곽승준의 쿨까당 (321회)
 회차 : 321회
@@ -11678,7 +11684,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F76835de8aade0c8ac64e3bf61baa3f0c8eb3b3e5648820967eb15251453aad20" /></programme>
-  <programme channel="207" start="20190726060000 +0900" stop="20190726064000 +0900">
+  <programme channel="207" start="20190726060000 +0900" stop="20190726062000 +0900">
     <title lang="kr">코미디 빅리그 Hot clip</title>
     <desc lang="kr">코미디 빅리그 Hot clip
 장르 : 연예/오락
@@ -11690,54 +11696,57 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /><episode-num system="xmltv_ns">18.725.</episode-num></programme>
-  <programme channel="207" start="20190726064000 +0900" stop="20190726082000 +0900">
-    <title lang="kr">고교급식왕</title>
-    <desc lang="kr">고교급식왕 (7회)
-회차 : 7회
+  <programme channel="207" start="20190726062000 +0900" stop="20190726080000 +0900">
+    <title lang="kr">강식당 2</title>
+    <desc lang="kr">강식당 2 (1회)
+회차 : 1회
 장르 : 연예/오락
-출연 : 백종원,은지원,문세윤
-제작 : 임수정
+출연 : 강호동,이수근,은지원,안재현,송민호,피오
+제작 : 나영석
 등급 : 12세 이상 관람가</desc>
     <credits>
-      <actor>백종원</actor>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
       <actor>은지원</actor>
-      <actor>문세윤</actor>
-      <producer>임수정</producer>
+      <actor>안재현</actor>
+      <actor>송민호</actor>
+      <actor>피오</actor>
+      <producer>나영석</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9ee6ade2803ca59ddb81f418a073e34897347689e81cfeda5c626a170210d3fd" /></programme>
-  <programme channel="207" start="20190726082000 +0900" stop="20190726100000 +0900">
-    <title lang="kr">서울 메이트 3</title>
-    <desc lang="kr">서울 메이트 3 (4회)
-회차 : 4회
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
+  <programme channel="207" start="20190726080000 +0900" stop="20190726095000 +0900">
+    <title lang="kr">강식당 2</title>
+    <desc lang="kr">강식당 2 (2회)
+회차 : 2회
 장르 : 연예/오락
-출연 : 오상진,김소영,이규한,붐,유라
-제작 : 박상혁,김영화
-등급 : 15세 이상 관람가</desc>
+출연 : 강호동,이수근,은지원,안재현,송민호,피오
+제작 : 나영석
+등급 : 12세 이상 관람가</desc>
     <credits>
-      <actor>오상진</actor>
-      <actor>김소영</actor>
-      <actor>이규한</actor>
-      <actor>붐</actor>
-      <actor>유라</actor>
-      <producer>박상혁</producer>
-      <producer>김영화</producer>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
+      <actor>은지원</actor>
+      <actor>안재현</actor>
+      <actor>송민호</actor>
+      <actor>피오</actor>
+      <producer>나영석</producer>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce747b822073e5e65f7e92dfcc4af04cfcd10924510e76dd4693fcf995e4dbbb" /></programme>
-  <programme channel="207" start="20190726100000 +0900" stop="20190726113000 +0900">
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
+  <programme channel="207" start="20190726095000 +0900" stop="20190726112000 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (60회)
 회차 : 60회
@@ -11759,7 +11768,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190726113000 +0900" stop="20190726130000 +0900">
+  <programme channel="207" start="20190726112000 +0900" stop="20190726125000 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (15회)
 회차 : 15회
@@ -11791,7 +11800,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190726130000 +0900" stop="20190726142000 +0900">
+  <programme channel="207" start="20190726125000 +0900" stop="20190726142000 +0900">
     <title lang="kr">검색어를 입력하세요 WWW</title>
     <desc lang="kr">검색어를 입력하세요 WWW (16회)
 회차 : 16회
@@ -11823,7 +11832,31 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F3b8e9078439b26c4fd6b61fc4f024fec9e924d45396f8650e090668b84cde5ec" /></programme>
-  <programme channel="207" start="20190726142000 +0900" stop="20190726162000 +0900">
+  <programme channel="207" start="20190726142000 +0900" stop="20190726155000 +0900">
+    <title lang="kr">더 짠내투어</title>
+    <desc lang="kr">더 짠내투어 (84회)
+회차 : 84회
+장르 : 연예/오락
+출연 : 박명수,한혜진,이용진,규현
+제작 : 손창우,안제민
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>박명수</actor>
+      <actor>한혜진</actor>
+      <actor>이용진</actor>
+      <actor>규현</actor>
+      <producer>손창우</producer>
+      <producer>안제민</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.83.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
+  <programme channel="207" start="20190726155000 +0900" stop="20190726175000 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (27회)
 회차 : 27회
@@ -11842,72 +11875,32 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190726162000 +0900" stop="20190726180000 +0900">
-    <title lang="kr">호텔 델루나</title>
-    <desc lang="kr">호텔 델루나 (3회)
-회차 : 3회
-장르 : 드라마
-출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
-제작 : 오충환,홍정은,홍미란
+  <programme channel="207" start="20190726175000 +0900" stop="20190726194000 +0900">
+    <title lang="kr">강식당 3</title>
+    <desc lang="kr">강식당 3 (2회)
+회차 : 2회
+장르 : 연예/오락
+출연 : 강호동,이수근,은지원,안재현,송민호,피오
+제작 : 나영석,신효정
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>아이유</actor>
-      <actor>여진구</actor>
-      <actor>조현철</actor>
-      <actor>정동환</actor>
-      <actor>신정근</actor>
-      <actor>배해선</actor>
+      <actor>강호동</actor>
+      <actor>이수근</actor>
+      <actor>은지원</actor>
+      <actor>안재현</actor>
+      <actor>송민호</actor>
       <actor>피오</actor>
-      <actor>이도현</actor>
-      <actor>이태선</actor>
-      <actor>서이숙</actor>
-      <actor>강홍석</actor>
-      <actor>미나</actor>
-      <producer>오충환</producer>
-      <producer>홍정은</producer>
-      <producer>홍미란</producer>
+      <producer>나영석</producer>
+      <producer>신효정</producer>
     </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190726180000 +0900" stop="20190726194000 +0900">
-    <title lang="kr">호텔 델루나</title>
-    <desc lang="kr">호텔 델루나 (4회)
-회차 : 4회
-장르 : 드라마
-출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
-제작 : 오충환,홍정은,홍미란
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>아이유</actor>
-      <actor>여진구</actor>
-      <actor>조현철</actor>
-      <actor>정동환</actor>
-      <actor>신정근</actor>
-      <actor>배해선</actor>
-      <actor>피오</actor>
-      <actor>이도현</actor>
-      <actor>이태선</actor>
-      <actor>서이숙</actor>
-      <actor>강홍석</actor>
-      <actor>미나</actor>
-      <producer>오충환</producer>
-      <producer>홍정은</producer>
-      <producer>홍미란</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62ab46388a643bcb67e378048a65b99b6fe350dcfbcc57a90fa81f9d127ea209" /></programme>
   <programme channel="207" start="20190726194000 +0900" stop="20190726211000 +0900">
     <title lang="kr">더 콜 2</title>
     <desc lang="kr">더 콜 2 (3회)
@@ -11956,30 +11949,39 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F62ab46388a643bcb67e378048a65b99b6fe350dcfbcc57a90fa81f9d127ea209" /></programme>
-  <programme channel="207" start="20190726230000 +0900" stop="20190727004000 +0900">
-    <title lang="kr">더 짠내투어</title>
-    <desc lang="kr">더 짠내투어 (84회)
-회차 : 84회
-장르 : 연예/오락
-출연 : 박명수,한혜진,이용진,규현
-제작 : 손창우,안제민
+  <programme channel="207" start="20190726230000 +0900" stop="20190727003000 +0900">
+    <title lang="kr">호텔 델루나</title>
+    <desc lang="kr">호텔 델루나 (3회)
+회차 : 3회
+장르 : 드라마
+출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
+제작 : 오충환,홍정은,홍미란
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>박명수</actor>
-      <actor>한혜진</actor>
-      <actor>이용진</actor>
-      <actor>규현</actor>
-      <producer>손창우</producer>
-      <producer>안제민</producer>
+      <actor>아이유</actor>
+      <actor>여진구</actor>
+      <actor>조현철</actor>
+      <actor>정동환</actor>
+      <actor>신정근</actor>
+      <actor>배해선</actor>
+      <actor>피오</actor>
+      <actor>이도현</actor>
+      <actor>이태선</actor>
+      <actor>서이숙</actor>
+      <actor>강홍석</actor>
+      <actor>미나</actor>
+      <producer>오충환</producer>
+      <producer>홍정은</producer>
+      <producer>홍미란</producer>
     </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.83.0/0</episode-num>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
   <programme channel="216" start="20190724232000 +0900" stop="20190725005000 +0900">
     <title lang="kr">더 짠내투어</title>
     <desc lang="kr">더 짠내투어 (84회)
@@ -14608,7 +14610,7 @@
 장르 : 드라마
 출연 : 박하선,예지원,이상엽,조동혁,정상훈,최병모,류아벨,유서진,김미경,오동민,황석정,황정민,박민지
 제작 : 김정민,유소정
-등급 : 15세 이상 관람가</desc>
+등급 : 19세 이상 관람가</desc>
     <credits>
       <actor>박하선</actor>
       <actor>예지원</actor>
@@ -14630,7 +14632,7 @@
     <category lang="en">Movie / Drama</category>
     <episode-num system="xmltv_ns">0.6.0/0</episode-num>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>19세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F7353c579f553179b6c4fbc754a93d3fb3df99584b76ed21aeeb5aeffd2eab1f0" /></programme>
 </tv>
