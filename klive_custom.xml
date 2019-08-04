@@ -333,8 +333,22 @@ TV는 사랑을 싣고</title>
 스페셜</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0475_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<desc lang="kr">직장에서 벌어지는 기가막힌 이야기, 나만 겪는걸까직장생활의 모든 에피소드를 담았습니다.다큐의 정신을 예능의 화법으로 전달, 알찬 노동정보에 감성과 웃음을 얹은직장인 나노 입자 공감 스토리 \'회사가기싫어\'!
-등급 : 전체 관람가</desc>
+		<credits>
+			<actor>최승일</actor>
+			<actor>이황의</actor>
+			<actor>지춘성</actor>
+			<actor>김동완</actor>
+			<actor>김국희</actor>
+			<actor>한수연</actor>
+			<actor>심진혁</actor>
+			<actor>김중돈</actor>
+			<actor>소주연</actor>
+			<actor>서혜원</actor>
+			<actor>김관수</actor>
+		</credits>
+		<desc lang="kr">아침 8시, 길거리에 넘쳐나는 흔하디 흔한 직장인들. 그들이 하고 싶은 말? \'회사 가기 싫어\'. 청운의 꿈을 안고 들어간 회사. 열정을 불사르던 20대 열혈 청년이 무채색이 되어버렸다. 왜 그런 걸까? 자신의 자리에서 최선을 다하는 수수하지만 대단한 이 시대에 평범한 직장인들의 나노공감 이야기.
+등급 : 전체 관람가
+출연 : 최승일, 이황의, 지춘성, 김동완, 김국희, 한수연, 심진혁, 김중돈, 소주연, 서혜원, 김관수</desc>
 	</programme>
 	<programme start="20190804232900 +0900" stop="20190805001500 +0900" channel="POOQ|K01">
 		<title lang="kr">글로벌 다큐멘터리</title>
@@ -1014,7 +1028,7 @@ DMZ 묻다</title>
 등급 : 전체 관람가
 출연 : 김해숙, 김소연, 홍종현, 유선, 기태영, 주현, 박정수, 동방우, 이원재, 한기웅, 김하경, 남태부, 박근수, 주예림, 최명길</desc>
 	</programme>
-	<programme start="20190804203500 +0900" stop="20190804211700 +0900" channel="POOQ|K02">
+	<programme start="20190804203500 +0900" stop="20190804211800 +0900" channel="POOQ|K02">
 		<title lang="kr">주말드라마
 세상에서
 제일 예쁜 내 딸</title>
@@ -1041,17 +1055,17 @@ DMZ 묻다</title>
 등급 : 전체 관람가
 출연 : 김해숙, 김소연, 홍종현, 유선, 기태영, 주현, 박정수, 동방우, 이원재, 한기웅, 김하경, 남태부, 박근수, 주예림, 최명길</desc>
 	</programme>
-	<programme start="20190804211700 +0900" stop="20190804220800 +0900" channel="POOQ|K02">
+	<programme start="20190804211800 +0900" stop="20190804220800 +0900" channel="POOQ|K02">
 		<title lang="kr">특선영화
 동네 사람들</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0200_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
 	<programme start="20190804220800 +0900" stop="20190804225800 +0900" channel="POOQ|K02">
 		<title lang="kr">특선영화
 동네 사람들</title>
-		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0200_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
@@ -1081,7 +1095,7 @@ DMZ 묻다</title>
 		<desc lang="kr">세상을 좀 더 자세히 알고 싶지만 바쁘고 시간이 없는 당신을 위한 짧고 쉬운 지식다큐
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190805003000 +0900" stop="20190805012800 +0900" channel="POOQ|K02">
+	<programme start="20190805003000 +0900" stop="20190805012900 +0900" channel="POOQ|K02">
 		<title lang="kr">트레킹노트
 세상을 걷다
 스페셜</title>
@@ -1093,14 +1107,14 @@ DMZ 묻다</title>
  로드 다큐 - 세상을 걷다 는, 자연과 사람, 역사와 문화가 모두 담겨진 움직이는 여행안내서와 같은 프로그램이 될 것이다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190805012800 +0900" stop="20190805042400 +0900" channel="POOQ|K02">
+	<programme start="20190805012900 +0900" stop="20190805042500 +0900" channel="POOQ|K02">
 		<title lang="kr">2020 도쿄올림픽
 여자배구 예선</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K02_T2019-0223_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190805042400 +0900" stop="20190805050000 +0900" channel="POOQ|K02">
+	<programme start="20190805042500 +0900" stop="20190805050000 +0900" channel="POOQ|K02">
 		<title lang="kr">방송 없음</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -3693,7 +3707,7 @@ DMZ 묻다</title>
 등급 : 15세 이상 관람가
 출연 : 이창훈,장경동,함익병,최홍림,이경제,박준형,김영옥,최은경,박수홍</desc>
 	</programme>
-	<programme start="20190804170000 +0900" stop="20190804193000 +0900" channel="POOQ|C2401">
+	<programme start="20190804170000 +0900" stop="20190804181000 +0900" channel="POOQ|C2401">
 		<title lang="kr">현장르포 특종세상</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR566_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -3703,6 +3717,18 @@ DMZ 묻다</title>
 		<desc lang="kr">사람, 사건ㆍ사고, 진실(특종·실종·소문) 세 코너로 나누어 기인과 달인 그리고 사회의 사각지대를 전하는 사람들에 대한 이야기와 사람, 자연현상, 지형지물 등 인터넷/SNS 등으로 떠도는 소문의 진실을 추적하는 르포르타주 형식의 프로그램
 등급 : 15세 이상 관람가
 출연 : 없음</desc>
+	</programme>
+	<programme start="20190804181000 +0900" stop="20190804193000 +0900" channel="POOQ|C2401">
+		<title lang="kr">최고의 한방</title>
+		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR801_210.jpg" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<credits>
+			<actor>출연진</actor>
+		</credits>
+		<desc lang="kr">내일 죽어도 한이 없는 인생살기 프로젝트!
+살벌한 인생수업 '최고의 한방'
+등급 : 15세 이상 관람가
+출연 : 출연진</desc>
 	</programme>
 	<programme start="20190804193000 +0900" stop="20190804202000 +0900" channel="POOQ|C2401">
 		<title lang="kr">MBN 뉴스8</title>
@@ -3758,7 +3784,7 @@ DMZ 묻다</title>
 등급 : 12세 이상 관람가
 출연 : 김지민,김승현,유지인,김하진,임성근,왕종근</desc>
 	</programme>
-	<programme start="20190805002000 +0900" stop="20190805013000 +0900" channel="POOQ|C2401">
+	<programme start="20190805002000 +0900" stop="20190805012000 +0900" channel="POOQ|C2401">
 		<title lang="kr">특집다큐</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR587_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -3769,7 +3795,7 @@ DMZ 묻다</title>
 등급 : 전체 관람가
 출연 : 출연진</desc>
 	</programme>
-	<programme start="20190805013000 +0900" stop="20190805022000 +0900" channel="POOQ|C2401">
+	<programme start="20190805012000 +0900" stop="20190805022000 +0900" channel="POOQ|C2401">
 		<title lang="kr">소나무</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/C2401_PR532_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -5624,7 +5650,7 @@ DMZ 묻다</title>
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190804165000 +0900" stop="20190804181000 +0900" channel="OKSUSU|872">
+	<programme start="20190804165000 +0900" stop="20190804182000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(7회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5651,7 +5677,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190804181000 +0900" stop="20190804194000 +0900" channel="OKSUSU|872">
+	<programme start="20190804182000 +0900" stop="20190804194500 +0900" channel="OKSUSU|872">
 		<title lang="kr">플레이어(4회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5670,7 +5696,7 @@ DMZ 묻다</title>
 출연 : 이수근,김동현,황제성,이용진,이진호,이이경
 연출 : 심우경</desc>
 	</programme>
-	<programme start="20190804194000 +0900" stop="20190804210000 +0900" channel="OKSUSU|872">
+	<programme start="20190804194500 +0900" stop="20190804211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(322회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5686,7 +5712,7 @@ DMZ 묻다</title>
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190804210000 +0900" stop="20190804224000 +0900" channel="OKSUSU|872">
+	<programme start="20190804211000 +0900" stop="20190804224500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(8회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5713,8 +5739,8 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190804224000 +0900" stop="20190805003000 +0900" channel="OKSUSU|872">
-		<title lang="kr">슈퍼히어러(8회)</title>
+	<programme start="20190804224500 +0900" stop="20190805004100 +0900" channel="OKSUSU|872">
+		<title lang="kr">슈퍼히어러(8회)&amp;lt;최종회&amp;gt;</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -5736,7 +5762,7 @@ DMZ 묻다</title>
 출연 : 장성규,윤종신,강타,장윤정,케이윌,김구라,박준형,엄현경,붐,황제성
 연출 : 민철기</desc>
 	</programme>
-	<programme start="20190805003000 +0900" stop="20190805021000 +0900" channel="OKSUSU|872">
+	<programme start="20190805004100 +0900" stop="20190805021100 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(9회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5763,7 +5789,7 @@ DMZ 묻다</title>
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190805021000 +0900" stop="20190805034000 +0900" channel="OKSUSU|872">
+	<programme start="20190805021100 +0900" stop="20190805034100 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(10회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5790,7 +5816,7 @@ DMZ 묻다</title>
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190805034000 +0900" stop="20190805051000 +0900" channel="OKSUSU|872">
+	<programme start="20190805034100 +0900" stop="20190805050400 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(85회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5808,7 +5834,7 @@ DMZ 묻다</title>
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190805051000 +0900" stop="20190805062000 +0900" channel="OKSUSU|872">
+	<programme start="20190805050400 +0900" stop="20190805061200 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(322회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5824,7 +5850,7 @@ DMZ 묻다</title>
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190805062000 +0900" stop="20190805065000 +0900" channel="OKSUSU|872">
+	<programme start="20190805061200 +0900" stop="20190805065000 +0900" channel="OKSUSU|872">
 		<title lang="kr">신서유기6 게임모음.Zip(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5844,7 +5870,7 @@ DMZ 묻다</title>
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석,신효정</desc>
 	</programme>
-	<programme start="20190805065000 +0900" stop="20190805075000 +0900" channel="OKSUSU|872">
+	<programme start="20190805065000 +0900" stop="20190805075200 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(167회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5860,7 +5886,7 @@ DMZ 묻다</title>
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190805075000 +0900" stop="20190805091000 +0900" channel="OKSUSU|872">
+	<programme start="20190805075200 +0900" stop="20190805091300 +0900" channel="OKSUSU|872">
 		<title lang="kr">미스터 션샤인(7회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5885,7 +5911,7 @@ DMZ 묻다</title>
 출연 : 이병헌,김태리,유연석,변요한,김민정,조우진,김병철,배정남,최무성,김의성,신정근
 연출 : 이응복,김은숙</desc>
 	</programme>
-	<programme start="20190805091000 +0900" stop="20190805103000 +0900" channel="OKSUSU|872">
+	<programme start="20190805091300 +0900" stop="20190805103300 +0900" channel="OKSUSU|872">
 		<title lang="kr">미스터 션샤인(8회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5910,7 +5936,7 @@ DMZ 묻다</title>
 출연 : 이병헌,김태리,유연석,변요한,김민정,조우진,김병철,배정남,최무성,김의성,신정근
 연출 : 이응복,김은숙</desc>
 	</programme>
-	<programme start="20190805103000 +0900" stop="20190805120000 +0900" channel="OKSUSU|872">
+	<programme start="20190805103300 +0900" stop="20190805115900 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(9회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -5926,7 +5952,7 @@ DMZ 묻다</title>
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190805120000 +0900" stop="20190805134000 +0900" channel="OKSUSU|872">
+	<programme start="20190805115900 +0900" stop="20190805134000 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(70회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5946,7 +5972,7 @@ DMZ 묻다</title>
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190805134000 +0900" stop="20190805151000 +0900" channel="OKSUSU|872">
+	<programme start="20190805134000 +0900" stop="20190805151100 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(7회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5973,7 +5999,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190805151000 +0900" stop="20190805164000 +0900" channel="OKSUSU|872">
+	<programme start="20190805151100 +0900" stop="20190805164500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(8회)(재)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6000,7 +6026,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190805164000 +0900" stop="20190805181000 +0900" channel="OKSUSU|872">
+	<programme start="20190805164500 +0900" stop="20190805181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">플레이어(4회)</title>
 		<icon src="http://image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -9013,7 +9039,7 @@ DMZ 묻다</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190804165500 +0900" stop="20190804203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;SK:한화, 대전&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
