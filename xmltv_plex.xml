@@ -2105,9 +2105,9 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbe3667c23e453b40e928fc1a4e0d35182fdc5d079514caf7d6d761a947233e7f" /><episode-num system="xmltv_ns">18.808.</episode-num></programme>
   <programme channel="110" start="20190809220000 +0900" stop="20190809225000 +0900">
     <title lang="kr">거리의 만찬</title>
-    <sub-title lang="kr">만남의 광장</sub-title>
+    <sub-title lang="kr">고속도로 로망스</sub-title>
     <desc lang="kr">거리의 만찬
-부제 : 만남의 광장
+부제 : 고속도로 로망스
 장르 : 시사/다큐
 출연 : 박미선,김지윤,김소영
 등급 : 전체 관람가</desc>
@@ -6630,6 +6630,158 @@
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bcdc4977cdff8a340bb3b81d53e16abaa64b3dc8220649a87c02cb68af495b3" /></programme>
   <programme channel="147" start="20190809160000 +0900" stop="20190809173000 +0900">
+    <title lang="kr">60일, 지정생존자</title>
+    <desc lang="kr">60일, 지정생존자 (9회)
+회차 : 9회
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박
+제작 : 유종선,김태희
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>지진희</actor>
+      <actor>이준혁</actor>
+      <actor>허준호</actor>
+      <actor>강한나</actor>
+      <actor>배종옥</actor>
+      <actor>김규리</actor>
+      <actor>손석구</actor>
+      <actor>최윤영</actor>
+      <actor>최재성</actor>
+      <actor>이무생</actor>
+      <actor>안내상</actor>
+      <actor>백현주</actor>
+      <actor>박</actor>
+      <producer>유종선</producer>
+      <producer>김태희</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
+  <programme channel="147" start="20190809173000 +0900" stop="20190809190000 +0900">
+    <title lang="kr">60일, 지정생존자</title>
+    <desc lang="kr">60일, 지정생존자 (10회)
+회차 : 10회
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박
+제작 : 유종선,김태희
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>지진희</actor>
+      <actor>이준혁</actor>
+      <actor>허준호</actor>
+      <actor>강한나</actor>
+      <actor>배종옥</actor>
+      <actor>김규리</actor>
+      <actor>손석구</actor>
+      <actor>최윤영</actor>
+      <actor>최재성</actor>
+      <actor>이무생</actor>
+      <actor>안내상</actor>
+      <actor>백현주</actor>
+      <actor>박</actor>
+      <producer>유종선</producer>
+      <producer>김태희</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
+  <programme channel="147" start="20190809190000 +0900" stop="20190809203000 +0900">
+    <title lang="kr">60일, 지정생존자</title>
+    <desc lang="kr">60일, 지정생존자 (11회)
+회차 : 11회
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박
+제작 : 유종선,김태희
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>지진희</actor>
+      <actor>이준혁</actor>
+      <actor>허준호</actor>
+      <actor>강한나</actor>
+      <actor>배종옥</actor>
+      <actor>김규리</actor>
+      <actor>손석구</actor>
+      <actor>최윤영</actor>
+      <actor>최재성</actor>
+      <actor>이무생</actor>
+      <actor>안내상</actor>
+      <actor>백현주</actor>
+      <actor>박</actor>
+      <producer>유종선</producer>
+      <producer>김태희</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.10.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
+  <programme channel="147" start="20190809203000 +0900" stop="20190809220000 +0900">
+    <title lang="kr">60일, 지정생존자</title>
+    <desc lang="kr">60일, 지정생존자 (12회)
+회차 : 12회
+장르 : 드라마
+출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박
+제작 : 유종선,김태희
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>지진희</actor>
+      <actor>이준혁</actor>
+      <actor>허준호</actor>
+      <actor>강한나</actor>
+      <actor>배종옥</actor>
+      <actor>김규리</actor>
+      <actor>손석구</actor>
+      <actor>최윤영</actor>
+      <actor>최재성</actor>
+      <actor>이무생</actor>
+      <actor>안내상</actor>
+      <actor>백현주</actor>
+      <actor>박</actor>
+      <producer>유종선</producer>
+      <producer>김태희</producer>
+    </credits>
+    <category lang="kr">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.11.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
+  <programme channel="147" start="20190809220000 +0900" stop="20190809231000 +0900">
+    <title lang="kr">이불쓰고 정주행</title>
+    <desc lang="kr">이불쓰고 정주행 (4회)
+회차 : 4회
+장르 : 연예/오락
+출연 : 소이현,김기두,홍윤화
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>소이현</actor>
+      <actor>김기두</actor>
+      <actor>홍윤화</actor>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bcdc4977cdff8a340bb3b81d53e16abaa64b3dc8220649a87c02cb68af495b3" /></programme>
+  <programme channel="147" start="20190809231000 +0900" stop="20190810004000 +0900">
     <title lang="kr">라이브</title>
     <desc lang="kr">라이브 (5회)
 회차 : 5회
@@ -6662,145 +6814,6 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F83d9bac0f6a8efa0cb2dfd72fb2f808cc63ec0ae3639224477524a379f314237" /></programme>
-  <programme channel="147" start="20190809173000 +0900" stop="20190809190000 +0900">
-    <title lang="kr">라이브</title>
-    <desc lang="kr">라이브 (6회)
-회차 : 6회
-장르 : 드라마
-출연 : 정유미,배성우,배종옥,성동일,장현성,이얼,이시언,신동욱,김건우,백승도,이순원,김종훈,이광수
-제작 : 김규태,노희경
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>정유미</actor>
-      <actor>배성우</actor>
-      <actor>배종옥</actor>
-      <actor>성동일</actor>
-      <actor>장현성</actor>
-      <actor>이얼</actor>
-      <actor>이시언</actor>
-      <actor>신동욱</actor>
-      <actor>김건우</actor>
-      <actor>백승도</actor>
-      <actor>이순원</actor>
-      <actor>김종훈</actor>
-      <actor>이광수</actor>
-      <producer>김규태</producer>
-      <producer>노희경</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F83d9bac0f6a8efa0cb2dfd72fb2f808cc63ec0ae3639224477524a379f314237" /></programme>
-  <programme channel="147" start="20190809190000 +0900" stop="20190809203000 +0900">
-    <title lang="kr">라이브</title>
-    <desc lang="kr">라이브 (7회)
-회차 : 7회
-장르 : 드라마
-출연 : 정유미,배성우,배종옥,성동일,장현성,이얼,이시언,신동욱,김건우,백승도,이순원,김종훈,이광수
-제작 : 김규태,노희경
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>정유미</actor>
-      <actor>배성우</actor>
-      <actor>배종옥</actor>
-      <actor>성동일</actor>
-      <actor>장현성</actor>
-      <actor>이얼</actor>
-      <actor>이시언</actor>
-      <actor>신동욱</actor>
-      <actor>김건우</actor>
-      <actor>백승도</actor>
-      <actor>이순원</actor>
-      <actor>김종훈</actor>
-      <actor>이광수</actor>
-      <producer>김규태</producer>
-      <producer>노희경</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F83d9bac0f6a8efa0cb2dfd72fb2f808cc63ec0ae3639224477524a379f314237" /></programme>
-  <programme channel="147" start="20190809203000 +0900" stop="20190809220000 +0900">
-    <title lang="kr">라이브</title>
-    <desc lang="kr">라이브 (8회)
-회차 : 8회
-장르 : 드라마
-출연 : 정유미,배성우,배종옥,성동일,장현성,이얼,이시언,신동욱,김건우,백승도,이순원,김종훈,이광수
-제작 : 김규태,노희경
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>정유미</actor>
-      <actor>배성우</actor>
-      <actor>배종옥</actor>
-      <actor>성동일</actor>
-      <actor>장현성</actor>
-      <actor>이얼</actor>
-      <actor>이시언</actor>
-      <actor>신동욱</actor>
-      <actor>김건우</actor>
-      <actor>백승도</actor>
-      <actor>이순원</actor>
-      <actor>김종훈</actor>
-      <actor>이광수</actor>
-      <producer>김규태</producer>
-      <producer>노희경</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F83d9bac0f6a8efa0cb2dfd72fb2f808cc63ec0ae3639224477524a379f314237" /></programme>
-  <programme channel="147" start="20190809220000 +0900" stop="20190809231000 +0900">
-    <title lang="kr">이불쓰고 정주행</title>
-    <desc lang="kr">이불쓰고 정주행 (4회)
-회차 : 4회
-장르 : 연예/오락
-출연 : 소이현,김기두,홍윤화
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>소이현</actor>
-      <actor>김기두</actor>
-      <actor>홍윤화</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bcdc4977cdff8a340bb3b81d53e16abaa64b3dc8220649a87c02cb68af495b3" /></programme>
-  <programme channel="147" start="20190809231000 +0900" stop="20190810001000 +0900">
-    <title lang="kr">곽승준의 쿨까당</title>
-    <desc lang="kr">곽승준의 쿨까당 (323회)
-회차 : 323회
-장르 : 시사/다큐
-출연 : 곽승준
-제작 : 박소연
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>곽승준</actor>
-      <producer>박소연</producer>
-    </credits>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.322.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F76835de8aade0c8ac64e3bf61baa3f0c8eb3b3e5648820967eb15251453aad20" /></programme>
   <programme channel="148" start="20190807235000 +0900" stop="20190808005000 +0900">
     <title lang="kr">인생술집</title>
     <sub-title lang="kr">돌아온 엄친아 임시완의 반전 매력 발산!</sub-title>
@@ -11401,7 +11414,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190808170000 +0900" stop="20190808182000 +0900">
+  <programme channel="207" start="20190808170000 +0900" stop="20190808184200 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (8회)
 회차 : 8회
@@ -11434,7 +11447,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190808182000 +0900" stop="20190808195000 +0900">
+  <programme channel="207" start="20190808184200 +0900" stop="20190808200800 +0900">
     <title lang="kr">수미네 반찬</title>
     <desc lang="kr">수미네 반찬 (62회)
 회차 : 62회
@@ -11456,7 +11469,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa325e8581eb9e1d30d5475d678917274f9ad12e54ba30cbb4fabee1af0e40667" /></programme>
-  <programme channel="207" start="20190808195000 +0900" stop="20190808213000 +0900">
+  <programme channel="207" start="20190808200800 +0900" stop="20190808214000 +0900">
     <title lang="kr">악마가 너의 이름을 부를때</title>
     <desc lang="kr">악마가 너의 이름을 부를때 (3회)
 회차 : 3회
@@ -11488,7 +11501,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4f3756ee25699a9a8906ff544b9d96c3df16d6d1a3000855a3aa76d7e621891c" /></programme>
-  <programme channel="207" start="20190808213000 +0900" stop="20190808230000 +0900">
+  <programme channel="207" start="20190808214000 +0900" stop="20190808230000 +0900">
     <title lang="kr">악마가 너의 이름을 부를때</title>
     <desc lang="kr">악마가 너의 이름을 부를때 (4회)
 회차 : 4회
@@ -11519,7 +11532,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4f3756ee25699a9a8906ff544b9d96c3df16d6d1a3000855a3aa76d7e621891c" /></programme>
-  <programme channel="207" start="20190808230000 +0900" stop="20190809003000 +0900">
+  <programme channel="207" start="20190808230000 +0900" stop="20190809003800 +0900">
     <title lang="kr">씬의 퀴즈</title>
     <desc lang="kr">씬의 퀴즈 (5회)
 회차 : 5회
@@ -11543,39 +11556,26 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Feeed9fd95332397311ea03cf185818b8c3d291861e9590698495a749230614b5" /></programme>
-  <programme channel="207" start="20190809003000 +0900" stop="20190809020000 +0900">
-    <title lang="kr">악마가 너의 이름을 부를때</title>
-    <desc lang="kr">악마가 너의 이름을 부를때 (4회)
-회차 : 4회
-장르 : 드라마
-출연 : 정경호,박성웅,이설,이엘,송강,김원해,김형묵,윤경호,오의식,임지규,손지현,소희정
-제작 : 민진기,노혜영
-등급 : 15세 이상 관람가</desc>
+  <programme channel="207" start="20190809003800 +0900" stop="20190809024100 +0900">
+    <title lang="kr">유 퀴즈 온 더 블럭</title>
+    <desc lang="kr">유 퀴즈 온 더 블럭 (29회)
+회차 : 29회
+장르 : 연예/오락
+출연 : 유재석,조세호
+등급 : 12세 이상 관람가</desc>
     <credits>
-      <actor>정경호</actor>
-      <actor>박성웅</actor>
-      <actor>이설</actor>
-      <actor>이엘</actor>
-      <actor>송강</actor>
-      <actor>김원해</actor>
-      <actor>김형묵</actor>
-      <actor>윤경호</actor>
-      <actor>오의식</actor>
-      <actor>임지규</actor>
-      <actor>손지현</actor>
-      <actor>소희정</actor>
-      <producer>민진기</producer>
-      <producer>노혜영</producer>
+      <actor>유재석</actor>
+      <actor>조세호</actor>
     </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.28.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4f3756ee25699a9a8906ff544b9d96c3df16d6d1a3000855a3aa76d7e621891c" /></programme>
-  <programme channel="207" start="20190809020000 +0900" stop="20190809033000 +0900">
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
+  <programme channel="207" start="20190809024100 +0900" stop="20190809040700 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (5회)
 회차 : 5회
@@ -11608,7 +11608,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190809033000 +0900" stop="20190809050000 +0900">
+  <programme channel="207" start="20190809040700 +0900" stop="20190809052600 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (6회)
 회차 : 6회
@@ -11641,7 +11641,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190809050000 +0900" stop="20190809060000 +0900">
+  <programme channel="207" start="20190809052600 +0900" stop="20190809060000 +0900">
     <title lang="kr">프리한 19</title>
     <desc lang="kr">프리한 19 (166회)
 회차 : 166회
