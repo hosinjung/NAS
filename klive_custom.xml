@@ -200,35 +200,35 @@
 등급 : 전체 관람가
 출연 : 이광용</desc>
 	</programme>
-	<programme start="20190811142000 +0900" stop="20190811145800 +0900" channel="POOQ|K01">
+	<programme start="20190811142000 +0900" stop="20190811145900 +0900" channel="POOQ|K01">
 		<title lang="kr">특집 다큐 
 DMZ 묻다</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2019-0212_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190811145800 +0900" stop="20190811165700 +0900" channel="POOQ|K01">
+	<programme start="20190811145900 +0900" stop="20190811165800 +0900" channel="POOQ|K01">
 		<title lang="kr">특선영화</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2016-0519_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<desc lang="kr">특선영화
 등급 : 15세 이상 관람가</desc>
 	</programme>
-	<programme start="20190811165700 +0900" stop="20190811170900 +0900" channel="POOQ|K01">
+	<programme start="20190811165800 +0900" stop="20190811171000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2003-0195_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">토 휴일 낮 시간대 뉴스 전달
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190811170900 +0900" stop="20190811175700 +0900" channel="POOQ|K01">
+	<programme start="20190811171000 +0900" stop="20190811175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190811175700 +0900" stop="20190811190000 +0900" channel="POOQ|K01">
+	<programme start="20190811175800 +0900" stop="20190811190000 +0900" channel="POOQ|K01">
 		<title lang="kr">열린음악회</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0096_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -297,7 +297,7 @@ DMZ 묻다</title>
 등급 : 15세 이상 관람가
 출연 : 이윤석, 최원정, 류근, 이익주, 심용환</desc>
 	</programme>
-	<programme start="20190811223000 +0900" stop="20190811232400 +0900" channel="POOQ|K01">
+	<programme start="20190811223000 +0900" stop="20190811232700 +0900" channel="POOQ|K01">
 		<title lang="kr">회사 가기 싫어 
 스페셜</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0475_210.jpg" />
@@ -319,14 +319,14 @@ DMZ 묻다</title>
 등급 : 전체 관람가
 출연 : 최승일, 이황의, 지춘성, 김동완, 김국희, 한수연, 심진혁, 김중돈, 소주연, 서혜원, 김관수</desc>
 	</programme>
-	<programme start="20190811232400 +0900" stop="20190812001100 +0900" channel="POOQ|K01">
+	<programme start="20190811232700 +0900" stop="20190812001500 +0900" channel="POOQ|K01">
 		<title lang="kr">글로벌 다큐멘터리</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0006_210.jpg" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<desc lang="kr">KBS에서 세계적으로 유명한 다큐멘터리를 방영해주는 프로그램
 등급 : 15세 이상 관람가</desc>
 	</programme>
-	<programme start="20190812001100 +0900" stop="20190812003000 +0900" channel="POOQ|K01">
+	<programme start="20190812001500 +0900" stop="20190812003000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_I2011-0001_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -4361,48 +4361,32 @@ DMZ 묻다</title>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 시사/다큐</desc>
 	</programme>
-	<programme start="20190812040000 +0900" stop="20190812043000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 &amp;lt;이지 사이언스&amp;gt;</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">교양/정보</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 교양/정보</desc>
-	</programme>
-	<programme start="20190812043000 +0900" stop="20190812050000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 &amp;lt;이지 사이언스&amp;gt;</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">교양/정보</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 교양/정보</desc>
-	</programme>
-	<programme start="20190812050000 +0900" stop="20190812053000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 &amp;lt;ICT 지식콘서트&amp;gt;</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">교양/정보</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 교양/정보</desc>
-	</programme>
-	<programme start="20190812053000 +0900" stop="20190812060000 +0900" channel="OKSUSU|242">
-		<title lang="kr">채널A스페셜 &amp;lt;ICT 지식콘서트&amp;gt;</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">교양/정보</category>
-		<desc lang="kr">등급 : 전체 관람가
-장르 : 교양/정보</desc>
-	</programme>
-	<programme start="20190812060000 +0900" stop="20190812070000 +0900" channel="OKSUSU|242">
-		<title lang="kr">특별기획 암을 부르는 만병의 근원, 만성염증을 막아라!(재)</title>
+	<programme start="20190812040000 +0900" stop="20190812050000 +0900" channel="OKSUSU|242">
+		<title lang="kr">채널A스페셜 &amp;lt;한국사 과학탐&amp;gt;(33회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">시사/다큐</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 시사/다큐</desc>
 	</programme>
+	<programme start="20190812050000 +0900" stop="20190812060000 +0900" channel="OKSUSU|242">
+		<title lang="kr">채널A스페셜 &amp;lt;호모 비아토르&amp;gt;(1회)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">시사/다큐</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 시사/다큐</desc>
+	</programme>
+	<programme start="20190812060000 +0900" stop="20190812070000 +0900" channel="OKSUSU|242">
+		<title lang="kr">특별기획 굳어가는 혈관, 콜레스테롤을 잡아라! (재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">교양/정보</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 교양/정보</desc>
+	</programme>
 	<programme start="20190812070000 +0900" stop="20190812073000 +0900" channel="OKSUSU|242">
-		<title lang="kr">은비랑 꼼지락 꼼지락  (재)</title>
+		<title lang="kr">은비랑 꼼지락 꼼지락  (1회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">교육</category>
@@ -4410,7 +4394,7 @@ DMZ 묻다</title>
 장르 : 교육</desc>
 	</programme>
 	<programme start="20190812073000 +0900" stop="20190812080000 +0900" channel="OKSUSU|242">
-		<title lang="kr">은비랑 꼼지락 꼼지락  (재)</title>
+		<title lang="kr">은비랑 꼼지락 꼼지락  (2회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">교육</category>
@@ -4458,47 +4442,26 @@ DMZ 묻다</title>
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190812132000 +0900" stop="20190812145000 +0900" channel="OKSUSU|242">
-		<title lang="kr">역사 다시보기 천일야사(재)</title>
+		<title lang="kr">역사 다시보기 천일야사(137회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190812145000 +0900" stop="20190812150000 +0900" channel="OKSUSU|242">
-		<title lang="kr">평일 오후 세시의 연인 9-10회 명장면 다시보기(재)</title>
+	<programme start="20190812145000 +0900" stop="20190812162000 +0900" channel="OKSUSU|242">
+		<title lang="kr">침묵예능 아이콘택트(1회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">드라마</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마</desc>
-	</programme>
-	<programme start="20190812150000 +0900" stop="20190812162000 +0900" channel="OKSUSU|242">
-		<title lang="kr">평일 오후 세시의 연인(재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">드라마</category>
+		<category lang="kr">연예/오락</category>
 		<credits>
-			<actor>박하선</actor>
-			<actor>예지원</actor>
-			<actor>이상엽</actor>
-			<actor>조동혁</actor>
-			<actor>정상훈</actor>
-			<actor>최병모</actor>
-			<actor>류아벨</actor>
-			<actor>유서진</actor>
-			<actor>김미경</actor>
-			<actor>오동민</actor>
-			<actor>황석정</actor>
-			<actor>황정민</actor>
-			<actor>박민지</actor>
-			<producer>김정민</producer>
-			<producer>유소정</producer>
+			<actor>강호동</actor>
+			<actor>이상민</actor>
+			<actor>신동</actor>
 		</credits>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 드라마
-출연 : 박하선,예지원,이상엽,조동혁,정상훈,최병모,류아벨,유서진,김미경,오동민,황석정,황정민,박민지
-연출 : 김정민,유소정</desc>
+장르 : 연예/오락
+출연 : 강호동,이상민,신동</desc>
 	</programme>
 	<programme start="20190812162000 +0900" stop="20190812175000 +0900" channel="OKSUSU|242">
 		<title lang="kr">정치 데스크</title>
@@ -4529,7 +4492,7 @@ DMZ 묻다</title>
 장르 : 뉴스</desc>
 	</programme>
 	<programme start="20190812202000 +0900" stop="20190812212000 +0900" channel="OKSUSU|242">
-		<title lang="kr">TV 주치의 닥터 지.바.고</title>
+		<title lang="kr">TV 주치의 닥터 지.바.고(255회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">교양/정보</category>
@@ -4541,8 +4504,16 @@ DMZ 묻다</title>
 장르 : 교양/정보
 출연 : 박용우,김완선</desc>
 	</programme>
-	<programme start="20190812212000 +0900" stop="20190812230000 +0900" channel="OKSUSU|242">
-		<title lang="kr">침묵예능 아이콘택트</title>
+	<programme start="20190812212000 +0900" stop="20190812213000 +0900" channel="OKSUSU|242">
+		<title lang="kr">평일 오후 세시의 연인 11-12회 명장면 다시보기</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">드라마</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 드라마</desc>
+	</programme>
+	<programme start="20190812213000 +0900" stop="20190812230000 +0900" channel="OKSUSU|242">
+		<title lang="kr">침묵예능 아이콘택트(2회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -4556,7 +4527,7 @@ DMZ 묻다</title>
 출연 : 강호동,이상민,신동</desc>
 	</programme>
 	<programme start="20190812230000 +0900" stop="20190813004000 +0900" channel="OKSUSU|242">
-		<title lang="kr">풍문으로 들었SHOW</title>
+		<title lang="kr">풍문으로 들었SHOW(200회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">연예/오락</category>
@@ -5632,7 +5603,7 @@ DMZ 묻다</title>
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190811164500 +0900" stop="20190811181000 +0900" channel="OKSUSU|872">
+	<programme start="20190811164500 +0900" stop="20190811181500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(9회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5659,7 +5630,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190811181000 +0900" stop="20190811194000 +0900" channel="OKSUSU|872">
+	<programme start="20190811181500 +0900" stop="20190811194500 +0900" channel="OKSUSU|872">
 		<title lang="kr">플레이어(5회)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5678,7 +5649,7 @@ DMZ 묻다</title>
 출연 : 이수근,김동현,황제성,이용진,이진호,이이경
 연출 : 심우경</desc>
 	</programme>
-	<programme start="20190811194000 +0900" stop="20190811210000 +0900" channel="OKSUSU|872">
+	<programme start="20190811194500 +0900" stop="20190811211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그(323회)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5694,7 +5665,7 @@ DMZ 묻다</title>
 출연 : 신영일,배지현
 연출 : 박성재,안제민</desc>
 	</programme>
-	<programme start="20190811210000 +0900" stop="20190811224000 +0900" channel="OKSUSU|872">
+	<programme start="20190811211000 +0900" stop="20190811224500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(10회)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5721,7 +5692,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190811224000 +0900" stop="20190812003000 +0900" channel="OKSUSU|872">
+	<programme start="20190811224500 +0900" stop="20190812003700 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 산촌편(1회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5737,7 +5708,7 @@ DMZ 묻다</title>
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190812003000 +0900" stop="20190812020000 +0900" channel="OKSUSU|872">
+	<programme start="20190812003700 +0900" stop="20190812020300 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(11회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5764,7 +5735,7 @@ DMZ 묻다</title>
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190812020000 +0900" stop="20190812033000 +0900" channel="OKSUSU|872">
+	<programme start="20190812020300 +0900" stop="20190812033400 +0900" channel="OKSUSU|872">
 		<title lang="kr">60일, 지정생존자(12회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5791,7 +5762,7 @@ DMZ 묻다</title>
 출연 : 지진희,이준혁,허준호,강한나,배종옥,김규리,손석구,최윤영,최재성,이무생,안내상,백현주,박...
 연출 : 유종선,김태희</desc>
 	</programme>
-	<programme start="20190812033000 +0900" stop="20190812051000 +0900" channel="OKSUSU|872">
+	<programme start="20190812033400 +0900" stop="20190812051000 +0900" channel="OKSUSU|872">
 		<title lang="kr">강식당 2(3회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5810,7 +5781,7 @@ DMZ 묻다</title>
 출연 : 강호동,이수근,은지원,안재현,송민호,피오
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190812051000 +0900" stop="20190812054000 +0900" channel="OKSUSU|872">
+	<programme start="20190812051000 +0900" stop="20190812055100 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5818,7 +5789,7 @@ DMZ 묻다</title>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190812054000 +0900" stop="20190812064000 +0900" channel="OKSUSU|872">
+	<programme start="20190812055100 +0900" stop="20190812065000 +0900" channel="OKSUSU|872">
 		<title lang="kr">프리한 19(168회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5834,7 +5805,7 @@ DMZ 묻다</title>
 출연 : 전현무,오상진,한석준
 연출 : 이정환</desc>
 	</programme>
-	<programme start="20190812064000 +0900" stop="20190812080000 +0900" channel="OKSUSU|872">
+	<programme start="20190812065000 +0900" stop="20190812081800 +0900" channel="OKSUSU|872">
 		<title lang="kr">미스터 션샤인(17회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5859,7 +5830,7 @@ DMZ 묻다</title>
 출연 : 이병헌,김태리,유연석,변요한,김민정,조우진,김병철,배정남,최무성,김의성,신정근
 연출 : 이응복,김은숙</desc>
 	</programme>
-	<programme start="20190812080000 +0900" stop="20190812093000 +0900" channel="OKSUSU|872">
+	<programme start="20190812081800 +0900" stop="20190812094900 +0900" channel="OKSUSU|872">
 		<title lang="kr">미스터 션샤인(18회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5884,7 +5855,7 @@ DMZ 묻다</title>
 출연 : 이병헌,김태리,유연석,변요한,김민정,조우진,김병철,배정남,최무성,김의성,신정근
 연출 : 이응복,김은숙</desc>
 	</programme>
-	<programme start="20190812093000 +0900" stop="20190812113000 +0900" channel="OKSUSU|872">
+	<programme start="20190812094900 +0900" stop="20190812114400 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 산촌편(1회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5900,7 +5871,7 @@ DMZ 묻다</title>
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190812113000 +0900" stop="20190812131000 +0900" channel="OKSUSU|872">
+	<programme start="20190812114400 +0900" stop="20190812132200 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(71회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5920,7 +5891,7 @@ DMZ 묻다</title>
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190812131000 +0900" stop="20190812144000 +0900" channel="OKSUSU|872">
+	<programme start="20190812132200 +0900" stop="20190812145300 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(9회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5947,7 +5918,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190812144000 +0900" stop="20190812162000 +0900" channel="OKSUSU|872">
+	<programme start="20190812145300 +0900" stop="20190812162800 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(10회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -5974,7 +5945,7 @@ DMZ 묻다</title>
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190812162000 +0900" stop="20190812181000 +0900" channel="OKSUSU|872">
+	<programme start="20190812162800 +0900" stop="20190812181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 1부 호구들의 감빵생활(22회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -8891,7 +8862,7 @@ DMZ 묻다</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190811165500 +0900" stop="20190811203000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;SK:LG&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9136,7 +9107,7 @@ DMZ 묻다</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190811165500 +0900" stop="20190811203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;두산:키움, 고척&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9517,7 +9488,7 @@ DMZ 묻다</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190812210000 +0900" stop="20190812220000 +0900" channel="OKSUSU|134">
-		<title lang="kr">19-20 프리미어리그 라운드 하이라이트 &amp;lt;1R&amp;gt;</title>
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9674,116 +9645,218 @@ DMZ 묻다</title>
 장르 : 드라마</desc>
 	</programme>
 	<programme start="20190812030000 +0900" stop="20190812070000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 2018 LOL 명경기</title>
+		<title lang="kr">다시보는 2018 LOL 명경기(56회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190812070000 +0900" stop="20190812083000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 2019 카트라이더 리그 시즌1(재)</title>
+	<programme start="20190812070000 +0900" stop="20190812090000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시 보는 2019 카트라이더 리그 시즌1 명경기(1회)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190812083000 +0900" stop="20190812093000 +0900" channel="OKSUSU|254">
-		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (재)</title>
+	<programme start="20190812090000 +0900" stop="20190812100000 +0900" channel="OKSUSU|254">
+		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (5회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190812093000 +0900" stop="20190812110000 +0900" channel="OKSUSU|254">
-		<title lang="kr">DPL 2019 SUMMER (재)</title>
+	<programme start="20190812100000 +0900" stop="20190812120000 +0900" channel="OKSUSU|254">
+		<title lang="kr">2019 피버 바스켓 코리아 챔피언컵 &amp;lt;8강&amp;gt;</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190812120000 +0900" stop="20190812130000 +0900" channel="OKSUSU|254">
+		<title lang="kr">DPL 2019 SUMMER DPL:P&amp;lt;8강 1~2경기&amp;gt;(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190812110000 +0900" stop="20190812130000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 카트라이더 개인전 결승전특집</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 전체 관람가
 장르 : 취미/레저</desc>
 	</programme>
 	<programme start="20190812130000 +0900" stop="20190812143000 +0900" channel="OKSUSU|254">
-		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (재)</title>
+		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (5회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190812143000 +0900" stop="20190812153000 +0900" channel="OKSUSU|254">
-		<title lang="kr">DPL 2019 SUMMER DPL:P(재)</title>
+	<programme start="20190812143000 +0900" stop="20190812160000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시 보는 2019 카트라이더 리그 시즌1 명경기(1회)(재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190812160000 +0900" stop="20190812180000 +0900" channel="OKSUSU|254">
+		<title lang="kr">2019 피버 바스켓 코리아 챔피언컵 &amp;lt;8강&amp;gt;(재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190812180000 +0900" stop="20190812193000 +0900" channel="OKSUSU|254">
+		<title lang="kr">다시 보는 2019 카트라이더 리그 시즌1 명경기(1회)(재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190812193000 +0900" stop="20190812210000 +0900" channel="OKSUSU|254">
+		<title lang="kr">DPL 2019 SUMMER (5회)(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
 	</programme>
-	<programme start="20190812153000 +0900" stop="20190812163000 +0900" channel="OKSUSU|254">
-		<title lang="kr">EACC SPRING 2019 성남FC 특집</title>
+	<programme start="20190812210000 +0900" stop="20190812220000 +0900" channel="OKSUSU|254">
+		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (5회)(재)</title>
 		<icon src="None" />
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<programme start="20190812220000 +0900" stop="20190813000000 +0900" channel="OKSUSU|254">
+		<title lang="kr">2019 피버 바스켓 코리아 챔피언컵 &amp;lt;8강&amp;gt;(재)</title>
+		<icon src="None" />
+		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
+		<category lang="kr">취미/레저</category>
+		<desc lang="kr">등급 : 12세 이상 관람가
+장르 : 취미/레저</desc>
+	</programme>
+	<channel id="OKSUSU|125" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=125" video-type="HLS2">
+		<display-name>SPOTV</display-name>
+		<display-name>31</display-name>
+		<display-number>31</display-number>
+		<icon src="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_125.png" />
+	</channel>
+	<programme start="20190811010000 +0900" stop="20190811012000 +0900" channel="OKSUSU|125">
+		<title lang="kr">[손흥민 득점]18-19 프리미어리그 GOALS(재)</title>
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190812163000 +0900" stop="20190812180000 +0900" channel="OKSUSU|254">
-		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 (재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190812180000 +0900" stop="20190812193000 +0900" channel="OKSUSU|254">
-		<title lang="kr">DPL 2019 SUMMER(재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190812193000 +0900" stop="20190812200000 +0900" channel="OKSUSU|254">
-		<title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌 스페셜</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
-	</programme>
-	<programme start="20190812200000 +0900" stop="20190812220000 +0900" channel="OKSUSU|254">
-		<title lang="kr">다시보는 카트라이더 결승전 특집</title>
-		<icon src="None" />
+	<programme start="20190811012000 +0900" stop="20190811033000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
 		<rating system="KMRB"><value>전체 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
+		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 전체 관람가
-장르 : 취미/레저</desc>
+장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190812220000 +0900" stop="20190812233000 +0900" channel="OKSUSU|254">
-		<title lang="kr">DPL 2019 SUMMER(재)</title>
-		<icon src="None" />
-		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
-		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
+	<programme start="20190811033000 +0900" stop="20190811040000 +0900" channel="OKSUSU|125">
+		<title lang="kr">손흥민 시즌 베스트 골 SUPER SON TIME(재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190812233000 +0900" stop="20190813000000 +0900" channel="OKSUSU|254">
-		<title lang="kr">DPL 2019 SUMMER DPL:E(재)</title>
-		<icon src="None" />
+	<programme start="20190811040000 +0900" stop="20190811060000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811060000 +0900" stop="20190811080000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2020 도쿄올림픽 남자배구 대륙간예선전 대한민국:미국 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811080000 +0900" stop="20190811090000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811090000 +0900" stop="20190811120000 +0900" channel="OKSUSU|125">
+		<title lang="kr">UFC 역사상 최고의 KO 라이트헤비급 (재)</title>
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
-		<category lang="kr">취미/레저</category>
+		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
-장르 : 취미/레저</desc>
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811120000 +0900" stop="20190811130000 +0900" channel="OKSUSU|125">
+		<title lang="kr">UFC 정찬성 스페셜(재)</title>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811130000 +0900" stop="20190811140000 +0900" channel="OKSUSU|125">
+		<title lang="kr">손흥민 시즌 베스트 골 SUPER SON TIME(재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811140000 +0900" stop="20190811150000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811150000 +0900" stop="20190811165500 +0900" channel="OKSUSU|125">
+		<title lang="kr">2020 도쿄올림픽 남자배구 대륙간예선전 대한민국 스페셜 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811165500 +0900" stop="20190811203000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 KBO리그 SK:LG </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811203000 +0900" stop="20190811213000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME BASEBALL</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811213000 +0900" stop="20190811215000 +0900" channel="OKSUSU|125">
+		<title lang="kr">18-19 프리미어리그 GOALS 빅매치 스페셜 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811215000 +0900" stop="20190811235500 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190811235500 +0900" stop="20190812002000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME 프리미어리그 1R 특집 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
 	<channel id="OKSUSU|424" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=424" video-type="HLS2">
 		<display-name>SPOTV 2</display-name>
@@ -9876,7 +9949,7 @@ DMZ 묻다</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190811165500 +0900" stop="20190811203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그  두산:키움, 고척 </title>
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 전체 관람가
