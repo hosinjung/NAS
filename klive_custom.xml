@@ -228,21 +228,21 @@
 		<desc lang="kr">기존 환경스페셜 및 자연다큐에서 주로 다루었던 방식, 즉 한 종 또는 어느 특정 지역에 사는 동물 위주의 제작 방식을 극복하고, 환경.문화.지리적 가치를 가진 특정 경관을 중심으로 그곳이 가지는 자연.인문 지리적 의미와 생태적 비밀을 헬리캠, 고속촬영 등 기존에 시도하지 않았던 생동감 있고 다양한 고품격 영상 기법으로 제작해 우리가 살고 있는 한반도에 대한 가치와 소중함을 일깨운다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190817170000 +0900" stop="20190817170900 +0900" channel="POOQ|K01">
+	<programme start="20190817170000 +0900" stop="20190817171000 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2003-0205_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">토 휴일 낮 시간대와 저녁 마감뉴스 전달
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190817170900 +0900" stop="20190817175700 +0900" channel="POOQ|K01">
+	<programme start="20190817171000 +0900" stop="20190817175800 +0900" channel="POOQ|K01">
 		<title lang="kr">동물의 왕국</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2000-0084_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">대자연의 위대함과 생태계의 신비!BBC를 비롯하여, 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선, 우리말로 더빙하여 일반 시청자들에게 소개하는 프로그램.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190817175700 +0900" stop="20190817185500 +0900" channel="POOQ|K01">
+	<programme start="20190817175800 +0900" stop="20190817185500 +0900" channel="POOQ|K01">
 		<title lang="kr">동행</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2014-0877_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -6044,7 +6044,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 정경호,박성웅,이설,이엘,송강,김원해,김형묵,윤경호,오의식,임지규,손지현,소희정
 연출 : 민진기,노혜영</desc>
 	</programme>
-	<programme start="20190817163900 +0900" stop="20190817180000 +0900" channel="OKSUSU|872">
+	<programme start="20190817163900 +0900" stop="20190817181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">악마가 너의 이름을 부를때(6회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6070,7 +6070,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 정경호,박성웅,이설,이엘,송강,김원해,김형묵,윤경호,오의식,임지규,손지현,소희정
 연출 : 민진기,노혜영</desc>
 	</programme>
-	<programme start="20190817180000 +0900" stop="20190817193000 +0900" channel="OKSUSU|872">
+	<programme start="20190817181000 +0900" stop="20190817193500 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 1부 호구들의 감빵생활(23회)&amp;lt;이진호, 황광희, 최유정, 김도연&amp;gt;</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6091,7 +6091,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 김태진,이수근,정형돈,김종민,황제성,이상엽,장도연
 연출 : 박성재,윤인회</desc>
 	</programme>
-	<programme start="20190817193000 +0900" stop="20190817210000 +0900" channel="OKSUSU|872">
+	<programme start="20190817193500 +0900" stop="20190817211000 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(72회)&amp;lt;라비,장도연,이현이&amp;gt;</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6111,7 +6111,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190817210000 +0900" stop="20190817224000 +0900" channel="OKSUSU|872">
+	<programme start="20190817211000 +0900" stop="20190817224500 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(11회)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6138,7 +6138,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190817224000 +0900" stop="20190818003000 +0900" channel="OKSUSU|872">
+	<programme start="20190817224500 +0900" stop="20190818003200 +0900" channel="OKSUSU|872">
 		<title lang="kr">고교급식왕(11회)&amp;lt;최종회&amp;gt;</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6154,7 +6154,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 백종원,은지원,문세윤
 연출 : 임수정</desc>
 	</programme>
-	<programme start="20190818003000 +0900" stop="20190818023000 +0900" channel="OKSUSU|872">
+	<programme start="20190818003200 +0900" stop="20190818022900 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 산촌편(2회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6170,7 +6170,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190818023000 +0900" stop="20190818040000 +0900" channel="OKSUSU|872">
+	<programme start="20190818022900 +0900" stop="20190818040200 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(11회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6197,7 +6197,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190818040000 +0900" stop="20190818053000 +0900" channel="OKSUSU|872">
+	<programme start="20190818040200 +0900" stop="20190818053100 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 1부 호구들의 감빵생활(23회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6218,7 +6218,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 김태진,이수근,정형돈,김종민,황제성,이상엽,장도연
 연출 : 박성재,윤인회</desc>
 	</programme>
-	<programme start="20190818053000 +0900" stop="20190818055000 +0900" channel="OKSUSU|872">
+	<programme start="20190818053100 +0900" stop="20190818055400 +0900" channel="OKSUSU|872">
 		<title lang="kr">코미디 빅리그 Hot clip(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6226,7 +6226,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 연예/오락</desc>
 	</programme>
-	<programme start="20190818055000 +0900" stop="20190818074000 +0900" channel="OKSUSU|872">
+	<programme start="20190818055400 +0900" stop="20190818075000 +0900" channel="OKSUSU|872">
 		<title lang="kr">유 퀴즈 온 더 블럭(30회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -6239,7 +6239,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 연예/오락
 출연 : 유재석,조세호</desc>
 	</programme>
-	<programme start="20190818074000 +0900" stop="20190818094000 +0900" channel="OKSUSU|872">
+	<programme start="20190818075000 +0900" stop="20190818094900 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 산촌편(2회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6255,7 +6255,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190818094000 +0900" stop="20190818112000 +0900" channel="OKSUSU|872">
+	<programme start="20190818094900 +0900" stop="20190818112700 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(11회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6282,7 +6282,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 아이유,여진구,조현철,정동환,신정근,배해선,피오,이도현,이태선,서이숙,강홍석,미나
 연출 : 오충환,홍정은,홍미란</desc>
 	</programme>
-	<programme start="20190818112000 +0900" stop="20190818125000 +0900" channel="OKSUSU|872">
+	<programme start="20190818112700 +0900" stop="20190818130200 +0900" channel="OKSUSU|872">
 		<title lang="kr">더 짠내투어(87회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6300,7 +6300,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 박명수,한혜진,이용진,규현
 연출 : 손창우,안제민</desc>
 	</programme>
-	<programme start="20190818125000 +0900" stop="20190818143000 +0900" channel="OKSUSU|872">
+	<programme start="20190818130200 +0900" stop="20190818144300 +0900" channel="OKSUSU|872">
 		<title lang="kr">놀라운 토요일 2부 도레미 마켓(72회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6320,7 +6320,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 신동엽,혜리,박나래,문세윤,한해원,Key
 연출 : 박성재,이태경</desc>
 	</programme>
-	<programme start="20190818143000 +0900" stop="20190818163000 +0900" channel="OKSUSU|872">
+	<programme start="20190818144300 +0900" stop="20190818164500 +0900" channel="OKSUSU|872">
 		<title lang="kr">삼시세끼 산촌편(2회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -6336,7 +6336,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 출연 : 염정아,윤세아,박소담
 연출 : 나영석</desc>
 	</programme>
-	<programme start="20190818163000 +0900" stop="20190818181000 +0900" channel="OKSUSU|872">
+	<programme start="20190818164500 +0900" stop="20190818181000 +0900" channel="OKSUSU|872">
 		<title lang="kr">호텔 델루나(11회)(재)</title>
 		<icon src="http://pip-oksusu-image.tving.com/thumbnail/C00551_4_1920_1080.jpg/dims/resize/480x270" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
@@ -9240,7 +9240,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190817175500 +0900" stop="20190817213000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;LG:삼성&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9336,7 +9336,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190818165500 +0900" stop="20190818203000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;LG:삼성&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9469,7 +9469,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190817175500 +0900" stop="20190817213000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;한화:키움, 고척&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9589,7 +9589,7 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190818165500 +0900" stop="20190818203000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;한화:키움, 고척&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -10053,5 +10053,102 @@ MBC프로그램에 대한 솔직하고, 가감없는 비평을 들어보는 프�
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 취미/레저</desc>
+	</programme>
+	<channel id="OKSUSU|125" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=125" video-type="HLS2">
+		<display-name>SPOTV</display-name>
+		<display-name>31</display-name>
+		<display-number>31</display-number>
+		<icon src="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_125.png" />
+	</channel>
+	<programme start="20190817010000 +0900" stop="20190817030000 +0900" channel="OKSUSU|125">
+		<title lang="kr">UFC 왕좌의 게임 헤비급 (재)</title>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817030000 +0900" stop="20190817035000 +0900" channel="OKSUSU|125">
+		<title lang="kr">TOP 플레이어 메시 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817035000 +0900" stop="20190817060000 +0900" channel="OKSUSU|125">
+		<title lang="kr">19-20 라리가 1R 빌바오:바르셀로나 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817060000 +0900" stop="20190817070000 +0900" channel="OKSUSU|125">
+		<title lang="kr">손흥민 최고의 순간 토트넘 vs 맨시티 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817070000 +0900" stop="20190817090000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 IFSC 클라이밍 월드 챔피언십 하이라이트</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817090000 +0900" stop="20190817110000 +0900" channel="OKSUSU|125">
+		<title lang="kr">[강경호 출전]UFC 241 프리뷰(3회)</title>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817110000 +0900" stop="20190817140000 +0900" channel="OKSUSU|125">
+		<title lang="kr">UFC 헤비급 타이틀전 프리뷰 코미어vs미오치치 (재)</title>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817140000 +0900" stop="20190817160000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2020 도쿄올림픽 배구 대륙간예선전 대한민국 스페셜 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817160000 +0900" stop="20190817175500 +0900" channel="OKSUSU|125">
+		<title lang="kr">손흥민 최고의 순간 토트넘 vs 맨시티 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817175500 +0900" stop="20190817213000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 KBO리그 LG:삼성 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817213000 +0900" stop="20190817223000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME BASEBALL</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817223000 +0900" stop="20190817225000 +0900" channel="OKSUSU|125">
+		<title lang="kr">프리미어리그 GOALS 극장골 스페셜 (재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190817225000 +0900" stop="20190818012000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
 </tv>
