@@ -133,791 +133,6 @@
     <display-name>18 채널A</display-name>
     <icon src="http://i.imgur.com/xti35f5.png" />
   </channel>
-  <programme channel="97" start="20190818225000 +0900" stop="20190819002000 +0900">
-    <title lang="kr">찰떡콤비</title>
-    <desc lang="kr">찰떡콤비 (10회)
-회차 : 10회
-장르 : 연예/오락
-출연 : 이수근,은지원,정형돈,데프콘,이진호,이용진
-제작 : 성치경,홍상훈
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>이수근</actor>
-      <actor>은지원</actor>
-      <actor>정형돈</actor>
-      <actor>데프콘</actor>
-      <actor>이진호</actor>
-      <actor>이용진</actor>
-      <producer>성치경</producer>
-      <producer>홍상훈</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff79d4320cd67d4614a36d1320e76d5194dcd321db948882ef2ef6b66badd2d9a" /></programme>
-  <programme channel="97" start="20190819002000 +0900" stop="20190819010000 +0900">
-    <title lang="kr">인서울</title>
-    <desc lang="kr">인서울 (3회)
-회차 : 3회
-장르 : 드라마
-출연 : 장영남,정은표,도희
-제작 : 박태원
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>장영남</actor>
-      <actor>정은표</actor>
-      <actor>도희</actor>
-      <producer>박태원</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F601468bf137c7755793eb8e27df9102f586e15092b1f5b0b401d888ef9b69260" /></programme>
-  <programme channel="97" start="20190819010000 +0900" stop="20190819022000 +0900">
-    <title lang="kr">방구석 1열</title>
-    <desc lang="kr">방구석 1열 (68회)
-회차 : 68회
-장르 : 연예/오락
-출연 : 윤종신,장성규,변영주
-제작 : 김미연
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>윤종신</actor>
-      <actor>장성규</actor>
-      <actor>변영주</actor>
-      <producer>김미연</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.67.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdb4cfc42dbc3e4845ee44331a32c012aab27b06bbf59608894413b308a6a7feb" /></programme>
-  <programme channel="97" start="20190819022000 +0900" stop="20190819034000 +0900">
-    <title lang="kr">차이나는 클라스</title>
-    <desc lang="kr">차이나는 클라스 (121회)
-회차 : 121회
-장르 : 교양/정보
-출연 : 홍진경,오상진,조승연,덕원,딘딘,김지숙,샘 오취리,강지영
-제작 : 장기하
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>홍진경</actor>
-      <actor>오상진</actor>
-      <actor>조승연</actor>
-      <actor>덕원</actor>
-      <actor>딘딘</actor>
-      <actor>김지숙</actor>
-      <actor>샘 오취리</actor>
-      <actor>강지영</actor>
-      <producer>장기하</producer>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.120.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0b8148291586f1c107dbc93b8e78d35e332c768b20a7459ecbd376503e80d7e6" /></programme>
-  <programme channel="97" start="20190819034000 +0900" stop="20190819050000 +0900">
-    <title lang="kr">말하는 대로</title>
-    <desc lang="kr">말하는 대로 (17회)
-회차 : 17회
-장르 : 연예/오락
-출연 : 유희열,하하
-제작 : 정효민,박지예
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>유희열</actor>
-      <actor>하하</actor>
-      <producer>정효민</producer>
-      <producer>박지예</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.16.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57DFA7640203720001" /></programme>
-  <programme channel="97" start="20190819050000 +0900" stop="20190819055000 +0900">
-    <title lang="kr">차이나는 클라스</title>
-    <desc lang="kr">차이나는 클라스 (87회)
-회차 : 87회
-장르 : 교양/정보
-출연 : 홍진경,오상진,조승연,덕원,딘딘,김지숙,샘 오취리,강지영
-제작 : 장기하
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>홍진경</actor>
-      <actor>오상진</actor>
-      <actor>조승연</actor>
-      <actor>덕원</actor>
-      <actor>딘딘</actor>
-      <actor>김지숙</actor>
-      <actor>샘 오취리</actor>
-      <actor>강지영</actor>
-      <producer>장기하</producer>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.86.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0b8148291586f1c107dbc93b8e78d35e332c768b20a7459ecbd376503e80d7e6" /></programme>
-  <programme channel="97" start="20190819055000 +0900" stop="20190819070000 +0900">
-    <title lang="kr">오늘, 굿데이</title>
-    <desc lang="kr">오늘, 굿데이 (142회)
-회차 : 142회
-장르 : 교양/정보
-출연 : 장성규,송민교,이진호,이상준,이진이,신우식
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>장성규</actor>
-      <actor>송민교</actor>
-      <actor>이진호</actor>
-      <actor>이상준</actor>
-      <actor>이진이</actor>
-      <actor>신우식</actor>
-    </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <episode-num system="xmltv_ns">0.141.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57E3194202353F0001" /></programme>
-  <programme channel="97" start="20190819070000 +0900" stop="20190819083000 +0900">
-    <title lang="kr">JTBC NEWS 아침 &amp;</title>
-    <desc lang="kr">JTBC NEWS 아침 &amp;
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F651b9260be31a88df9b748667863869993465d06f892ddd8d2f340683f0dbecb" /><episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819083000 +0900" stop="20190819090000 +0900">
-    <title lang="kr">엠버와 함께하는 생활안전 이야기</title>
-    <desc lang="kr">엠버와 함께하는 생활안전 이야기 (6회)
-회차 : 6회
-장르 : 만화
-등급 : 7세 이상 관람가</desc>
-    <category lang="kr">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  <icon src="" /></programme>
-  <programme channel="97" start="20190819090000 +0900" stop="20190819101000 +0900">
-    <title lang="kr">방구석 1열</title>
-    <desc lang="kr">방구석 1열 (68회)
-회차 : 68회
-장르 : 연예/오락
-출연 : 윤종신,장성규,변영주
-제작 : 김미연
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>윤종신</actor>
-      <actor>장성규</actor>
-      <actor>변영주</actor>
-      <producer>김미연</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.67.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdb4cfc42dbc3e4845ee44331a32c012aab27b06bbf59608894413b308a6a7feb" /></programme>
-  <programme channel="97" start="20190819101000 +0900" stop="20190819113000 +0900">
-    <title lang="kr">열여덟의 순간 스페셜</title>
-    <desc lang="kr">열여덟의 순간 스페셜 (7회)
-회차 : 7회
-장르 : 드라마
-출연 : 옹성우,김향기,신승호,강기영,심이영,김선영,정영주,박성근,성기윤,허영지,문주연
-제작 : 심나연,윤경아
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>옹성우</actor>
-      <actor>김향기</actor>
-      <actor>신승호</actor>
-      <actor>강기영</actor>
-      <actor>심이영</actor>
-      <actor>김선영</actor>
-      <actor>정영주</actor>
-      <actor>박성근</actor>
-      <actor>성기윤</actor>
-      <actor>허영지</actor>
-      <actor>문주연</actor>
-      <producer>심나연</producer>
-      <producer>윤경아</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190819113000 +0900" stop="20190819125000 +0900">
-    <title lang="kr">열여덟의 순간 스페셜</title>
-    <desc lang="kr">열여덟의 순간 스페셜 (8회)
-회차 : 8회
-장르 : 드라마
-출연 : 옹성우,김향기,신승호,강기영,심이영,김선영,정영주,박성근,성기윤,허영지,문주연
-제작 : 심나연,윤경아
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>옹성우</actor>
-      <actor>김향기</actor>
-      <actor>신승호</actor>
-      <actor>강기영</actor>
-      <actor>심이영</actor>
-      <actor>김선영</actor>
-      <actor>정영주</actor>
-      <actor>박성근</actor>
-      <actor>성기윤</actor>
-      <actor>허영지</actor>
-      <actor>문주연</actor>
-      <producer>심나연</producer>
-      <producer>윤경아</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190819125000 +0900" stop="20190819142500 +0900">
-    <title lang="kr">비긴어게인 시즌3</title>
-    <desc lang="kr">비긴어게인 시즌3 (5회)
-회차 : 5회
-장르 : 연예/오락
-출연 : 박정현,하림,헨리,이수현,김필
-제작 : 이동희,송광종
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>박정현</actor>
-      <actor>하림</actor>
-      <actor>헨리</actor>
-      <actor>이수현</actor>
-      <actor>김필</actor>
-      <producer>이동희</producer>
-      <producer>송광종</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8dda2dfc452bbc5f1bbd77308a4dc9798b26c6536b6f44e5e7e475697114532d" /></programme>
-  <programme channel="97" start="20190819142500 +0900" stop="20190819155000 +0900">
-    <title lang="kr">전용우의 뉴스ON</title>
-    <desc lang="kr">전용우의 뉴스ON
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F732fc2e49aba0741881fe054d9f9f2b7f184e4ac642ad9beab037d28e01daadc" /><episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819155000 +0900" stop="20190819171000 +0900">
-    <title lang="kr">사건 반장</title>
-    <desc lang="kr">사건 반장
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fccfd1f00fdd03a64255a30810a82e372e7e97abf1cb29968b600073cf4eda1d8" /><episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819171000 +0900" stop="20190819182500 +0900">
-    <title lang="kr">정치부 회의</title>
-    <desc lang="kr">정치부 회의
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff8974c43e7ab859e2fc1a6cbb2fcbca72847b100e105765bb67b3f9920102ba5" /><episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819182500 +0900" stop="20190819183000 +0900">
-    <title lang="kr">JTBC 이 시각 뉴스룸</title>
-    <desc lang="kr">JTBC 이 시각 뉴스룸
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819183000 +0900" stop="20190819195500 +0900">
-    <title lang="kr">아는 형님 스페셜</title>
-    <desc lang="kr">아는 형님 스페셜 (193회)
-회차 : 193회
-장르 : 연예/오락
-출연 : 강호동,이수근,김영철,서장훈,김희철,민경훈
-제작 : 여운혁,황선영
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>강호동</actor>
-      <actor>이수근</actor>
-      <actor>김영철</actor>
-      <actor>서장훈</actor>
-      <actor>김희철</actor>
-      <actor>민경훈</actor>
-      <producer>여운혁</producer>
-      <producer>황선영</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.192.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190819195500 +0900" stop="20190819213000 +0900">
-    <title lang="kr">JTBC 뉴스룸</title>
-    <desc lang="kr">JTBC 뉴스룸
-장르 : 뉴스
-출연 : 손석희,안나경,김필규,이지은
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>손석희</actor>
-      <actor>안나경</actor>
-      <actor>김필규</actor>
-      <actor>이지은</actor>
-    </credits>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2e54f7329e3dfc6dfab500675d5713f8ce05b3a920594544e91d3374cec01c2b" /><episode-num system="xmltv_ns">18.818.</episode-num></programme>
-  <programme channel="97" start="20190819213000 +0900" stop="20190819230000 +0900">
-    <title lang="kr">열여덟의 순간</title>
-    <desc lang="kr">열여덟의 순간 (9회)
-회차 : 9회
-장르 : 드라마
-출연 : 옹성우,김향기,신승호,강기영,심이영,김선영,정영주,박성근,성기윤,허영지,문주연
-제작 : 심나연,윤경아
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>옹성우</actor>
-      <actor>김향기</actor>
-      <actor>신승호</actor>
-      <actor>강기영</actor>
-      <actor>심이영</actor>
-      <actor>김선영</actor>
-      <actor>정영주</actor>
-      <actor>박성근</actor>
-      <actor>성기윤</actor>
-      <actor>허영지</actor>
-      <actor>문주연</actor>
-      <producer>심나연</producer>
-      <producer>윤경아</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb077e2093ba67c2cc8cd60080ef6c4dbf4f242eaad1fbfccaf14b1dea24acd5d" /></programme>
-  <programme channel="97" start="20190819230000 +0900" stop="20190820003000 +0900">
-    <title lang="kr">냉장고를 부탁해</title>
-    <desc lang="kr">냉장고를 부탁해 (240회)
-회차 : 240회
-장르 : 연예/오락
-출연 : 김성주,안정환
-제작 : 이창우,서형원
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>김성주</actor>
-      <actor>안정환</actor>
-      <producer>이창우</producer>
-      <producer>서형원</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.239.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F575FC1C90371A30002" /></programme>
-  <programme channel="97" start="20190820003000 +0900" stop="20190820023000 +0900">
-    <title lang="kr">캠핑클럽</title>
-    <desc lang="kr">캠핑클럽 (6회)
-회차 : 6회
-장르 : 연예/오락
-출연 : 이효리,핑클 (옥주현),핑클 (이진),성유리
-제작 : 윤현준,마건영,정승일
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>이효리</actor>
-      <actor>핑클 (옥주현)</actor>
-      <actor>핑클 (이진)</actor>
-      <actor>성유리</actor>
-      <producer>윤현준</producer>
-      <producer>마건영</producer>
-      <producer>정승일</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2b2690b363d59332f3752d38b175c373a369626377704c3db819487c7a3fd1f7" /></programme>
-  <programme channel="97" start="20190820023000 +0900" stop="20190820034000 +0900">
-    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
-    <sub-title lang="kr">벤 포글과 야생의 사람들5 1부</sub-title>
-    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2240회)
-부제 : 벤 포글과 야생의 사람들5 1부
-회차 : 2240회
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2239.0/0</episode-num>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190820023000 +0900" stop="20190820034000 +0900">
-    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
-    <sub-title lang="kr">벤 포글과 야생의 사람들5 1부</sub-title>
-    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2240회)
-부제 : 벤 포글과 야생의 사람들5 1부
-회차 : 2240회
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2239.0/0</episode-num>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190820034000 +0900" stop="20190820045000 +0900">
-    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
-    <sub-title lang="kr">벤 포글과 야생의 사람들5 2부</sub-title>
-    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2241회)
-부제 : 벤 포글과 야생의 사람들5 2부
-회차 : 2241회
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2240.0/0</episode-num>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190820034000 +0900" stop="20190820045000 +0900">
-    <title lang="kr">JTBC 스페셜 다큐멘터리</title>
-    <sub-title lang="kr">벤 포글과 야생의 사람들5 2부</sub-title>
-    <desc lang="kr">JTBC 스페셜 다큐멘터리 (2241회)
-부제 : 벤 포글과 야생의 사람들5 2부
-회차 : 2241회
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2240.0/0</episode-num>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme channel="97" start="20190820045000 +0900" stop="20190820055000 +0900">
-    <title lang="kr">말하는 대로</title>
-    <desc lang="kr">말하는 대로 (18회)
-회차 : 18회
-장르 : 연예/오락
-출연 : 유희열,하하
-제작 : 정효민,박지예
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>유희열</actor>
-      <actor>하하</actor>
-      <producer>정효민</producer>
-      <producer>박지예</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.17.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F57DFA7640203720001" /></programme>
-  <programme channel="97" start="20190820055000 +0900" stop="20190820070000 +0900">
-    <title lang="kr">서핑하우스</title>
-    <desc lang="kr">서핑하우스 (5회)
-회차 : 5회
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F26c3770012b3c074e05bec87215d853b78b123b80fb713b5ba55f4acd565d631" /></programme>
-  <programme channel="97" start="20190820070000 +0900" stop="20190820083000 +0900">
-    <title lang="kr">JTBC NEWS 아침 &amp;</title>
-    <desc lang="kr">JTBC NEWS 아침 &amp;
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F651b9260be31a88df9b748667863869993465d06f892ddd8d2f340683f0dbecb" /><episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820083000 +0900" stop="20190820090000 +0900">
-    <title lang="kr">또봇 V</title>
-    <desc lang="kr">또봇 V (1회)
-회차 : 1회
-장르 : 만화
-등급 : 7세 이상 관람가</desc>
-    <category lang="kr">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F5ce4d8a208217b0b644e6c7efc3f265a9c950d60d7fc429768af8497a5a523a2" /></programme>
-  <programme channel="97" start="20190820090000 +0900" stop="20190820102000 +0900">
-    <title lang="kr">혼족어플</title>
-    <desc lang="kr">혼족어플 (3회)
-회차 : 3회
-장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fadf3e1ce57c6968eaa228df89f251cc6531773c7b7ecdb3c89c23d720eb258ee" /></programme>
-  <programme channel="97" start="20190820102000 +0900" stop="20190820122000 +0900">
-    <title lang="kr">뭉쳐야 찬다</title>
-    <desc lang="kr">뭉쳐야 찬다 (10회)
-회차 : 10회
-장르 : 연예/오락
-출연 : 김용만,김성주,안정환,정형돈,이만기,허재,양준혁,이봉주,여홍철,심권호,김동현
-제작 : 성치경
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>김용만</actor>
-      <actor>김성주</actor>
-      <actor>안정환</actor>
-      <actor>정형돈</actor>
-      <actor>이만기</actor>
-      <actor>허재</actor>
-      <actor>양준혁</actor>
-      <actor>이봉주</actor>
-      <actor>여홍철</actor>
-      <actor>심권호</actor>
-      <actor>김동현</actor>
-      <producer>성치경</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F73d39696ccc736158af70c25ac0730380feff42fb7947ad735319aa61cd20d90" /></programme>
-  <programme channel="97" start="20190820122000 +0900" stop="20190820142500 +0900">
-    <title lang="kr">캠핑클럽</title>
-    <desc lang="kr">캠핑클럽 (6회)
-회차 : 6회
-장르 : 연예/오락
-출연 : 이효리,핑클 (옥주현),핑클 (이진),성유리
-제작 : 윤현준,마건영,정승일
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>이효리</actor>
-      <actor>핑클 (옥주현)</actor>
-      <actor>핑클 (이진)</actor>
-      <actor>성유리</actor>
-      <producer>윤현준</producer>
-      <producer>마건영</producer>
-      <producer>정승일</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2b2690b363d59332f3752d38b175c373a369626377704c3db819487c7a3fd1f7" /></programme>
-  <programme channel="97" start="20190820142500 +0900" stop="20190820155000 +0900">
-    <title lang="kr">전용우의 뉴스ON</title>
-    <desc lang="kr">전용우의 뉴스ON
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F732fc2e49aba0741881fe054d9f9f2b7f184e4ac642ad9beab037d28e01daadc" /><episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820155000 +0900" stop="20190820171000 +0900">
-    <title lang="kr">사건 반장</title>
-    <desc lang="kr">사건 반장
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fccfd1f00fdd03a64255a30810a82e372e7e97abf1cb29968b600073cf4eda1d8" /><episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820171000 +0900" stop="20190820182500 +0900">
-    <title lang="kr">정치부 회의</title>
-    <desc lang="kr">정치부 회의
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff8974c43e7ab859e2fc1a6cbb2fcbca72847b100e105765bb67b3f9920102ba5" /><episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820182500 +0900" stop="20190820183000 +0900">
-    <title lang="kr">JTBC 이 시각 뉴스룸</title>
-    <desc lang="kr">JTBC 이 시각 뉴스룸
-장르 : 뉴스
-등급 : 전체 관람가</desc>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820183000 +0900" stop="20190820195500 +0900">
-    <title lang="kr">아이돌룸</title>
-    <desc lang="kr">아이돌룸 (64회)
-회차 : 64회
-장르 : 연예/오락
-출연 : 정형돈,데프콘
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>정형돈</actor>
-      <actor>데프콘</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.63.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F0738b64c049070915f2110ac1716754819c815311298092dfb36778924aec8b3" /></programme>
-  <programme channel="97" start="20190820195500 +0900" stop="20190820213000 +0900">
-    <title lang="kr">JTBC 뉴스룸</title>
-    <desc lang="kr">JTBC 뉴스룸
-장르 : 뉴스
-출연 : 손석희,안나경,김필규,이지은
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>손석희</actor>
-      <actor>안나경</actor>
-      <actor>김필규</actor>
-      <actor>이지은</actor>
-    </credits>
-    <category lang="kr">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2e54f7329e3dfc6dfab500675d5713f8ce05b3a920594544e91d3374cec01c2b" /><episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="97" start="20190820213000 +0900" stop="20190820230000 +0900">
-    <title lang="kr">열여덟의 순간</title>
-    <desc lang="kr">열여덟의 순간 (10회)
-회차 : 10회
-장르 : 드라마
-출연 : 옹성우,김향기,신승호,강기영,심이영,김선영,정영주,박성근,성기윤,허영지,문주연
-제작 : 심나연,윤경아
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>옹성우</actor>
-      <actor>김향기</actor>
-      <actor>신승호</actor>
-      <actor>강기영</actor>
-      <actor>심이영</actor>
-      <actor>김선영</actor>
-      <actor>정영주</actor>
-      <actor>박성근</actor>
-      <actor>성기윤</actor>
-      <actor>허영지</actor>
-      <actor>문주연</actor>
-      <producer>심나연</producer>
-      <producer>윤경아</producer>
-    </credits>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb077e2093ba67c2cc8cd60080ef6c4dbf4f242eaad1fbfccaf14b1dea24acd5d" /></programme>
-  <programme channel="97" start="20190820230000 +0900" stop="20190821003000 +0900">
-    <title lang="kr">어서 말을 해</title>
-    <desc lang="kr">어서 말을 해 (2회)
-회차 : 2회
-장르 : 연예/오락
-출연 : 전현무,박나래,정상훈,김정난,문세윤
-제작 : 이지선
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>전현무</actor>
-      <actor>박나래</actor>
-      <actor>정상훈</actor>
-      <actor>김정난</actor>
-      <actor>문세윤</actor>
-      <producer>이지선</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1699098cae07536e4825c56d7f4d9368703556ad664249f861046e1039ed6070" /></programme>
   <programme channel="110" start="20190818232500 +0900" stop="20190819001500 +0900">
     <title lang="kr">글로벌 다큐멘터리</title>
     <sub-title lang="kr">아시아의 아마존 아무르강 3부작 제1부 극동</sub-title>
@@ -11499,7 +10714,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190819051900 +0900" stop="20190819061000 +0900">
+  <programme channel="207" start="20190819051900 +0900" stop="20190819061800 +0900">
     <title lang="kr">프리한 19</title>
     <desc lang="kr">프리한 19 (169회)
 회차 : 169회
@@ -11521,7 +10736,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5862067002732B0001" /></programme>
-  <programme channel="207" start="20190819061000 +0900" stop="20190819075000 +0900">
+  <programme channel="207" start="20190819061800 +0900" stop="20190819075600 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (1회)
 회차 : 1회
@@ -11546,7 +10761,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190819075000 +0900" stop="20190819093000 +0900">
+  <programme channel="207" start="20190819075600 +0900" stop="20190819093500 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (2회)
 회차 : 2회
@@ -11571,7 +10786,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190819093000 +0900" stop="20190819113000 +0900">
+  <programme channel="207" start="20190819093500 +0900" stop="20190819112900 +0900">
     <title lang="kr">삼시세끼 산촌편</title>
     <desc lang="kr">삼시세끼 산촌편 (2회)
 회차 : 2회
@@ -11593,7 +10808,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff868caa128d69f285015c378e84bd445133a1bdfeb10131b08c2854d1f02ac16" /></programme>
-  <programme channel="207" start="20190819113000 +0900" stop="20190819131000 +0900">
+  <programme channel="207" start="20190819112900 +0900" stop="20190819130500 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">놀라운 토요일 (72회)
@@ -11621,7 +10836,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190819131000 +0900" stop="20190819144000 +0900">
+  <programme channel="207" start="20190819130500 +0900" stop="20190819144000 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (11회)
 회차 : 11회
@@ -11654,7 +10869,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190819144000 +0900" stop="20190819162000 +0900">
+  <programme channel="207" start="20190819144000 +0900" stop="20190819162400 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (12회)
 회차 : 12회
@@ -11687,7 +10902,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190819162000 +0900" stop="20190819181000 +0900">
+  <programme channel="207" start="20190819162400 +0900" stop="20190819181100 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">놀라운 토요일 (23회)
@@ -11716,7 +10931,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190819181000 +0900" stop="20190819201000 +0900">
+  <programme channel="207" start="20190819181100 +0900" stop="20190819201000 +0900">
     <title lang="kr">삼시세끼 산촌편</title>
     <desc lang="kr">삼시세끼 산촌편 (2회)
 회차 : 2회
@@ -11738,7 +10953,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff868caa128d69f285015c378e84bd445133a1bdfeb10131b08c2854d1f02ac16" /></programme>
-  <programme channel="207" start="20190819201000 +0900" stop="20190819213000 +0900">
+  <programme channel="207" start="20190819201000 +0900" stop="20190819214000 +0900">
     <title lang="kr">서울 메이트 3</title>
     <desc lang="kr">서울 메이트 3 (8회)
 회차 : 8회
@@ -11762,7 +10977,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce747b822073e5e65f7e92dfcc4af04cfcd10924510e76dd4693fcf995e4dbbb" /></programme>
-  <programme channel="207" start="20190819213000 +0900" stop="20190819230000 +0900">
+  <programme channel="207" start="20190819214000 +0900" stop="20190819230500 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <desc lang="kr">60일, 지정생존자 (15회)
 회차 : 15회
@@ -11794,7 +11009,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
-  <programme channel="207" start="20190819230000 +0900" stop="20190820002000 +0900">
+  <programme channel="207" start="20190819230500 +0900" stop="20190820003000 +0900">
     <title lang="kr">더 짠내투어</title>
     <sub-title lang="kr">모스크바 2편</sub-title>
     <desc lang="kr">더 짠내투어 (88회)
@@ -11819,7 +11034,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190820002000 +0900" stop="20190820013000 +0900">
+  <programme channel="207" start="20190820003000 +0900" stop="20190820013800 +0900">
     <title lang="kr">프리한 19</title>
     <sub-title lang="kr">SNS 생태계 교란범 19</sub-title>
     <desc lang="kr">프리한 19 (170회)
@@ -11842,7 +11057,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5862067002732B0001" /></programme>
-  <programme channel="207" start="20190820013000 +0900" stop="20190820025000 +0900">
+  <programme channel="207" start="20190820013800 +0900" stop="20190820025300 +0900">
     <title lang="kr">코미디 빅리그</title>
     <desc lang="kr">코미디 빅리그 (324회)
 회차 : 324회
@@ -11864,7 +11079,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /></programme>
-  <programme channel="207" start="20190820025000 +0900" stop="20190820041000 +0900">
+  <programme channel="207" start="20190820025300 +0900" stop="20190820041500 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <desc lang="kr">60일, 지정생존자 (15회)
 회차 : 15회
@@ -11897,7 +11112,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
-  <programme channel="207" start="20190820041000 +0900" stop="20190820055000 +0900">
+  <programme channel="207" start="20190820041500 +0900" stop="20190820055000 +0900">
     <title lang="kr">고교급식왕</title>
     <desc lang="kr">고교급식왕 (11회)
 회차 : 11회
@@ -12761,7 +11976,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="216" start="20190820050000 +0900" stop="20190820063000 +0900">
+  <programme channel="216" start="20190820050000 +0900" stop="20190820061000 +0900">
     <title lang="kr">코미디빅리그</title>
     <desc lang="kr">코미디빅리그 (323회)
 회차 : 323회
@@ -12792,37 +12007,25 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /></programme>
-  <programme channel="216" start="20190820063000 +0900" stop="20190820080000 +0900">
-    <title lang="kr">코미디빅리그 특집 단내투어</title>
-    <desc lang="kr">코미디빅리그 특집 단내투어 (1회)
-회차 : 1회
+  <programme channel="216" start="20190820061000 +0900" stop="20190820080000 +0900">
+    <title lang="kr">유 퀴즈 온 더 블럭</title>
+    <desc lang="kr">유 퀴즈 온 더 블럭 (28회)
+회차 : 28회
 장르 : 연예/오락
-출연 : 박준형,정종철,유세윤,장동민,이수근,유상무,오지헌,김여운,김영준,김완배,이은지
-제작 : 박성재,김민경
-등급 : 15세 이상 관람가</desc>
+출연 : 유재석,조세호
+등급 : 12세 이상 관람가</desc>
     <credits>
-      <actor>박준형</actor>
-      <actor>정종철</actor>
-      <actor>유세윤</actor>
-      <actor>장동민</actor>
-      <actor>이수근</actor>
-      <actor>유상무</actor>
-      <actor>오지헌</actor>
-      <actor>김여운</actor>
-      <actor>김영준</actor>
-      <actor>김완배</actor>
-      <actor>이은지</actor>
-      <producer>박성재</producer>
-      <producer>김민경</producer>
+      <actor>유재석</actor>
+      <actor>조세호</actor>
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.27.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
-  </programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
   <programme channel="216" start="20190820080000 +0900" stop="20190820091000 +0900">
     <title lang="kr">프리한19</title>
     <desc lang="kr">프리한19 (121회)
