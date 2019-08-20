@@ -805,19 +805,35 @@
     </rating>
   <episode-num system="xmltv_ns">18.820.</episode-num></programme>
   <programme channel="97" start="20190821183000 +0900" stop="20190821195500 +0900">
-    <title lang="kr">JTBC 창사기획 DMZ</title>
-    <sub-title lang="kr">프롤로그</sub-title>
-    <desc lang="kr">JTBC 창사기획 DMZ
-부제 : 프롤로그
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <title lang="kr">뭉쳐야 찬다</title>
+    <desc lang="kr">뭉쳐야 찬다 (10회)
+회차 : 10회
+장르 : 연예/오락
+출연 : 김용만,김성주,안정환,정형돈,이만기,허재,양준혁,이봉주,여홍철,심권호,김동현
+제작 : 성치경
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>김용만</actor>
+      <actor>김성주</actor>
+      <actor>안정환</actor>
+      <actor>정형돈</actor>
+      <actor>이만기</actor>
+      <actor>허재</actor>
+      <actor>양준혁</actor>
+      <actor>이봉주</actor>
+      <actor>여홍철</actor>
+      <actor>심권호</actor>
+      <actor>김동현</actor>
+      <producer>성치경</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa6325f184f6ece82caee0ed9782a2f69b8c2585e0ba565293b5507cc81211653" /><episode-num system="xmltv_ns">18.820.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F73d39696ccc736158af70c25ac0730380feff42fb7947ad735319aa61cd20d90" /></programme>
   <programme channel="97" start="20190821195500 +0900" stop="20190821213000 +0900">
     <title lang="kr">JTBC 뉴스룸</title>
     <desc lang="kr">JTBC 뉴스룸
@@ -3731,29 +3747,6 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F07b8dd2bf00c059a5f666ffbc6bf88a3fcec8c448308dc7469b7feabe8fe33f8" /></programme>
-  <programme channel="121" start="20190820223000 +0900" stop="20190821000000 +0900">
-    <title lang="kr">러브캐처</title>
-    <desc lang="kr">러브캐처 (5회)
-회차 : 5회
-장르 : 연예/오락
-출연 : 신동엽,홍석천,레이디 제인,장도연
-제작 : 정민석
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>신동엽</actor>
-      <actor>홍석천</actor>
-      <actor>레이디 제인</actor>
-      <actor>장도연</actor>
-      <producer>정민석</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fcee7a73d53297b7f04ab7f4742cbb356be3e0ae66efab1889b3f124d2c38c071" /></programme>
   <programme channel="121" start="20190820223000 +0900" stop="20190821000000 +0900">
     <title lang="kr">러브캐처</title>
     <desc lang="kr">러브캐처 (5회)
@@ -8205,29 +8198,6 @@
       <value>12세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.819.</episode-num></programme>
-  <programme channel="151" start="20190820232000 +0900" stop="20190821000000 +0900">
-    <title lang="kr">원더풀 고스트</title>
-    <sub-title lang="kr">2부</sub-title>
-    <desc lang="kr">원더풀 고스트
-부제 : 2부
-장르 : 영화
-출연 : 마동석,김영광,이유영,최귀화
-제작 : 조원희
-등급 : 12세 이상 관람가
-딸 앞에선 바보지만 남의 일에는 1도 관심 없는 유도 관장 '장수'(마동석)에게 의욕과다 경찰 출신 고스...</desc>
-    <credits>
-      <actor>마동석</actor>
-      <actor>김영광</actor>
-      <actor>이유영</actor>
-      <actor>최귀화</actor>
-      <producer>조원희</producer>
-    </credits>
-    <category lang="kr">영화</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.819.</episode-num></programme>
   <programme channel="151" start="20190821000000 +0900" stop="20190821012000 +0900">
     <title lang="kr">앤트맨</title>
     <sub-title lang="kr">1부</sub-title>
@@ -11661,7 +11631,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff868caa128d69f285015c378e84bd445133a1bdfeb10131b08c2854d1f02ac16" /></programme>
-  <programme channel="207" start="20190820170200 +0900" stop="20190820184000 +0900">
+  <programme channel="207" start="20190820170200 +0900" stop="20190820183900 +0900">
     <title lang="kr">더 짠내투어</title>
     <desc lang="kr">더 짠내투어 (88회)
 회차 : 88회
@@ -11685,7 +11655,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190820184000 +0900" stop="20190820201000 +0900">
+  <programme channel="207" start="20190820183900 +0900" stop="20190820201000 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <desc lang="kr">60일, 지정생존자 (15회)
 회차 : 15회
@@ -11743,7 +11713,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa2c170e2c4031785ecb638b9da0764876efc00aadf0fed3bf76f2e7c0de5ef41" /></programme>
-  <programme channel="207" start="20190820213000 +0900" stop="20190820230000 +0900">
+  <programme channel="207" start="20190820213000 +0900" stop="20190820230500 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <sub-title lang="kr">최종회</sub-title>
     <desc lang="kr">60일, 지정생존자 (16회)
@@ -11777,7 +11747,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
-  <programme channel="207" start="20190820230000 +0900" stop="20190821004000 +0900">
+  <programme channel="207" start="20190820230500 +0900" stop="20190821005000 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (31회)
 회차 : 31회
@@ -11795,7 +11765,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190821004000 +0900" stop="20190821022000 +0900">
+  <programme channel="207" start="20190821005000 +0900" stop="20190821020800 +0900">
     <title lang="kr">수요미식회</title>
     <desc lang="kr">수요미식회 (216회)
 회차 : 216회
@@ -11818,7 +11788,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb14cb351900a9cd55f906b849e5d2d980d95dacf0b5c46d8af256472856c2f07" /></programme>
-  <programme channel="207" start="20190821022000 +0900" stop="20190821035000 +0900">
+  <programme channel="207" start="20190821020800 +0900" stop="20190821034100 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (11회)
 회차 : 11회
@@ -11851,7 +11821,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190821035000 +0900" stop="20190821052000 +0900">
+  <programme channel="207" start="20190821034100 +0900" stop="20190821051700 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (12회)
 회차 : 12회
@@ -11884,7 +11854,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190821052000 +0900" stop="20190821061000 +0900">
+  <programme channel="207" start="20190821051700 +0900" stop="20190821060000 +0900">
     <title lang="kr">코미디 빅리그 Hot clip</title>
     <desc lang="kr">코미디 빅리그 Hot clip
 장르 : 연예/오락
@@ -11896,7 +11866,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /><episode-num system="xmltv_ns">18.820.</episode-num></programme>
-  <programme channel="207" start="20190821061000 +0900" stop="20190821072000 +0900">
+  <programme channel="207" start="20190821060000 +0900" stop="20190821071000 +0900">
     <title lang="kr">개똥이네 철학관</title>
     <desc lang="kr">개똥이네 철학관 (6회)
 회차 : 6회
@@ -11920,7 +11890,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa2c170e2c4031785ecb638b9da0764876efc00aadf0fed3bf76f2e7c0de5ef41" /></programme>
-  <programme channel="207" start="20190821072000 +0900" stop="20190821090000 +0900">
+  <programme channel="207" start="20190821071000 +0900" stop="20190821085000 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (5회)
 회차 : 5회
@@ -11945,7 +11915,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190821090000 +0900" stop="20190821104000 +0900">
+  <programme channel="207" start="20190821085000 +0900" stop="20190821103000 +0900">
     <title lang="kr">강식당 2</title>
     <desc lang="kr">강식당 2 (6회)
 회차 : 6회
@@ -11970,7 +11940,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fc6f2babbc22d69b7fad8bc464136cd71bcaf77daf946f8421fffe29f996b6c25" /></programme>
-  <programme channel="207" start="20190821104000 +0900" stop="20190821121000 +0900">
+  <programme channel="207" start="20190821103000 +0900" stop="20190821120000 +0900">
     <title lang="kr">더 짠내투어</title>
     <desc lang="kr">더 짠내투어 (88회)
 회차 : 88회
@@ -11994,7 +11964,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190821121000 +0900" stop="20190821133000 +0900">
+  <programme channel="207" start="20190821120000 +0900" stop="20190821132000 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <desc lang="kr">60일, 지정생존자 (15회)
 회차 : 15회
@@ -12027,7 +11997,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
-  <programme channel="207" start="20190821133000 +0900" stop="20190821151000 +0900">
+  <programme channel="207" start="20190821132000 +0900" stop="20190821150000 +0900">
     <title lang="kr">60일, 지정생존자</title>
     <desc lang="kr">60일, 지정생존자 (16회)
 회차 : 16회
@@ -12060,7 +12030,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9edb1b30caac33a3b8550ce4abc29b6fba6aacf9ed06d328b1fdfa2c8c04641b" /></programme>
-  <programme channel="207" start="20190821151000 +0900" stop="20190821172000 +0900">
+  <programme channel="207" start="20190821150000 +0900" stop="20190821171000 +0900">
     <title lang="kr">유 퀴즈 온 더 블럭</title>
     <desc lang="kr">유 퀴즈 온 더 블럭 (31회)
 회차 : 31회
@@ -12079,7 +12049,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F87ca0bd59baa6088d2793bc2210f2aff3ac8c19793d9c94edad91ed5052f2485" /></programme>
-  <programme channel="207" start="20190821172000 +0900" stop="20190821191000 +0900">
+  <programme channel="207" start="20190821171000 +0900" stop="20190821191000 +0900">
     <title lang="kr">삼시세끼 산촌편</title>
     <desc lang="kr">삼시세끼 산촌편 (2회)
 회차 : 2회
