@@ -5772,7 +5772,7 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="129" start="20190826012000 +0900" stop="20190826023000 +0900">
+  <programme channel="129" start="20190826012000 +0900" stop="20190826020000 +0900">
     <title lang="kr">연애 못하는 남자들</title>
     <desc lang="kr">연애 못하는 남자들 (3회)
 회차 : 3회
@@ -5793,28 +5793,38 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F00f6b7074df6345a948352446938f9a4b99fd843bb3e0f5509796c08ec35c569" /></programme>
-  <programme channel="129" start="20190826023000 +0900" stop="20190826033000 +0900">
-    <title lang="kr">속풀이쇼 동치미</title>
-    <desc lang="kr">속풀이쇼 동치미
-장르 : 연예/오락
-출연 : 최은경,박수홍
-제작 : 김시중
-등급 : 15세 이상 관람가</desc>
-    <credits>
-      <actor>최은경</actor>
-      <actor>박수홍</actor>
-      <producer>김시중</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+  <programme channel="129" start="20190826020000 +0900" stop="20190826030000 +0900">
+    <title lang="kr">소나무</title>
+    <desc lang="kr">소나무 (404회)
+회차 : 404회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="kr">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.403.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5860BBE302323A0002" /></programme>
+  <programme channel="129" start="20190826030000 +0900" stop="20190826033000 +0900">
+    <title lang="kr">성공다큐 최고다</title>
+    <desc lang="kr">성공다큐 최고다 (401회)
+회차 : 401회
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.400.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25aa428ef41c5e0f2f5b05acff772a252fe17204e7999579c31cbb1c1be2cc26" /></programme>
   <programme channel="129" start="20190826033000 +0900" stop="20190826050000 +0900">
     <title lang="kr">모던 패밀리</title>
-    <desc lang="kr">모던 패밀리
+    <desc lang="kr">모던 패밀리 (26회)
+회차 : 26회
 장르 : 연예/오락
 출연 : 이수근,심혜진
 등급 : 15세 이상 관람가</desc>
@@ -5824,34 +5834,46 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.25.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74cc536feda651e4fcb6d91b2e6b5738f0dbb717f12b1e3dd4ba0053ec96c716" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F74cc536feda651e4fcb6d91b2e6b5738f0dbb717f12b1e3dd4ba0053ec96c716" /></programme>
   <programme channel="129" start="20190826050000 +0900" stop="20190826060000 +0900">
     <title lang="kr">생생 정보마당 스페셜</title>
-    <desc lang="kr">생생 정보마당 스페셜
+    <desc lang="kr">생생 정보마당 스페셜 (81회)
+회차 : 81회
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.80.0/0</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  </programme>
   <programme channel="129" start="20190826060000 +0900" stop="20190826070000 +0900">
-    <title lang="kr">특집다큐 회춘의 열쇠 여성호르몬을 지켜라</title>
-    <desc lang="kr">특집다큐 회춘의 열쇠 여성호르몬을 지켜라
-장르 : 시사/다큐
+    <title lang="kr">엄지의 제왕</title>
+    <desc lang="kr">엄지의 제왕 (254회)
+회차 : 254회
+장르 : 연예/오락
+출연 : 김승현,강수정
+제작 : 김달준
 등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <credits>
+      <actor>김승현</actor>
+      <actor>강수정</actor>
+      <producer>김달준</producer>
+    </credits>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.253.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F56580C490116150001" /></programme>
   <programme channel="129" start="20190826070000 +0900" stop="20190826080000 +0900">
     <title lang="kr">굿모닝 MBN</title>
     <desc lang="kr">굿모닝 MBN
@@ -5898,55 +5920,58 @@
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5743FBF2026F6A0001" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="129" start="20190826104000 +0900" stop="20190826114000 +0900">
     <title lang="kr">생생 정보마당</title>
-    <desc lang="kr">생생 정보마당
+    <desc lang="kr">생생 정보마당 (549회)
+회차 : 549회
 장르 : 교양/정보
 등급 : 전체 관람가</desc>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.548.0/0</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F692082dc62af2235b71b559e4caaf5169888c13313b67c69eac933f7dc6a12e1" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="129" start="20190826114000 +0900" stop="20190826125000 +0900">
-    <title lang="kr">바다가 들린다</title>
-    <desc lang="kr">바다가 들린다
-장르 : 연예/오락
-출연 : 노홍철,정태우,장도연
-등급 : 12세 이상 관람가</desc>
-    <credits>
-      <actor>노홍철</actor>
-      <actor>정태우</actor>
-      <actor>장도연</actor>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F106a40a6b1b4c8e51401cf62cd66dab9df99cd54631011d45750d078c54b1430" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="129" start="20190826125000 +0900" stop="20190826141000 +0900">
-    <title lang="kr">속풀이쇼 동치미</title>
-    <desc lang="kr">속풀이쇼 동치미
-장르 : 연예/오락
-출연 : 최은경,박수홍
-제작 : 김시중
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F692082dc62af2235b71b559e4caaf5169888c13313b67c69eac933f7dc6a12e1" /></programme>
+  <programme channel="129" start="20190826114000 +0900" stop="20190826130000 +0900">
+    <title lang="kr">기막힌 이야기 실제상황</title>
+    <desc lang="kr">기막힌 이야기 실제상황 (352회)
+회차 : 352회
+장르 : 교양/정보
+제작 : 정해상
 등급 : 15세 이상 관람가</desc>
     <credits>
-      <actor>최은경</actor>
-      <actor>박수홍</actor>
-      <producer>김시중</producer>
+      <producer>정해상</producer>
     </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.351.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5860B8BA01064B0001" /></programme>
+  <programme channel="129" start="20190826130000 +0900" stop="20190826141000 +0900">
+    <title lang="kr">현장르포 특종세상</title>
+    <desc lang="kr">현장르포 특종세상 (386회)
+회차 : 386회
+장르 : 교양/정보
+제작 : 정해상,김영도
+등급 : 15세 이상 관람가</desc>
+    <credits>
+      <producer>정해상</producer>
+      <producer>김영도</producer>
+    </credits>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.385.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5860BB36025C370001" /></programme>
   <programme channel="129" start="20190826141000 +0900" stop="20190826153000 +0900">
     <title lang="kr">알토란</title>
-    <desc lang="kr">알토란
+    <desc lang="kr">알토란 (245회)
+회차 : 245회
 장르 : 연예/오락
 출연 : 왕종근
 제작 : 김달준
@@ -5957,11 +5982,12 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.244.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Febf3f3622a8b7b7a57e2265d9f5a14f9e7347b6e7c1ad875a7d0fb4e96b818d5" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Febf3f3622a8b7b7a57e2265d9f5a14f9e7347b6e7c1ad875a7d0fb4e96b818d5" /></programme>
   <programme channel="129" start="20190826153000 +0900" stop="20190826165000 +0900">
     <title lang="kr">뉴스 BIG 5</title>
     <desc lang="kr">뉴스 BIG 5
@@ -6007,25 +6033,28 @@
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F58C230400266B10001" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="129" start="20190826203000 +0900" stop="20190826213000 +0900">
-    <title lang="kr">나는 자연인이다</title>
-    <desc lang="kr">나는 자연인이다
-장르 : 교양/정보
-출연 : 이승윤,윤택
+    <title lang="kr">여행생활자 집시맨</title>
+    <desc lang="kr">여행생활자 집시맨 (156회)
+회차 : 156회
+장르 : 취미/레저
+출연 : 김C
+제작 : 장준호
 등급 : 전체 관람가</desc>
     <credits>
-      <actor>이승윤</actor>
-      <actor>윤택</actor>
+      <actor>김C</actor>
+      <producer>장준호</producer>
     </credits>
-    <category lang="kr">교양/정보</category>
-    <category lang="en">Arts / Culture (without music)</category>
-    <previously-shown />
+    <category lang="kr">취미/레저</category>
+    <category lang="en">Leisure hobbies</category>
+    <episode-num system="xmltv_ns">0.155.0/0</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fe72f6b8669d330a598ce92d7e199f81e3b702b5798c4f06fa7fecbd5dc5536d8" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F4e89820c10d85853bcfb00e5d774553850d342bf28882ed2276ed2a79f91c80d" /></programme>
   <programme channel="129" start="20190826213000 +0900" stop="20190826230000 +0900">
     <title lang="kr">판도라</title>
-    <desc lang="kr">판도라
+    <desc lang="kr">판도라 (132회)
+회차 : 132회
 장르 : 시사/다큐
 출연 : 배철수
 제작 : 김영도,정은비
@@ -6037,13 +6066,15 @@
     </credits>
     <category lang="kr">시사/다큐</category>
     <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.131.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F589D5FE1026DDE0001" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F589D5FE1026DDE0001" /></programme>
   <programme channel="129" start="20190826230000 +0900" stop="20190827004000 +0900">
     <title lang="kr">속풀이쇼 동치미</title>
-    <desc lang="kr">속풀이쇼 동치미
+    <desc lang="kr">속풀이쇼 동치미 (354회)
+회차 : 354회
 장르 : 연예/오락
 출연 : 최은경,박수홍
 제작 : 김시중
@@ -6055,11 +6086,12 @@
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.353.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce024187e99c5d9e7e8f85259d444acff47f8c140a8ceb9df1177f99951ecdaa" /></programme>
   <programme channel="147" start="20190824232500 +0900" stop="20190825005000 +0900">
     <title lang="kr">악마가 너의 이름을 부를때</title>
     <desc lang="kr">악마가 너의 이름을 부를때 (7회)
@@ -10764,7 +10796,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826023000 +0900" stop="20190826030000 +0900">
+  <programme channel="183" start="20190826023000 +0900" stop="20190826033500 +0900">
     <title lang="kr">손흥민 최고의 순간</title>
     <sub-title lang="kr">MOM특집</sub-title>
     <desc lang="kr">손흥민 최고의 순간
@@ -10778,9 +10810,11 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826030000 +0900" stop="20190826050000 +0900">
-    <title lang="kr">19-20 프리미어리그 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 하이라이트
+  <programme channel="183" start="20190826033500 +0900" stop="20190826060000 +0900">
+    <title lang="kr">19-20 세리에A</title>
+    <sub-title lang="kr">1R 베로나:볼로냐</sub-title>
+    <desc lang="kr">19-20 세리에A
+부제 : 1R 베로나:볼로냐
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -10789,20 +10823,37 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826050000 +0900" stop="20190826060000 +0900">
-    <title lang="kr">19-20 프리미어리그 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 하이라이트
+  <programme channel="183" start="20190826060000 +0900" stop="20190826080000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R 토트넘:뉴캐슬
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826060000 +0900" stop="20190826090000 +0900">
-    <title lang="kr">UFC 241</title>
-    <desc lang="kr">[강경호 출전]UFC 241
+  <programme channel="183" start="20190826060000 +0900" stop="20190826080000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R 토트넘:뉴캐슬
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826080000 +0900" stop="20190826110000 +0900">
+    <title lang="kr">UFC 대한민국 파이터 최고의 승리</title>
+    <desc lang="kr">UFC 대한민국 파이터 최고의 승리
 장르 : 스포츠
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -10810,44 +10861,11 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826090000 +0900" stop="20190826100000 +0900">
-    <title lang="kr">UFC 강경호 스페셜</title>
-    <desc lang="kr">UFC 강경호 스페셜
-장르 : 스포츠
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826100000 +0900" stop="20190826110000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826100000 +0900" stop="20190826110000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="183" start="20190826110000 +0900" stop="20190826120000 +0900">
-    <title lang="kr">손흥민 베스트 골 SUPER SON TIME</title>
-    <desc lang="kr">손흥민 베스트 골 SUPER SON TIME
+    <title lang="kr">프리미어리그 손흥민 득점 경기 TOP 5</title>
+    <desc lang="kr">프리미어리그 손흥민 득점 경기 TOP 5
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -10857,20 +10875,11 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826120000 +0900" stop="20190826135000 +0900">
-    <title lang="kr">UFC 241 명승부 스페셜</title>
-    <desc lang="kr">[강경호 출전]UFC 241 명승부 스페셜
-장르 : 스포츠
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826135000 +0900" stop="20190826170000 +0900">
-    <title lang="kr">2019 KBO 퓨처스리그</title>
-    <desc lang="kr">2019 KBO 퓨처스리그
+  <programme channel="183" start="20190826120000 +0900" stop="20190826130000 +0900">
+    <title lang="kr">19-20 프리미어리그 하이라이트</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그 하이라이트
+부제 : 3R 토트넘:뉴캐슬
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -10879,59 +10888,81 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826170000 +0900" stop="20190826200000 +0900">
-    <title lang="kr">UFC 2019 빅이벤트 명승부</title>
-    <desc lang="kr">UFC 2019 빅이벤트 명승부
-장르 : 스포츠
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826200000 +0900" stop="20190826202500 +0900">
-    <title lang="kr">2017 동아시안컵 BEST GOALS</title>
-    <desc lang="kr">2017 동아시안컵 BEST GOALS
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826202500 +0900" stop="20190826223000 +0900">
-    <title lang="kr">2019 중국 FA컵</title>
-    <desc lang="kr">[최강희/김신욱]2019 중국 FA컵
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826223000 +0900" stop="20190826233000 +0900">
-    <title lang="kr">손흥민 최고의 순간</title>
-    <desc lang="kr">손흥민 최고의 순간
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="183" start="20190826233000 +0900" stop="20190827020000 +0900">
+  <programme channel="183" start="20190826130000 +0900" stop="20190826150000 +0900">
     <title lang="kr">UFC 왕좌의 게임</title>
+    <sub-title lang="kr">여성 밴텀급</sub-title>
     <desc lang="kr">UFC 왕좌의 게임
+부제 : 여성 밴텀급
 장르 : 스포츠
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826150000 +0900" stop="20190826180000 +0900">
+    <title lang="kr">UFC 미들급 타이틀전 프리뷰</title>
+    <sub-title lang="kr">휘태커 vs 아데산야</sub-title>
+    <desc lang="kr">UFC 미들급 타이틀전 프리뷰
+부제 : 휘태커 vs 아데산야
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826180000 +0900" stop="20190826185000 +0900">
+    <title lang="kr">19-20 프리미어리그 하이라이트</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그 하이라이트
+부제 : 3R 토트넘:뉴캐슬
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826185000 +0900" stop="20190826210000 +0900">
+    <title lang="kr">제55회 추계 한국고등학교축구연맹전</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">제55회 추계 한국고등학교축구연맹전
+부제 : 결승
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826210000 +0900" stop="20190826230000 +0900">
+    <title lang="kr">프리미어리그 손흥민 득점 경기 TOP 10</title>
+    <desc lang="kr">프리미어리그 손흥민 득점 경기 TOP 10
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826230000 +0900" stop="20190827020000 +0900">
+    <title lang="kr">UFC 대한민국 파이터 최고의 승리</title>
+    <desc lang="kr">UFC 대한민국 파이터 최고의 승리
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -11084,8 +11115,8 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826070000 +0900" stop="20190826083000 +0900">
-    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
-    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+    <title lang="kr">2019 카트라이더 글로벌 슈퍼 매치</title>
+    <desc lang="kr">2019 카트라이더 글로벌 슈퍼 매치
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11093,8 +11124,10 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826083000 +0900" stop="20190826100000 +0900">
-    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
-    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
+    <title lang="kr">DPL 2019 SUMMER</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">DPL 2019 SUMMER
+부제 : 결승
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11103,7 +11136,9 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826100000 +0900" stop="20190826120000 +0900">
     <title lang="kr">2019 피버 바스켓 코리아 챔피언컵</title>
+    <sub-title lang="kr">8강</sub-title>
     <desc lang="kr">2019 피버 바스켓 코리아 챔피언컵
+부제 : 8강
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11111,35 +11146,64 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826120000 +0900" stop="20190826130000 +0900">
-    <title lang="kr">DPL 2019 SUMMER DPL:E</title>
-    <desc lang="kr">DPL 2019 SUMMER DPL:E
+    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
+    <sub-title lang="kr">개막전</sub-title>
+    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+부제 : 개막전
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="184" start="20190826130000 +0900" stop="20190826143000 +0900">
-    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
-    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
-등급 : 전체 관람가</desc>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="184" start="20190826143000 +0900" stop="20190826163000 +0900">
+  <programme channel="184" start="20190826130000 +0900" stop="20190826133000 +0900">
     <title lang="kr">2019 KeG</title>
+    <sub-title lang="kr">오디션</sub-title>
     <desc lang="kr">2019 KeG
+부제 : 오디션
 등급 : 전체 관람가</desc>
     <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="184" start="20190826133000 +0900" stop="20190826150000 +0900">
+    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
+부제 : 결승
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="184" start="20190826150000 +0900" stop="20190826160000 +0900">
+    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
+    <sub-title lang="kr">개막전</sub-title>
+    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+부제 : 개막전
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="184" start="20190826160000 +0900" stop="20190826163000 +0900">
+    <title lang="kr">DPL 2019 SUMMER</title>
+    <sub-title lang="kr">DPL:E 4강 2경기</sub-title>
+    <desc lang="kr">DPL 2019 SUMMER
+부제 : DPL:E 4강 2경기
+등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826163000 +0900" stop="20190826180000 +0900">
-    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
-    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+    <title lang="kr">DPL 2019 SUMMER</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">DPL 2019 SUMMER
+부제 : 결승
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11147,16 +11211,19 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826180000 +0900" stop="20190826193000 +0900">
-    <title lang="kr">DPL 2019 SUMMER DPL:P</title>
-    <desc lang="kr">DPL 2019 SUMMER DPL:P
+    <title lang="kr">2019 카트라이더 글로벌 슈퍼 매치</title>
+    <desc lang="kr">2019 카트라이더 글로벌 슈퍼 매치
 등급 : 전체 관람가</desc>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826193000 +0900" stop="20190826210000 +0900">
-    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
-    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
+부제 : 결승
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11164,8 +11231,10 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="184" start="20190826210000 +0900" stop="20190826220000 +0900">
-    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
-    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
+    <title lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2</title>
+    <sub-title lang="kr">개막전</sub-title>
+    <desc lang="kr">2019 KT 5G 멀티뷰 카트라이더 리그 시즌2
+부제 : 개막전
 등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
@@ -11446,7 +11515,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>15세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826013000 +0900" stop="20190826030000 +0900">
+  <programme channel="185" start="20190826013000 +0900" stop="20190826033000 +0900">
     <title lang="kr">UFC 챔피언 스페셜</title>
     <desc lang="kr">UFC 챔피언 스페셜
 장르 : 스포츠
@@ -11458,9 +11527,11 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>15세 이상 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826030000 +0900" stop="20190826053000 +0900">
-    <title lang="kr">2019 WTA W&amp;S 오픈</title>
-    <desc lang="kr">2019 WTA W&amp;S 오픈
+  <programme channel="185" start="20190826033000 +0900" stop="20190826053000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R, 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R, 토트넘:뉴캐슬
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -11469,9 +11540,51 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826053000 +0900" stop="20190826060000 +0900">
-    <title lang="kr">TOP 플레이어</title>
-    <desc lang="kr">TOP 플레이어
+  <programme channel="185" start="20190826053000 +0900" stop="20190826080000 +0900">
+    <title lang="kr">UFC 역사상 최고의 KO</title>
+    <sub-title lang="kr">웰터급</sub-title>
+    <desc lang="kr">UFC 역사상 최고의 KO
+부제 : 웰터급
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826080000 +0900" stop="20190826100000 +0900">
+    <title lang="kr">19-20 라리가</title>
+    <sub-title lang="kr">2R, 바르셀로나:R.베티스</sub-title>
+    <desc lang="kr">19-20 라리가
+부제 : 2R, 바르셀로나:R.베티스
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826100000 +0900" stop="20190826120000 +0900">
+    <title lang="kr">대한체육회TV</title>
+    <sub-title lang="kr">제45회 문화체육관광부 장관기 전국초등학교 소프트테니스대회</sub-title>
+    <desc lang="kr">대한체육회TV
+부제 : 제45회 문화체육관광부 장관기 전국초등학교 소프트테니스대회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826120000 +0900" stop="20190826130000 +0900">
+    <title lang="kr">2019 IFSC 클라이밍 월드 챔피언십 하이라이트</title>
+    <sub-title lang="kr">스피드 결승</sub-title>
+    <desc lang="kr">2019 IFSC 클라이밍 월드 챔피언십 하이라이트
+부제 : 스피드 결승
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -11481,51 +11594,21 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826060000 +0900" stop="20190826070000 +0900">
-    <title lang="kr">19-20 프리미어리그 H/L</title>
-    <desc lang="kr">19-20 프리미어리그 H/L
+  <programme channel="185" start="20190826130000 +0900" stop="20190826150000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R, 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R, 토트넘:뉴캐슬
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826060000 +0900" stop="20190826070000 +0900">
-    <title lang="kr">19-20 프리미어리그 H/L</title>
-    <desc lang="kr">19-20 프리미어리그 H/L
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826070000 +0900" stop="20190826080000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826070000 +0900" stop="20190826080000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826080000 +0900" stop="20190826100000 +0900">
+  <programme channel="185" start="20190826150000 +0900" stop="20190826170000 +0900">
     <title lang="kr">2018 FIVB 여자배구 세계선수권대회 아시아예선 최고의 세트</title>
     <desc lang="kr">2018 FIVB 여자배구 세계선수권대회 아시아예선 최고의 세트
 장르 : 스포츠
@@ -11537,44 +11620,11 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826100000 +0900" stop="20190826120000 +0900">
-    <title lang="kr">UFC 241 명승부 스페셜</title>
-    <desc lang="kr">[강경호 출전]UFC 241 명승부 스페셜
-장르 : 스포츠
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826120000 +0900" stop="20190826130000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826120000 +0900" stop="20190826130000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826130000 +0900" stop="20190826140000 +0900">
-    <title lang="kr">19-20 라리가 라운드 하이라이트</title>
-    <desc lang="kr">19-20 라리가 라운드 하이라이트
+  <programme channel="185" start="20190826170000 +0900" stop="20190826190000 +0900">
+    <title lang="kr">19-20 라리가 하이라이트</title>
+    <sub-title lang="kr">1-2R</sub-title>
+    <desc lang="kr">19-20 라리가 하이라이트
+부제 : 1-2R
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -11583,68 +11633,31 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826140000 +0900" stop="20190826150000 +0900">
-    <title lang="kr">손흥민 PL 베스트 골 SUPER SON TIME</title>
-    <desc lang="kr">손흥민 PL 베스트 골 SUPER SON TIME
+  <programme channel="185" start="20190826190000 +0900" stop="20190826200000 +0900">
+    <title lang="kr">19-20 프리미어리그 GOALS</title>
+    <desc lang="kr">19-20 프리미어리그 GOALS
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826150000 +0900" stop="20190826170000 +0900">
-    <title lang="kr">토트넘 최고의 순간</title>
-    <desc lang="kr">토트넘 최고의 순간
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826170000 +0900" stop="20190826180000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826170000 +0900" stop="20190826180000 +0900">
-    <title lang="kr">19-20 프리미어리그 라운드 하이라이트</title>
-    <desc lang="kr">19-20 프리미어리그 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826180000 +0900" stop="20190826200000 +0900">
-    <title lang="kr">2020 도쿄올림픽 여자배구 대륙간예선전</title>
-    <desc lang="kr">2020 도쿄올림픽 여자배구 대륙간예선전
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="185" start="20190826200000 +0900" stop="20190826230000 +0900">
-    <title lang="kr">UFC 241</title>
-    <desc lang="kr">[강경호 출전]UFC 241
+    <title lang="kr">UFC Fight Night 157 프리뷰</title>
+    <desc lang="kr">[박준용/정다운 출전]UFC Fight Night 157 프리뷰
+장르 : 스포츠
+등급 : 15세 이상 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826230000 +0900" stop="20190827010000 +0900">
+    <title lang="kr">SPOFIT GRANDPRIX</title>
+    <desc lang="kr">SPOFIT GRANDPRIX
 장르 : 스포츠
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -11652,18 +11665,6 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="185" start="20190826230000 +0900" stop="20190827000000 +0900">
-    <title lang="kr">19-20 라리가 라운드 하이라이트</title>
-    <desc lang="kr">19-20 라리가 라운드 하이라이트
-장르 : 스포츠
-등급 : 전체 관람가</desc>
-    <category lang="kr">스포츠</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="186" start="20190825005500 +0900" stop="20190825030000 +0900">
@@ -11950,7 +11951,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="207" start="20190824224000 +0900" stop="20190825004000 +0900">
+  <programme channel="207" start="20190824224500 +0900" stop="20190825004100 +0900">
     <title lang="kr">일로 만난 사이</title>
     <sub-title lang="kr">첫방송</sub-title>
     <desc lang="kr">일로 만난 사이 (1회)
@@ -11965,7 +11966,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>12세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bef3b8e0d2ac87e0efc975204e8eb9a803e3d324910dde2a9c71d01147d6279" /></programme>
-  <programme channel="207" start="20190825004000 +0900" stop="20190825024000 +0900">
+  <programme channel="207" start="20190825004100 +0900" stop="20190825024000 +0900">
     <title lang="kr">삼시세끼 산촌편</title>
     <desc lang="kr">삼시세끼 산촌편 (3회)
 회차 : 3회
@@ -11987,7 +11988,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Ff868caa128d69f285015c378e84bd445133a1bdfeb10131b08c2854d1f02ac16" /></programme>
-  <programme channel="207" start="20190825024000 +0900" stop="20190825042000 +0900">
+  <programme channel="207" start="20190825024000 +0900" stop="20190825041500 +0900">
     <title lang="kr">호텔 델루나</title>
     <desc lang="kr">호텔 델루나 (13회)
 회차 : 13회
@@ -12020,7 +12021,7 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190825042000 +0900" stop="20190825060000 +0900">
+  <programme channel="207" start="20190825041500 +0900" stop="20190825060000 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">놀라운 토요일 (24회)
@@ -14854,9 +14855,9 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   <episode-num system="xmltv_ns">18.824.</episode-num></programme>
   <programme channel="281" start="20190825092000 +0900" stop="20190825105000 +0900">
-    <title lang="kr">침묵예능 아이콘택트</title>
-    <desc lang="kr">침묵예능 아이콘택트 (3회)
-회차 : 3회
+    <title lang="kr">침묵예능 아이콘택트 스페셜</title>
+    <desc lang="kr">침묵예능 아이콘택트 스페셜 (1회)
+회차 : 1회
 장르 : 연예/오락
 출연 : 강호동,이상민,신동
 등급 : 15세 이상 관람가</desc>
@@ -14867,12 +14868,12 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
-    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbb400b55c598941a0742edb8a34646eacdc3eb3baa8c88e069e2097f29124747" /></programme>
+  </programme>
   <programme channel="281" start="20190825105000 +0900" stop="20190825121000 +0900">
     <title lang="kr">개밥 주는 남자 개묘한 여행</title>
     <desc lang="kr">개밥 주는 남자 개묘한 여행 (2회)
@@ -15155,77 +15156,73 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </rating>
   </programme>
   <programme channel="281" start="20190826040000 +0900" stop="20190826050000 +0900">
-    <title lang="kr">채널A스페셜</title>
-    <sub-title lang="kr">X파일:외계인의 흔적</sub-title>
-    <desc lang="kr">채널A스페셜
-부제 : X파일:외계인의 흔적
+    <title lang="kr">채널A스페셜 &lt;X파일:외계인의 흔적&gt;</title>
+    <desc lang="kr">채널A스페셜 &lt;X파일:외계인의 흔적&gt; (13회)
+회차 : 13회
 장르 : 연예/오락
 등급 : 12세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.12.0/0</episode-num>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="281" start="20190826050000 +0900" stop="20190826055000 +0900">
-    <title lang="kr">채널A스페셜</title>
-    <sub-title lang="kr">녹색의 꿈</sub-title>
-    <desc lang="kr">채널A스페셜
-부제 : 녹색의 꿈
-장르 : 시사/다큐
+  </programme>
+  <programme channel="281" start="20190826050000 +0900" stop="20190826060000 +0900">
+    <title lang="kr">채널A스페셜 &lt;X파일:외계인의 흔적&gt;</title>
+    <desc lang="kr">채널A스페셜 &lt;X파일:외계인의 흔적&gt; (14회)
+회차 : 14회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.13.0/0</episode-num>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme channel="281" start="20190826060000 +0900" stop="20190826070000 +0900">
+    <title lang="kr">특별기획 소리없는 암살자, 당뇨병</title>
+    <desc lang="kr">특별기획 소리없는 암살자, 당뇨병 (14회)
+회차 : 14회
+장르 : 교양/정보
 등급 : 전체 관람가</desc>
-    <category lang="kr">시사/다큐</category>
-    <category lang="en">Documentary</category>
+    <category lang="kr">교양/정보</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.13.0/0</episode-num>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="281" start="20190826055000 +0900" stop="20190826070000 +0900">
-    <title lang="kr">나는 몸신이다</title>
-    <desc lang="kr">나는 몸신이다
-장르 : 연예/오락
-출연 : 정은아,엄앵란,이용식,변우민,조민희
-제작 : 정회욱
-등급 : 12세 이상 관람가</desc>
-    <credits>
-      <actor>정은아</actor>
-      <actor>엄앵란</actor>
-      <actor>이용식</actor>
-      <actor>변우민</actor>
-      <actor>조민희</actor>
-      <producer>정회욱</producer>
-    </credits>
-    <category lang="kr">연예/오락</category>
-    <category lang="en">Show / Game show</category>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F8f02f48ec475753b67bee3d1e9b6d827db168b68b34841da1b703165b564fdbe" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  </programme>
   <programme channel="281" start="20190826070000 +0900" stop="20190826073000 +0900">
     <title lang="kr">은비랑 꼼지락 꼼지락</title>
-    <desc lang="kr">은비랑 꼼지락 꼼지락
+    <desc lang="kr">은비랑 꼼지락 꼼지락 (9회)
+회차 : 9회
 장르 : 교육
 등급 : 전체 관람가</desc>
     <category lang="kr">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  </programme>
   <programme channel="281" start="20190826073000 +0900" stop="20190826080000 +0900">
     <title lang="kr">은비랑 꼼지락 꼼지락</title>
-    <desc lang="kr">은비랑 꼼지락 꼼지락
+    <desc lang="kr">은비랑 꼼지락 꼼지락 (10회)
+회차 : 10회
 장르 : 교육
 등급 : 전체 관람가</desc>
     <category lang="kr">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  </programme>
   <programme channel="281" start="20190826080000 +0900" stop="20190826092000 +0900">
     <title lang="kr">행복한 아침</title>
     <desc lang="kr">행복한 아침
@@ -15278,32 +15275,24 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
       <value>전체 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F08ab3ad1a145b54c1e016152a3741536b8c6e63c26589381d7a11bb19de393e0" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="281" start="20190826132000 +0900" stop="20190826145000 +0900">
+  <programme channel="281" start="20190826132000 +0900" stop="20190826150000 +0900">
     <title lang="kr">역사 다시보기 천일야사</title>
-    <desc lang="kr">역사 다시보기 천일야사
+    <desc lang="kr">역사 다시보기 천일야사 (139회)
+회차 : 139회
 장르 : 연예/오락
 등급 : 15세 이상 관람가</desc>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.138.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fde2dd8db905669810569d42eafeda79cc14377c1a7470991c3ff71b8b7b35246" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="281" start="20190826145000 +0900" stop="20190826150000 +0900">
-    <title lang="kr">평일 오후 세시의 연인 13-14회 명장면 다시보기</title>
-    <desc lang="kr">평일 오후 세시의 연인 13-14회 명장면 다시보기
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fde2dd8db905669810569d42eafeda79cc14377c1a7470991c3ff71b8b7b35246" /></programme>
   <programme channel="281" start="20190826150000 +0900" stop="20190826162000 +0900">
     <title lang="kr">개밥 주는 남자 개묘한 여행</title>
-    <desc lang="kr">개밥 주는 남자 개묘한 여행
+    <desc lang="kr">개밥 주는 남자 개묘한 여행 (2회)
+회차 : 2회
 장르 : 교양/정보
 출연 : 박시후,김희철,김지민
 제작 : 신정호,강상구
@@ -15317,11 +15306,12 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </credits>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdce9c0e1255ad6c6e1c43dc84659773ef70f21c2451239eeeda612bfe41fb7d2" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdce9c0e1255ad6c6e1c43dc84659773ef70f21c2451239eeeda612bfe41fb7d2" /></programme>
   <programme channel="281" start="20190826162000 +0900" stop="20190826175000 +0900">
     <title lang="kr">정치 데스크</title>
     <desc lang="kr">정치 데스크
@@ -15361,7 +15351,8 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fdc7f9154b42887310cec709838d3f4ba82fdb838aa98e7fdfa309043c4e018d3" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="281" start="20190826202000 +0900" stop="20190826212000 +0900">
     <title lang="kr">TV 주치의 닥터 지.바.고</title>
-    <desc lang="kr">TV 주치의 닥터 지.바.고
+    <desc lang="kr">TV 주치의 닥터 지.바.고 (257회)
+회차 : 257회
 장르 : 교양/정보
 출연 : 박용우,김완선
 등급 : 전체 관람가</desc>
@@ -15371,25 +15362,28 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </credits>
     <category lang="kr">교양/정보</category>
     <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.256.0/0</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F573426970676270003" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F573426970676270003" /></programme>
   <programme channel="281" start="20190826212000 +0900" stop="20190826213000 +0900">
-    <title lang="kr">평일 오후 세시의 연인 13-14회 명장면 다시보기</title>
-    <desc lang="kr">평일 오후 세시의 연인 13-14회 명장면 다시보기
-장르 : 드라마
-등급 : 15세 이상 관람가</desc>
-    <category lang="kr">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <previously-shown />
+    <title lang="kr">리와인드 황금열쇠 미방분</title>
+    <desc lang="kr">리와인드 황금열쇠 미방분 (1회)
+회차 : 1회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="kr">연예/오락</category>
+    <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
-  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  </programme>
   <programme channel="281" start="20190826213000 +0900" stop="20190826230000 +0900">
     <title lang="kr">침묵예능 아이콘택트</title>
-    <desc lang="kr">침묵예능 아이콘택트
+    <desc lang="kr">침묵예능 아이콘택트 (4회)
+회차 : 4회
 장르 : 연예/오락
 출연 : 강호동,이상민,신동
 등급 : 15세 이상 관람가</desc>
@@ -15400,13 +15394,15 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbb400b55c598941a0742edb8a34646eacdc3eb3baa8c88e069e2097f29124747" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fbb400b55c598941a0742edb8a34646eacdc3eb3baa8c88e069e2097f29124747" /></programme>
   <programme channel="281" start="20190826230000 +0900" stop="20190827004000 +0900">
     <title lang="kr">풍문으로 들었SHOW</title>
-    <desc lang="kr">풍문으로 들었SHOW
+    <desc lang="kr">풍문으로 들었SHOW (202회)
+회차 : 202회
 장르 : 연예/오락
 출연 : 이상민,박하나
 제작 : 주선형
@@ -15418,8 +15414,9 @@ CIA 유럽지부장인 밥 헌터(존 말코비치)는 과격파 테러리스트
     </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
+    <episode-num system="xmltv_ns">0.201.0/0</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
-  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa72f2129903ef2ca0e3816d6660bd82b11a267dc1780c27e388b57a93108a5bb" /><episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fa72f2129903ef2ca0e3816d6660bd82b11a267dc1780c27e388b57a93108a5bb" /></programme>
 </tv>
