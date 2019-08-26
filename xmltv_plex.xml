@@ -4507,11 +4507,12 @@
     <title lang="kr">MBC네트워크특선</title>
     <desc lang="kr">MBC네트워크특선
 장르 : 시사/다큐
-등급 : 전체 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <category lang="kr">시사/다큐</category>
     <category lang="en">Documentary</category>
+    <previously-shown />
     <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Fcfile128.uf.daum.net%2Fimage%2F2042C9154CE327845B6CF5" /><episode-num system="xmltv_ns">18.826.</episode-num></programme>
   <programme channel="122" start="20190827060000 +0900" stop="20190827062500 +0900">
@@ -9810,6 +9811,19 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826120000 +0900" stop="20190826130000 +0900">
+    <title lang="kr">19-20 프리미어리그 하이라이트</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그 하이라이트
+부제 : 3R 토트넘:뉴캐슬
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="183" start="20190826130000 +0900" stop="20190826150000 +0900">
     <title lang="kr">UFC 왕좌의 게임</title>
     <sub-title lang="kr">여성 밴텀급</sub-title>
@@ -9836,6 +9850,20 @@
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="183" start="20190826180000 +0900" stop="20190826185000 +0900">
+    <title lang="kr">19-20 프리미어리그 하이라이트</title>
+    <sub-title lang="kr">3R 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그 하이라이트
+부제 : 3R 토트넘:뉴캐슬
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="183" start="20190826180000 +0900" stop="20190826185000 +0900">
@@ -9913,6 +9941,19 @@
     <category lang="kr">스포츠</category>
     <category lang="en">Sports</category>
     <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.826.</episode-num></programme>
+  <programme channel="183" start="20190827040000 +0900" stop="20190827060000 +0900">
+    <title lang="kr">19-20 프리미어리그 하이라이트</title>
+    <sub-title lang="kr">3R</sub-title>
+    <desc lang="kr">19-20 프리미어리그 하이라이트
+부제 : 3R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -10219,7 +10260,7 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
-  <programme channel="184" start="20190826220000 +0900" stop="20190827030000 +0900">
+  <programme channel="184" start="20190826220000 +0900" stop="20190827000000 +0900">
     <title lang="kr">2019 피버 바스켓 코리아 챔피언컵</title>
     <sub-title lang="kr">8강</sub-title>
     <desc lang="kr">2019 피버 바스켓 코리아 챔피언컵
@@ -10230,6 +10271,35 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="184" start="20190827000000 +0900" stop="20190827003000 +0900">
+    <title lang="kr">어쩌면 오늘 당신에게 일어날 일</title>
+    <desc lang="kr">어쩌면 오늘 당신에게 일어날 일
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.826.</episode-num></programme>
+  <programme channel="184" start="20190827003000 +0900" stop="20190827020000 +0900">
+    <title lang="kr">2019 카트라이더 글로벌 슈퍼 매치</title>
+    <desc lang="kr">2019 카트라이더 글로벌 슈퍼 매치
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.826.</episode-num></programme>
+  <programme channel="184" start="20190827020000 +0900" stop="20190827030000 +0900">
+    <title lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌</title>
+    <sub-title lang="kr">결승</sub-title>
+    <desc lang="kr">사이퍼즈 액션토너먼트 2019 여름시즌
+부제 : 결승
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.826.</episode-num></programme>
   <programme channel="184" start="20190827030000 +0900" stop="20190827070000 +0900">
     <title lang="kr">다시보는 2018 LOL 명경기</title>
     <desc lang="kr">다시보는 2018 LOL 명경기
@@ -10376,6 +10446,19 @@
       <value>전체 관람가</value>
     </rating>
   <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826033000 +0900" stop="20190826053000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R, 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R, 토트넘:뉴캐슬
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
   <programme channel="185" start="20190826053000 +0900" stop="20190826080000 +0900">
     <title lang="kr">UFC 역사상 최고의 KO</title>
     <sub-title lang="kr">웰터급</sub-title>
@@ -10421,6 +10504,20 @@
     <sub-title lang="kr">스피드 결승</sub-title>
     <desc lang="kr">2019 IFSC 클라이밍 월드 챔피언십 하이라이트
 부제 : 스피드 결승
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="kr">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  <episode-num system="xmltv_ns">18.825.</episode-num></programme>
+  <programme channel="185" start="20190826130000 +0900" stop="20190826150000 +0900">
+    <title lang="kr">19-20 프리미어리그</title>
+    <sub-title lang="kr">3R, 토트넘:뉴캐슬</sub-title>
+    <desc lang="kr">19-20 프리미어리그
+부제 : 3R, 토트넘:뉴캐슬
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="kr">스포츠</category>
@@ -11110,7 +11207,13 @@
     <desc lang="kr">일로 만난 사이 (1회)
 회차 : 1회
 장르 : 연예/오락
+출연 : 유재석
+제작 : 정효민
 등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>유재석</actor>
+      <producer>정효민</producer>
+    </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
@@ -11273,7 +11376,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fb2928f9e1fa8a870763c724fdafd931efcae95cfecb373932bbcd9e58bec35ce" /></programme>
-  <programme channel="207" start="20190826165600 +0900" stop="20190826181000 +0900">
+  <programme channel="207" start="20190826165600 +0900" stop="20190826182000 +0900">
     <title lang="kr">놀라운 토요일</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">놀라운 토요일 (73회)
@@ -11301,12 +11404,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F229a4676ba3b498ea20a040d9011c157f0a30fd139ed4408b4e0a190323353d8" /></programme>
-  <programme channel="207" start="20190826181000 +0900" stop="20190826201000 +0900">
+  <programme channel="207" start="20190826182000 +0900" stop="20190826201500 +0900">
     <title lang="kr">일로 만난 사이</title>
     <desc lang="kr">일로 만난 사이 (1회)
 회차 : 1회
 장르 : 연예/오락
+출연 : 유재석
+제작 : 정효민
 등급 : 15세 이상 관람가</desc>
+    <credits>
+      <actor>유재석</actor>
+      <producer>정효민</producer>
+    </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
@@ -11315,7 +11424,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F2bef3b8e0d2ac87e0efc975204e8eb9a803e3d324910dde2a9c71d01147d6279" /></programme>
-  <programme channel="207" start="20190826201000 +0900" stop="20190826213000 +0900">
+  <programme channel="207" start="20190826201500 +0900" stop="20190826214000 +0900">
     <title lang="kr">서울 메이트 3</title>
     <desc lang="kr">서울 메이트 3 (9회)
 회차 : 9회
@@ -11339,18 +11448,23 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2Fce747b822073e5e65f7e92dfcc4af04cfcd10924510e76dd4693fcf995e4dbbb" /></programme>
-  <programme channel="207" start="20190826213000 +0900" stop="20190826230000 +0900">
+  <programme channel="207" start="20190826214000 +0900" stop="20190826230500 +0900">
     <title lang="kr">위대한 쇼</title>
     <desc lang="kr">위대한 쇼 (1회)
 회차 : 1회
 장르 : 드라마
-출연 : 송승헌,이선빈,임주환
+출연 : 송승헌,이선빈,임주환,노정의,정준원,박하나,손병호,이원종
 제작 : 신용휘,김정욱,설준석
 등급 : 15세 이상 관람가</desc>
     <credits>
       <actor>송승헌</actor>
       <actor>이선빈</actor>
       <actor>임주환</actor>
+      <actor>노정의</actor>
+      <actor>정준원</actor>
+      <actor>박하나</actor>
+      <actor>손병호</actor>
+      <actor>이원종</actor>
       <producer>신용휘</producer>
       <producer>김정욱</producer>
       <producer>설준석</producer>
@@ -11362,7 +11476,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1c0cff00f06712e8c6a8291906432c2be5225ad249bcebbf95980f7ac86eea27" /></programme>
-  <programme channel="207" start="20190826230000 +0900" stop="20190827002000 +0900">
+  <programme channel="207" start="20190826230500 +0900" stop="20190827003000 +0900">
     <title lang="kr">더 짠내투어</title>
     <sub-title lang="kr">러시아 3편</sub-title>
     <desc lang="kr">더 짠내투어 (89회)
@@ -11387,7 +11501,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F25c9f643a4f1e0ecc1ba117df4809694c8e95270665168dbf1c38c58f1e2ccad" /></programme>
-  <programme channel="207" start="20190827002000 +0900" stop="20190827013000 +0900">
+  <programme channel="207" start="20190827003000 +0900" stop="20190827013900 +0900">
     <title lang="kr">프리한 19</title>
     <sub-title lang="kr">칼로리폭탄19</sub-title>
     <desc lang="kr">프리한 19 (171회)
@@ -11410,7 +11524,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=https%3A%2F%2Fsearch1.daumcdn.net%2Fcontent%2Fsdb%2F5862067002732B0001" /></programme>
-  <programme channel="207" start="20190827013000 +0900" stop="20190827025000 +0900">
+  <programme channel="207" start="20190827013900 +0900" stop="20190827024800 +0900">
     <title lang="kr">코미디 빅리그</title>
     <desc lang="kr">코미디 빅리그 (325회)
 회차 : 325회
@@ -11441,7 +11555,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="http://img1.daumcdn.net/thumb/C216x312/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F6372b5521d0202c8c6582663660285572e10e91a888c177a10e2e90b249ee87e" /></programme>
-  <programme channel="207" start="20190827025000 +0900" stop="20190827042000 +0900">
+  <programme channel="207" start="20190827024800 +0900" stop="20190827040800 +0900">
     <title lang="kr">플레이어</title>
     <desc lang="kr">플레이어 (7회)
 회차 : 7회
@@ -11466,18 +11580,23 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F9498a285a4d63e38797bcfe8a49787deb4b8a6e6967e668a61d9cee58d97c6a6" /></programme>
-  <programme channel="207" start="20190827042000 +0900" stop="20190827054000 +0900">
+  <programme channel="207" start="20190827040800 +0900" stop="20190827052500 +0900">
     <title lang="kr">위대한 쇼</title>
     <desc lang="kr">위대한 쇼 (1회)
 회차 : 1회
 장르 : 드라마
-출연 : 송승헌,이선빈,임주환
+출연 : 송승헌,이선빈,임주환,노정의,정준원,박하나,손병호,이원종
 제작 : 신용휘,김정욱,설준석
 등급 : 15세 이상 관람가</desc>
     <credits>
       <actor>송승헌</actor>
       <actor>이선빈</actor>
       <actor>임주환</actor>
+      <actor>노정의</actor>
+      <actor>정준원</actor>
+      <actor>박하나</actor>
+      <actor>손병호</actor>
+      <actor>이원종</actor>
       <producer>신용휘</producer>
       <producer>김정욱</producer>
       <producer>설준석</producer>
@@ -11490,7 +11609,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   <icon src="https://search1.kakaocdn.net/thumb/C232x336.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcontentshub%2Fsdb%2F1c0cff00f06712e8c6a8291906432c2be5225ad249bcebbf95980f7ac86eea27" /></programme>
-  <programme channel="207" start="20190827054000 +0900" stop="20190827061000 +0900">
+  <programme channel="207" start="20190827052500 +0900" stop="20190827061000 +0900">
     <title lang="kr">코미디 빅리그 Hot clip</title>
     <desc lang="kr">코미디 빅리그 Hot clip
 장르 : 연예/오락
@@ -11595,13 +11714,18 @@
     <desc lang="kr">위대한 쇼 (1회)
 회차 : 1회
 장르 : 드라마
-출연 : 송승헌,이선빈,임주환
+출연 : 송승헌,이선빈,임주환,노정의,정준원,박하나,손병호,이원종
 제작 : 신용휘,김정욱,설준석
 등급 : 15세 이상 관람가</desc>
     <credits>
       <actor>송승헌</actor>
       <actor>이선빈</actor>
       <actor>임주환</actor>
+      <actor>노정의</actor>
+      <actor>정준원</actor>
+      <actor>박하나</actor>
+      <actor>손병호</actor>
+      <actor>이원종</actor>
       <producer>신용휘</producer>
       <producer>김정욱</producer>
       <producer>설준석</producer>
@@ -11712,13 +11836,18 @@
     <desc lang="kr">위대한 쇼 (1회)
 회차 : 1회
 장르 : 드라마
-출연 : 송승헌,이선빈,임주환
+출연 : 송승헌,이선빈,임주환,노정의,정준원,박하나,손병호,이원종
 제작 : 신용휘,김정욱,설준석
 등급 : 15세 이상 관람가</desc>
     <credits>
       <actor>송승헌</actor>
       <actor>이선빈</actor>
       <actor>임주환</actor>
+      <actor>노정의</actor>
+      <actor>정준원</actor>
+      <actor>박하나</actor>
+      <actor>손병호</actor>
+      <actor>이원종</actor>
       <producer>신용휘</producer>
       <producer>김정욱</producer>
       <producer>설준석</producer>
@@ -11759,13 +11888,18 @@
     <desc lang="kr">위대한 쇼 (2회)
 회차 : 2회
 장르 : 드라마
-출연 : 송승헌,이선빈,임주환
+출연 : 송승헌,이선빈,임주환,노정의,정준원,박하나,손병호,이원종
 제작 : 신용휘,김정욱,설준석
 등급 : 15세 이상 관람가</desc>
     <credits>
       <actor>송승헌</actor>
       <actor>이선빈</actor>
       <actor>임주환</actor>
+      <actor>노정의</actor>
+      <actor>정준원</actor>
+      <actor>박하나</actor>
+      <actor>손병호</actor>
+      <actor>이원종</actor>
       <producer>신용휘</producer>
       <producer>김정욱</producer>
       <producer>설준석</producer>
@@ -14016,7 +14150,13 @@
     <desc lang="kr">리와인드 황금열쇠 미방분 (1회)
 회차 : 1회
 장르 : 연예/오락
+출연 : 김성주
+제작 : 이수호
 등급 : 12세 이상 관람가</desc>
+    <credits>
+      <actor>김성주</actor>
+      <producer>이수호</producer>
+    </credits>
     <category lang="kr">연예/오락</category>
     <category lang="en">Show / Game show</category>
     <episode-num system="xmltv_ns">0.0.0/0</episode-num>
