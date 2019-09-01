@@ -330,7 +330,7 @@
 등급 : 전체 관람가
 출연 : 이윤석, 최원정, 류근, 이익주, 심용환</desc>
 	</programme>
-	<programme start="20190901223000 +0900" stop="20190901232300 +0900" channel="POOQ|K01">
+	<programme start="20190901223000 +0900" stop="20190901232500 +0900" channel="POOQ|K01">
 		<title lang="kr">저널리즘 토크쇼 
 J</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2018-0345_210.jpg" />
@@ -338,14 +338,14 @@ J</title>
 		<desc lang="kr">력과 자본의 노골적인 언론 장악으로 망가진 저널리즘 회복을 위한 공영미디어 KBS의 프로젝트.  주요 뉴스를 균형 있게 분석해 시청자들이 합리적 판단을 내릴 수 있도록 도와주고, 저널리즘의 문제점을 파헤치고 고발하는 저널리즘 토크쇼.  전문가와 기자들의 토크를 통해 미디어의 홍수와 정보의 과잉 속에서 저널리즘의 원칙과 취재윤리를 기자와 시청자에게 알려준다.  좋은 뉴스를 널리 전파하고 새로운 저널리즘 트렌드도 소개한다.
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190901232300 +0900" stop="20190902001200 +0900" channel="POOQ|K01">
+	<programme start="20190901232500 +0900" stop="20190902001300 +0900" channel="POOQ|K01">
 		<title lang="kr">글로벌 다큐멘터리</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_T2013-0006_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<desc lang="kr">KBS에서 세계적으로 유명한 다큐멘터리를 방영해주는 프로그램
 등급 : 전체 관람가</desc>
 	</programme>
-	<programme start="20190902001200 +0900" stop="20190902002500 +0900" channel="POOQ|K01">
+	<programme start="20190902001300 +0900" stop="20190902002500 +0900" channel="POOQ|K01">
 		<title lang="kr">KBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/K01_I2011-0001_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -2692,7 +2692,7 @@ J</title>
 등급 : 15세 이상 관람가
 출연 : 김정현,양정아,박진우,김혜선,신다은,양영조,안연홍,수빈,고인범,윤복인,이한서,손우혁,황명환,고다연,한소현,유일한,송영재</desc>
 	</programme>
-	<programme start="20190902091000 +0900" stop="20190902100000 +0900" channel="POOQ|S01">
+	<programme start="20190902091000 +0900" stop="20190902101000 +0900" channel="POOQ|S01">
 		<title lang="kr">좋은 아침</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/S01_V0000010090_210.jpg" />
 		<rating system="KMRB"><value>12세 이상 관람가</value></rating>
@@ -2705,7 +2705,7 @@ J</title>
 등급 : 12세 이상 관람가
 출연 : 최기환,김지연,박찬민</desc>
 	</programme>
-	<programme start="20190902100000 +0900" stop="20190902103000 +0900" channel="POOQ|S01">
+	<programme start="20190902101000 +0900" stop="20190902103000 +0900" channel="POOQ|S01">
 		<title lang="kr">SBS 뉴스</title>
 		<icon src="http://img.pooq.co.kr/BMS/program_poster/201802/None_210.jpg" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
@@ -8566,7 +8566,7 @@ J</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190901135500 +0900" stop="20190901173000 +0900" channel="OKSUSU|125">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그&amp;lt;kt:한화, 대전&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -8795,7 +8795,7 @@ J</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190901135500 +0900" stop="20190901173000 +0900" channel="OKSUSU|424">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<title lang="kr">2019 KBO리그 &amp;lt;롯데:KIA, 광주&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>전체 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9095,20 +9095,20 @@ J</title>
 		<desc lang="kr">등급 : 전체 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190902020000 +0900" stop="20190902040000 +0900" channel="OKSUSU|134">
-		<title lang="kr">[박준용/정다운 출전]UFC Fight Night 157 (재)</title>
+	<programme start="20190902020000 +0900" stop="20190902050000 +0900" channel="OKSUSU|134">
+		<title lang="kr">[박준용/정다운 출전]UFC Fight Night 157(재)</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">스포츠</category>
 		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 스포츠</desc>
 	</programme>
-	<programme start="20190902040000 +0900" stop="20190902060000 +0900" channel="OKSUSU|134">
-		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+	<programme start="20190902050000 +0900" stop="20190902060000 +0900" channel="OKSUSU|134">
+		<title lang="kr">UFC 대한민국 파이터 최고의 승리(재)</title>
 		<icon src="None" />
-		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">스포츠</category>
-		<desc lang="kr">등급 : 전체 관람가
+		<desc lang="kr">등급 : 15세 이상 관람가
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190902060000 +0900" stop="20190902080000 +0900" channel="OKSUSU|134">
@@ -9120,7 +9120,7 @@ J</title>
 장르 : 스포츠</desc>
 	</programme>
 	<programme start="20190902080000 +0900" stop="20190902100000 +0900" channel="OKSUSU|134">
-		<title lang="kr">UFC 왕좌의 게임 &amp;lt;여성 밴텀급&amp;gt;(재)</title>
+		<title lang="kr">[박준용/정다운 출전]UFC Fight Night 157&amp;lt;명승부 스페셜&amp;gt;</title>
 		<icon src="None" />
 		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
 		<category lang="kr">스포츠</category>
@@ -9515,5 +9515,109 @@ J</title>
 		<category lang="kr">취미/레저</category>
 		<desc lang="kr">등급 : 12세 이상 관람가
 장르 : 취미/레저</desc>
+	</programme>
+	<channel id="OKSUSU|125" video-src="http://localhost:9801/url?mode=lc&amp;type=OKSUSU&amp;id=125" video-type="HLS2">
+		<display-name>SPOTV</display-name>
+		<display-name>31</display-name>
+		<display-number>31</display-number>
+		<icon src="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_125.png" />
+	</channel>
+	<programme start="20190901010000 +0900" stop="20190901012000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901012000 +0900" stop="20190901033500 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901033500 +0900" stop="20190901060000 +0900" channel="OKSUSU|125">
+		<title lang="kr">19-20 세리에A 2R 유벤투스:나폴리 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901060000 +0900" stop="20190901080000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901080000 +0900" stop="20190901083000 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901083000 +0900" stop="20190901113000 +0900" channel="OKSUSU|125">
+		<title lang="kr">[박준용/정다운 출전]UFC Fight Night 157</title>
+		<rating system="KMRB"><value>15세 이상 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 15세 이상 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901113000 +0900" stop="20190901115000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME U-18 야구 월드컵 프리뷰 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901115000 +0900" stop="20190901135500 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 U-18 야구 월드컵 대한민국:캐나다 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901135500 +0900" stop="20190901173000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 KBO리그 kt:한화, 대전 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901173000 +0900" stop="20190901175000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME BASEBALL</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901175000 +0900" stop="20190901210000 +0900" channel="OKSUSU|125">
+		<title lang="kr">2019 U-18 야구 월드컵 미국:일본 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901210000 +0900" stop="20190901215000 +0900" channel="OKSUSU|125">
+		<title lang="kr">손흥민 베스트 골 SUPER SON TIME(재)</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901215000 +0900" stop="20190901235500 +0900" channel="OKSUSU|125">
+		<title lang="kr">방송사 사정으로 제공할 수 없습니다</title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
+	</programme>
+	<programme start="20190901235500 +0900" stop="20190902002000 +0900" channel="OKSUSU|125">
+		<title lang="kr">SPORTS TIME 아스날vs토트넘 프리뷰 </title>
+		<rating system="KMRB"><value>전체 관람가</value></rating>
+		<category lang="kr">스포츠</category>
+		<desc lang="kr">등급 : 전체 관람가
+장르 : 스포츠</desc>
 	</programme>
 </tv>
